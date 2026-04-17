@@ -641,7 +641,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/sctv.png" group-title="CHANNEL | INDONESIA",SCTV
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/sctv.png"group-title="CHANNEL | INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -797,9 +797,6 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="CHANNEL | INDONESIA",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62grcKf-UaYY1thgTsbyamavouVyv7PATF9FZqy7_4R19OmcszKdcXS6Wl0JjHlFP8czD-8fziOZTh6Zy5bT9kh.png" group-title="CHANNEL | INDONESIA", CNN INDONESIA
-
 #EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="CHANNEL | INDONESIA",CNBC INDONESIA
 http://iptv.kilas7.com:80/kaukia/asdfrewq/13
 
@@ -810,6 +807,55 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/13
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI612NgFzm6YzMrijNtMNO7ZytN3oW4XriwzP9nxf54oOl9oxOeqYGB2FqBXhWy2epjs.png" group-title="- LOKAL ID -",TRANS 7
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/1.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62MNORWXhRljohHx2YQIONJh_s2OoNqZil0O72K6urrFvnRWXmfqsHkyKgoYHUrXCE.png" group-title="- LOKAL ID -",TRANS TV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/2.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI600Sap_cD4_NkUXQNPjLH_5AbjrB5Id0QFEy-0CDT6rF88ZfrPhstr6Dka-49RkEH6XFd9L1Pa-UvoPdsU4YoXC.png" group-title="- LOKAL ID -",INDOSIAR
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/3.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60ESweMqJx4c8EBO_60BmED9Y5MfUz8XNV222xP63m1h5SElmT2RNhNhAFQxYCB1hQ.png" group-title="- LOKAL ID -",SCTV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/4.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60cCNoz4GDuubU6t81EE1EPliRbQ0ME5nLHsRlV76BNUkCcwBhRCXy9WXu5E4TdP50.png" group-title="- LOKAL ID -",RCTI
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/5.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61REOtG0HOIFlZ86eoLkXmDWHFvWdhFyvbEh8527aJVMge4vTbeynLpmMaqudYzxd4.png" group-title="- LOKAL ID -",MNC TV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/6.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI635TjD8Ug8R3WFst2gW4l2lPR__R4fICvSqAHtDlcZ8NPpxg18EB-AAj8EemBX_wos.png" group-title="- LOKAL ID -",GTV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/7.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62l1mZGg1gWHmQZ_f7XYKFlN9lB2ZUxu3WusyGLkn1Ul2Jhlh67cyy0V-IxA-emxa8.png" group-title="- LOKAL ID -",iNEWS
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/8.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60fO6IeybYZAabPyXqXOLKYyoHAjQz4VnlX0PWV90EqNbds1uZIai8U2n0MUFvr_Rw.png" group-title="- LOKAL ID -",ANTV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/9.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI63LsVLM4qKVdW7JWPV96VQqOSMoH1on1PWdYDXE8jq4VNftl5KD4CQpRZUmgwI8Dhc.png" group-title="- LOKAL ID -",MDTV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/10.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61DloXpED32URELDSGasbFaajYk1MbNj7FILZ_GlnbDXdMfDJJxIKPcYIzjiDhy8Kc.png" group-title="- LOKAL ID -",RTV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/11.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI63TlsAnNlrEWdRlOgw6a_qRaU0TJvVJ9_hF31GPk0l7Lf1ybpHTmCBxLDs262hezGM.png" group-title="- LOKAL ID -",TV ONE
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/12.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62l1mZGg1gWHmQZ_f7XYKFl50Op1sMfXR0s_euwV8edXMbr-nlYp8-SGWKI_66c3Pk.png" group-title="- LOKAL ID -",METRO TV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/13.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI63P3Ut4rO6BK1UAvdlV5DlmSDAVQbffsWphjy5HBLTzChpb_PiQeTxWB2masIcNtl8.png" group-title="- LOKAL ID -",KOMPAS TV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/14.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62grcKf-UaYY1thgTsbyamavouVyv7PATF9FZqy7_4R19OmcszKdcXS6Wl0JjHlFP8czD-8fziOZTh6Zy5bT9kh.png" group-title="- LOKAL ID -",CNN INDONESIA
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/15.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60-amQ0PkiY0np1gVxV1aY0pf8O8IHgHqxqFCQg4HrSValQAVQFRKbtnl3lOdCInkfJ_5ptMxcdiT3CKZbbI5Py.png" group-title="- LOKAL ID -",NTV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/16.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62MNORWXhRljohHx2YQIONJ1EEB795r33fKS_O9zNBW3RUOcuM-nVNQL870yw6KHOA.png" group-title="- LOKAL ID -",BTV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/17.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61eot8dqzXzsZsWzE8-vCJ5QOkFsITn0q8RHkwdAzvN7eeUVyRCvcUxz3PYjjP68Mf_4G3Drql9zCReq0QY8g4f.png" group-title="- LOKAL ID -",BERITA SATU
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/18.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61PCzfN7r6EN82OZYmyVX1IZYbXIekBa2OdZ-R2UVSPYJxaDbgKhRFvRflNH9V82_I.png" group-title="- LOKAL ID -",TVRI
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/19.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62wgQs--FkhHSHlqX5xn3--73qq0_FxHdXO4g6GikJ602QrrVq2KoQ6nUUPSCQbCsUZSWfdqG2MBmMmNdhneAKk.png" group-title="- LOKAL ID -",TVRI WORLD
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/20.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61LwP9oiCOeJGE3AZkEZmIka0kcnSc2TSe5nthCgCobAA9DUVmWgHomgDqV47fNHaozuW3aisv2EvBsorN2IPqP.png" group-title="- LOKAL ID -",CNBC INDONESIA
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/21.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvbD6mwdxXP1FgWyJmy6sWcWVvunl2vRWFP5KDHuc_d3ptZwolw4n_5FIO_UT2XlOkLYHejktFdysuRcA-rEJWoOnP6oxzeNnGQkZne5Q3tPO.png" group-title="- LOKAL ID -",JAKARTA GLOBE
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/22.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvbD6mwdxXP1FgWyJmy6sWcVTFP-8ThAfzBmpw0Bu9BxIj37JTQm8fBgrjE0OjCjQWS8I3w5KwtsRYxMIeJ5lvcQ.png" group-title="- LOKAL ID -",IDX
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/23.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61r760Dxto2LayuSLJ9RoldFK8-ULJm-eanqFQzZ_jLO-oxSUnrwfsDYX_vbpQoVbM.png" group-title="- LOKAL ID -",DAAI TV
+http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/24.ts
 
 
 
