@@ -812,8 +812,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI612NgFzm6YzMrijNtMNO7ZytN3oW4XriwzP9nxf54oOl9oxOeqYGB2FqBXhWy2epjs.png" group-title="- LOKAL ID -",TRANS 7
-http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/1.ts
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.visionplus.id/images/repository/207/514207-LOGO-m.png" group-title="- LOKAL ID -",TRANS 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=7
+https://ayo.maling.pl/Vision/index.mpd?id=7
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62MNORWXhRljohHx2YQIONJh_s2OoNqZil0O72K6urrFvnRWXmfqsHkyKgoYHUrXCE.png" group-title="- LOKAL ID -",TRANS TV
 http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/2.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI600Sap_cD4_NkUXQNPjLH_5AbjrB5Id0QFEy-0CDT6rF88ZfrPhstr6Dka-49RkEH6XFd9L1Pa-UvoPdsU4YoXC.png" group-title="- LOKAL ID -",INDOSIAR
