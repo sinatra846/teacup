@@ -993,22 +993,23 @@ https://ayo.maling.pl/Vision/index.mpd?id=134
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=18
 https://ayo.maling.pl/Vision/index.mpd?id=18
 
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="- LOKAL ID -",Nusantara TV
+http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62grcKf-UaYY1thgTsbyamavouVyv7PATF9FZqy7_4R19OmcszKdcXS6Wl0JjHlFP8czD-8fziOZTh6Zy5bT9kh.png" group-title="- LOKAL ID -",CNN INDONESIA
-http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/15.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60-amQ0PkiY0np1gVxV1aY0pf8O8IHgHqxqFCQg4HrSValQAVQFRKbtnl3lOdCInkfJ_5ptMxcdiT3CKZbbI5Py.png" group-title="- LOKAL ID -",NTV
-http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/16.ts
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61eot8dqzXzsZsWzE8-vCJ5QOkFsITn0q8RHkwdAzvN7eeUVyRCvcUxz3PYjjP68Mf_4G3Drql9zCReq0QY8g4f.png" group-title="- LOKAL ID -",BERITA SATU
-http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/18.ts
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62wgQs--FkhHSHlqX5xn3--73qq0_FxHdXO4g6GikJ602QrrVq2KoQ6nUUPSCQbCsUZSWfdqG2MBmMmNdhneAKk.png" group-title="- LOKAL ID -",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvbD6mwdxXP1FgWyJmy6sWcWVvunl2vRWFP5KDHuc_d3ptZwolw4n_5FIO_UT2XlOkLYHejktFdysuRcA-rEJWoOnP6oxzeNnGQkZne5Q3tPO.png" group-title="- LOKAL ID -",JAKARTA GLOBE
-http://103.93.129.155:80/SIARAN_DEMO/akenFkfzer/22.ts
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="- LOKAL ID -",TVRI Nasional HD 
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="- LOKAL ID -",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 
