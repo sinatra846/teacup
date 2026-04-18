@@ -858,7 +858,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=6
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1
 https://ayo.maling.pl/Vision/index.mpd?id=1
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://www.visionplus.id/images/repository/750/507750-LOGO-m.png" group-title="- LOKAL ID -", MNC TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61REOtG0HOIFlZ86eoLkXmDWHFvWdhFyvbEh8527aJVMge4vTbeynLpmMaqudYzxd4.png" group-title="- LOKAL ID -",MNC TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
