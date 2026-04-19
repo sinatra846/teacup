@@ -1854,11 +1854,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=live2&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=live1&type=m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 1A SEMEN PADANG VS PSM
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19385&type=drm
-#https://spacetv.my.id/index.mpd?id=19385&type=dash
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 1A
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 2B DEWA UNITED VS PERSIK 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
