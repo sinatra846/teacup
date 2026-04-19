@@ -1833,11 +1833,8 @@ https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 #EXTINF:-1 tvg-id=""  group-title="LIVE | LIGA TARKAM", BRI 2 INDOSIAR HD
 http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=live2&type=m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="LIVE | LIGA TARKAM", BRI 3
+http://opplextv.cyou:8080/nasir6160/nasir/350972
 
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
