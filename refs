@@ -4987,11 +4987,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest_w2098937634_q
 
 #EXTINF:0 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/236x/14/8f/bc/148fbcaf619d2496652c5f18785f9851.jpg",Curiosity Channel 
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd 
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/236x/a2/a0/22/a2a022fc58281f04ded465fde4919fc0.jpg", Animal Planet
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
-#https://raw.githubusercontent.com/Cutsiffa/on/main/Animplanet.m3u8
+
+ 
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+
 
 ##EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-id="nasatv.us" tvg-logo="https://i.pinimg.com/236x/1b/f2/bc/1bf2bcdd8ff93c8e184979be642c5c43.jpg",NASA TV MEDIA
 #https://raw.githubusercontent.com/Cutsiffa/on/main/Nasa.m3u8
