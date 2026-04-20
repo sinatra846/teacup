@@ -4895,49 +4895,28 @@ http://opplextv.cyou:8080/nasir6160/nasir/350933
 #EXTINF:-1 tvg-id="DiscoveryAsia" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="CHANNEL | KNOWLEDGE",Discovery Asia 
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png",Global Trekker
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
+https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+
 #EXTINF:-1 tvg-id="Discovery Channel.co" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="CHANNEL | KNOWLEDGE",DISCOVERY 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7d4348407bf86d982076fb0ffa654e6:80acc54d3c56ed0770c4f12f91b53b68
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_CHANNEL_HD)/manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-id="DMAX" tvg-logo="https://mimipipi22.github.io/logo/knowledge/dmax.jpg",DMAX ?
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c401c268b85841e3345dfabb1aa497fe:c3999ac196a5b2e0184574dda390d2ad
-https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Love Nature
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://mimipipi22.github.io/logo/knowledge/history.jpg" group-title="CHANNEL | KNOWLEDGE",HISTORY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
-
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx"  tvg-logo="https://mimipipi22.github.io/logo/png/natgeo.png" group-title="CHANNEL | KNOWLEDGE", NATGEO 
-https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
-https://fl1.moveonjoy.com/National_Geographic/index.m3u8
-https://e1.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
-#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-logo="https://mimipipi22.github.io/logo/png/natgeowild.png" group-title="CHANNEL | KNOWLEDGE", NATGEO WILD 
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561201/index.mpd
-https://at-live-3.tentcdn.eu/bpk-tv/Nat_Geo_People_HD/default/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx"  tvg-logo="https://mimipipi22.github.io/logo/png/natgeo.png" group-title="CHANNEL | KNOWLEDGE", NATGEO 
-https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
-https://fl1.moveonjoy.com/National_Geographic/index.m3u8
-https://e1.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
-#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-logo="https://mimipipi22.github.io/logo/png/natgeowild.png" group-title="CHANNEL | KNOWLEDGE", NATGEO WILD 
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561201/index.mpd
-https://at-live-3.tentcdn.eu/bpk-tv/Nat_Geo_People_HD/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/viasatexplore.png" group-title="CHANNEL | KNOWLEDGE",Viasat EXPLORE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4957,17 +4936,6 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd4
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
 
-#EXTINF:-1  tvg-name="Science HD" tvg-id="science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="CHANNEL | KNOWLEDGE",DISCOVERY SCIENCE
-http://fl30.moveonjoy.com/Discovery_Science/index.m3u8
-https://maldivesn.net/hilaytv/discoveryscience
-
-#EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="CHANNEL | KNOWLEDGE",INVESTIGATION DISCOVERY
-http://fl30.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-https://maldivesn.net/hilaytv/investigationdiscovery
-
-#EXTINF:-1 tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="CHANNEL | KNOWLEDGE",DISCOVERY LIFE
-http://fl30.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-https://maldivesn.net/hilaytv/discoverylife
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/27/d2/72/27d2727665bbf98f487a7e11be9a94f9.jpg" group-title="CHANNEL | KNOWLEDGE", Bbc Eearh
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -4979,11 +4947,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 #https://raw.githubusercontent.com/Cutsiffa/on/main/History.m3u8
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/d6/57/b2d657f8107e564a7bee65a22d6c9161.jpg" group-title="CHANNEL | KNOWLEDGE", Crime Investigation
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3b/72/82/3b7282aecb9f260f2c5f3f3479f9bfa6.jpg" group-title="CHANNEL | KNOWLEDGE", Love Nature
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest_w2098937634_qRFZS.mpd?encp=&uid=&expp=
-#https://raw.githubusercontent.com/Cutsiffa/on/main/Lovenature.m3u8
 
 #EXTINF:0 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/236x/14/8f/bc/148fbcaf619d2496652c5f18785f9851.jpg",Curiosity Channel 
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd 
@@ -5003,10 +4966,6 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3b/72/82/3b7282aecb9f260f2c5f3f3479f9bfa6.jpg" group-title="CHANNEL | KNOWLEDGE",Love Nature us
 https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/81/e3/6a/81e36a45b099bdc4bbf906ebb1bfcc26.jpg" group-title="CHANNEL | KNOWLEDGE",Discovery Asia
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest_w1465869984_qRFZS.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="CHANNEL | KNOWLEDGE", Real Wild
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
@@ -5037,31 +4996,22 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", Adventure ie
 https://autentic-adventure-earth-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", Kbs Life
-http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", Kbs Livecam
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Tlc
-http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Travel & Taste
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH5_TRAVEL/dash.mpd
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-id="" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Outdor
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Saudiya Alaan
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Al emrat
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Adventure fi
 https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Adventure gb
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Cgtn Doc
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Go Travel
 https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Military Times
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Rt Doc
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Safari tv
@@ -5074,13 +5024,10 @@ https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Wild Earth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Everyday Heroes
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Travel xp
 https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Freedom tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/uatv.stream/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
