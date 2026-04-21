@@ -5027,32 +5027,32 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3b/72/82/3b7282aecb9f260f2c5f3f3479f9bfa6.jpg" group-title="CHANNEL | KNOWLEDGE",Love Nature us
 https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetadventure.png",Biznet Adventure
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE", tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetadventure.png",Biznet Adventure
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE", tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=349ac1b8d5f2493d97ffd88d364de38c:92e769c36e60dcd8573c08fd9c27b9bf
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_crime+investigation.png",Crime Investigation
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE", tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_crime+investigation.png",Crime Investigation
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_curiosity.png",Curiosity
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE", tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_curiosity.png",Curiosity
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fcb7e2aeecf04c2ea7f84f6d5418c9c6:1f83ca6b943604a45ae429895e6f7fc6
 https://cdn08jtedge.indihometv.com/dassdvr/130/curiosity/manifest_wuseetv.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://pic.dens.tv/tv_183x174/1701335366_square.jpg",Dens Knowledge
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE", tvg-logo="https://pic.dens.tv/tv_183x174/1701335366_square.jpg",Dens Knowledge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-m.png",Outdoor Channel
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE", tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-m.png",Outdoor Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
