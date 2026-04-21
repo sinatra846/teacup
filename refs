@@ -4951,23 +4951,21 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KNOWLEDGE
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CHANNEL | KNOWLEDGE", HGTV 
-http://202.169.224.202:8800/udp/239.9.1.3:1234
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hgtv.png",HGTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0c607f0958a4d85bb7b2be81e9ef278:cb3e057a2fce88366d0ef4d6dcdd7a5f
+https://cdn08jtedge.indihometv.com/dassdvr/134/hgtv/manifest_wuseetv.mpd
 
-#EXTINF:-1:-1 tvg-id="" tvg-name="ID: HGTV" tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="CHANNEL | KNOWLEDGE" , HGTV
-http://opplextv.cyou:8080/nasir6160/nasir/350959
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="CHANNEL | KNOWLEDGE", HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="CHANNEL | KNOWLEDGE", National Geographic
+http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/11173
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nat-geo-wild-hd-pl.png" group-title="CHANNEL | KNOWLEDGE", National Geographic Wild
+http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/11171
 
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png",Global Trekker
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4985,6 +4983,21 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+
+#EXTINF:-1 tvg-name="History" tvg-logo="https://object-streamo.emonaja.com/img/history.png" group-title="CHANNEL | KNOWLEDGE", History
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+
+#EXTINF:-1 tvg-id="History2.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKhbtLBaSi-rwnYtFmskJCUIn0W6halIB5Pj37t3F3A&s=10" group-title="KNOWLEDGE & LIFESTYLE",HISTORY 2 (Tanpa Sub IND)
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/viasatexplore.png" group-title="CHANNEL | KNOWLEDGE",Viasat EXPLORE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -5077,12 +5090,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
 
-##EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/236x/eb/52/8d/eb528d9bc3786cebe3149d68852320e6.jpg",Global Trekker
-##EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/236x/ab/a7/ee/aba7ee423f00644960980aeaacee7940.jpg",Dragon tv
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/5d/ee/eb5dee1d958f0b834ed2cd55614169c1.jpg" group-title="CHANNEL | KNOWLEDGE",Hgtv
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/9b/10/f5/9b10f5533c1bf9bb2c8db561a632ffbe.jpg" group-title="CHANNEL | KNOWLEDGE",Discovery Channel
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/99/7a/d4/997ad472eae9af02a0413c781fe082c9.jpg" group-title="CHANNEL | KNOWLEDGE",Dmax tv
-
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", Rt Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", Adventure ie
@@ -5126,6 +5133,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tlc.jpg" group-title="CHANNEL | LIFESTYLE",TLC
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 http://203.77.246.58:4500/udp/239.1.5.22:5000
+
 
 //========================================================================
 //Collected by Maytoko2 menampilkan playlist >>> LIFESTYLE
