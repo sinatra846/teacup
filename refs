@@ -1724,9 +1724,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="CHANNEL | HBO GRUB", CINEMAX
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3284600346800000.mpd
 #https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Entertain/Cinmax.m3u8
-
-
-#EXTM3U
 #EXTINF:-1 group-title="CHANNEL | HBO GRUB", tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
