@@ -693,11 +693,11 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685758bcfff01776bc7624307ab/c78ea2b0618a45b2894adb000fe4c9f5.png", MDTV HD
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true", MDTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" ch-number="13" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png",indosiar
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" ch-number="13" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOS%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true",indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
@@ -706,17 +706,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.0
 ##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/Indosiar.m3u8
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 
-#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png" group-title="CHANNEL | INDONESIA;CHANNEL | KIDS", MENTARI TV
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNTARI%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true" group-title="CHANNEL | INDONESIA;CHANNEL | KIDS", MENTARI TV
 https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBh5dWTd_lq48vH8_gJXkwQ4
 
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Moji.id" tvg-name="Moji.id" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png",Moji (Auto)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Moji.id" tvg-name="Moji.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJi%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true",Moji (Auto)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png",ANTV HD (V+)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true",ANTV HD (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
