@@ -7537,13 +7537,13 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8yLzQwMjhjNjg1NmMzZGIyY2MwMTZjZDZlNTQ4YzYyMzkwL21hbmlmZXN0Lm1wZA==&code=777
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/TVONE_live_streaming_tv.jpg" group-title="CHANNEL | INDONESIA VIP",TV One
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI63TlsAnNlrEWdRlOgw6a_qRaU0TJvVJ9_hF31GPk0l7Lf1ybpHTmCBxLDs262hezGM.png" group-title="CHANNEL | INDONESIA VIP",TV One
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8xLzQwMjhjNjg1NmMzZGIyY2MwMTZjZDZkZjkzNTkyMzhmL21hbmlmZXN0Lm1wZA==&code=777
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=12
+https://ayo.maling.pl/Vision/index.mpd?id=12
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCh67zEpVMHxLj6kU6QB_JiKfvomp28jV2Q&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",BTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
