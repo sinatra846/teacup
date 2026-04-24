@@ -1369,11 +1369,6 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",$$$$$$   DONASI UPDATE  $$$$$
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title=" $$$$$$   DONASI UPDATE  $$$$$", https://saweria.co/MayToko2
-https://raw.githubusercontent.com/c0mrade10/mpd/main/saweria.ts
-
-
 
 
 
@@ -2246,11 +2241,14 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
+
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/960px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="LIVE | MotoGP", Sky Sport MotoGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=28000000
-http://ott.premium-tv.org:80/live/wonton57/874893/89662.m3u8
+http://ott.premium-tv.org:80/live/wonton57/874893/89662.m3u8 
 
+#EXTINF:-1:-1 tvg-id="" tvg-name="UK: TNT Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="LIVE | MotoGP", TNT Sports 2
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/273
 
 
 ######## LIVE | UFC ######
