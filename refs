@@ -5968,19 +5968,18 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&b
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | MOVIES
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/53/80/08/5380089f8dd4b84acdfd3669c4301368.jpg" group-title="CHANNEL | MOVIES"tvg-id="IMC.di" tvg-name="IMC", IMC
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="CHANNEL | MOVIES", tvg-logo="https://object-streamo.emonaja.com/img/imc.png", IMC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7ddbeb304e46f38192f31d7d91bfc5:1c524bbe404124d0a4e24bfa75491ca2
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/53/80/08/5380089f8dd4b84acdfd3669c4301368.jpg" group-title="CHANNEL | MOVIES"tvg-id="IMC.di" tvg-name="IMC", IMC SD
+#EXTINF:-1 group-title="CHANNEL | MOVIES", tvg-logo="https://object-streamo.emonaja.com/img/imc.png", IMC (Alternative)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0a/4f/7f/0a4f7fa284743e96cf1b61024951e161.jpg" group-title="CHANNEL | MOVIES", AXN
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
