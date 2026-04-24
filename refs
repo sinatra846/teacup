@@ -6010,13 +6010,18 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 https://fta4-cdn-flr.visionplus.id/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTM3U
-
 #EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_flik.png", FLIK 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
 
 #EXTINF:-1:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | MOVIES",FLIK 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://opplextv.cyou:8080/nasir6160/nasir/350947
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ac/12/66/ac1266e20b85c108287a81bca2c83298.jpg" group-title="CHANNEL | MOVIES", CINEMA WORLD
