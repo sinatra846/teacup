@@ -6221,15 +6221,18 @@ https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", CINEDAY LITE
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", RAKUTEN TOP
 https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/et1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", UNIFI MOVIE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 #https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/et2.m3u8
+
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", ETV 3
 #https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/et3.m3u8
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", ETV 4
@@ -6303,7 +6306,7 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 
-#EXTINF:-1:-1 tvg-id="" tvg-name="My: TVB Xing HE HD" tvg-logo="https://i.pinimg.com/236x/bf/fd/1d/bffd1de4d78407774a571c6d2c2130fb.jpg" group-title="CHANNEL | MOVIES",My: TVB Xing HE HD
+#EXTINF:-1:-1 tvg-id="" tvg-name="My: TVB Xing HE HD" tvg-logo="https://i.pinimg.com/236x/bf/fd/1d/bffd1de4d78407774a571c6d2c2130fb.jpg" group-title="CHANNEL | MOVIES", My: TVB Xing HE HD
 http://opplextv.cyou:8080/nasir6160/nasir/388792
 
 #XTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/27/96/59/279659295ba98bd77a309df47c913c8e.jpg", CITRA BIOSKOP
@@ -6315,12 +6318,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 ##EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/00/3a/f5/003af52e084850de09f6f3e3427a9fbd.jpg", SONY MAX
 ##EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/00/3a/f5/003af52e084850de09f6f3e3427a9fbd.jpg", SONY MOVIES (DUAL LANG)
 
-#EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/3e/fa/b6/3efab65ddc5e19b0e678b54976135e18.jpg", CITRA DRAMA
-
 #EXTINF:-1:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="https://i.pinimg.com/236x/3e/fa/b6/3efab65ddc5e19b0e678b54976135e18.jpg" group-title="CHANNEL | MOVIES",ID: Citra Drama
 http://opplextv.cyou:8080/nasir6160/nasir/350925
-
-##EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/3e/fa/b6/3efab65ddc5e19b0e678b54976135e18.jpg", CITRA MUSLIM
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6417,10 +6416,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a9/96/ed/a996ed4423412f236de06f1f0d8da2c8.jpg" group-title="CHANNEL | MOVIES",WARNERTV US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+#EXTINF:-1 tvg-url="https://i.pinimg.com/736x/a9/96/ed/a996ed4423412f236de06f1f0d8da2c8.jpg" tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://object-streamo.emonaja.com/img/warner.webp" group-title="Playlist Movie 📺", Warner TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://i.pinimg.com/736x/5f/d9/37/5fd93746d8df4cb543bd882c2a411652.jpg" group-title="CHANNEL | MOVIES", UNIVERSAL HD
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo__rottentomatoesrttv_ssai_cro&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=&ads._fw_vcid2=512116:&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
@@ -6455,11 +6457,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/10/39/13/103913b4bcfabe622610806d388198f9.jpg" group-title="CHANNEL | MOVIES", Popstar! TV
-https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b7/82/48/b782485663b8d0601566a07b77786b14.jpg" group-title="CHANNEL | MOVIES", MIRAMAX
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fc/76/b2/fc76b28e22483a53e00ce341e27275cf.jpg" group-title="CHANNEL | MOVIES",EBONY 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/bb/c4/9b/bbc49bae8a1a36b54f4c9f20c25adecc.jpg" group-title="CHANNEL | MOVIES",MGPLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6480,9 +6482,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgu
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fa/b3/5b/fab35b3ae3ed7240576c2c40b719a3c9.jpg" group-title="CHANNEL | MOVIES", Disc Film 
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/55/c7/ab/55c7ab61063c2c5bf9a3ddeb90b26879.jpg" group-title="CHANNEL | MOVIES", Horror Machine
-http://supersonictv.live:8080/006779/439866/80764
-https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f3/fc/38/f3fc382afdc0d9aac81da1b8fb268f32.jpg" group-title="CHANNEL | MOVIES", MHz Choice 
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 
