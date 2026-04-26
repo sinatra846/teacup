@@ -6081,6 +6081,27 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/tvnmovies/manifest_wuseetv.mpd
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
 
+#EXTINF:-1 tvg-url="https://i.pinimg.com/236x/8e/c5/fa/8ec5fab5837dbff97297d27d14f9c561.jpg" tvg-id="ROCKAction.id" tvg-name="ROCKction" tvg-logo="https://mantul.biz.id:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJD7l2mG8Tk2ukwduExO58z9HGBftr-Neu_ds3ARiOTQQw.png" group-title="CHANNEL | MOVIES", Rock Action ( 2 )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+https://av-ch-cdn.mncnow.id/live/eds/Rockaction/sa_dash/Rockaction.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-logo="https://i.pinimg.com/236x/8e/c5/fa/8ec5fab5837dbff97297d27d14f9c561.jpg",Rock Action
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/16/8e/df/168edf91a0daa3152ad2d7c1ee6fb1bf.jpg" group-title="CHANNEL | MOVIES"tvg-id="mycinema" tvg-name="mycinema", MY CINEMA
 ##EXTINF:-1 tvg-id="Rock Entertainment.Id" tvg-logo="https://i.pinimg.com/236x/8e/c5/fa/8ec5fab5837dbff97297d27d14f9c561.jpg" group-title="CHANNEL | MOVIES",ROCK ENTERTAINMENT
 ##EXTINF:-1 tvg-id="Rock Action.Id" tvg-logo="https://i.pinimg.com/236x/0a/e3/53/0ae353e95a2c753cb335902437ec325a.jpg" group-title="CHANNEL | MOVIES",ROCK ACTION
@@ -6191,7 +6212,35 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/44/8c/46/448c469c8fa16baeec0cfa359e7ddcdc.jpg" group-title="CHANNEL | MOVIES",Movie Music 
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/3291200/manifest.m3u8
+
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/27/9e/1a279ec2a3e0c44ca143c18d1ae84ddf.jpg" group-title="CHANNEL | MOVIES",Sony PIX HD
+
+#EXTINF:0,MADE IN HOLLYWOOD
+#EXTGRP:CHANNEL | MOVIES
+https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:0,WEDO MOVIES
+#EXTGRP:CHANNEL | MOVIES
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomovies-benelux-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | MOVIES", CINELIFE
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | MOVIES", MOVIESPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | MOVIES", RETROCRUSH
+http://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/0/profileManifest.m3u8?
+
+#EXTINF:-1 group-title="CHANNEL | MOVIES", ASIANCRUSH
+http://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/sub-0/profileManifest.m3u8?
+
+#EXTINF:-1 group-title="CHANNEL | MOVIES", MIDNIGHT PULP
+http://cineverse.g-mana.live/media/579fa853-ff49-426e-bc2d-d16ce9b1bdf6/profile/sub-0/profileManifest.m3u8?
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="CHANNEL | MOVIES",MyTime Movie Network 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
@@ -6238,6 +6287,17 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", ETV 4
 #https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/et4.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://warningfm.github.io/v3/img/M806UiK.png?v=1.0.0.1" group-title="Playlist Movie 📺" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Tapactionflix Hd.ph" tvg-name="Tapactionflix Hd.ph", TapAction Flix HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://warningfm.github.io/v3/img/ArkjNd6.png?v=1.0.0.1" group-title="Playlist Movie 📺" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Tapmovies.Hd.ph" tvg-name="Tapmovies Hd", Tapmovies Hd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/56/f2/0f/56f20fee5fe98b71013330a5b105e897.jpg" group-title="CHANNEL | MOVIES", CINE (DUAL LANG)
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/56/f2/0f/56f20fee5fe98b71013330a5b105e897.jpg" group-title="CHANNEL | MOVIES", UNIVER COMEDY (DUAL LANG)
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/56/f2/0f/56f20fee5fe98b71013330a5b105e897.jpg" group-title="CHANNEL | MOVIES", UNIVER CRIME (DUAL LANG)
@@ -6247,13 +6307,15 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a3/dd/71/a3dd711f1335bb72ecdee3deac4b6e98.jpg" group-title="CHANNEL | MOVIES", DUNIA SINEMA
 
-
 #EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-name="My Cinema Europe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYCxS0W-fLPnpzkOiXMk6bQFCddX2IvIGHqg&s", My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 
-#EXTINF:-1:-1 tvg-id="" tvg-name="My: TVB Xing HE HD" tvg-logo="https://i.pinimg.com/236x/bf/fd/1d/bffd1de4d78407774a571c6d2c2130fb.jpg" group-title="CHANNEL | MOVIES", My: TVB Xing HE HD
-http://opplextv.cyou:8080/nasir6160/nasir/388792
+#EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-logo="https://i.pinimg.com/236x/bf/fd/1d/bffd1de4d78407774a571c6d2c2130fb.jpg",TVB Xing He
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 
 #XTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/27/96/59/279659295ba98bd77a309df47c913c8e.jpg", CITRA BIOSKOP
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
