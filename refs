@@ -8349,18 +8349,18 @@ https://bostv.maling.pl/18249.mpd
 <=================== EVENT 2 =============================>
 #EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-
-#EXTINF:-1 group-title="EVENT 026/APRIL/2026" tvg-logo="https://iili.io/fetJgpV.png", 14:05 WIB Saga Hisamitsu Springs - Osaka Marvelous | Finals - Round 2 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live2.pro2cdnlive.com/live/channel50.m3u8
-
 #EXTINF:-1 group-title="EVENT 026/APRIL/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 18:15 WIB MotoGP Race: Grand Prix of Spain
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 group-title="EVENT 026/APRIL/2026" tvg-logo="https://iili.io/fNScJ6J.md.png", 22:30 WIB PGE Budowlani Lodz - KS DevelopRes Rzeszow | Play Off - Finals Round 4 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+https://live2.pro2cdnlive.com/live/channel50.m3u8
+
 
 <================>
 
