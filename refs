@@ -6121,11 +6121,14 @@ https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/35/ce/22/35ce228a28db00c4e41e15b28687921a.jpg" group-title="CHANNEL | MOVIES",CINEMA ONE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/35/ce/22/35ce228a28db00c4e41e15b28687921a.jpg" group-title="CHANNEL | MOVIES", ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=94916fa7ad4c44ad83b1175956adaa05:df19614d4f9f9fe836590d8d98ab2699
+https://cdn08jtedge.indihometv.com/dassdvr/134/sone/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a4/ce/d6/a4ced68af2baaaedae5e34e1fd3d64cf.jpg" group-title="CHANNEL | MOVIES",GALAXY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6135,6 +6138,7 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/2c/73/7d2c733c27d4fe8090cd0e2ddd61b83a.jpg" group-title="CHANNEL | MOVIES",GALAXY PREMIUM
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -6185,8 +6189,6 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ef/1d/ca/ef1dcab5964b8843752163324889818c.jpg" group-title="CHANNEL | MOVIES", SHEMAROO BOLLY
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/ce/79/86/ce798690e7db66dbe154639ae03ec750.jpg", MAXSTREAM wifi
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/44/8c/46/448c469c8fa16baeec0cfa359e7ddcdc.jpg" group-title="CHANNEL | MOVIES",Movie Music 
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/3291200/manifest.m3u8
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/27/9e/1a279ec2a3e0c44ca143c18d1ae84ddf.jpg" group-title="CHANNEL | MOVIES",Sony PIX HD
@@ -6297,12 +6299,12 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c1/cf/45/c1cf45c2b0fb1bac82b37b6a8838a8d9.jpg" group-title="CHANNEL | MOVIES", MCE
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+#EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-name="My Cinema Europe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYCxS0W-fLPnpzkOiXMk6bQFCddX2IvIGHqg&s", My Cinema Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 
-##EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/bf/fd/1d/bffd1de4d78407774a571c6d2c2130fb.jpg",TVB XING HE
+#EXTINF:-1:-1 tvg-id="" tvg-name="My: TVB Xing HE HD" tvg-logo="https://i.pinimg.com/236x/bf/fd/1d/bffd1de4d78407774a571c6d2c2130fb.jpg" group-title="CHANNEL | MOVIES",My: TVB Xing HE HD
+http://opplextv.cyou:8080/nasir6160/nasir/388792
 
 #XTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/27/96/59/279659295ba98bd77a309df47c913c8e.jpg", CITRA BIOSKOP
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -6314,12 +6316,51 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 ##EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/00/3a/f5/003af52e084850de09f6f3e3427a9fbd.jpg", SONY MOVIES (DUAL LANG)
 
 #EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/3e/fa/b6/3efab65ddc5e19b0e678b54976135e18.jpg", CITRA DRAMA
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest_w660216264_qRFZS.mpd?encp=&uid=&expp=
+
+#EXTINF:-1:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="https://i.pinimg.com/236x/3e/fa/b6/3efab65ddc5e19b0e678b54976135e18.jpg" group-title="CHANNEL | MOVIES",ID: Citra Drama
+http://opplextv.cyou:8080/nasir6160/nasir/350925
+
 ##EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/3e/fa/b6/3efab65ddc5e19b0e678b54976135e18.jpg", CITRA MUSLIM
-##EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/3e/fa/b6/3efab65ddc5e19b0e678b54976135e18.jpg", CITRA ENTERTAIN
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+#EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-id="" tvg-logo="https://i.pinimg.com/236x/3e/fa/b6/3efab65ddc5e19b0e678b54976135e18.jpg",Citra Muslim
+http://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Citra.Entertainment.id" tvg-name="Citra Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="CHANNEL | MOVIES", Citra Entertainment
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
+
+
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/bd/63/b0/bd63b056a8ade410fdfb3fecf26d6b51.jpg" group-title="CHANNEL | MOVIES", LIFETIME MOVIE
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="Lifetime" tvg-logo="https://i.pinimg.com/236x/bd/63/b0/bd63b056a8ade410fdfb3fecf26d6b51.jpg" group-title="CHANNEL | MOVIES", LIFETIME (FX)
+https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59de57168ce94a96bed1606f10c65f67:459fdec6262975e03adc82d62b749f44
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-logo="https://i.pinimg.com/236x/bd/63/b0/bd63b056a8ade410fdfb3fecf26d6b51.jpg" group-title="CHANNEL | MOVIES", LIFETIME (VS)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
+
+
+
+
+
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
@@ -6375,20 +6416,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a9/96/ed/a996ed4423412f236de06f1f0d8da2c8.jpg" group-title="CHANNEL | MOVIES",WARNERTV US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
-#EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://i.pinimg.com/736x/5f/d9/37/5fd93746d8df4cb543bd882c2a411652.jpg" group-title="CHANNEL | MOVIES", UNIVERSAL HD
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
-https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+#EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://i.pinimg.com/736x/5f/d9/37/5fd93746d8df4cb543bd882c2a411652.jpg" group-title="CHANNEL | MOVIES", UNIVERSAL HD
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo__rottentomatoesrttv_ssai_cro&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=&ads._fw_vcid2=512116:&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 
 #EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://i.pinimg.com/736x/5f/d9/37/5fd93746d8df4cb543bd882c2a411652.jpg" group-title="CHANNEL | MOVIES", UNIVERSAL SD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
