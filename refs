@@ -1074,8 +1074,8 @@ https://malang.staratv.id/hls/0/stream.m3u8
 
 
 
-DAERAH
 
+=========================================== DAERAH ===========================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260420_003645_0000.png?raw=true",CHANNEL | DAERAH
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1117,12 +1117,12 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=dash
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnQjI.png" group-title="TV LOKAL",Elshinta TV
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnQjI.png" group-title="CHANNEL | DAERAH",Elshinta TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/2ckWLtp.png" group-title="TV LOKAL",Hanacaraka TV
+#EXTINF:-1 tvg-logo="https://iili.io/2ckWLtp.png" group-title="CHANNEL | DAERAH",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
