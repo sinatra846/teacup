@@ -8409,12 +8409,19 @@ https://live1.pro2cdnlive.com/live/channel5.m3u8?wsSecret=75b5e22af660acbb32efd9
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-QvOmpdcqb8wjxCeisRDWnGqtro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029932/7150f6.jpg" group-title="LIVE BOLA ⚽", 14:58 WIB 28/04/26 Arema FC vs PERSEBAYA Surabaya - BRI Super League [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1/19354.drm?sign=9b12d456
+https://bosstv.asia/1/19354.mpd?sign=9b12d456
+
 
 BOLA INDO
 <================>
-
-
-
 
 
 ##############################LIVE EVENT ###############################
