@@ -8425,14 +8425,18 @@ https://maling.pl/19354.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/19354.drm
 https://bostv.maling.pl/19354.mpd
 
-BOLA INDO
-<================>
 
+<=================== EVENT 2 =============================>
 
-##############################LIVE EVENT ###############################
-#EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 02:00 WIB PSG vs Bayern München
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-##EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 01:45 WIB Southampton vs Ipswich Town
+#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 01:45 WIB Southampton vs Ipswich Town
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8500,7 +8504,7 @@ https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
 https://live2.pro2cdnlive.com/live/channel57.m3u8
 
 
-<=================== EVENT 2 =============================>
+<=================== EVENT 3 =============================>
 #EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lgDRa2maSIRKOrgc7Wbk2emXH-E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032256/e886c0.jpg" group-title="EVENT 028/APRIL/2026", 15:00 WIB 28/04/26 Chiu Pin-Chian (TPE) vs Putri Kusuma Wardani (INA) - Women's Singles (Match 1) | Uber Cup 2026 [J1]
