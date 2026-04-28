@@ -10110,31 +10110,8 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 028/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Persebaya Surabaya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel5.m3u8?wsSecret=75b5e22af660acbb32efd9d1f31d5cee&wsABSTime=1776624143
 
-#EXTINF:-1 group-title="EVENT 028/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB PSBS Biak Numfor vs Malut United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-QvOmpdcqb8wjxCeisRDWnGqtro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029932/7150f6.jpg" group-title="EVENT 028/APRIL/2026", 14:58 WIB 28/04/26 Arema FC vs PERSEBAYA Surabaya - BRI Super League (INTI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm
-https://maling.pl/19354.mpd
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-QvOmpdcqb8wjxCeisRDWnGqtro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029932/7150f6.jpg" group-title="EVENT 028/APRIL/2026", 14:58 WIB 28/04/26 Arema FC vs PERSEBAYA Surabaya - BRI Super League (ALT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/19354.drm
-https://bostv.maling.pl/19354.mpd
 
 
 <=================== EVENT 2 =============================>
@@ -10204,40 +10181,11 @@ BUNDESLIGA
 Badminton
 <================>
 
-#EXTINF:-1 group-title="EVENT 028/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
-https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-
-#EXTINF:-1 group-title="EVENT 028/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
-https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
-
-#EXTINF:-1 group-title="EVENT 028/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live2.pro2cdnlive.com/live/channel57.m3u8
 
 
 <=================== EVENT 3 =============================>
 #EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lgDRa2maSIRKOrgc7Wbk2emXH-E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032256/e886c0.jpg" group-title="EVENT 028/APRIL/2026", 15:00 WIB 28/04/26 Chiu Pin-Chian (TPE) vs Putri Kusuma Wardani (INA) - Women's Singles (Match 1) | Uber Cup 2026 [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1/18249.drm?sign=101e124e
-https://bosstv.asia/1/18249.mpd?sign=101e124e
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lgDRa2maSIRKOrgc7Wbk2emXH-E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032256/e886c0.jpg" group-title="EVENT 028/APRIL/2026", 15:00 WIB 28/04/26 Chiu Pin-Chian (TPE) vs Putri Kusuma Wardani (INA) - Women's Singles (Match 1) | Uber Cup 2026 [J1] (ALT)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1/18249.drm?sign=101e124e
-https://bosstv.asia/1/18249.mpd?sign=101e124e
 
 
 
@@ -10249,9 +10197,7 @@ https://bosstv.asia/1/18249.mpd?sign=101e124e
 #EXTINF:-1 tvg-name="HUMINT(2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvl4GdENi304yMvVnoZ89YL2dRx9_Hdta9wUZSTwlEduSplgYrQfAKWVMa&s=10" group-title="MOVIES 2026",HUMINT(2026)
 https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/HUMINT.m3u8
 #EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="MOVIES 2026",SAVIOR(2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/480%20(1).m3u8
-
-
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/08/11111/mllctrnjg67i_x/index-v1-a1.m3u8?t=MsFjTsKHgu7XolIziFocDxSVNJfBgnd_qpUDsCJwsvY&s=1777418753&e=10800&f=55556450&srv=1055&asn=&sp=5500&p=0
 
 
 
