@@ -1054,6 +1054,12 @@ https://ayo.maling.pl/Vision/index.mpd?id=18
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="CHANNEL | LOKAL ID",Nusantara TV
 http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nqmdRKkn/Garudatv-removebg-preview.png" group-title="CHANNEL | LOKAL ID",Garuda TV HD
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/mh9sgmzvwbqfic3tlbkci/Bnchanel.jpg?rlkey=8bn38qw1ohg6xy8wkajeu1ccv&dl=0" group-title="CHANNEL | LOKAL ID",BN Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8?app_type=web&userid=lite&chname=BN-TV
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62wgQs--FkhHSHlqX5xn3--73qq0_FxHdXO4g6GikJ602QrrVq2KoQ6nUUPSCQbCsUZSWfdqG2MBmMmNdhneAKk.png" group-title="CHANNEL | LOKAL ID",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
@@ -1106,10 +1112,14 @@ https://cianjur.staratv.id/hls/0/stream.m3u8
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://malang.staratv.id/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | LOKAL ID",STARATV PARAHYANGAN
+https://parahyangan.staratv.id/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | LOKAL ID",STARATV JAKARTA
+https://jakarta.staratv.id/hls/0/stream.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | LOKAL ID",MATRIX TV
+https://stream.matrixtv.id/hls/1/stream.m3u8
 
 
 =========================================== DAERAH ===========================================
