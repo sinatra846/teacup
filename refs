@@ -10112,27 +10112,26 @@ https://live2.pro2cdnlive.com/live/channel52.m3u8
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
 https://live2.pro2cdnlive.com/live/channel19.flv
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GG4VnSmUCi5T0PeW2GYfrmR5z-U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030169/c0b2c3.jpg" group-title="EVENT 029/APRIL/2026", 14:57 WIB 29/04/26 PERSIK Kediri vs Borneo FC Samarinda - BRI Super League (INTI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm
+https://maling.pl/19354.mpd
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GG4VnSmUCi5T0PeW2GYfrmR5z-U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030169/c0b2c3.jpg" group-title="EVENT 029/APRIL/2026", 14:57 WIB 29/04/26 PERSIK Kediri vs Borneo FC Samarinda - BRI Super League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/19354.drm
+https://bostv.maling.pl/19354.mpd
+
 #EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Madura United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
 https://live2.pro2cdnlive.com/live/channel12.m3u8
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GG4VnSmUCi5T0PeW2GYfrmR5z-U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030169/c0b2c3.jpg" group-title="EVENT 029/APRIL/2026", 14:57 WIB 29/04/26 PERSIK Kediri vs Borneo FC Samarinda - BRI Super League [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1/19354.drm?sign=9b12d456
-https://bosstv.asia/1/19354.mpd?sign=9b12d456
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Wkjv8QIEVdNvX8Vp8AKTqsLBNYg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030173/3a72f7.jpg" group-title="EVENT 029/APRIL/2026", 15:22 WIB 29/04/26 Semen Padang FC vs Madura United FC - BRI Super League [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://bosstv.asia/1/19385.m3u8?sign=bc1225c0
 
 #EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persijap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
