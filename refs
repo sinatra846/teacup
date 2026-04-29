@@ -10138,8 +10138,15 @@ https://live2.pro2cdnlive.com/live/channel12.m3u8
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
 https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=cc7d1811761134b519b5eff1d659
 
-LIGA INDO
-<================
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JjMYVgwzr3D3yIME3YyTftP-IJg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030171/9b1a44.jpg" group-title="EVENT 029/APRIL/2026" , 18:37 WIB 29/04/26 Dewa United Banten FC vs PERSIJAP - BRI Super League [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1/19354.drm?sign=9b12d456
+https://bosstv.asia/1/19354.mpd?sign=9b12d456
 
 EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/3gy7g", 23:10 WIB Al Taawon vs Al Ittihad
 #KODIPROP:inputstreamaddon=inputstream.adaptive
