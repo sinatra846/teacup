@@ -10223,6 +10223,27 @@ https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com
 https://live2.pro2cdnlive.com/live/channel55.m3u8
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yukdSv4sBSvcXpdGVSpNp4doNdc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049051/91ddff.jpg" group-title="EVENT 030/APRIL/2026", 22:50 WIB 30/04/26 Line Christophersen (DEN) vs Putri Kusuma Wardani (INA) - Women's Singles (Match 1) | Quarterfinals Uber Cup 2026 [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1/18249.drm?sign=101e124e
+https://bosstv.asia/1/18249.mpd?sign=101e124e
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yukdSv4sBSvcXpdGVSpNp4doNdc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049051/91ddff.jpg" group-title="EVENT 030/APRIL/2026", 22:50 WIB 30/04/26 Line Christophersen (DEN) vs Putri Kusuma Wardani (INA) - Women's Singles (Match 1) | Quarterfinals Uber Cup 2026 [J1] (ALT)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1/18249.drm?sign=101e124e
+https://bosstv.asia/1/18249.mpd?sign=101e124e
+
+
 
 <=================== EVENT 2 ===========================>
 #EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
