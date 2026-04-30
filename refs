@@ -10166,68 +10166,11 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://iili.io/fNScxGs.md.png", 22:30 WIB BOGDANKA LUK Lublin - Aluron CMC Warta Zawiercie | Play Off - Finals Round 2 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.pro2cdnlive.com/live/channel52.m3u8
-
-<=================== EVENT 2 =============================>
-#EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
 
 #EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://iili.io/fNScxGs.md.png", 22:30 WIB Asseco Resovia Rzeszow - PGE Projekt Warszawa | Play Off - 3rd place Round 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
 https://live2.pro2cdnlive.com/live/channel51.m3u8
-
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://iili.io/fNSc3aR.md.png", 01:30 WIB Sir Susa Scai Perugia - Cucine Lube Civitanova | Play Off - Finals Round 1 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.pro2cdnlive.com/live/channel51.m3u8
-
-
-
-
-
-LIGA ARAB
-<================>
-
-
-
-
-LIGA ITALIA 
-<================>
-
-
-
-
-
-LA LIGA
-<================>
-
-
-
-
-LIGA PERANCIS
-<================>
-
-
-
-
-BUNDESLIGA
-<================>
-
-
-
-
-
-Badminton
-<================>
-
-
-
-<=================== EVENT 3 =============================>
-#EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
 #EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Persita
@@ -10246,7 +10189,21 @@ https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=779f0b18f9cacad7b1cb7d
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
 https://live2.pro2cdnlive.com/live/channel6.m3u8
 
-<=================== EVENT 3 ===========================>
+<=================== Badminton =============================>
+
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
+##https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
+https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com
+https://live2.pro2cdnlive.com/live/channel55.m3u8
+
+
+<=================== EVENT 2 ===========================>
 #EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 #EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMJZZVCA54YBxHX8JqSrL0gxUvd3Izg2GpA&s", 02:00 WIB Sporting Braga vs Freiburg
@@ -10275,28 +10232,10 @@ https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-
-<=================== Badminton =============================>
-
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
-##https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
-https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
+#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://iili.io/fNSc3aR.md.png", 01:30 WIB Sir Susa Scai Perugia - Cucine Lube Civitanova | Play Off - Finals Round 1 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com
-https://live2.pro2cdnlive.com/live/channel55.m3u8
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com
-https://live2.pro2cdnlive.com/live/channel56.m3u8
-
-
-
-
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.pro2cdnlive.com/live/channel51.m3u8
 
 
 ========================================== VOD KOREA ===========================================
