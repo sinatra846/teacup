@@ -1096,7 +1096,7 @@ https://stream.matrixtv.id/hls/1/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="Bali TV" tvg-url="https://iili.io/JbtnVEu.png" ,Bali TV V+
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="Bali TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png" ,Bali TV V+
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -1112,7 +1112,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://warningfm.github.io/v3/img/JxtgBmg.png?v=1.0.0.1" group-title="CHANNEL | DAERAH", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1143,7 +1142,7 @@ http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="JITV Jogja" tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="CHANNEL | DAERAH",JITV Jogja
+#EXTINF:-1 tvg-id="" tvg-name="JITV Jogja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3EM-5RBWcPoyEOnpEtsbdwCbDglpzJ_kPiJfmP3T4w&s=10" group-title="CHANNEL | DAERAH",JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -1163,7 +1162,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/a6e7e966ea54cd3.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
-#EXTINF:-1 tvg-id="JPMTV.id" tvg-name="JawaposTV" tvg-logo="https://warningfm.github.io/v3/img/iBrOoMG.png?v=1.1.1.1" group-title="CHANNEL | DAERAH", JawaposTV (JPM)
+#EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png" group-title="CHANNEL | DAERAH",JAK TV (IHT)
+https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/JZIoj94.png" group-title="CHANNEL | DAERAH",PSJ TV
 
@@ -1184,35 +1184,20 @@ http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtnipp.png" group-title="CHANNEL | DAERAH",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtnakl.png" group-title="CHANNEL | DAERAH",TATV
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" group-title="CHANNEL | DAERAH",Sangaji TV
-
-  
-#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="CHANNEL | DAERAH",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
  
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="CHANNEL | DAERAH",Jogja TV
+
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="CHANNEL | DAERAH",Semarang TV
 
- 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdeMKgc7EWm2kjkwNGXa5JrMMLegbaRlTAX0xcrl54A&s=10" group-title="CHANNEL | DAERAH",Surabaya TV (Ga 24 Jam)
 https://e.siar.us/live/surabayatv.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnMBe.png" group-title="CHANNEL | DAERAH",Arek TV
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtozyQ.png" group-title="CHANNEL | DAERAH",PKTV
@@ -1236,6 +1221,12 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="CHANNEL | DAERAH",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nU1CpPCvkL8GvkaIH3P5bpLwYU2vdpokOmA8MF1-HTTq8=s900-c-k-c0x00ffffff-no-rj" group-title="CHANNEL | DAERAH",RBTV JOGJA (Ga 24 Jam)
+http://live.rbtvjogja.tv/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68gIlLKiKBz0I3Sm91Du3kUshLw3tlKN_daCN8p9Hkg&s" group-title="CHANNEL | DAERAH",Radar TV Tasikmalaya (Ga 24 Jam)
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -1268,7 +1259,7 @@ https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnILX.png" group-title="CHANNEL | DAERAH",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="CHANNEL | DAERAH",LINGKAR TV
+#EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwr1bT7cGoI_8w7XuKoGNZ1J4i3wuK25di5YApZE3uvg&s=10" group-title="CHANNEL | DAERAH",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 
