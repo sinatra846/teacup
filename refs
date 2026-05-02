@@ -968,16 +968,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 tvg-id="--" group-title="CHANNEL | LOKAL ID" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI63TlsAnNlrEWdRlOgw6a_qRaU0TJvVJ9_hF31GPk0l7Lf1ybpHTmCBxLDs262hezGM.png", TV ONE
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62l1mZGg1gWHmQZ_f7XYKFl50Op1sMfXR0s_euwV8edXMbr-nlYp8-SGWKI_66c3Pk.png" group-title="CHANNEL | LOKAL ID",METRO TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" group-title="CHANNEL | LOKAL ID" tvg-logo="https://object-streamo.emonaja.com/img/metrotv.png", Metro TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
