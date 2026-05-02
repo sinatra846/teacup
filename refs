@@ -10038,18 +10038,19 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 02/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persebaya Surabaya vs PSBS Biak Numfor
-https://pullsgp.yyzb456.top/live/stream-284564_lhd.m3u8
-
-#EXTINF:-1 group-title="EVENT 02/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persebaya Surabaya vs PSBS Biak Numfor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
-https://live1.pro2cdnlive.com/live/channel20.m3u8?wsSecret=dd9501ad20316a9d2658cd9499492a38&wsABSTime=1777751337
 
 #EXTINF:-1 group-title="EVENT 02/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Malut United vs Persis Solo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
 https://live1.pro2cdnlive.com/live/channel20.m3u8?wsSecret=dd9501ad20316a9d2658cd9499492a38&wsABSTime=1777751337
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xorB_bfPnzELkhDlOS_eU9TAsB0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036136/0c86db.jpg" group-title="EVENT 02/MEI/2026", 20:30 WIB 02/05/26 Malut United FC vs PERSIS - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/19354.drm?exp=1777739576&uip=103.151.140.33&sign=fe2727ba56ffab8d22f3a9ab8334a8ac5ea5cf8fdff37b4ee9583083a4ee5070
+https://aspaltvpasti.top/Tesmar/2.php/19354.mpd?exp=1777739576&uip=103.151.140.33&sign=91bec485f97d0ffac5b3b00f6506ecf7c1ccbd8b9082f2f4072482d4264e464f
 
 
 <================================================>
