@@ -685,14 +685,13 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Thumbnail%20YouTube%20Wisata%20Gunung%20Populer%20Cokelat%20dan%20HIjau%20Simpel_20260422_131523_0000.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=6
-https://ayo.maling.pl/Vision/index.mpd?id=6
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Thumbnail%20YouTube%20Wisata%20Gunung%20Populer%20Cokelat%20dan%20HIjau%20Simpel_20260422_131523_0000.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV 2
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 group-logo="https://balatack.my.id/Logobalatacktv.png"tvg-id="TRANSVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10" group-title="CHANNEL | INDONESIA",TRANS TV 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -706,7 +705,7 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7%20KITA%20BERSAMA%20SELALU%20DIHATI.png?raw=true" group-title=" CHANNEL | INDONESIA",Trans 7 2
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7%20KITA%20BERSAMA%20SELALU%20DIHATI.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -714,13 +713,12 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NjUxZDdiY2MwMTY1MWYwZGIwYmYwMDk3L21hbmlmZXN0Lm1wZA==&code=777
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPj6Q3ggs3TMU5GqFnXp6dXvTRa2WZzBixg&usqp=CAU" group-title=" CHANNEL | INDONESIA",TRANS 7 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NjUxZDdiY2MwMTY1MWYwZGIwYmYwMDk3L21hbmlmZXN0Lm1wZA==&code=777
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7%20KITA%20BERSAMA%20SELALU%20DIHATI.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 3
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true" group-title="CHANNEL | INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -759,37 +757,50 @@ https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index
 https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
-#EXTINF:-1 tvg-url="" tvg-id="MDTV.id" group-title="CHANNEL | INDONESIA" tvg-url="tvg-url="https://github.com/sinatra846/teacup/blob/main/CHANNEL_20260501_182141_0000.png?raw=true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV TV (V+)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
-
 #EXTINF:-1 tvg-url="" tvg-name="NET TV" tvg-logo="https://github.com/sinatra846/teacup/blob/main/CHANNEL_20260501_182141_0000.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV TV (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-NET/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/teacup/blob/main/CHANNEL_20260501_182141_0000.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV DIGITECH
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" ch-number="13" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOS%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true",indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/2_20260422_175553_0001.png?raw=true" group-title="CHANNEL | INDONESIA", Indosiar 2
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/2_20260422_175553_0001.png?raw=true" group-title="CHANNEL | INDONESIA", INDOSIAR DIGITECH
 ##http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
-##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/Indosiar.m3u8
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
+https://aspaltvpasti.top/11111/205.mpd
+http://103.148.44.38:8000/play/a05c/index.m3u8
+http://202.169.224.202:8800/udp/239.9.1.25:1234
+http://202.169.224.202:8800/udp/239.4.4.2:1234
 
-#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNTARI%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true" group-title="CHANNEL | INDONESIA;CHANNEL | KIDS", MENTARI TV
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNTARI%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true" group-title="CHANNEL | INDONESIA", MENTARI TV
 https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBh5dWTd_lq48vH8_gJXkwQ4
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Moji.id" tvg-name="Moji.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJi%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true",Moji (Auto)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJi%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true" group-title="CHANNEL | INDONESIA",MOJI DIGITAL
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/206.drm
+https://aspaltvpasti.top/11111/206.mpd
+http://103.66.62.83:8000/play/a00i/index.m3u8
+http://103.66.62.83:8000/play/a02c/index.m3u8
+http://202.169.224.202:8800/udp/239.9.1.32:1234
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV%20Cokelat%20dan%20HIjau%20Simpel_20260422_150603_0000.png?raw=true",ANTV HD (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -841,7 +852,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://github.com/sinatra846/iptv-assets-/blob/main/Thumbnail%20YouTube%20Wisata%20Gunung%20Populer%20Cokelat%20dan%20HIjau%20Simpel_20260423_095042_0000.png?raw=true" group-title="CHANNEL | INDONESIA", RTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Thumbnail%20YouTube%20Wisata%20Gunung%20Populer%20Cokelat%20dan%20HIjau%20Simpel_20260423_095042_0000.png?raw=true" group-title="CHANNEL | INDONESIA", RTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
@@ -857,8 +868,13 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Thumbnail%20YouTube%20Wisata%20Gunung%20Populer%20Cokelat%20dan%20HIjau%20Simpel_20260423_095916_0000.png?raw=true" group-title="CHANNEL | INDONESIA",CNBC INDONESIA
-http://iptv.kilas7.com:80/kaukia/asdfrewq/13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="CNBC.Asia.id" tvg-name="CNBC Asia" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Thumbnail%20YouTube%20Wisata%20Gunung%20Populer%20Cokelat%20dan%20HIjau%20Simpel_20260423_095916_0000.png?raw=true" group-title="CHANNEL | INDONESIA",CNBC ASIA
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Thumbnail%20YouTube%20Wisata%20Gunung%20Populer%20Cokelat%20dan%20HIjau%20Simpel_20260423_100040_0000.png?raw=true" group-title="CHANNEL | INDONESIA",Bloomberg
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
