@@ -10124,22 +10124,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 
 
 
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://iili.io/fetJgpV.png", 16:05 WIB Wolfdogs Nagoya - Hiroshima Thunders | Quarter-Finals - Round 1 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
-https://live2.pro2cdnlive.com/live/channel50.m3u8
-
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://iili.io/fetJgpV.png", 16:05 WIB Jtekt Stings Aichi - Tokyo Great Bears | Quarter-Finals - Round 1 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
-https://live2.pro2cdnlive.com/live/channel51.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
-##https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s", 15:00 WIB Thomas & Uber Cup Finals 2026
-https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
-
 
 <=================== Badminton =============================>
 
@@ -10148,28 +10132,21 @@ https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
 <=================== EVENT 2 ===========================>
 #EXTINF:-1 group-logo=" https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 02/MEI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Leeds United vs Burnley
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 02/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Girona vs Mallorca
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fTIVU4VD5ZldhdXzw4pihN1S8PQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038897/80299d.jpg" group-title="EVENT 02/MEI/2026", 14:35 WIB 02/05/26 WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round (INTI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/17139.drm?dev_kaki_09&t=1777718451&uip=103.151.140.33&h=6731db6e1a55a937ef008e2bfa22e63f8507af4c46a28fff25ded474de10c96a
+https://aspaltvpasti.top/Tesmar/1.php/17139.mpd?dev_kaki_09&t=1777718451&uip=103.151.140.33&h=6731db6e1a55a937ef008e2bfa22e63f8507af4c46a28fff25ded474de10c96a
 
-
-#EXTINF:-1 group-title="EVENT 02/MEI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 01:45 WIB Pisa vs Lecce
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fTIVU4VD5ZldhdXzw4pihN1S8PQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038897/80299d.jpg" group-title="EVENT 02/MEI/2026", 14:35 WIB 02/05/26 WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/17139.drm?exp=1777718451&uip=103.151.140.33&sign=6dbad801bff6e12808321cbc9fd678703eb2afa61600393ccc930c1733f3836a
+https://aspaltvpasti.top/Tesmar/2.php/17139.mpd?exp=1777718451&uip=103.151.140.33&sign=2fea96eb492c6dc0e0c9d8c2256befef356b7b4275b721fc5d260c27dfffc50b
 
 
 ========================================== VOD KOREA ===========================================
