@@ -10201,13 +10201,14 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Mantis
 
 
 
-#EXTM3U
+========================================== VOD INDONESIA ===========================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
+
 #EXTINF:-1 tvg-id="idmp" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Poster_Film_Sore.jpg" group-title="VOD | INDONESIAN MOVIE",SORE : ISTRI DARI MASA DEPAN
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sore%2C%20Istri%20Dari%20Masa%20Depan.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="stt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5LINiFoxsgYcC64dB6En-qw14f2OyZNm09BQLSrH&s" group-title="VOD | INDONESIAN MOVIE ",SAMPAI TITIK TERAKHIRMU
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sampai%20Titik%20Terakhirmu.m3u8
 
 
 
