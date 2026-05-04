@@ -9946,25 +9946,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persib vs PSIM Yogyakarta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
-https://live1.pro2cdnlive.com/live/channel12.m3u8?wsSecret=76dfb51c9693d92f372eb19a9569531a&wsABSTime=1777919394
-
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSM vs Bhayangkara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
-https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=7e2cb8c85aeae24a4c05b7e9a01c04c0&wsABSTime=1777919275
-
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-x_mhQDSiSOh9mSwnbR_O6gaGoggTD3c4eU-T0oR0WkP2f-LEAzLiVq8&s=10" group-title="EVENT 04/MEI/2026", 15:22 WIB 04/05/26 PERSIB vs PSIM Jogja - BRI Super League [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZnaTFkZC5xbmZuZWpycXFoZi5qYmV4cmVmLnFyaS8yMDUucWV6fDE3Nzg0ODkwMjE
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZnaTFkZC5xbmZuZWpycXFoZi5qYmV4cmVmLnFyaS8yMDUuemNxfDE3Nzg0ODkwMjE
 
 #EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Persija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
