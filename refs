@@ -2975,11 +2975,17 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="EURO Sports 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png" group-title="CHANNEL | SPORTS",EURO Sports 4K
 http://filex.tv:8080//live/vc/1234/247169.ts
 
+#EXTM3U
 #EXTINF:-1:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CHANNEL | SPORTS",STAR SPORTS SELECT 1
 http://opplextv.cyou:8080/nasir6160/nasir/167578
 #EXTINF:-1:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CHANNEL | SPORTS",STAR SPORTS SELECT 2
 http://opplextv.cyou:8080/nasir6160/nasir/167579
-
+#EXTINF:-1:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CHANNEL | SPORTS",Star Sports 1 HD
+http://opplextv.cyou:8080/nasir6160/nasir/167575
+#EXTINF:-1:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CHANNEL | SPORTS",Star Sports 2 HD
+http://opplextv.cyou:8080/nasir6160/nasir/167576
+#EXTINF:-1:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="CHANNEL | SPORTS",Star Sports 3 HD
+http://opplextv.cyou:8080/nasir6160/nasir/167577
 #EXTINF:-1:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CHANNEL | SPORTS",SONY TEN 1 HD
 http://opplextv.cyou:8080/nasir6160/nasir/167570
 #EXTINF:-1:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CHANNEL | SPORTS" SONY TEN 2 HD
