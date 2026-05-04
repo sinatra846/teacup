@@ -1930,14 +1930,38 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 ========== BRI LIGA 1 ===========
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Desain%20tanpa%20judul_20260425_071857_0000.png?raw=true",LIVE | LIGA TARKAM
 
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-x_mhQDSiSOh9mSwnbR_O6gaGoggTD3c4eU-T0oR0WkP2f-LEAzLiVq8&s=10",15~30 Persis VS Bhayangkara
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9iYXJnaS56bC52cS9qcm8vb2V2MnwxNzc4NDg5MDIx
+
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5i0jkNg2w4Fr5TLf7rTEaWmT_w8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057810/d8b73f.jpg" group-title="LIVE | LIGA TARKAM", 15:22 WIB 04/05/26 PERSIB vs PSIM Jogja - BRI Super League 1C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xemJ3di8xOTM1My5xZXo_cXJpX3hueHZfMDkmZz0xNzc3ODk1MDIwJmh2Yz0ybjA2JTNOOThwMCUzTjM2MDAlM04lM04xMDMmdT01cTNuNXI5ODkzbzJuOXE2czgwczUwczRvNXBuOTlwcTk4OTg0NjMxOTk0bjdvOXI4czNxbnNvNjMzM3MyMjAyfDE3Nzg0ODkwMjE
+
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 2
 http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uCvYFiC0rOXIXpP9I4A-WfcFNEs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058269/fdd74e.jpg" group-title="LIVE | LIGA TARKAM", 14:56 WIB 04/05/26 PSM Makassar vs Bhayangkara Presisi Lampung FC - BRI Super League 2C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xemJ3di8yMDUucWV6P3FyaV94bnh2XzA5Jmc9MTc3Nzg5NTAyMCZodmM9Mm4wNiUzTjk4cDAlM04zNjAwJTNOJTNOMTAzJnU9cDJvN283MTYyczI5cTgxcTRxNzMzcHE0ODNzczAzcHAwMjNzOTg0cXEwcjBuODEzNjlvN282cDZuNzAxbnI0MXwxNzc4NDg5MDIx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xemJ3di8yMDUuemNxP3FyaV94bnh2XzA5Jmc9MTc3Nzg5NTAyMCZodmM9Mm4wNiUzTjk4cDAlM04zNjAwJTNOJTNOMTAzJnU9cDJvN283MTYyczI5cTgxcTRxNzMzcHE0ODNzczAzcHAwMjNzOTg0cXEwcjBuODEzNjlvN282cDZuNzAxbnI0MXwxNzc4NDg5MDIx
 
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 3
 http://opplextv.cyou:8080/nasir6160/nasir/350972
