@@ -2975,7 +2975,6 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="EURO Sports 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png" group-title="CHANNEL | SPORTS",EURO Sports 4K
 http://filex.tv:8080//live/vc/1234/247169.ts
 
-#EXTM3U
 #EXTINF:-1:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CHANNEL | SPORTS",STAR SPORTS SELECT 1
 http://opplextv.cyou:8080/nasir6160/nasir/167578
 #EXTINF:-1:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CHANNEL | SPORTS",STAR SPORTS SELECT 2
