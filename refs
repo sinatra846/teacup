@@ -5306,11 +5306,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
 #EXTINF:-1 tvg-id="Max.Streak.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg" group-title="CHANNEL | ENTERTAINMENT", Max Streak
 https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 
-
-
-
-
-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
@@ -5475,39 +5470,11 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/
 https://a164aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/hlkbg1ngqb/out/v1/86088477f9f646e3ac7230fc23738e8a/cenc.mpd
 
 #EXTINF:-1 tvg-id="AWE_PLUS" tvg-name="AWE Plus" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",AWE Plus
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03d14cc90a5ab5cbfbb62b2132c8505f:ce0b46c7325e4967a3c2ded1759f1369
-https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/drkiqfev9p/out/v1/cfd6e6a288ec4a2084e2bf41be993722/cenc.mpd?encoding=segmentBase
-
 #EXTINF:-1 tvg-id="Canal5" tvg-name="CANAL 5" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",CANAL 5 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c630b9d02c9eee970976e33e9d98ca16:6517788f3f04875bc83f34710b1d87e4
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ffwkol9rr3/out/v1/c5f712f414b64736ba9cb11e9d3cd554/cenc-sd.mpd
-
 #EXTINF:-1 tvg-id="ITV1" tvg-name="ITV 1" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",ITV 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd
-
 #EXTINF:-1 tvg-id="NU9VE" tvg-name="NU9VE" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",NU9VE 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb3707eac345108dc497b896567ac39c:79885a869e49426149b117afe8a1b887
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash-sd/enc/pz4dlw4rjn/out/v1/2c1c080f26834fc9b7a6c2459f92e031/cenc-sd.mpd
-
 #EXTINF:-1 tvg-id="GVTV" tvg-name="GVTV" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",GVTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8433937fe77d9c43a0345c5fc3d48d1e:48c16cc9cad6413adb2ad790d297c4f9
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vwa3vblnjz/out/v1/bd1e1744f61a43589869475ea9b45ef6/cenc.mpd?encoding=segmentBase
+
 
 #EXTINF:-1  tvg-name="0000" tvg-id="0000" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",OCN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5532,59 +5499,17 @@ https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainMan
 
 ?????????????????????????? [LINE] ??????????????????????????
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+
 #EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="US : A&E WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45619.png" group-title="CHANNEL | ENTERTAINMENT",US : A&E
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/137339
-https://e1.thetvapp.to/hls/AEEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="US : BBC AMERICA WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45612.png" group-title="CHANNEL | ENTERTAINMENT",US : BBC AMERICA
-https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-https://e1.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="US : E! ENTERTAINMENT TELEVISION WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45584.png" group-title="CHANNEL | ENTERTAINMENT",US : E! ENTERTAINMENT TV
-https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-https://e1.thetvapp.to/hls/EEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ce1ec3e2402a170cbe13b79ce9bb30f:82fdcfde32cc02673547e58b50e2b5ae
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="FXPacific.us" tvg-name="US : FX WEST" tvg-logo="http://51.158.145.100/picons/logos/USA/45451.png" group-title="CHANNEL | ENTERTAINMENT",US : FX
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/FXHD/default.mpd
-#https://fl1.moveonjoy.com/FX/index.m3u8
-#https://e1.thetvapp.to/hls/FXEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-
 #EXTINF:-1 tvg-id="Canal.Paramount.Channel.(México).mx" tvg-logo="https://i.imgur.com/fxwLZXp.png" group-title="CHANNEL | ENTERTAINMENT",Paramount Network
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90cc957ead3f42e98b46d14e8c4b08de:3ab7cff1e63b9efc40aa962023b4b6b8
-https://zap-live1-ott.izzigo.tv/2/out/u/dash/PARAMOUNT-HD/default.mpd
-https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="http://51.158.145.100/picons/logos/USA/45476.png" group-title="CHANNEL | ENTERTAINMENT",Syfy Eastern Feed HD
-https://fl1.moveonjoy.com/SYFY/index.m3u8
-https://e1.thetvapp.to/hls/SyfyEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="CHANNEL | ENTERTAINMENT",Starz Eastern HD
-https://fl1.moveonjoy.com/STARZ/index.m3u8
-https://e1.thetvapp.to/hls/StarzEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="CHANNEL | ENTERTAINMENT",TNT (PXL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/canalclaro.png" group-title="CHANNEL | ENTERTAINMENT",Canal Claro
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/canalclaro.png" group-title="CHANNEL | ENTERTAINMENT",Canal Claro ????
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae5d967526f90c80102fab021e3dd282:226f3cfc4f00e03dbe39e2a88760293f
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANAL_CLARO_HD)/manifest.mpd
 
 ?????????????????????????? [LINE] ??????????????????????????
 
@@ -5704,7 +5629,7 @@ https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scrip
 https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8
 https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co.com/8d32N6z/cjenm.png" group-title="CHANNEL | ENTERTAINMENT",CJ E&M ????
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/8d32N6z/cjenm.png" group-title="CHANNEL | ENTERTAINMENT",CJ E&M
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
@@ -5760,16 +5685,31 @@ http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 #http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
 http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
 
+?????????????????????????? [LINE] ??????????????????????????
 
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://image.xumo.com/v1/channels/channel/99991302/168x168.png?type=color_onBlack",Hi-Yah!
+https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=0c0b2535-f0c1-4319-9f18-a3a6966d9105&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=Movie,Movies,FF,Entertainment,Sport,Action,GV,Drama,GD&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Movie,Movies,FF,Entertainment,Sport,Action,GV,Drama,GD&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack",MovieSphere by Lionsgate
+https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=c84fee24-4d9a-4889-9bb4-5dd67fa82c30&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_web_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=6e470e25-bdf9-4c5b-82f5-5f6d742bc501&ads._fw_vcid2=512116:6e470e25-bdf9-4c5b-82f5-5f6d742bc501&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=
 
+#EXTINF:-1 group-title="XUMO" tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/168x168.png?type=color_onBlack",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264&ads.asnw=169843&ads.afid=380753606&ads.sfid=19301317&ads.csid=xumo_web_NBCUUniversalMonsters_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=98f7f80d-dfde-4470-af23-d03c95b4f927&ads._fw_vcid2=512116:98f7f80d-dfde-4470-af23-d03c95b4f927&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99951264&ads._fw_ifa_type=
 
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack",Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=762f5b44-99c4-4afc-a0ab-2be9971dbfb6&ads._fw_vcid2=512116:762f5b44-99c4-4afc-a0ab-2be9971dbfb6&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://image.xumo.com/v1/channels/channel/99951269/168x168.png?type=color_onBlack",RACER Select
+https://dbrb49pjoymg4.cloudfront.net/10001/99951269/hls/playlist.m3u8?ads.xumo_channelId=99951269&ads._fw_ifa_type=&ads._fw_did=e8843867-2ed2-4a8e-ae24-6ad545831101&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=MAVTVSelect&ads.csid=xumo_web_MAVTVSelect_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3974&ads.xumo_contentName=MAVTVSelect&ads.xumo_providerId=3974&ads.xumo_providerName=MAVTVSelect&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951269&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://image.xumo.com/v1/channels/channel/99951268/168x168.png?type=color_onBlack",SPEEDVISION
+https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268&ads._fw_ifa_type=&ads._fw_did=cf9653c9-ab81-4d69-8cb1-b371a5225acb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SPEEDVISION&ads.csid=xumo_web_SPEEDVISION_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3973&ads.xumo_contentName=SPEEDVISION&ads.xumo_providerId=3973&ads.xumo_providerName=SPEEDVISION&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951268&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
-
-
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://image.xumo.com/v1/channels/channel/99951249/168x168.png?type=color_onBlack",Top Gear
+https://dbrb49pjoymg4.cloudfront.net/10001/99951249/hls/playlist.m3u8?ads.xumo_channelId=99951249&ads._fw_ifa_type=&ads._fw_did=0d9caf8a-abe8-4f67-a5a4-a0fe01a3bea9&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BBCTopGear&ads.csid=xumo_web_BBCTopGear_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3953&ads.xumo_contentName=BBCTopGear&ads.xumo_providerId=3953&ads.xumo_providerName=BBCTopGear&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951249&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 
 
