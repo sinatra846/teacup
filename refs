@@ -714,7 +714,7 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260420_003645_0000.png?raw=true",CHANNEL | INDONESIA
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260505_194529.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
@@ -722,11 +722,11 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV 2
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260505_194529.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV 2
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 group-logo="https://balatack.my.id/Logobalatacktv.png"tvg-id="TRANSVISION" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV 3
+#EXTINF:-1 group-logo="https://balatack.my.id/Logobalatacktv.png"tvg-id="TRANSVISION" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260505_194529.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -734,11 +734,11 @@ https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NjUxZDdiY2MwMTY1MWYwYjZkMjEwMDk2L21hbmlmZXN0Lm1wZA==&code=777
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/TRANS7.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260505_195052.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/TRANS7.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 2
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260505_195052.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -750,10 +750,10 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb2
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/TRANS7.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 3
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260505_195052.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 3
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.png?raw=true" group-title="CHANNEL | INDONESIA",SCTV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260505_195458.png?raw=true" group-title="CHANNEL | INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
