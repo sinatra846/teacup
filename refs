@@ -798,11 +798,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV 
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" ch-number="13" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",indosiar
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" ch-number="13" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA", INDOSIAR DIGITECH
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA", INDOSIAR 2
 ##http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -818,7 +818,7 @@ http://202.169.224.202:8800/udp/239.4.4.2:1234
 #EXTINF:-1 xui-id="118" tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true" group-title="CHANNEL | INDONESIA", MENTARI TV
 https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBh5dWTd_lq48vH8_gJXkwQ4
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Moji.id" tvg-name="Moji.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true",Moji (Auto)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Moji.id" tvg-name="Moji.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true",MOJI (Auto)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
@@ -855,7 +855,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA"  tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true", TVOne (VD)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA"  tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true", TVONE (VD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
 
@@ -877,7 +877,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 
-#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/KOMPAS.1.png?raw=true" group-title="CHANNEL | INDONESIA", Kompas TV (V+)
+#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/KOMPAS.1.png?raw=true" group-title="CHANNEL | INDONESIA", KOMPAS TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -893,13 +893,21 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDONESIANA1.png?raw=true" group-title="CHANNEL | INDONESIA" tvg-id="IndonesianaTV.id" tvg-name="03. TV Nasional 2", Indonesiana TV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDONESIANA1.png?raw=true" group-title="CHANNEL | INDONESIA" tvg-id="IndonesianaTV.id" tvg-name="03. TV Nasional 2", INDONESIANA TV
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071314.png?raw=true", BN CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071135.png?raw=true" group-title="CHANNEL | INDONESIA", GARUDA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
@@ -916,9 +924,8 @@ https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",VTV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc","X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
 
 
 
