@@ -10131,16 +10131,15 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/GETIH%
 ======================================== VOD ACTION ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
-
-#EXTM3U
-#EXTINF:-1 tvg-id="cao" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/Carry_On_film_poster.jpg/250px-Carry_On_film_poster.jpg" group-title="VOD | ACTION",CARRY ON
+#EXTINF:-1 tvg-id="cao" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/Carry_On_film_poster.jpg/250px-Carry_On_film_poster.jpg" group-title="VOD | ACTION MOVIE",CARRY ON
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/CARRY%20ON.m3u8
+
 #EXTINF:-1 tvg-id="pptmt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR05hFAhB9n89eI5_vhdPH6cu9K7PLbKRSwFnHWEi-SnCPeCkA-7I51dl4a&s=10" group-title="VOD | ACTION MOVIE",PANDA PLAN: THE MAGICAL TRIBE (2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PANDA%20PLAN_%20THE%20MAGICAL%20TRIBE%20(2026).m3u8
-#EXTINF:-1 tvg-id="apx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKs-a-X14_g4qmYYpXa7ZZVKGFBnzoH1E7lhepBQJLV9MHjZTeIvis8G8&s=10" group-title="VOD | ACTION MOVIE",APEX (2026)
-https://github.com/sinatra846/andrasinatra/blob/main/APEX%20(2026).m3u8
+
 #EXTINF:-1 tvg-id="fze" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMnIZ6DHLyMIBAjA3ffpGSjQwqxtmir7sZLCpoKSop7SZ0LBqf8q5ZyhA&s=10" group-title="VOD | ACTION MOVIE",FUZE 2026
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/FUZE%20(2026).m3u8
+
 #EXTINF:-1 tvg-id="srloh" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQxZmEzMzYtODM5MC00NTFhLTk4NTItMmNmNDhiNTMxMGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",STORM RIDER: LEGEND OF HAMMERHEAD (2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/STORM%20RIDER_%20LEGEND%20OF%20HAMMERHEAD%20(2026).m3u8
 
