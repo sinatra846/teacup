@@ -2660,6 +2660,96 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a43
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+
+=======KAMPIUN==========
+
+#EXTINF:0 tvg-id="ChampionsGolf1HD" tvg-name="Champions Golf 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/40/Logo_Champions_TV_Golf_1.png" group-title="CHANNEL | SPORTS", Champions Golf 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=c53012b08edf478187064665dde647cb:5390bb924b102d566b9e59afbdc08fab
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
+
+#EXTINF:0 tvg-id="ChampionsGolf2HD" tvg-name="Champions Golf 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/Logo_Champions_TV_Golf_2.png" group-title="CHANNEL | SPORTS", Champions Golf 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="CHANNEL | SPORTS", Champions TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6685&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="CHANNEL | SPORTS", Champions TV 1 (Alternative)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="CHANNEL | SPORTS", Champions TV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="CHANNEL | SPORTS", Champions TV 2 (Alternative)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="CHANNEL | SPORTS", Champions TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 3 (Alternative)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="CHANNEL | SPORTS", Champions TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-name="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="CHANNEL | SPORTS", Champions TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="Premier League" tvg-name="Premier League" tvg-logo="https://object-streamo.emonaja.com/img/premierleague.png" group-title="CHANNEL | SPORTS", Premier League TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=dash
+
+
 =======OTHERS2==========
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="CHANNEL | SPORTS", FUBO SPORTS 1
@@ -2685,7 +2775,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Porto Sp
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
-
 
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Aym Sport
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
