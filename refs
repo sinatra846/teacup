@@ -911,6 +911,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/OXYGEN%20TV.png?raw=true" group-title="CHANNEL | INDONESIA",Oxygen TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
+#EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTARA%20TV.png?raw=true" group-title="CHANNEL | INDONESIA",ANTARA TV
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+
+
 
 =========================================== LOKAL NASIONAL 2 ===========================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260420_003645_0000.png?raw=true",CHANNEL | INDONESIA 2
