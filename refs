@@ -8297,7 +8297,7 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb2
 
 
 =============TVRI GROUP==============
-#EXTINF:-1 https://github.com/sinatra846/iptv-assets-/blob/main/TVRI%20GROUP.png?raw=true",CHANNEL | TVRI GROUP
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI%20GROUP.png?raw=true",CHANNEL | TVRI GROUP
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrijtown.jpg" group-title="CHANNEL | TVRI GROUP",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
