@@ -707,7 +707,7 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 ####################################################
-############# TV  TV Nasional #########################
+############# TV Nasional #########################
 ####################################################
 ####################################################
 
@@ -903,11 +903,6 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/NUSANTARA.png?raw=true" group-title="CHANNEL | INDONESIA",NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",iNews
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -915,6 +910,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-id="CNBC.Asia.id" tvg-name="CNBC Asia" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNBC.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNBC ASIA
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+
+#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNBC.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BLOOMBERG.1.png?raw=true" group-title="CHANNEL | INDONESIA",Bloomberg
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -924,7 +923,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.
 
 
 #EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTARA%20TV.png?raw=true" group-title="CHANNEL | INDONESIA",ANTARA TV
-
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",iNews
 
 
 =========================================== LOKAL NASIONAL 2 ===========================================
