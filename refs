@@ -1941,15 +1941,8 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", 15:22 WIB 04/05/26 PERSIB vs PSIM Jogja - BRI Super League 1C
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xemJ3di8xOTM1My5xZXo_cXJpX3hueHZfMDkmZz0xNzc3ODk1MDIwJmh2Yz0ybjA2JTNOOThwMCUzTjM2MDAlM04lM04xMDMmdT01cTNuNXI5ODkzbzJuOXE2czgwczUwczRvNXBuOTlwcTk4OTg0NjMxOTk0bjdvOXI4czNxbnNvNjMzM3MyMjAyfDE3Nzg0ODkwMjE
-
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 2
-http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 2
+http://filex.me:8080/live/ch78978977/77899787ch/302264.ts
 
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 3
 http://opplextv.cyou:8080/nasir6160/nasir/350972
@@ -1962,12 +1955,6 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=live1&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 1A
 http://103.148.44.38:8000/play/a05c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 2B DEWA UNITED VS PERSIK 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-#https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
