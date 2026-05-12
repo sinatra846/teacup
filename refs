@@ -3247,6 +3247,20 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="CHANNEL | SPORTS",SPTV7
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv7.m3u8
 
+======JAPAN SPORTS==========
+
+#EXTINF:-1 tvg-id="JSPORTS1.jp@SD" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="CHANNEL | SPORTS", J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 tvg-id="JSPORTS2.jp@SD" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="CHANNEL | SPORTS", J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 tvg-id="JSPORTS3.jp@SD" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="CHANNEL | SPORTS", J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1 tvg-id="JSPORTS4.jp@SD" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="CHANNEL | SPORTS", J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
 =======ERROR==========
 
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", GO3 1
