@@ -1773,18 +1773,51 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 =========================================== HBO GROUP ===========================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",group-title="CHANNEL | HBO GRUB"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",group-title="CHANNEL | HBO GRUB
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://iili.io/Ju79f8g.png" group-title="CHANNEL | HBO GRUB",HBO ( 2 )
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://iili.io/Ju79nwv.png" group-title="CHANNEL | HBO GRUB",HBO Hits ( 2 )
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3284600346800000.mpd
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://iili.io/Ju79otR.png" group-title="CHANNEL | HBO GRUB",HBO Family ( 2 )
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://iili.io/Ju79IMN.png" group-title="CHANNEL | HBO GRUB",HBO Signature ( 2 )
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3284600346800000.mpd
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://iili.io/Ju79znp.png" group-title="CHANNEL | HBO GRUB",Cinemax ( 2 )
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3284600346800000.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="CHANNEL | HBO GRUB",HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmI2MDg4YzMwMTZiODdkNjRiOTcwYjUzL21hbmlmZXN0Lm1wZA==&code=777
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="group-title="CHANNEL | HBO GRUB",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU0ZmJmNjczNzlmL21hbmlmZXN0Lm1wZA==&code=777
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="group-title="CHANNEL | HBO GRUB",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU1OTI3ZmUzN2E0L21hbmlmZXN0Lm1wZA==&code=777
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="CHANNEL | HBO GRUB",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU1MmUwY2EzN2EyL21hbmlmZXN0Lm1wZA==&code=777
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png"  group-title="CHANNEL | HBO GRUB",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8xLzQwMjhjNjg1NmMzZGIyY2MwMTZjZGJmYzRhMTkzNGJmL21hbmlmZXN0Lm1wZA==&code=777
+
+
+
+
 
 =====================================HBO2==========================================================
 
