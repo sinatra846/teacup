@@ -10425,14 +10425,34 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/War%20
 
 #EXTINF:-1 tvg-id="kpa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCU-uLlYGl4MuujE-QH6pcqh96fj6tB6ijHl8zKelrg&s=10" group-title="VOD | KIDS ANIMATION",KUNG FU PANDA
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Kung%20Fu%20Panda.m3u8
+
 #EXTINF:-1 tvg-id="smgm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSev1uW0S0fx0iu4T9uMmlyPdqftKugOJeFS0fHUpm9Dg&s=10" group-title="VOD | KIDS ANIMATION",SUPER MARIO GALAXY MOVIE
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Super%20Mario%20Galaxy%20Movie.m3u8
+
 #EXTINF:-1 tvg-id="swp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKF-cLRVpdrnqnCRnAcOQxvvF8Jr-whFQNgcPM5A46Q&s=10" group-title="VOD | KIDS ANIMATION",SWAPPED
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/swp.m3u8
+
 #EXTINF:-1 tvg-id="tloatla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLwEJBb_dOEp5JQaPX4GJQRmq2Fem9SsEjUZWAbO6FA&s" group-title="VOD | KIDS ANIMATION",THE LEGEND OF AANG: THE LAST AIRBENDER
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Aang_%20The%20Last%20Airbender%20(1).m3u8
+
 #EXTINF:-1 tvg-id="nbd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVbT5w8bDF4ZUEZxhEvg5v0Eeb6DcLAjj0SwfaZeUAA&s=10" group-title="VOD | KIDS ANIMATION",NOBODY
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Nobody.m3u8
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Nobody.m3u8#EXTM3U
+
+#EXTINF:-1 tvg-id="hprs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_03JUNW2DY_QKIm2N2Nghm6uCNL3TQ4AdKuCcbrDTQ&s" group-title="VOD | KIDS ANIMATION",HOPPERS
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Hoppers.m3u8
+
+#EXTINF:-1 tvg-id="goat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkch6NBHC2BDkHWhTy5N96c5hOayZC9Y5tc13mzj7OzA&s=10" group-title="VOD | KIDS ANIMATION",GOAT
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/GOAT.m3u8
+
+#EXTINF:-1 tvg-id="ctw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEPf2dNIMhU4DN6IuPMMwbTDD9V5LHTWXNrBp1h6yEQ&s" group-title="VOD | KIDS ANIMATION",CHARLIE THE WONDERDOG
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Charlie%20the%20Wonderdog.m3u8
+
+#EXTINF:-1 tvg-id="afaa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugOr7Mt1QciaTT16M8U1GrdjgF6jThCo0x4PnJeFWMg&s=10" group-title="VOD | KIDS ANIMATION",AVATAR FIRE AND ASH (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Avatar%20Fire%20and%20Ash%20(2025).m3u8
+
+#EXTINF:-1 tvg-id="asp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_30Zc8JA-SSYSwRXm0GETRpxBTVgdoPhiD9qwYxV6g&s=10" group-title="VOD | KIDS ANIMATION ",A SUPER PROGRESSIVE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/A%20Super%20Progressive.m3u8
+
 
 
 
