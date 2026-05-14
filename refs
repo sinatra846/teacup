@@ -10226,19 +10226,15 @@ https://live2.pro2cdnlive.com/live/channel52.m3u8
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 013/MEI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/89/ASEAN_Club_Championship_SP_logo.png", 17:30 WIB Nam Dinh vs Selangor
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kSmuHx7qFwHAOLc6PqyG_MwcWIyM4QodnA&s", 15:00 WIB Pool B: Jtekt Stings Aichi (JPN)  - Nakhonratchasima QminC VC (THA) (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://live2.pro2cdnlive.com/live/channel50.m3u8
 
-#EXTINF:-1 group-title="EVENT 013/MEI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/89/ASEAN_Club_Championship_SP_logo.png", 19:00 WIB Buriram United vs Johor Darul Ta'zim
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kSmuHx7qFwHAOLc6PqyG_MwcWIyM4QodnA&s", 19:00 WIB Pool B: Foolad Sirjan Iranian (IRI) - Jakarta Garuda Jaya (INA) (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://live2.pro2cdnlive.com/live/channel50.m3u8
 
 <================================================>
 
@@ -10259,13 +10255,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 ##############################LIVE EVENT 2###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Manchester City vs Crystal Palace
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:00 WIB Villarreal vs Sevilla
+#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:00 WIB Valencia vs Rayo Vallecano
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10273,95 +10263,32 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:00 WIB Espanyol vs Athletic Club
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:30 WIB Getafe vs Mallorca
+#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 01:00 WIB Girona vs Real Sociedad
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpds
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:30 WIB Deportivo Alavés vs Barcelona#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:30 WIB Real Madrid vs Real Oviedo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 00:00 WIB Brest vs Strasbourg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:00 WIB Lens vs PSG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
-https://live1.pro2cdnlive.com/live/channel2.m3u8?wsSecret=5e8c137b8aeddb3d71a893935a5b9cd2&wsABSTime=1778704832
-
-#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://shorter.me/5fhlk", 02:00 WIB Lazio vs Internazionale
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
 <=================== Badminton =============================>
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:-1 tvg-name="[LIVE] 09:00 WIB 13/05/26 Pornpawee Chochuwong (THA) vs Unnati Hooda (IND) - Women's Singles Round of 32 | TOYOTA Thailand Open 2026" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a1hvS87WvDV3kR-zgmNfOmt8VcA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072823/e9c4ab.jpg" group-title="EVENT 013/MEI/2026", [LIVE] 09:00 WIB 13/05/26 Pornpawee Chochuwong (THA) vs Unnati Hooda (IND) - Women's Singles Round of 32 | TOYOTA Thailand Open 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE4MjQ5LnFlenwxNzc5MjUzMjcx
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE4MjQ5LnpjcXwxNzc5MjUzMjcx
-
-#EXTINF:-1 tvg-name="[LIVE] 09:00 WIB 13/05/26 Shi Yu Qi (CHN) vs Anthony Sinisuka Ginting (INA) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6MEr99EVuZRdxaCXRHu3VnH1wx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072837/da2b35.jpg" group-title="EVENT 013/MEI/2026", [LIVE] 09:00 WIB 13/05/26 Shi Yu Qi (CHN) vs Anthony Sinisuka Ginting (INA) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE4MjUwLnFlenwxNzc5MjUzMjcx
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE4MjUwLnpjcXwxNzc5MjUzMjcx
-
-#EXTINF:-1 tvg-name="[LIVE] 09:00 WIB 13/05/26 Koki Watanabe (JPN) vs Tharun Mannepalli (IND) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5cSvXxAVB3ReWorpbNI6iXwhE7g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072853/595820.jpg" group-title="EVENT 013/MEI/2026", [LIVE] 09:00 WIB 13/05/26 Koki Watanabe (JPN) vs Tharun Mannepalli (IND) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE4MjUyLnFlenwxNzc5MjUzMjcx
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE4MjUyLnpjcXwxNzc5MjUzMjcx
-
-#EXTINF:-1 tvg-name="[LIVE] 09:10 WIB 13/05/26 Huang Yu-Hsun (TPE) vs Amalie Schulz (DEN) - Women's Singles Round of 32 | TOYOTA Thailand Open 2026" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4bf9jBvvM5jv1doU7fQm7IXMbR8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072868/111c97.jpg" group-title="EVENT 013/MEI/2026", [LIVE] 09:10 WIB 13/05/26 Huang Yu-Hsun (TPE) vs Amalie Schulz (DEN) - Women's Singles Round of 32 | TOYOTA Thailand Open 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE4MjUzLnFlenwxNzc5MjUzMjcx
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE4MjUzLnpjcXwxNzc5MjUzMjcx
+#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOWrYWcxQuStsyqLahrIgC8kSRP927h-SiQ&s", 09:00 WIB Thomas & Uber Cup Finals 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4203726120330061_AiSD.m3u8?txSecret=10176e2b105c909fdfb5a3d60bdb9163&txTime=6A066200
+#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOWrYWcxQuStsyqLahrIgC8kSRP927h-SiQ&s", 09:00 WIB Thomas & Uber Cup Finals 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4203726308666061_AiSD.m3u8?txSecret=9d85872e4d3fc87e7f961e3255fe6673&txTime=6A066200
+#EXTINF:-1 group-title="EVENT 014/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOWrYWcxQuStsyqLahrIgC8kSRP927h-SiQ&s", 09:00 WIB Thomas & Uber Cup Finals 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4203726496532061_AiSD.m3u8?txSecret=6008168476fbf0c31de5fc6f7d189ff8&txTime=6A066200
 
 <================>
 
