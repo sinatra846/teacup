@@ -1160,8 +1160,22 @@ https://jakarta.staratv.id/hls/0/stream.m3u8
 https://stream.matrixtv.id/hls/1/stream.m3u8
 
 
+
+
 =========================================== DAERAH ===========================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260420_003645_0000.png?raw=true",CHANNEL | DAERAH
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",Kawanua TV
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="Jawapos TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",Jawapos TV Madiun
+http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -1213,8 +1227,20 @@ http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" group-title="CHANNEL | DAERAH", JTV 1 (VD)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=dash
+
 #EXTINF:-1 tvg-id="" tvg-name="JITV Jogja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3EM-5RBWcPoyEOnpEtsbdwCbDglpzJ_kPiJfmP3T4w&s=10" group-title="CHANNEL | DAERAH",JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://jitv.jogjaprov.go.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://i.imgur.com/VEqQfTu.png",JITV Jogja
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1213012954.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="SaktiTV" tvg-name="Sakti TV" tvg-logo="https://iili.io/JbtnzXt.png" group-title="CHANNEL | DAERAH", Sakti TV
@@ -1229,35 +1255,15 @@ http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtnipp.png" group-title="CHANNEL | DAERAH",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
-
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtnakl.png" group-title="CHANNEL | DAERAH",TATV
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" group-title="CHANNEL | DAERAH",Sangaji TV
- 
-#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="CHANNEL | DAERAH",Jogja TV
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="CHANNEL | DAERAH",Semarang TV
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdeMKgc7EWm2kjkwNGXa5JrMMLegbaRlTAX0xcrl54A&s=10" group-title="CHANNEL | DAERAH",Surabaya TV (Ga 24 Jam)
 https://e.siar.us/live/surabayatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnMBe.png" group-title="CHANNEL | DAERAH",Arek TV
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbtozyQ.png" group-title="CHANNEL | DAERAH",PKTV
- 
-#EXTINF:-1 tvg-logo="https://iili.io/Jyi8zhB.png" group-title="CHANNEL | DAERAH",AKTV
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" group-title="CHANNEL | DAERAH",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtn43J.png" group-title="CHANNEL | DAERAH",BETV
-
-#EXTINF:-1 tvg-logo="https://iili.io/Jbto9af.png" group-title="CHANNEL | DAERAH",Jaya TV
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbtoTuV.png" group-title="CHANNEL | DAERAH",Prima TV
-
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="CHANNEL | DAERAH",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
  
@@ -1272,6 +1278,17 @@ http://live.rbtvjogja.tv/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68gIlLKiKBz0I3Sm91Du3kUshLw3tlKN_daCN8p9Hkg&s" group-title="CHANNEL | DAERAH",Radar TV Tasikmalaya (Ga 24 Jam)
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="CHANNEL | DAERAH",SMTV Sumedang
+http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
+
+
+
+
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -1302,8 +1319,40 @@ https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnILX.png" group-title="CHANNEL | DAERAH",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwr1bT7cGoI_8w7XuKoGNZ1J4i3wuK25di5YApZE3uvg&s=10" group-title="CHANNEL | DAERAH",LINGKAR TV
+#EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="CHANNEL | DAERAH",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="CHANNEL | DAERAH",Timor TV
+http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://i.imgur.com/8cFJa8G.png" group-title="CHANNEL | DAERAH",Sampit TV
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | DAERAH" "" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png",DavikaTV Lampung
+https://5bf7b725107e5.streamlock.net/davika/davika/chunklist_w997967539.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png",CarubanTV
+https://stream.carubantv.id/hls/0/stream.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="CHANNEL | DAERAH",Salira TV
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+
+
 
 
 
@@ -1312,8 +1361,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://warningfm.github.io/v3/img/RFYcXrq.png?v=1.0.0.1" group-title="CHANNEL | DAERAH", Inspira TV
 
 #EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="CHANNEL | DAERAH", JakTV
-
-#EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-logo="https://iili.io/dA8evOF.png" group-title="CHANNEL | DAERAH", Jawa Pos TV
 
 #EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png" group-title="CHANNEL | DAERAH",JAK TV (IHT)
 
@@ -1324,6 +1371,34 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="tvkesehatan.id" tvg-name="TV Kesehatan" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="CHANNEL | DAERAH", TV Kesehatan
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtoqGe.png" group-title="CHANNEL | DAERAH",MGS TV
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnMBe.png" group-title="CHANNEL | DAERAH",Arek TV
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtozyQ.png" group-title="CHANNEL | DAERAH",PKTV
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jyi8zhB.png" group-title="CHANNEL | DAERAH",AKTV
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtn43J.png" group-title="CHANNEL | DAERAH",BETV
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto9af.png" group-title="CHANNEL | DAERAH",Jaya TV
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtoTuV.png" group-title="CHANNEL | DAERAH",Prima TV
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" group-title="CHANNEL | DAERAH",Sangaji TV
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="CHANNEL | DAERAH",Jogja TV
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="CHANNEL | DAERAH",Semarang TV
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" group-title="CHANNEL | DAERAH",Sangaji TV
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="CHANNEL | DAERAH",Jogja TV
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="CHANNEL | DAERAH",Semarang TV
+
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
+
+
 
 
 
