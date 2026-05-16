@@ -10347,58 +10347,47 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 15:40 WIB MotoGP Free Practice 1: Monster Energy Grand Prix of Catalunya - MotoGP 2026 Round 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:50 WIB MotoGP Practice: Monster Energy Grand Prix of Catalunya - MotoGP 2026 Round 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://iili.io/fetJgpV.png", 17:02 WIB Suntory Sunbirds Osaka - Osaka Bluteon | Finals - Round 1 (2)
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://iili.io/fetJgpV.png", 14:05 WIB Suntory Sunbirds Osaka - Osaka Bluteon | Finals - Round 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
 https://live2.pro2cdnlive.com/live/channel50.m3u8
 
-<================================================>
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Persebaya Surabaya
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://stream.titanlivescore.com/live/LXSCORE-4880033.m3u8
-
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Persebaya Surabaya
-https://pullsgp.yyzb456.top/live/stream-233418_lhd.m3u8
-
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Persebaya Surabaya
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kSmuHx7qFwHAOLc6PqyG_MwcWIyM4QodnA&s", 15:00 WIB Semi-Final: Jtekt Stings Aichi (JPN) - Foolad Sirjan Iranian (IRI) (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
-https://live2.pro2cdnlive.com/live/channel6.m3u8
-
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB PSBS Biak Numfor vs Arema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
-https://live2.pro2cdnlive.com/live/channel4.m3u8
-
-<===============================================
-
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjSi_BVcMhWgLKFqmsp3GuPEXE3DdMoCFM2Q&s", 23:00 WIB Jepang U-17 vs Tajikistan U-17
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://live2.pro2cdnlive.com/live/channel51.m3u8
 
 
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 14:50 WIB MotoGP Free Practice 2: Monster Energy Grand Prix of Catalunya - MotoGP 2026 Round 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:30 WIB MotoGP Tissot SPRINT: Monster Energy Grand Prix of Catalunya - MotoGP 2026 Round 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 <================================================>
 
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persik Kediri vs Persija
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://live1.pro2cdnlive.com/live/channel16.m3u8?wsSecret=bd3c82a0c3434be96a8703f8b9751e90&wsABSTime=1778950106
+
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Malut United vs Persita
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://live3.procdnlive.com/livecdn/channel64.flv?auth_key=3000001778907041-0-0-de6c5d9128cc2ab75ba5fa6273dab3ed
+
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persis Solo vs Dewa United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://live2.pro2cdnlive.com/live/channel25.m3u8
 
 
 <================================================>
@@ -10409,30 +10398,34 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 ##############################LIVE EVENT 2###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Aston Villa vs Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://iili.io/fetJgpV.png", 14:05 WIB Suntory Sunbirds Osaka - Osaka Bluteon | Finals - Round 2 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://live2.pro2cdnlive.com/live/channel50.m3u8
 
-#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 01:30 WIB Saint-Étienne vs Rodez
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kSmuHx7qFwHAOLc6PqyG_MwcWIyM4QodnA&s", 15:00 WIB Semi-Final: Jtekt Stings Aichi (JPN) - Foolad Sirjan Iranian (IRI) (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://live2.pro2cdnlive.com/live/channel51.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 14:50 WIB MotoGP Free Practice 2: Monster Energy Grand Prix of Catalunya - MotoGP 2026 Round 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 group-title="EVENT 016/MEI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:30 WIB MotoGP Tissot SPRINT: Monster Energy Grand Prix of Catalunya - MotoGP 2026 Round 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOWrYWcxQuStsyqLahrIgC8kSRP927h-SiQ&s", 12:00 WIB Thomas & Uber Cup Finals 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4203726816045061_AiSD.m3u8?txSecret=0c8caa62f3f1c32219ffa966e7b54333&txTime=6A07DDB0
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOWrYWcxQuStsyqLahrIgC8kSRP927h-SiQ&s", 12:00 WIB Thomas & Uber Cup Finals 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4203727019500061_AiSD.m3u8?txSecret=eb3a859a282baf0c098ab950e9b978c1&txTime=6A07DDB0
-#EXTINF:-1 group-title="EVENT 015/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOWrYWcxQuStsyqLahrIgC8kSRP927h-SiQ&s", 12:00 WIB Thomas & Uber Cup Finals 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4213359881458061_AiSD.m3u8?txSecret=9e7a18588a6dba63e57d77040b889125&txTime=6A07DDB0
-
 
 <================>
 
@@ -10447,7 +10440,6 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 
 
 <================>
-
 
 
 ========================================== VOD KOREA ===========================================
