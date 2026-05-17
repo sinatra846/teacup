@@ -3823,6 +3823,92 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
+============pilipinas live============
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="CHANNEL | SPORTS", Pilipinas Live 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="CHANNEL | SPORTS", Pilipinas Live 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="CHANNEL | SPORTS", Pilipinas Live 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="CHANNEL | SPORTS", Pilipinas Live 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="CHANNEL | SPORTS", Pilipinas Live 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="CHANNEL | SPORTS", Pilipinas Live 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="CHANNEL | SPORTS", Pilipinas Live 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="CHANNEL | SPORTS", Pilipinas Live 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:1c7b9a2af9ad4076b155f06269b6adc2
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="CHANNEL | SPORTS", Pilipinas Live 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-1-th.png" group-title="CHANNEL | SPORTS", TRUE SPORTS 1
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+#http://119.59.118.168/live/ch9/irannahee/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-2-th.png" group-title="CHANNEL | SPORTS", TRUE SPORTS 2
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+#http://119.59.118.168/live/ch10/irannahee/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.postimg.cc/Gm50P82d/ezgif-735cb7498f822a39.png",MONO MAX 1
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+##http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130734.m3u8
+##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1776175.m3u8
+https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.postimg.cc/L69GrBYC/ezgif-760800d70bbaf49c.png",MONO MAX 2
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+##http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130726.m3u8
+##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1776176.m3u8
+https://love.verowo7190.workers.dev/lx-origin/th-monomax02_480/chunks.m3u8
+
 
 
 //========================================================================
