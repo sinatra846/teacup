@@ -2623,8 +2623,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 =========================================== SPORTS======================================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png",CHANNEL | SPORTS
-
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true",CHANNEL | SPORTS
 
 #EXTINF:-1 tvg-id="DAZN FAST.de" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="CHANNEL | SPORTS",DAZN FAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
