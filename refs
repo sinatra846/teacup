@@ -5908,14 +5908,26 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://mimipipi22.github.io/logo/entertainment/aniplus.jpg" group-title="CHANNEL | ENTERTAINMENT",ANIPLUS
-https://slive.mana2.my/AniPlus/index.mpd
-#https://cdn10jtedge.indihometv.com/atm/DASH/aniplus/manifest.mpd
-#https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 #EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/chinesedrama.jpg" group-title="CHANNEL | ENTERTAINMENT",CHINESE DRAMA
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/citradrama.jpg" group-title="CHANNEL | ENTERTAINMENT",CITRA DRAMA
 http://opplextv.cyou:8080/nasir6160/nasir/350925
+
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-drama-id.png",CITRA DRAMA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=386eb62b9787c4fce02eac827ca8c72d:51c053c2760a769ff3e9c5e5b521f8f1
+https://bosstv.asia/yabostv/21179.mpd
+
+#EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://i.postimg.cc/fTrpMLRx/ezgif-756810558f164e90.png",CITRA PLUS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21289&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21289&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
