@@ -4292,93 +4292,179 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl5&type=m3u8
 
 #######################################################################
 ############ INDIHOME #################################################
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CHANNEL_20260425_092522_0000.png?raw=true",CHANNEL | MAXTRIM
 
 
+#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CHANNEL_20260425_092522_0000.png?raw=true",CHANNEL | INDIHOME
+#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Indosiar 
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Sctv 
-http://202.169.224.202:8800/udp/239.9.1.29:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",Moji
-http://202.169.224.202:8800/udp/239.9.1.32:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Mnctv 
-http://202.169.224.202:8800/udp/239.9.1.34:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", VTV 
-http://202.169.224.202:8800/udp/239.9.1.39:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Rock action 
-http://202.169.224.202:8800/udp/239.9.1.1:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Rock entertainment 
-http://202.169.224.202:8800/udp/239.9.1.8:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Citra drama 
-http://202.169.224.202:8800/udp/239.9.1.12:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Citra musik 
-http://202.169.224.202:8800/udp/239.9.1.14:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Citra bioskop 
-http://202.169.224.202:8800/udp/239.9.1.15:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Citra entertainment 
-http://202.169.224.202:8800/udp/239.9.1.27:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",Citra Dangdut
-http://202.169.224.202:8800/udp/239.9.1.13:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",Citra Muslim
-http://202.169.224.202:8800/udp/239.9.1.14:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",TVN
-http://202.169.224.202:8800/udp/239.9.1.20:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Kix 
-http://202.169.224.202:8800/udp/239.9.1.21:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", CCM 
-http://202.169.224.202:8800/udp/239.9.1.22:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", CELESTIAL movie 
-http://202.169.224.202:8800/udp/239.9.1.23:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", IDX 
-http://202.169.224.202:8800/udp/239.9.1.36:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", NEX 
-http://202.169.224.202:8800/udp/239.9.1.32:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Hip hip hoore 
-http://202.169.224.202:8800/udp/239.9.1.28:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",Dreamwork
-http://202.169.224.202:8800/udp/239.9.1.19:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Horee 
-http://202.169.224.202:8800/udp/239.9.1.26:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Nickeledeon 
-http://202.169.224.202:8800/udp/239.9.1.17:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Nick.jr 
-http://202.169.224.202:8800/udp/239.9.1.18:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Champion 1 
-http://202.169.224.202:8800/udp/239.9.1.9:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Champion 2 
-http://202.169.224.202:8800/udp/239.9.1.10:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Champion 3 
-http://202.169.224.202:8800/udp/239.9.1.11:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", BBC lifestyle 
-http://202.169.224.202:8800/udp/239.9.1.31:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", BBC eartt 
-http://202.169.224.202:8800/udp/239.9.1.30:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", HGTV 
-http://202.169.224.202:8800/udp/239.9.1.3:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", NHK world 
-http://202.169.224.202:8800/udp/239.9.1.2:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", TLC 
-http://202.169.224.202:8800/udp/239.9.1.4:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Food network 
-http://202.169.224.202:8800/udp/239.9.1.5:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Discovery 
-http://202.169.224.202:8800/udp/239.9.1.6:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Animal Planet 
-http://202.169.224.202:8800/udp/239.9.1.7:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",AFN
-http://202.169.224.202:8800/udp/239.9.1.5:1234
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",BBC news
-http://202.169.224.202:8800/udp/239.9.1.24:1234
+#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="GTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="MAXReels.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg",MAXReels
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="MAXEats.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",MAXEats
+https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="MAXStreak.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg",MAXStreak
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="FashionTVAsia.fr@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fashiontv.png",Fashion TV
+https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="AntaraTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-AntaraTV_2025_10_24_15_50_32.jpg",Antara TV
+https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="BaliTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_balitv.png",Bali TV
+https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="JakTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png",JakTV
+https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="JawaPosTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png",JawaPos TV
+https://cdnbal1.indihometv.com/atm/DASH/jawapos/jawapos-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
+https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
+https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="IDXChannel.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
+https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="iNews.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
+https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="NusantaraTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV
+https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="SinPoTV.id@HD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
+https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png",SindoNews
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="tvOne.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
+https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="TVRI.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI
+https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI World
+https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="JTV.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png",JTV
+https://cdnbal1.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="ABCAustralia.au@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_abcaustrlia.png",ABC Australia
+https://cdnbal1.indihometv.com/atm/DASH/ABC_AUSTRALIA/ABC_AUSTRALIA-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_arirang.png",Arirang
+https://cdnbal1.indihometv.com/atm/DASH/ARIRANG/ARIRANG-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN
+https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cctv4.png",CCTV4
+https://cdnbal1.indihometv.com/atm/DASH/CCTV_4/CCTV_4-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="HITS.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hits.png",HITS
+https://cdnbal1.indihometv.com/atm/DASH/hits/hits-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="HITSMovies.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsmovies.png",HITS Movies
+https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="KPlus.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kplus.png",K Plus
+https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="KIX.hk@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kix.png",KIX
+https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="NewTVComprehensive.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvcompre.png",New TV Comprehensive
+https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/newtvcomprehensive-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="NewTVFinance.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvfinance.png",New TV Finance
+https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/newtvfinance-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="NewTVVariety.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvvariety.png",New TV Variety
+https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/newtvvariety-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png",ROCK Action
+https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockent.png",ROCK Entertainment
+https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv5monde.png",TV5Monde
+https://cdnbal1.indihometv.com/atm/DASH/tv5monde/tv5monde-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="WarnerTVAsia.us@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_warnertv.png",Warner TV
+https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary
+https://cdnbal1.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/CGTN_DOCUMENTARY-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_discovery.png",Discovery Channel
+https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="BoomerangAsia.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",Cartoonito
+https://cdnbal1.indihometv.com/atm/DASH/boomerang/boomerang-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies
+https://cdnbal1.indihometv.com/atm/DASH/cbeebies/cbeebies-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="MAXKids.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",MAXKids
+https://cdnbal1.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="MyKidz.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png",My Kidz
+https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nick.png",Nickelodeon
+https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/nickelodeon-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
+https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Zee Bioskop
+https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
+https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg",HBO Family
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg",HBO Hits
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg",HBO Signature
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="Prambors.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_prambors.png",Prambors
+https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="FightSports.us@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fightsport.png",Fight Sports
+https://cdnbal1.indihometv.com/atm/DASH/fightsport/fightsport-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="MAXSports.id@SD" group-title="MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",MAXSports
+https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
 
 
 
