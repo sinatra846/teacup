@@ -10744,14 +10744,19 @@ https://live2.pro2cdnlive.com/live/channel2.m3u8
 <=================== Badminton =============================>
 
 #EXTINF:-1 group-title="EVENT 022/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLNmfIZYqIqWSn5Ynw796G9sBjW55XIRZmA&s", 002 Perodua Malaysia Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4207151970580061_AiSD.m3u8?txSecret=5f5f4a0a16693213c33f9adc008277bd&txTime=6A10DFF0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel61.m3u8?wsSecret=66bb6ddde9b2be03d5d690da8c660c20&wsABSTime=1779463929
+
 #EXTINF:-1 group-title="EVENT 022/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLNmfIZYqIqWSn5Ynw796G9sBjW55XIRZmA&s", 002 Perodua Malaysia Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4207152151828061_AiSD.m3u8?txSecret=848e909f390a75f2ff36d5433d486691&txTime=6A10DFF0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel62.m3u8?wsSecret=2eddf54df01c748d9142131c1fa4a8be&wsABSTime=1779463602
+
 #EXTINF:-1 group-title="EVENT 022/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLNmfIZYqIqWSn5Ynw796G9sBjW55XIRZmA&s", 002 Perodua Malaysia Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4207152321084061_AiSD.m3u8?txSecret=d52769822dce0e19659a344efd02e40f&txTime=6A10DFF0
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel63.m3u8?wsSecret=67b7559a1100f96f8b37dd228ff6374c&wsABSTime=1779463369
 
 
 
