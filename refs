@@ -10650,20 +10650,50 @@ https://jmp2.uk/stvp-GB2600018PD
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+
+#EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://iili.io/3yG5Ig2.png", 22:55 WIB Sprint - Formula 1 Lenovo Grand Prix du Canada 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+<================>
+
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persebaya Surabaya vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel28.m3u8
+
+#EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persebaya Surabaya vs Persik Kediri
+https://d302.soft4game.com/o22/stream475/o/stream475/chunks.m3u8?nimblesessionid=77068208&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI2IDk6MTE6MDIgQU0maGFzaF92YWx1ZT1hSmphWTVGZ3prbm1oaE1DNWVCZWd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+
+<================>
 
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persib vs Persijap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel13.m3u8
 
+#EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persib vs Persijap
+https://pullsgp.yyzb456.top/live/stream-543840_lhd.m3u8
+
+#EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persib vs Persijap
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998220_1.m3u8?auth_key=1779614387-0-0-c511092d56af67f432d6953ce48ef70a
+
+<================>
+
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persija vs Semen Padang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel7.m3u8
+
+#EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persija vs Semen Padang
+https://d302.soft4game.com/o22/stream437/o/stream437/chunks.m3u8?nimblesessionid=77067941&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI2IDk6MDc6MjEgQU0maGFzaF92YWx1ZT1vMDAxdFpxKzEzZ1Qzd3IybDM1S2JnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+
+<================>
+
 
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persita vs Persis Solo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -10733,6 +10763,17 @@ https://live1.pro2cdnlive.com/live/channel62.m3u8?wsSecret=2eddf54df01c748d91421
 ##############################LIVE EVENT 2###############################
 
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+#EXTINF:-1 group-title="EVENT 024/MEI/2026" tvg-logo="https://iili.io/3yG5Ig2.png", 02:55 WIB Qualifying - Formula 1 Lenovo Grand Prix du Canada 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
+
 
 #EXTINF:-1 group-title="EVENT 024/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Real Madrid vs Athletic Club
 #KODIPROP:inputstreamaddon=inputstream.adaptive
