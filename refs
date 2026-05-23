@@ -10694,26 +10694,48 @@ https://d302.soft4game.com/o22/stream437/o/stream437/chunks.m3u8?nimblesessionid
 
 <================>
 
-
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persita vs Persis Solo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel8.m3u8
+
+#EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Persita vs Persis Solo
+https://d302.soft4game.com/o22/stream436/o/stream436/chunks.m3u8?nimblesessionid=77067869&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI2IDk6MDY6MjcgQU0maGFzaF92YWx1ZT1QSFRJQ1dlQk1MZEtnNlFwQjNaMWdBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Borneo vs Malut United
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://stream.titanlivescore.com/live/LXSCORE-4880043.m3u8
 
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Borneo vs Malut United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel17.m3u8
 
+#EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Borneo vs Malut United
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998229_1.m3u8?auth_key=1779614347-0-0-b51b3d4c81d7f0c8cf44146035fe7036
+
+<================>
+
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Madura United vs PSM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel23.m3u8
 
+#EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Madura United vs PSM
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998223_1.m3u8?auth_key=1779614447-0-0-81898270f36a1e6c5e8b9b98bbc0679f
+
+<================>
+
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 16:00 WIB Bhayangkara vs PSBS Biak Numfor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel9.m3u8
+
+<================================================>
 
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 23:00 WIB Bologna vs Internazionale
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -10722,6 +10744,8 @@ https://live2.pro2cdnlive.com/live/channel9.m3u8
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+<================>
 
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 21:30 WIB Hull City vs Middlesbrough
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -10733,21 +10757,12 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 
 
-
-
-
-
-
-
-
-
 <=================== Badminton =============================>
 
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLNmfIZYqIqWSn5Ynw796G9sBjW55XIRZmA&s", 11:00 WIB Perodua Malaysia Masters 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4207152795340061_AiSD.m3u8?txSecret=dc326016fcc406d190a326f19820116f&txTime=6A125BA0
 #EXTINF:-1 group-title="EVENT 023/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLNmfIZYqIqWSn5Ynw796G9sBjW55XIRZmA&s", 11:00 WIB Perodua Malaysia Masters 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4207152970511061_AiSD.m3u8?txSecret=60807365ac5aab8bf7f09020049013a2&txTime=6A125BA0
-
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLNmfIZYqIqWSn5Ynw796G9sBjW55XIRZmA&s", 002 Perodua Malaysia Masters 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -10771,9 +10786,6 @@ https://live1.pro2cdnlive.com/live/channel62.m3u8?wsSecret=2eddf54df01c748d91421
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-
-
 
 #EXTINF:-1 group-title="EVENT 024/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Real Madrid vs Athletic Club
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -10800,6 +10812,8 @@ https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+
+<================>
 
 #EXTINF:-1 group-title="EVENT 024/MEI/2026" tvg-logo="https://shorter.me/F5SHu", 01:00 WIB Bayern München vs Stuttgart
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
