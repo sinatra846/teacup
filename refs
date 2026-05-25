@@ -505,26 +505,24 @@ https://mimipipi22.github.io/logo/offline.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_musikindonesia.png",Musik Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/95/LogoBahanaFMJKT.png/250px-LogoBahanaFMJKT.png",BAHANA RADIO MUSIC
+https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWF5iy7pz8qWStADdt3lRs1bQb465KYE7Yg&s", IMTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-id="popmusic.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-information-channel-id.png",MIC TV
 https://mic.siar.us/mic/live/mic_720p.m3u8
 
 #EXTINF:-1 tvg-id="@OfficialNoahMusic" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20250615_180354.png" group-title="CHANNEL | MUSIC" tvg-logo="https://raw.githubusercontent.com/MayangTV/ya2m/refs/heads/master/20220917_112745.png",NOAH
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCXWOf2fdWef8tbv1X27JHzw
+
 #EXTINF:-1 tvg-id="@AquariusMusikindo" group-title="CHANNEL | MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-zCRUEDnwVrwarHA2VORu3SSl_LZFgUDs3zDE3r9IP9HObc-1gqLUMTI6Yt_8rz4OqgrQen90vQXv8upPQM9xR9QqcCrAgr79_Pw6OeR_gguix0Ndg__F2O8ZOLvhAw_kA1E-VkiyiDu/s280/Logo-aquarius.JPG",AQUARIUS
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCpJRmMTfdv0iPbnjo6qBw_g
 
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-id="Musica.id" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20250615_180354.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg",MUSICA
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=widevine 
-#KODIPROP:inputstream.adaptive.license_key=http://bacot.full.diskon.cloud/vidio/7619.drm
-http://bacot.full.diskon.cloud/vidio/7619.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.pinimg.com/236x/94/90/6f/94906fc8c2fe3921e5e17355390b22cc.jpg",Citra Dangdut
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -532,9 +530,9 @@ http://bacot.full.diskon.cloud/vidio/7619.mpd
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/22/44/fe/2244fe2b778aadf323c1359486416573.jpg" group-title="CHANNEL | MUSIC",PRAMBORS
+#EXTINF:-1 tvg-id="Prambors.id@SD" group-title="CHANNEL | MUSIC" tvg-logo="https://i.pinimg.com/236x/22/44/fe/2244fe2b778aadf323c1359486416573.jpg",PRAMBORS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=6-3278332010000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.pinimg.com/236x/e4/16/98/e41698848ff97244dda961f637f3ea0e.jpg", MALEO INDO
 
@@ -542,7 +540,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=6
 
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.pinimg.com/736x/18/44/5f/18445fe6c174ad5f31bd3eb179e36e0b.jpg",MUSIKA
 
-#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.pinimg.com/236x/aa/75/93/aa759316a6ac6f4f9c41ae005c4d82c9.jpg", Prambors
 
 
 MUSIC ON
@@ -550,6 +547,7 @@ MUSIC ON
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ec/0a/b5/ec0ab5a328eea31cabf626dd77f28fdc.jpg" group-title="CHANNEL | MUSIC",Now 70s 
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.pinimg.com/236x/5a/18/b4/5a18b478366d2c97232e3391d47e1b53.jpg", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -596,6 +594,8 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 https://xite-hitsuk-lg.amagi.tv/480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/69/2a/3a/692a3a41115fd0ffa7ed3b42db7d72e5.jpg" group-title="CHANNEL | MUSIC",XITE Rock x Metal 
 https://xite-rockoneu-lg.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicUPRq5NTdA-qyBs8bPYWVqBgemzUKWjgmw&s" group-title="CHANNEL | MUSIC", RELOAD MUSIC
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 
 
 AFRICA MUSIC
