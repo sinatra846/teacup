@@ -10933,37 +10933,48 @@ https://jmp2.uk/stvp-GB2600018PD
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+#EXTINF:-1 group-title="EVENT 029/MEI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 15:40 WIB MotoGP Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 group-title="EVENT 029/MEI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:50 WIB MotoGP Practice: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 028/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 09:00 WIB KFF Singapore Badminton Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942479150061_AiSD.m3u8?txSecret=f05cfef225f520a9a7f7f46b0cb32b03&txTime=6A18D700
-#EXTINF:-1 group-title="EVENT 028/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 09:00 WIB KFF Singapore Badminton Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942675577061_AiSD.m3u8?txSecret=b8d21100939778b9ab331c63cb40c183&txTime=6A18D700
-#EXTINF:-1 group-title="EVENT 028/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 09:00 WIB KFF Singapore Badminton Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942850425061_AiSD.m3u8?txSecret=053b5d6bcda7b3dc0edb661822c7bac6&txTime=6A18D700
+#EXTINF:-1 group-title="EVENT 029/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 11:00 WIB KFF Singapore Badminton Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214943146113061_AiSD.m3u8?txSecret=7088d8f0796bf023faa60084046c009f&txTime=6A1A44A0
+#EXTINF:-1 group-title="EVENT 029/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 11:00 WIB KFF Singapore Badminton Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214943340879061_AiSD.m3u8?txSecret=81208a6203f2bd253676f15c582dd693&txTime=6A1A44A0
 
-#EXTINF:-1 group-title="EVENT 028/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 002 KFF Singapore Badminton Open 2026
+
+#EXTINF:-1 group-title="EVENT 029/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 002 KFF Singapore Badminton Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live1.pro2cdnlive.com/live/channel61.m3u8?wsSecret=3b56a484d1664de16b37529bc681a2b2&wsABSTime=1779991722
 
-#EXTINF:-1 group-title="EVENT 028/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 002 KFF Singapore Badminton Open 2026
+#EXTINF:-1 group-title="EVENT 029/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 002 KFF Singapore Badminton Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live1.pro2cdnlive.com/live/channel62.m3u8?wsSecret=ebed5f96020cd65466551041c59d2c79&wsABSTime=1779991877
 
-#EXTINF:-1 group-title="EVENT 028/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 002 KFF Singapore Badminton Open 2026
+#EXTINF:-1 group-title="EVENT 029/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s", 002 KFF Singapore Badminton Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel63.m3u8?wsSecret=6008bee146bd49d2057184e8f52c32b7&wsABSTime=1779
+https://live1.pro2cdnlive.com/live/channel63.m3u8?wsSecret=6008bee146bd49d2057184e8f52c32b7&wsABSTime=1779991937
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
 ##############################LIVE EVENT 2###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
-
 
 
 
