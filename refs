@@ -816,11 +816,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://www.opp.no/applefavicon.png",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/California_Music_Channel_Logo_%28cropped%29.png" group-title="CHANNEL | MUSIC", CMC
-
-#EXTINF:-1 tvg-id="66866fc995e91900088768a5" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/66866fc995e91900088768a5/colorLogoPNG.png" group-title="CHANNEL | MUSIC",MTV Biggest Pop
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/premium.jpg" group-title="CHANNEL | MUSIC",PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
@@ -832,19 +827,6 @@ https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtvhits.jpg" group-title="CHANNEL | MUSIC",MTV HITS
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtv90.jpg" group-title="CHANNEL | MUSIC",MTV '90
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/clubmtv.jpg" group-title="CHANNEL | MUSIC",CLUB MTV
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtv00.jpg" group-title="CHANNEL | MUSIC",MTV '00
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtv80.jpg" group-title="CHANNEL | MUSIC",MTV '80
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/ocko.jpg" group-title="CHANNEL | MUSIC",OCKO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1070,9 +1052,6 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
-##EXTINF:-1 tvg-name="MDTV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", MDTV (ID)
-
-
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR (IH)
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
@@ -1113,9 +1092,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", ANTV (ID)
-https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
-
 #EXTINF:-1 tvg-id="ANTV.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true", ANTV (VD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -1126,7 +1102,7 @@ EXTINF:-1 group-title="CHANNEL | INDONESIA" ch-number="7" tvg-logo="https://gith
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",iNews (1) R+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",iNews R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
