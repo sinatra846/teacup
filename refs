@@ -1329,6 +1329,11 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/mh9sgmzvwbqfic3tlbkci/Bnchanel.jpg?rlkey=8bn38qw1ohg6xy8wkajeu1ccv&dl=0" group-title="CHANNEL | LOKAL ID",BN Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8?app_type=web&userid=lite&chname=BN-TV
 
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/1oI0gduQjQYF5hmro0lmfOSJ_l0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="CHANNEL | LOKAL ID", MAGNA DNS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | LOKAL ID" tvg-id="TVRIWorld.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
@@ -1589,8 +1594,23 @@ https://stream.carubantv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="CHANNEL | DAERAH",Salira TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://img.mbizmarket.co.id/products/thumbs/343x343/2022/08/26/05ec6ce3f5dd7ac9ce683463c276a672.jpg", MADU TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/livestreaming.jpg", PON TV
+https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w247695662.m3u8
 
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://media.licdn.com/dms/image/v2/C561BAQGOnIN_fYUMfg/company-background_10000/company-background_10000/0/1639496853603/ugtv_cover?e=2147483647&v=beta&t=3jn5psRKJioPcFh9LwQKxn1mg_ibHzFQt47CdzX3kiI" group-title="CHANNEL | DAERAH", UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ULKrY5CtAq5R0j3sfPCBg6AaAtDKgV4Fzg&s", KTV
+https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmsb4YOQgSJY1E7pIWyoiaBfMWsjcaXeQBQ&s", SANGAJI TV
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://i.ytimg.com/vi/RjB_6Ps3BKc/maxresdefault.jpg", dTVi
+https://e.siar.us/live/dtvi.m3u8
 
 
 =========================================== ERROR ===========================================
@@ -10869,11 +10889,20 @@ https://jmp2.uk/stvp-GB2600018PD
 
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 14:00 WIB Philippines vs Kyrgyzstan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=898a1545ab26e16c8ec3295b66166f27&wsABSTime=1780891036
 
+#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 17:00 WIB Vietnam vs Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=39d55b9be45aed41a430ec1ba781eb97&wsABSTime=1780944565
 
-<================================================>
-
-
+#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 20:00 WIB Chinese Taipei vs Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=cfa2edfd410d4294ed24078f8b84972f&wsABSTime=1780944775
 
 
 <=================== Badminton =============================>
@@ -10883,67 +10912,7 @@ https://jmp2.uk/stvp-GB2600018PD
 
 ##############################LIVE EVENT 2###############################
 
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01:00 WIB Kosovo vs Andorra
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 02:00 WIB Yunani vs Italia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-
-
-
-<================>
-
-
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 00:30 WIB Brazil v Italy | Week 1 | Women's VNL 2026 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=df260d3fc249dd5c785d85fc39425cba&wsABSTime=1780853007
-
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 01:30 WIB USA v Germany | Week 1 | Women's VNL 2026 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel84.m3u8?wsSecret=7385164d38cc287064cabb462db150eb&wsABSTime=1780853382
-
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 04:00 WIB Bulgaria v Türkiye | Week 1 | Women's VNL 2026 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=736fd166bfa80781fe96a2d49273acfc&wsABSTime=1780853444
-
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 05:00 WIB Canada v Japan | Week 1 | Women's VNL 2026 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=df260d3fc249dd5c785d85fc39425cba&wsABSTime=1780853007
-
-
-
-<================>
-
-
-
-
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 08:00 WIB Lebanon vs Hong Kong 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=08082ba468f9a9e9b2eab5e595321bbb&wsABSTime=1780890864
-
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 11:00 WIB Kazakhstan vs Iran 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=898a1545ab26e16c8ec3295b66166f27&wsABSTime=1780891036
-
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 14:00 WIB Philippines vs Kyrgyzstan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=898a1545ab26e16c8ec3295b66166f27&wsABSTime=1780891036
 
 
 
