@@ -1594,51 +1594,8 @@ https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://i.ytimg.com/vi/RjB_6Ps3BKc/maxresdefault.jpg", dTVi
 https://e.siar.us/live/dtvi.m3u8
 
-
-=========================================== ERROR ===========================================
-
-##EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://warningfm.github.io/v3/img/RFYcXrq.png?v=1.0.0.1" group-title="CHANNEL | DAERAH", Inspira TV
-
-##EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="CHANNEL | DAERAH", JakTV
-
-##EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png" group-title="CHANNEL | DAERAH",JAK TV (IHT)
-
-##EXTINF:-1 tvg-logo="https://iili.io/JZIoj94.png" group-title="CHANNEL | DAERAH",PSJ TV
-
-##EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://iili.io/Jmo8ULF.png" group-title="CHANNEL | DAERAH", RRI NET
-
-##EXTINF:-1 tvg-id="tvkesehatan.id" tvg-name="TV Kesehatan" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="CHANNEL | DAERAH", TV Kesehatan
-
-##EXTINF:-1 tvg-logo="https://iili.io/JbtoqGe.png" group-title="CHANNEL | DAERAH",MGS TV
-
-##EXTINF:-1 tvg-logo="https://iili.io/JbtnMBe.png" group-title="CHANNEL | DAERAH",Arek TV
-
-##EXTINF:-1 tvg-logo="https://iili.io/JbtozyQ.png" group-title="CHANNEL | DAERAH",PKTV
- 
-##EXTINF:-1 tvg-logo="https://iili.io/Jyi8zhB.png" group-title="CHANNEL | DAERAH",AKTV
-
-##EXTINF:-1 tvg-logo="https://iili.io/Jbtn43J.png" group-title="CHANNEL | DAERAH",BETV
-
-##EXTINF:-1 tvg-logo="https://iili.io/Jbto9af.png" group-title="CHANNEL | DAERAH",Jaya TV
-
-##EXTINF:-1 tvg-logo="https://iili.io/JbtoTuV.png" group-title="CHANNEL | DAERAH",Prima TV
-
-##EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" group-title="CHANNEL | DAERAH",Sangaji TV
- 
-##EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="CHANNEL | DAERAH",Jogja TV
-
-##EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="CHANNEL | DAERAH",Semarang TV
-
-##EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" group-title="CHANNEL | DAERAH",Sangaji TV
- 
-##EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="CHANNEL | DAERAH",Jogja TV
-
-##EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="CHANNEL | DAERAH",Semarang TV
-
-##EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
-
-
-
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PKTV_New_Logo_2020.png/250px-PKTV_New_Logo_2020.png" group-title="CHANNEL | DAERAH", PKTV
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 
 
 
