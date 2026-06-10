@@ -2156,11 +2156,8 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-327770703
 
 
 
-
-################################ PLUTO TV ###############################
+===================================== PLUTO TV ==========================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",group-title="CHANNEL | PLUTO TV"
-
-
 
 #EXTM3U
 #EXTINF:-1 channel-id="673247127d5da5000817b4d6" tvg-id="673247127d5da5000817b4d6" tvg-chno="5" tvg-name="Pluto TV Trending Now" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png" group-title="CHANNEL | PLUTO TV" ,Pluto TV Trending Now
@@ -2224,10 +2221,7 @@ https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 
 
 
-
-########################
-######## CHANNEL | RELIGI #######
-########################
+===================================== CHANNEL | RELIGI ==========================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",,CHANNEL | RELIGI
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="CHANNEL | RELIGI", KINGDOM OF SAUDI ARABIA 1
@@ -2249,6 +2243,16 @@ https://stream.urfan.id/madinah
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://stream.urfan.id/mekah
+
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://i.ibb.co.com/1zFVnXg/makkahlive.png" group-title="CHANNEL | RELIGI", MAKKAH LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/3zB0gVk/madinahlive.png" group-title="CHANNEL | RELIGI", MADINAH LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
 
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="MQTV.id" tvg-logo="https://urfan.id/logo/mqtv.png",MQTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
@@ -2293,6 +2297,10 @@ https://flv.intechmedia.net/live/ch2.m3u8
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://stream.urfan.id/ahsantv
 
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://thumb.viva.id/intipseleb/1265x711/2023/10/06/651f4364392df-vtv.jpg" group-title="CHANNEL | RELIGI", AL-IMAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch9.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="binbaztv.id" tvg-logo="https://urfan.id/logo/binbaztv.png",Binbaz TV
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://youtv.id/
@@ -2331,6 +2339,14 @@ https://flv.intechmedia.net/live/ch34.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Rodja_TV.png/500px-Rodja_TV.png" group-title="CHANNEL | RELIGI",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-logo="http/images.indihometv.com/logo_antvnew_small.png", JOM NGAJI
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
+
+#EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="CHANNEL | RELIGI" , MTA TV
+https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/mtatv-avc1_1200000=4-3309216910000000.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-m.png" group-title="CHANNEL | RELIGI", Reformed 21
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2374,7 +2390,6 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXT-X-VERSION:3
 #EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-x_mhQDSiSOh9mSwnbR_O6gaGoggTD3c4eU-T0oR0WkP2f-LEAzLiVq8&s=10",15~30 Persis VS Bhayangkara
 
-
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2402,33 +2417,6 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Bri.m3u8
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
-https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
-
-#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="LIVE | LIGA TARKAM", INDOSIAR
-##http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
-##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/Indosiar.m3u8
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 
 
 
