@@ -1,12 +1,11 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="tkw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9wUuL5fwnnxi9du0oeoJRWlFe5GFbmP40D2HmYIW5u5PNslffh3ECqM&s=10" group-title="VOD | KOREAN MOVIE ",THE KING’S WARDEN
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20King%E2%80%99s%20Warden2.m3u8
-#EXTINF:-1 tvg-id="py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ABnm-gg8y_ZIGV-SY8W61fxlXkkHvtEyJjukY8Kv9w&s=10" group-title="VOD | KOREAN MOVIE ",PROJECT Y
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Project%20Y2.m3u8
-#EXTINF:-1 tvg-id="tu" tvg-logo="https://down-id.img.susercontent.com/file/id-11134207-8224t-mh25pufv14i37c" group-title="VOD | KOREAN MOVIE ",THE UGLY
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Ugly.m3u8
-#EXTINF:-1 tvg-id="sgr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GfMORRTU7IUaBVZB_cWqrb41MKPVn3kCwrP8un9-2w&s=10" group-title="VOD | KOREAN MOVIE ",SUGAR
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sugar.m3u8
-#EXTINF:-1 tvg-id="twol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXFceXJrZcxOOvpVIDPWouHv0S7thyNAn62CSTYyjOg&s=10" group-title="VOD | KOREAN MOVIE ",THE WORLD OF LOVE
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20World%20of%20Love.m3u8
+#EXTINF:-1 tvg-id="phjr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKsdDSHsZ5tISQJAbNYVcQh_M3bMlmvtlsAkG2SOUSC6Ab7PdxBWfujVsgjAtAHcFwzItv_HSAu8LsHrZzg-owiDYgUoNmewy3BSPyRYN&s=10" group-title="VOD | INDONESIAN MOVIE",PENGIN HIJRAH (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PH2.m3u8
+#EXTINF:-1 tvg-id="ptr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGdEI8MVbnesLtUPmrKKfOc1E6_qsp1oNwt77k5lQtQ&s=10" group-title="VOD | INDONESIAN MOVIE",PENCARIAN TERAKHIR (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PT.m3u8
+#EXTINF:-1 tvg-id="kkr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAmglbtedM9COT0jk6mybRkiENNQV2kdUtl9XQAC7MQ&s" group-title="VOD | INDONESIAN MOVIE",KAMPUNG KERAMAT (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Kampung%20Keramat%20(2025).m3u8
+#EXTINF:-1 tvg-id="dsdp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfxUKmRWqCpeCVjNn0cB5vlrXOvE7Q3g3TJKePNshKw&s=10" group-title="VOD | INDONESIAN MOVIE",DILANJUTKAN SALAH DISUDAHI PERIH (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Dilanjutkan%20Salah%20Disudahi%20Perih%20(2025).m3u8
+#EXTINF:-1 tvg-id="dbi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvTNlc989yqLkIpkXbgdMrSIn578B7lSNcz3ysD8EAg&s" group-title="VOD | INDONESIAN MOVIE",DIA BUKAN IBU (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Dia%20Bukan%20Ibu%20(2025).m3u8
