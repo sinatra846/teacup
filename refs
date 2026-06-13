@@ -11133,6 +11133,9 @@ https://jmp2.uk/stvp-GB2600018PD
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=f7b4a16647f944f45cc7bd3d79069c9a&wsABSTime=1781370332
 
+#EXTINF:-1 group-title="EVENT 013/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XMH31OofgsKuQn1SioWS_V2VYa6U7oSeRQ&s", 16:00 WIB Kamboja vs Indonesia
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
 #EXTINF:-1 group-title="EVENT 013/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XMH31OofgsKuQn1SioWS_V2VYa6U7oSeRQ&s", LIVE ONLY 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
