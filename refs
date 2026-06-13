@@ -277,7 +277,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 ===========================================CHANNEL | WORLD CUP===========================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC22026.webp?raw=true",CHANNEL | WORLD CUP
 
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="CHANNEL | WORLD CUP", TSN 1
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
@@ -287,55 +287,55 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%201%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ2LnRz
 https://7pal.short.gy/tsn1ca
 
-#EXTINF:-1 tvg-chno="147" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="CHANNEL | WORLD CUP", TSN 1 (Canada/Alt)
+#EXTINF:-1 tvg-chno="147" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 1 (Canada/Alt)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6521/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png" group-title="CHANNEL | WORLD CUP", TSN 2
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%202%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ1LnRz
 https://7pal.short.gy/tsn2ca
 
-#EXTINF:-1 tvg-chno="148" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="CHANNEL | WORLD CUP", TSN 2 (Canada/Alt)
+#EXTINF:-1 tvg-chno="148" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 2 (Canada/Alt)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6492/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn3.png" group-title="CHANNEL | WORLD CUP", TSN 3
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%203%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ0LnRz
 https://7pal.short.gy/tsn3ca
 
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="CHANNEL | WORLD CUP", TSN 3 (Canada/Alt)
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 3 (Canada/Alt)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="CHANNEL | WORLD CUP", TSN 4
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%204%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQzLnRz
 https://7pal.short.gy/tsn4ca
 
-#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="CHANNEL | WORLD CUP", TSN 4 (Canada/Alt)
+#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN4" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 4 (Canada/Alt)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6445/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="CHANNEL | WORLD CUP", TSN 5
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 5
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%205%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQyLnRz
 https://7pal.short.gy/tsn5ca
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="CHANNEL | WORLD CUP", TSN 5 (Canada/Alt)
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 5 (Canada/Alt)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6517/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -344,22 +344,25 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6517/inde
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/CazeTV.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="CHANNEL | WORLD CUP", FS1
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", FS1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="CHANNEL | WORLD CUP", FS1 (Alt)
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", FS1 (Alt)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://i.ibb.co/qFcxnxXw/FS2.png" group-title="CHANNEL | WORLD CUP", FS2
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", FS2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://i.ibb.co/qFcxnxXw/FS2.png" group-title="CHANNEL | WORLD CUP", FS2 (Alt)
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", FS2 (Alt)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Fox Deportes 
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -367,130 +370,36 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="CHANNEL | WORLD CUP",CT SPORT
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP",CT SPORT
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DSports_logo_2022.svg/960px-DSports_logo_2022.svg.png?_=20240702054322", DSPORTS (Latin America)
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", DSPORTS (Latin America)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DSports_logo_2022.svg/960px-DSports_logo_2022.svg.png?_=20240702054322", DSPORTS+ (Latin America)
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", DSPORTS+ (Latin America)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
 
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", DSPORTS2 (Latin America)
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", DSPORTS2 (Latin America)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="CHANNEL | WORLD CUP", beIN Sports 1 (France)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports2.png" group-title="CHANNEL | WORLD CUP", beIN Sports 2 (France)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
-
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="CHANNEL | WORLD CUP", beIN Sports 3 (France)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1 
-https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://i.postimg.cc/LshzWQQg/ezgif-5030340034d38082.png",NOW SPORTS 618
-http://110.235.59.30:7168/0.ts
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg", RTM SPORTS HD 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://i.postimg.cc/LshzWQQg/ezgif-5030340034d38082.png",NOW SPORTS 618 (bc2)
-http://shatian.7766.org:7168/0.ts
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! ФУТБОЛ 1 HD
-http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://i.postimg.cc/V6p3Rqfg/ezgif-354bbe37d96cb2b6.png",MATCH! FUTBOL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="CHANNEL | WORLD CUP", TYC sports (ARG)
-http://vipapyenhmw.top:8080/live/brejna/6yGNnFuahuTG/4822.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co. com/hHs8y6F/shareext-football-logo.jpg" group-title="CHANNEL | WORLD CUP",RTB_SUKMA.INDERA
-https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co. com/hHs8y6F/shareext-football-logo.jpg" group-title="CHANNEL | WORLD CUP",RTB_ANEKA
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-1-al.png",SUPERSPORT 1 (ALB) 
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-2-al.png",SUPERSPORT 2 (ALB) 
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-3-al.png",SUPERSPORT 3 (ALB) 
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png",FS1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Fox Deportes 
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bein US
-http://23.237.104.106:8080/USA_BEIN/index.m3u8  
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8  
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 3
-http://23.237.104.106:8080/DAZN_3/index.m3u8 
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 4
-http://23.237.104.106:8080/DAZN_4/index.m3u8  
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 5
-http://23.237.104.106:8080/DAZN_5/index.m3u8  
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 6
-http://23.237.104.106:8080/DAZN_6/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg",ITV 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6c1c527303bc577b85eb849cbab75d2:ec533d484c550a892ff162e4a5f4dbc3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/slc1dkcymj/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CHANNEL | WORLD CUP", RTB GO LIVE
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", RTB GO LIVE
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CHANNEL | WORLD CUP", World Cup 2026 1
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", World Cup 2026 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CHANNEL | WORLD CUP", World Cup 2026 2
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", World Cup 2026 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
@@ -502,92 +411,148 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="CHANNEL | WORLD CUP",CAZE TV 1
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP",CAZE TV 1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="CHANNEL | WORLD CUP",CAZE TV 2
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP",CAZE TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="CHANNEL | WORLD CUP",CAZE TV 3
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP",CAZE TV 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="CHANNEL | WORLD CUP", FUSSBALL TV 1
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", FUSSBALL TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png",Tipik 1
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Tipik 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png",Tipik 2
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Tipik 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
 https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", RTM SUKAN+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://cdn.stmify.com/mytv/stream/SUKAN_RTM/index.mpd
 #https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",ELTA SPORT 1 
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",CCTV5 hd
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",NOW SPORTS 618
+http://110.235.59.30:7168/0.ts
 
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", RTM SPORTS HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
 
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",NOW SPORTS 618 (bc2)
+http://shatian.7766.org:7168/0.ts
 
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Матч! ФУТБОЛ 1 HD
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",MATCH! FUTBOL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TYC sports (ARG)
+http://vipapyenhmw.top:8080/live/brejna/6yGNnFuahuTG/4822.ts
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP",RTB_SUKMA.INDERA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP",RTB_ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 1 (ALB) 
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 2 (ALB) 
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 3 (ALB) 
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Bein US
+http://23.237.104.106:8080/USA_BEIN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", beIN Sports 1 (France)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", beIN Sports 2 (France)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", beIN Sports 3 (France)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Dazn 2
+http://23.237.104.106:8080/DAZN_2/index.m3u8  
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Dazn 3
+http://23.237.104.106:8080/DAZN_3/index.m3u8 
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Dazn 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8  
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Dazn 5
+http://23.237.104.106:8080/DAZN_5/index.m3u8  
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true"Dazn 6
+http://23.237.104.106:8080/DAZN_6/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",ITV 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c1c527303bc577b85eb849cbab75d2:ec533d484c550a892ff162e4a5f4dbc3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/slc1dkcymj/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
 
 
 
 
 ===========================================LIVE || WORLD CUP 2026===========================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC22026.webp?raw=true",LIVE | WORLD CUP
+##EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC22026.webp?raw=true",LIVE | WORLD CUP
 
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI SPORT (O)
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+##EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI SPORT (O)
 
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI SPORT (U) 
-http://202.169.224.202:8800/udp/239.1.2.3:1234
+##EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI SPORT (U) 
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP", TVRI Nasional (Maxstream)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
+##EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP", TVRI Nasional (Maxstream)
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP", TVRI Nasional (Nomaden)
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TVRI/playlist.m3u8
+##EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP", TVRI Nasional (Nomaden)
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="TVRI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI (Channel Feed)
-https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
+##EXTINF:-1 tvg-id="TVRI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI (Channel Feed)
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="TVRISports" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI Sports (Channel Feed)
-https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
-
-
-
-
-
-
-
-
+##EXTINF:-1 tvg-id="TVRISports" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI Sports (Channel Feed)
 
 
 
