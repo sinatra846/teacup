@@ -11194,6 +11194,16 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18249&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18249
 https://ratuvidio.adptv.workers.dev/index.mpd?id=18249
 
+#EXTINF:-1 tvg-logo="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s" group-title="EVENT 013/JUNI/2026", BWF Court 2
+#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18250
+https://ratuvidio.adptv.workers.dev/index.mpd?id=18250
+
+
+
+
 
 ##############################LIVE EVENT 2###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
