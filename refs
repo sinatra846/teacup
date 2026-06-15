@@ -275,7 +275,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 ===========================================CHANNEL | WORLD CUP===========================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CHANNEL%20WC%202026.png?raw=true,CHANNEL | WORLD CUP
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CHANNEL%20WC%202026.png?raw=true",CHANNEL | WORLD CUP
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", RTB GO LIVE
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
