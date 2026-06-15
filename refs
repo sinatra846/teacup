@@ -1238,10 +1238,6 @@ https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://vidx.semar.my.id/biasa2.mpd?id=782&type=dash
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" ch-number="7" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png?raw=true",TVRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
-
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",iNews R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -10974,22 +10970,11 @@ https://jmp2.uk/stvp-GB2600018PD
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+#EXTINF:-1 group-title="EVENT 015/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 23:00 WIB Spanyol vs Kepulauan Cape Verde
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-##EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 22:00 WIB SPANYOL vs TANJUNG HIJAU (ALT T)
+#EXTINF:-1 group-title="EVENT 015/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 23:00 WIB SPANYOL vs TANJUNG HIJAU (ALT T)
 http://103.148.44.38:8000/play/a03t/index.m3u8
-
-##EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",01:00 WIB BELGIA vs MESIR (ALT S)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-http://103.148.44.38:8000/play/a05u/index.m3u8
-
-##EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 04:00 WIB ARAB SAUDI vs URUGU (ALT T)
-http://103.148.44.38:8000/play/a03t/index.m3u8
-
-##EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",07:00 WIB IRAN vs SELANDIA BARU (ALT S)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-http://103.148.44.38:8000/play/a05u/index.m3u8
-
-
 
 
 
@@ -10997,6 +10982,29 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 
 ##############################LIVE EVENT 2###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+#EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Belgia vs Mesir
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",02:00 WIB BELGIA vs MESIR (ALT S)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 05:00 WIB Arab Saudi vs Uruguay
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 05:00 WIB ARAB SAUDI vs URUGU (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 08:00 WIB Iran vs Selandia Baru
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",08:00 WIB IRAN vs SELANDIA BARU (ALT S)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+
+
 
 
 
