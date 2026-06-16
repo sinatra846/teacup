@@ -1536,7 +1536,7 @@ https://stream.matrixtv.id/hls/1/stream.m3u8
 
 
 =========================================== DAERAH ===========================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260420_003645_0000.png?raw=true",CHANNEL | DAERAH
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_DAERAH.png?raw=true",CHANNEL | DAERAH
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -2210,7 +2210,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
 
-=====================================hbo cignal==========================================================
+=====================================err==========================================================
 
 
 ##EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="CHANNEL | HBO GRUB",HBO
@@ -2286,7 +2286,7 @@ https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 
 
 ===================================== CHANNEL | RELIGI ==========================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",,CHANNEL | RELIGI
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_RELIGI.png?raw=true",,CHANNEL | RELIGI
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="CHANNEL | RELIGI", KINGDOM OF SAUDI ARABIA 1
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
