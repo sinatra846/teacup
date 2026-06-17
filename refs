@@ -11011,8 +11011,7 @@ bc3cd7663cc0187946665967fa3df&wsABSTime=1781668959
 #EXTINF:-1 group-title="EVENT 017/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 08:00 WIB Argentina vs Aljazair
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 017/JUNI/2026",08:00 WIB Argentina vs Aljazair (ALT T)
-http://103.148.44.38:8000/play/a03t/index.m3u8
+
 
 #EXTINF:-1 group-title="EVENT 017/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 11:00 WIB Austria vs Jordania
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
@@ -11055,19 +11054,32 @@ https://live1.pro2cdnlive.com/live/channel64.m3u8?wsSecret=aaadbce792838453f06c6
 #EXTINF:-1 group-title="EVENT 018/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 00:00 WIB Portugal vs Republik Demokratik Kongo
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026",00:00 WIB Portugal vs Republik Demokratik Kongo (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 group-title="EVENT 018/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Inggris vs Kroasia
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026",  03:00 WIB Inggris vs Kroasia (ALT S)
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 group-title="EVENT 018/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 06:00 WIB Ghana vs Panama
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026",06:00 WIB Ghana vs Panama (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 group-title="EVENT 018/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 09:00 WIB Uzbekistan vs Kolombia
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026", 09:00 WIB Uzbekistan vs Kolombia (ALT S)
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 group-title="EVENT 018/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 23:00 WIB Republik Ceko vs Afrika Selatan
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026",23:00 WIB Republik Ceko vs Afrika Selatan (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
 
 
 
