@@ -6206,7 +6206,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 //========================================================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CHANNEL_20260504_152107_0000.png?raw=true",CHANNEL | ENTERTAINMENT 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6310,10 +6309,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://mimipipi22.github.io/logo/entertainment/aniplus.jpg" group-title="CHANNEL | ENTERTAINMENT",ANIPLUS
-
-#EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/chinesedrama.jpg" group-title="CHANNEL | ENTERTAINMENT",CHINESE DRAMA
-
 #EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/citradrama.jpg" group-title="CHANNEL | ENTERTAINMENT",CITRA DRAMA
 http://opplextv.cyou:8080/nasir6160/nasir/350925
 
@@ -6338,8 +6333,6 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=21289&type=dash
 #EXTINF:-1 tvg-id="Citra.Entertainment.id" tvg-name="Citra Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/citraent.jpg" group-title="CHANNEL | ENTERTAINMENT",CITRA ENTERTAINMENT
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-id="Drama.Channel.id" tvg-name="Drama Channel" tvg-logo="https://mimipipi22.github.io/logo/entertainment/dramaworld.jpg" group-title="CHANNEL | ENTERTAINMENT",DRAMA CHANNEL
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6363,8 +6356,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index
 #EXTINF:-1 tvg-id="Celebrities.TV.id" tvg-name="Celebrities TV" tvg-logo="https://mimipipi22.github.io/logo/entertainment/celebritiestv.jpg" group-title="CHANNEL | ENTERTAINMENT",CELEBRITIES TV
 https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
-#EXTINF:-1 tvg-id="Maxstream.id" tvg-name="Maxstream" tvg-logo="https://mimipipi22.github.io/logo/entertainment/maxstream.jpg" group-title="CHANNEL | ENTERTAINMENT",MAXSTREAM
-
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/entertainment/dunialain.jpg" group-title="CHANNEL | ENTERTAINMENT",DUNIA LAIN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6372,10 +6363,6 @@ https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index
 #KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8yLzQwMjhjNjg1NmVhMzRlMzUwMTZlZjhlOWZkZjk1MWMxL21hbmlmZXN0Lm1wZA==&code=777
-
-#EXTINF:-1 tvg-id="Seru!.id" tvg-name="Channel Seru" tvg-logo="https://mimipipi22.github.io/logo/entertainment/channelseru.jpg" group-title="CHANNEL | ENTERTAINMENT",CHANNEL SERU!
-
-#EXTINF:-1 tvg-id="Insert.id" tvg-name="!nsert" tvg-logo="https://mimipipi22.github.io/logo/entertainment/insert.jpg" group-title="CHANNEL | ENTERTAINMENT",!NSERT
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -6391,10 +6378,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h68/wedotv_amor.m3u8?app_type=web&use
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/wedotvbigstories.jpg" group-title="CHANNEL | ENTERTAINMENT",WE DO TV BIG STORIES
 https://op-group1-swiftservehd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=web&userid=lite&chname=wedotvBig_Stories
-
-#EXTINF:-1 tvg-id="ATV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/atv.jpg" group-title="CHANNEL | ENTERTAINMENT",ATV
-#EXTINF:-1 tvg-id="converge_cinemaworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vbSjb17-tobIRRVvzdiDREB-hJRO3zCHNA&s" group-title="CHANNEL | ENTERTAINMENT",Cinemaworld 
-
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="CHANNEL | ENTERTAINMENT"" tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png",Warner TV 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -6443,13 +6426,6 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"},{"kty":"oct","kid":"q_No7DBlMDMtV3H3nfgkwQ","k":"zcUkd_y0IGsEOnE6a_oRmQ"}]}
 https://a164aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/hlkbg1ngqb/out/v1/86088477f9f646e3ac7230fc23738e8a/cenc.mpd
 
-#EXTINF:-1 tvg-id="AWE_PLUS" tvg-name="AWE Plus" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",AWE Plus
-#EXTINF:-1 tvg-id="Canal5" tvg-name="CANAL 5" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",CANAL 5 
-#EXTINF:-1 tvg-id="ITV1" tvg-name="ITV 1" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",ITV 1
-#EXTINF:-1 tvg-id="NU9VE" tvg-name="NU9VE" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",NU9VE 
-#EXTINF:-1 tvg-id="GVTV" tvg-name="GVTV" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",GVTV
-
-
 #EXTINF:-1  tvg-name="0000" tvg-id="0000" tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",OCN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a97de619e5834e6da10c9bab768fc626:1452d46b8ecd87b38310ce90d4f5209f
@@ -6471,21 +6447,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",Asian Crush
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
 
-?????????????????????????? [LINE] ??????????????????????????
 
+##EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="US : A&E WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45619.png" group-title="CHANNEL | ENTERTAINMENT",US : A&E
+##EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="US : BBC AMERICA WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45612.png" group-title="CHANNEL | ENTERTAINMENT",US : BBC AMERICA
+##EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="US : E! ENTERTAINMENT TELEVISION WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45584.png" group-title="CHANNEL | ENTERTAINMENT",US : E! ENTERTAINMENT TV
+##EXTINF:-1 tvg-id="FXPacific.us" tvg-name="US : FX WEST" tvg-logo="http://51.158.145.100/picons/logos/USA/45451.png" group-title="CHANNEL | ENTERTAINMENT",US : FX
+##EXTINF:-1 tvg-id="Canal.Paramount.Channel.(México).mx" tvg-logo="https://i.imgur.com/fxwLZXp.png" group-title="CHANNEL | ENTERTAINMENT",Paramount Network
+##EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="http://51.158.145.100/picons/logos/USA/45476.png" group-title="CHANNEL | ENTERTAINMENT",Syfy Eastern Feed HD
+##EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="CHANNEL | ENTERTAINMENT",Starz Eastern HD
+##EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="CHANNEL | ENTERTAINMENT",TNT (PXL)
+##EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/canalclaro.png" group-title="CHANNEL | ENTERTAINMENT",Canal Claro
 
-#EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="US : A&E WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45619.png" group-title="CHANNEL | ENTERTAINMENT",US : A&E
-#EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="US : BBC AMERICA WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45612.png" group-title="CHANNEL | ENTERTAINMENT",US : BBC AMERICA
-#EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="US : E! ENTERTAINMENT TELEVISION WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45584.png" group-title="CHANNEL | ENTERTAINMENT",US : E! ENTERTAINMENT TV
-#EXTINF:-1 tvg-id="FXPacific.us" tvg-name="US : FX WEST" tvg-logo="http://51.158.145.100/picons/logos/USA/45451.png" group-title="CHANNEL | ENTERTAINMENT",US : FX
-#EXTINF:-1 tvg-id="Canal.Paramount.Channel.(México).mx" tvg-logo="https://i.imgur.com/fxwLZXp.png" group-title="CHANNEL | ENTERTAINMENT",Paramount Network
-#EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="http://51.158.145.100/picons/logos/USA/45476.png" group-title="CHANNEL | ENTERTAINMENT",Syfy Eastern Feed HD
-#EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="CHANNEL | ENTERTAINMENT",Starz Eastern HD
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="CHANNEL | ENTERTAINMENT",TNT (PXL)
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/canalclaro.png" group-title="CHANNEL | ENTERTAINMENT",Canal Claro
-
-
-?????????????????????????? [LINE] ??????????????????????????
+<===================================================================>
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
@@ -6568,7 +6541,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=83404dd4292fec9e27173696f6e42dee&key=a9dd477034d4fb2e7e5dc7c21ce73fed
 https://live2.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
 
-?????????????????????????? [LINE] ??????????????????????????
+<=====================================================================>
 
 #EXTINF:-1 tvg-id="74" tvg-chno="621" tvg-name="star-vision" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/star-vision.png" group-title="CHANNEL | ENTERTAINMENT", STAR VISION
 #KODIPROP:inputstream=inputstream.adaptive
@@ -6617,7 +6590,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="hi-vida" tvg-logo="https://a.jsrdn.com/hls/23205/hi-vida/poster_20250127_201837.jpg" group-title="CHANNEL | ENTERTAINMENT",hi Vida!
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida/distro-cgtn-hivida.m3u8
 
-?????????????????????????? [LINE] ??????????????????????????
+<=====================================================================>
 
 #EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDnu7TyA4VYEY3cO_wuT7afe9ZcCoFecUrE3BLedMjsL7iNygfW79R6c&s=10" group-title="CHANNEL | ENTERTAINMENT", MYX Global 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6806,10 +6779,6 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bioskopindonesia.png",Bioskop Indonesia
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0a/4f/7f/0a4f7fa284743e96cf1b61024951e161.jpg" group-title="CHANNEL | MOVIES", AXN
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0a/4f/7f/0a4f7fa284743e96cf1b61024951e161.jpg" group-title="CHANNEL | MOVIES", AXN SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
@@ -6833,12 +6802,9 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
-
 #EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cinemaworld.png",Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_flik.png",Flik
 
 #EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-logo="https://i.pinimg.com/236x/ab/76/db/ab76dbd105f34be0029a2e8da161642a.jpg",HITS Movies (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6994,7 +6960,6 @@ https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/db/b1/69/dbb1697f3595c368f28ec27bdf648769.jpg" group-title="CHANNEL | MOVIES", COMEDY CENTRAL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -7013,7 +6978,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/44/8c/46/448c469c8fa16baeec0cfa359e7ddcdc.jpg" group-title="CHANNEL | MOVIES",Movie Music 
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/3291200/manifest.m3u8
 
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/27/9e/1a279ec2a3e0c44ca143c18d1ae84ddf.jpg" group-title="CHANNEL | MOVIES",Sony PIX HD
 
 #EXTINF:0,MADE IN HOLLYWOOD
 #EXTGRP:CHANNEL | MOVIES
@@ -7059,28 +7023,14 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/74/73/b5/7473b50787b52486032729b0504fdeb0.jpg" group-title="CHANNEL | MOVIES", BOLLY TV
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/3f/3b/733f3b353376675a9b85650d0b3973db.jpg" group-title="CHANNEL | MOVIES", CLASSIC ACTION 
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", CINEDAY LITE
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", CINEMONDAY
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", RAKUTEN TOP
 https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/et1.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", UNIFI MOVIE
-
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", ETV 3
-#https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/et3.m3u8
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="CHANNEL | MOVIES", ETV 4
-#https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/et4.m3u8
-
-##EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://warningfm.github.io/v3/img/M806UiK.png?v=1.0.0.1" group-title="CHANNEL | MOVIES" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Tapactionflix Hd.ph" tvg-name="Tapactionflix Hd.ph", TapAction Flix HD
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
@@ -7104,9 +7054,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
-##EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/00/3a/f5/003af52e084850de09f6f3e3427a9fbd.jpg", SONY MAX
-##EXTINF:-1 group-title="CHANNEL | MOVIES"tvg-logo="https://i.pinimg.com/236x/00/3a/f5/003af52e084850de09f6f3e3427a9fbd.jpg", SONY MOVIES (DUAL LANG)
 
 #EXTINF:-1:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="https://i.pinimg.com/236x/3e/fa/b6/3efab65ddc5e19b0e678b54976135e18.jpg" group-title="CHANNEL | MOVIES",ID: Citra Drama
 http://opplextv.cyou:8080/nasir6160/nasir/350925
@@ -7134,8 +7081,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-logo="https://i.pinimg.com/236x/bd/63/b0/bd63b056a8ade410fdfb3fecf26d6b51.jpg" group-title="CHANNEL | MOVIES", LIFETIME (VS)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a9/96/ed/a996ed4423412f236de06f1f0d8da2c8.jpg" group-title="CHANNEL | MOVIES",WARNERTV US
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://maxstream.tv/
@@ -7157,8 +7102,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_cha
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bb/f6/ba/bbf6ba90552ae0cc18cda5cde4b4abfc.jpg" group-title="CHANNEL | MOVIES", GOLDEN CINE
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bb/f6/ba/bbf6ba90552ae0cc18cda5cde4b4abfc.jpg" group-title="CHANNEL | MOVIES", ZEE CINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
@@ -7177,8 +7120,6 @@ https://xemzi.short.gy/1000002
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b7/82/48/b782485663b8d0601566a07b77786b14.jpg" group-title="CHANNEL | MOVIES", MIRAMAX
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fc/76/b2/fc76b28e22483a53e00ce341e27275cf.jpg" group-title="CHANNEL | MOVIES",EBONY 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/bb/c4/9b/bbc49bae8a1a36b54f4c9f20c25adecc.jpg" group-title="CHANNEL | MOVIES",MGPLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7199,8 +7140,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgu
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fa/b3/5b/fab35b3ae3ed7240576c2c40b719a3c9.jpg" group-title="CHANNEL | MOVIES", Disc Film 
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/55/c7/ab/55c7ab61063c2c5bf9a3ddeb90b26879.jpg" group-title="CHANNEL | MOVIES", Horror Machine
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f3/fc/38/f3fc382afdc0d9aac81da1b8fb268f32.jpg" group-title="CHANNEL | MOVIES", MHz Choice 
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
@@ -7565,16 +7504,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAG3aQBG_pQWJTEDaM-fVme5MYzppW5xUNsPqdzmpCDJ7PoEVNv7KAhzYg-26cREM0QEzgJLjHjYhxw2FBDx82V_IzpvDYUV6TKeNhlCZ7eBGfSP92DO_YMJSh6uU-XVJJ0BSQNP1MDAcmuViI2eI8mXvTAjSdNPxxONQDzCA31zQEylry6F9z9VlM19cz/s700/FIGHT%20SPORTS.png" group-title="CHANNEL | VISION+",FIGHT SPORTS
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-
-<================ DALAM PERBAIKAN ==========================>
-
-###EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisGhpudGEWXbAZG7a-KD74LuCULDy_-03LHvhBBI-pgUgr7kk341Ro3Vv3WCOEvhylAcASj5UKjA1EgCRWaUT_UjLl2Oq0KZsm0CpcKyF5oLVjk1aIDC7qry88iMweIGEyr-auqDGuvJwIWgmV-gW82PabsXWS69DLOGcAJOZoBsA5f0n3hd-YSlENsvrX/s700/FMM.png" group-title="CHANNEL | VISION+",FMN TELENOVELA OF
-###EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ihDxqN3aytj_-AC57qisT_ANRL1iQGpZyGXA-s6Qz4IL5shDpTx7OWcp_CfPPFZvG9DByevniWPD4enzmz6LTOS-Xov4X_Bb5XwKPc-9ivqkfqMF-CUaByAQ9GS0ZJRmGytODnMbF2VyNN2tMivweYzVaNwmLKSsU0GWgJ9HzYngh6v7-ynK1CjCK7p9/s700/OKTV.png" group-title="CHANNEL | VISION+",OK TV
-###EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvglU_0fX60-H3C6Gj6LM3VwnJD57PI-DW3T56Iwv8WlHv67KJ2Oelly5Fo4H52YFj4DHcffSH1ccB2W61cT71rSzfVx6PJKJGfA3s1sEhnS0UJDELE2uQcs2EEmhyqs9uhgX-EGkk_EzJA_Ttj3NosvhEkUsgemFVzPP46sNDFeA3IQZdLHt-uzA3zPs/s700/OKZONE%20TV.png" group-title="CHANNEL | VISION+",OKZONE TV
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TUBNZJZF3q339K8RA9V7VWnK8wCrXbRObBM07IhIA_udZiW73KNDnLtiPYlxiQLtdw6LqgK6MYo0hdcGiBQtGYMtwy-X0znfCsZSaJDMeB9XJF9BanopjUl4499QFlUh61JNxOhRyYWbW9NDKka3V5QKXLqiqXawcbDqS247c_hTa-M9KWnXsfHINJtw/s700/PARAMOUNT%20NETWORK.png" group-title="CHANNEL | VISION+",PARAMOUNT NETWORK
-
-
-
 
 
 <================ KNOWLEDGES ==========================>
@@ -7956,8 +7885,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
 
-#EXTINF:-1 tvg-id="KBS Korea" tvg-name="KBS Korea" tvg-logo="https://mimipipi22.github.io/logo/international/kbskorea.jpg" group-title="CHANNEL | WORLD TV",KBS KOREA
-
 #EXTINF:-1 group-title="CHANNEL | WORLD TV" tvg-logo="https://mimipipi22.github.io/logo/international/abcaustralia.jpg" ,ABC AUSTRALIA
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
@@ -8047,8 +7974,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mediampd/TVBSNews.mpd
 https://smt.858.qzz.io/Smart.php?id=tvbs
 #https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/international/kungfutv.jpg" group-title="CHANNEL | WORLD TV",KUNGFU TV
 
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="CHANNEL | WORLD TV" tvg-logo="https://mimipipi22.github.io/logo/international/tv5monde.jpg",TV5 MONDE ASIE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -8364,7 +8289,6 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8xLzQwMjhjNjg1NmMzZGIyY2MwMTZjZGJmYzRhMTkzNGJmL21hbmlmZXN0Lm1wZA==&code=777
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRM18i3RBTdS2HpCo5RelhsRwIu83d-ZLSw&usqp=CAU" group-title="CHANNEL | INDONESIA VIP", NABAWI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -9101,44 +9025,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h232/S4/mnf.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD | MOVIES
 
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/02/film-shelter-2026-lk21.jpg.webp" type="movie" group-title="MOVIE", Shalterc Statham
-https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/02/10873/hw2bnv9p1eij_h/index-v1-a1.m3u8?t=I-zKeDDYs_SFOtoPqza0pmdpva5k_Pf0Vzbf-dQPCeU&s=1777218866&e=10800&f=54368005&srv=1055&asn=&sp=4000&p=0
-
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/42/e5/86/42e5861285ea9843c18aa01c1d1d26ce.jpg" type="movie" group-title="MOVIE", The home 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/The.Home.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBXR9-yD1E0adBmO8IOz4LApUYVhPMTmPjw&s" type="movie" group-title="MOVIE",Lovely Man (2011)
-https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x917hi4
-
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/63/ef/58/63ef5831561d62fcafbe7e3437c3d665.jpg" type="movie" group-title="MOVIE", Know What You Did Last Summer (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/I.Know.What.You.Did.Last.Summer.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/ca/35/b6/ca35b6c7dba9d2b4f7a0d069c2437e93.jpg" type="movie" group-title="MOVIE", I Am What I Am 2
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/Xiong.shi.shao.nian.2.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/74/b7/db/74b7dbdaeac0c74e7a1673879f03961f.jpg" type="movie" group-title="MOVIE", Red sonja 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Red.Sonja.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/0c/42/5b/0c425b5d05af70f62420d6dd9b3bcc74.jpg" type="movie" group-title="MOVIE", Nobody 2 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Nobody.2.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/6e/ab/a6/6eaba6133685cab4e4008dd5fa6040df.jpg" type="movie" group-title="MOVIE", Noise 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Noijeu.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/28/f6/11/28f611e1a287976270e1428e36727495.jpg" type="movie" group-title="MOVIE", Best Wishes to All
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Best.Wishes.to.All.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/1b/e1/5f/1be15f5b4943399965b1f5b5863d6d4e.jpg" type="movie" group-title="MOVIE", The A-Frame
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/The.A.Frame.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/90/df/05/90df05d549151cde0c1f244f1479ed9c.jpg" type="movie" group-title="MOVIE", Kabir Azabi Insi ve Cinni
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Kabir.Azabi.Insi.ve.Cinni.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/fd/89/10/fd8910f50810b771288a2f8b4ac31d2f.jpg" type="movie" group-title="MOVIE", Queen of Bones 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/Queen.of.Bones.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/9d/2d/af/9d2daf2088a78d31f3e4d1f469f72fe2.jpg" type="movie" group-title="MOVIE", The Exit 8 (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/8ban.deguchi.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/64/d9/b2/64d9b27b6bee95b9a3f72b7239f59562.jpg" type="movie" group-title="MOVIE", Ghost Train (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/Ghost.Train.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/4b/7f/41/4b7f413eb7d766b855c41a01eaeb9ace.jpg" type="movie" group-title="MOVIE", Woodwalkers
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/Woodwalkers.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/1b/2f/16/1b2f167b2c7dc95f3a95bdc43293ef80.jpg" type="movie" group-title="MOVIE", Eenie Meanie (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/11/Eenie.Meanie.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.pinimg.com/474x/06/65/2e/06652e7b42853681e18b31e3d8595982.jpg" type="movie" group-title="MOVIE", Abandoned Man 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/11/Abandoned.Man.2025.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-url="" tvg-logo="https://www.visionplus.id/images/repository/401/424401-BACKGROUND-m.jpg" type="movie" group-title="MOVIE", Rambo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
