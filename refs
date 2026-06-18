@@ -1737,15 +1737,10 @@ https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 ######################
 ######## News #########
 ######################
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | NEWS
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_NEWS.png?raw=true",CHANNEL | NEWS
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN%20INTL.jpg?raw=true" group-title="CHANNEL | NEWS",CNN INT
 https://jmp2.uk/stvp-CHBD800001D0
-
-##EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="CHANNEL | NEWS",NBC NEWS
-
-##EXTINF:-1 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg" group-title="CHANNEL | NEWS",ABC NEWS
-
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CBS%20NEWS.jpg?raw=true" group-title="CHANNEL | NEWS",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -1757,8 +1752,6 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
 https://jmp2.uk/stvp-USBB52000022Q
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
-
-##EXTINF:-1 group-title="CHANNEL | NEWS" tvg-logo="https://play-lh.googleusercontent.com/641HH_2fGFukrNZigSrRN7dvz0K2ZxTkyM124C5MGACPXga19mTHz_2XXXI7w_UdJGs=w240-h480",AFRICANEWS
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ABC%20NEWS.jpg?raw=true" group-title="CHANNEL | NEWS",ABC NEWS AUSTRALIA
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
@@ -1777,8 +1770,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/newsmax.jpg?raw=true" group-title="CHANNEL | NEWS",NEWS MAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png" group-title="CHANNEL | NEWS",NEWS MAX 2
 
 #EXTINF:-1 tvg-chno="67" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/FOX%20NEWS.jpg?raw=true" group-title="CHANNEL | NEWS", Fox News
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1611
@@ -10986,10 +10977,10 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTM3U
 #EXTINF:-1 tvg-name="HUMINT(2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvl4GdENi304yMvVnoZ89YL2dRx9_Hdta9wUZSTwlEduSplgYrQfAKWVMa&s=10" group-title="VOD | KOREAN MOVIE",HUMINT(2026)
-https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/HUMINT.m3u8
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/HUM.m3u8
 
 #EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/480%20(1).m3u8
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SAV.m3u8
 
 #EXTINF:-1 tvg-id="noparking" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3ODg3ZjMtNDYzYi00MmYxLTg3MDgtMTFlYzI4ZGQwNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",NO PARKING ( 2025 )
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/noparking.m3u8
