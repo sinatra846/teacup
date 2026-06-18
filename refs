@@ -2927,7 +2927,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 =========================================== SPORTS======================================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true",CHANNEL | SPORTS
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_SPORT.png?raw=true",CHANNEL | SPORTS
 
 #EXTINF:-1 tvg-id="DAZN FAST.de" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="CHANNEL | SPORTS",DAZN FAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10965,19 +10965,14 @@ https://jmp2.uk/stvp-GB2600018PD
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026",06:00 WIB Ghana vs Panama (ALT T)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026",23:00 WIB Republik Ceko vs Afrika Selatan (ALT T)
 http://103.148.44.38:8000/play/a03t/index.m3u8
-
-##EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026", 09:00 WIB Uzbekistan vs Kolombia (ALT S)
-http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 group-title="EVENT 018/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 23:00 WIB Republik Ceko vs Afrika Selatan
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026",23:00 WIB Republik Ceko vs Afrika Selatan (ALT T)
-http://103.148.44.38:8000/play/a03t/index.m3u8
-
-
+##EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 018/JUNI/2026", 09:00 WIB Uzbekistan vs Kolombia (ALT S)
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 <=================== VNL =============================>
 
