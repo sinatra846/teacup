@@ -10842,12 +10842,6 @@ https://jmp2.uk/stvp-GB2600018PD
 ##############################LIVE EVENT 1###############################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 019/JUNI/2026", 05:00 WIB Kanada vs Qatar (ALT T)
-http://103.148.44.38:8000/play/a03t/index.m3u8
-
-##EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 019/JUNI/2026", 08:00 WIB Meksiko vs Republik Korea (ALT S)
-http://103.148.44.38:8000/play/a05u/index.m3u8
-
 
 <=================== MOTOGP =============================>
 
@@ -10870,20 +10864,15 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 019/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s", 11:00 WIB SANDS CHINA LTD Macau Open 2026
+##EXTINF:-1 group-title="EVENT 019/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s", 11:00 WIB SANDS CHINA LTD Macau Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239070063031061_AiSD.m3u8?txSecret=5348e199b050f0aad3d94548a04e693d&txTime=6A35F420
 
-#EXTINF:-1 group-title="EVENT 019/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s", 11:00 WIB SANDS CHINA LTD Macau Open 2026
+##EXTINF:-1 group-title="EVENT 019/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s", 11:00 WIB SANDS CHINA LTD Macau Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239070262105061_AiSD.m3u8?txSecret=9e7fa88bece56a6ed9330216f9e9f662&txTime=6A35F420
 
 
 <=================== VNL =============================>
 
-
-#EXTINF:-1 group-title="EVENT 019/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 15:00 WIB Dominican Republic v Serbia | Week 2 | Women's VNL 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=4ced6a4c6207aaa0b7661a5cb058fefb&wsABSTime=1781889388
 
 #EXTINF:-1 group-title="EVENT 019/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 17:00 WIB Ukraine v Netherlands | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -10918,20 +10907,26 @@ https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=67249cdb130e0a84b3804
 #EXTINF:-1 group-title="EVENT 020/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Amerika Serikat vs Australia
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026", 02:00 WIB Amerika Serikat vs Australia (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 group-title="EVENT 020/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 05:00 WIB Skotlandia vs Maroko
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026", 05:00 WIB Skotlandia vs Maroko (ALT S)
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 group-title="EVENT 020/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 07:30 WIB Brasil vs Haiti
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026", 07:30 WIB Brasil vs Haiti (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 group-title="EVENT 020/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 10:00 WIB Turki vs Paraguay
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026", 10:00 WIB Turki vs Paraguay (ALT S)
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 
 
@@ -11006,7 +11001,7 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/HUM.m3u8
 
 #EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SAVEE2.m3u8
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SAVIORR.m3u8
 
 #EXTINF:-1 tvg-id="mnts12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BQyfmS-U22fZe8laoPW8AmrwOa8nk7hrzNd_acrCnw&s=10" group-title="VOD | KOREAN MOVIE",MANTIS
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/MAN1.m3u8
@@ -11026,10 +11021,10 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SUGAR3
 #EXTINF:-1 tvg-id="twol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXFceXJrZcxOOvpVIDPWouHv0S7thyNAn62CSTYyjOg&s=10" group-title="VOD | KOREAN MOVIE ",THE WORLD OF LOVE
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20World%20of%20Love3.m3u8
 
-#EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
+##EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SALMOKJI.m3u8
 
-#EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
+##EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/NUMBER%20ONE.m3u8
 
 
