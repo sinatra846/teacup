@@ -11026,11 +11026,11 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/BOSS11
 #EXTINF:-1 tvg-id="thefirstride" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/First_Ride_film_poster.jpg/250px-First_Ride_film_poster.jpg" group-title="VOD | KOREAN MOVIE", THE FIRST RIDE
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20FIRST%20RIDE.m3u8
 
+#EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/NUMBER%20ONE1.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="onlygod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Only_God_Knows_Everything_poster.jpg/250px-Only_God_Knows_Everything_poster.jpg" group-title="VOD | KOREAN MOVIE",ONLY GOD KNOWS EVERYTHING
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/ONLY%20GOD%20KNOWS%20EVERYTHING.m3u8
 
 
 
@@ -11051,24 +11051,15 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20
 ##EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SALMOKJI.m3u8
 
-##EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/NUMBER%20ONE.m3u8
-
 ##EXTINF:-1 tvg-id="eildftwt" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31896285_v_v8_ab.jpg" group-title="VOD | KOREAN MOVIE",Even if This Love Disappears from the World Tonight (2025)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Even%20if%20This%20Love%20Disappears%20from%20the%20World%20Tonight%20(2025).m3u8
 
 ##EXTINF:-1 tvg-id="stream10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWTAYUPoKIO4-5kTDJYJuy8v-l4Lt-Skm0cuY3ku1A&s=10" group-title="VOD | KOREAN MOVIE",Streaming ( 2025 )
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/hea#EXTINF:-1 tvg-id="cryp11" tvg-logo="https://image.tmdb.org/t/p/w500/zTucIUYXTjvCT6PQnUyU7vdJPB9.jpg" group-title="VOD | KOREAN MOVIE",Crypto Man ( 2025 )
 
-##EXTINF:-1 tvg-id="boss9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8L4-FeLBhrikOID4G5Gd2FMUEpXYut0-kigErkkVxqqJfhbMH8gJZMb&s=10" group-title="VOD | KOREAN MOVIE",BOSS ( 2025 )
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/BOSS.m3u8
-
 ##EXTINF:-1 tvg-id="oncewewere" tvg-logo="https://cdns.klimg.com/resized/670x/p/paging/film-once-we-were-us-2026-sinopsis-1-8392b.jpg" group-title="VOD | KOREAN MOVIE",Once We Were Us (2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/oncewewereus.m3u8
 
-
-##EXTINF:-1 tvg-id="onlygod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Only_God_Knows_Everything_poster.jpg/250px-Only_God_Knows_Everything_poster.jpg" group-title="VOD | KOREAN MOVIE",Only God Knows Everything (2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/onlygod.m3u8
 
 ##EXTINF:-1 tvg-id="noparking" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3ODg3ZjMtNDYzYi00MmYxLTg3MDgtMTFlYzI4ZGQwNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",NO PARKING ( 2025 )
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/noparking.m3u8
