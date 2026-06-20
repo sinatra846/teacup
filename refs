@@ -10971,58 +10971,51 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTM3U
 #EXTINF:-1 tvg-name="HUMINT(2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvl4GdENi304yMvVnoZ89YL2dRx9_Hdta9wUZSTwlEduSplgYrQfAKWVMa&s=10" group-title="VOD | KOREAN MOVIE",HUMINT(2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/HUM.m3u8
-
-#EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SAVIORR.m3u8
-
 #EXTINF:-1 tvg-id="mnts12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BQyfmS-U22fZe8laoPW8AmrwOa8nk7hrzNd_acrCnw&s=10" group-title="VOD | KOREAN MOVIE",MANTIS
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/MAN1.m3u8
-
 #EXTINF:-1 tvg-id="tkw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9wUuL5fwnnxi9du0oeoJRWlFe5GFbmP40D2HmYIW5u5PNslffh3ECqM&s=10" group-title="VOD | KOREAN MOVIE ",THE KING’S WARDEN
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20King%E2%80%99s%20Warden2.m3u8
-
 #EXTINF:-1 tvg-id="py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ABnm-gg8y_ZIGV-SY8W61fxlXkkHvtEyJjukY8Kv9w&s=10" group-title="VOD | KOREAN MOVIE ",PROJECT Y
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PROJECT%20Y%203.m3u8
-
 #EXTINF:-1 tvg-id="tu" tvg-logo="https://down-id.img.susercontent.com/file/id-11134207-8224t-mh25pufv14i37c" group-title="VOD | KOREAN MOVIE ",THE UGLY
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20UGLY3.m3u8
-
 #EXTINF:-1 tvg-id="sgr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GfMORRTU7IUaBVZB_cWqrb41MKPVn3kCwrP8un9-2w&s=10" group-title="VOD | KOREAN MOVIE ",SUGAR
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SUGAR3.m3u8
-
 #EXTINF:-1 tvg-id="twol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXFceXJrZcxOOvpVIDPWouHv0S7thyNAn62CSTYyjOg&s=10" group-title="VOD | KOREAN MOVIE ",THE WORLD OF LOVE
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20World%20of%20Love3.m3u8
+#EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SALMOKJI2.m3u8
+#EXTINF:-1 tvg-id="clny" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFd3GErzAVpEskY9BZwSX5yNgJ4aSAPs9jOGNhv_y9w&s" group-title="VOD | KOREAN MOVIE",COLONY
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/COLONY.m3u8
+#EXTINF:-1 tvg-id="sstr" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/2/7/8/2/7/5/1278275-sister-2026-0-230-0-345-crop.jpg?v=6e0527c44e" group-title="VOD | KOREAN MOVIE",SISTER
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SISTER.m3u8
+#EXTINF:-1 tvg-id="mdiaz" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2YjMxNjQtY2ZlOC00Nzg5LWI5YjUtMWVhMzY4YWZmNmE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",MY DAUGHTER IS A ZOMBIE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/My%20Daughter%20is%20a%20Zombie%20(2025)_.m3u8
+#EXTINF:-1 tvg-id="thf" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Poster_film_The_Great_Flood.png" group-title="VOD | KOREAN MOVIE",THE GREAT FLOOD
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20GREAT%20FLOOD.m3u8
 
-#EXTINF:-1 tvg-id="jeongbongwon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAF-PPxR8uZH5Wb5HpQ8E8Ry7Sx9RmNQY8VG2XGiXjJLfAZ2o-FH-PkuU&s=10" group-title="VOD | KOREAN MOVIE",JEONGBOWON 
+
+
+========================================== ERR ===========================================
+
+
+##EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SAVIORR.m3u8
+
+##EXTINF:-1 tvg-id="jeongbongwon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAF-PPxR8uZH5Wb5HpQ8E8Ry7Sx9RmNQY8VG2XGiXjJLfAZ2o-FH-PkuU&s=10" group-title="VOD | KOREAN MOVIE",JEONGBOWON 
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/JEONG.m3u8
 
-#EXTINF:-1 tvg-id="boss9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8L4-FeLBhrikOID4G5Gd2FMUEpXYut0-kigErkkVxqqJfhbMH8gJZMb&s=10" group-title="VOD | KOREAN MOVIE",BOSS
+##EXTINF:-1 tvg-id="boss9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8L4-FeLBhrikOID4G5Gd2FMUEpXYut0-kigErkkVxqqJfhbMH8gJZMb&s=10" group-title="VOD | KOREAN MOVIE",BOSS
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/BOSS11.m3u8
 
-#EXTINF:-1 tvg-id="thefirstride" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/First_Ride_film_poster.jpg/250px-First_Ride_film_poster.jpg" group-title="VOD | KOREAN MOVIE", THE FIRST RIDE
+##EXTINF:-1 tvg-id="thefirstride" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/First_Ride_film_poster.jpg/250px-First_Ride_film_poster.jpg" group-title="VOD | KOREAN MOVIE", THE FIRST RIDE
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20FIRST%20RIDE.m3u8
 
-#EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
+##EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/NUMBER%20ONE1.m3u8
 
-#EXTINF:-1 tvg-id="onlygod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Only_God_Knows_Everything_poster.jpg/250px-Only_God_Knows_Everything_poster.jpg" group-title="VOD | KOREAN MOVIE",ONLY GOD KNOWS EVERYTHING
+##EXTINF:-1 tvg-id="onlygod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Only_God_Knows_Everything_poster.jpg/250px-Only_God_Knows_Everything_poster.jpg" group-title="VOD | KOREAN MOVIE",ONLY GOD KNOWS EVERYTHING
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/ONLY%20GOD%20KNOWS%20EVERYTHING.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ##EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SALMOKJI.m3u8
@@ -11035,7 +11028,6 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/hea#EXTINF:-1 tvg
 
 ##EXTINF:-1 tvg-id="oncewewere" tvg-logo="https://cdns.klimg.com/resized/670x/p/paging/film-once-we-were-us-2026-sinopsis-1-8392b.jpg" group-title="VOD | KOREAN MOVIE",Once We Were Us (2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/oncewewereus.m3u8
-
 
 ##EXTINF:-1 tvg-id="noparking" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3ODg3ZjMtNDYzYi00MmYxLTg3MDgtMTFlYzI4ZGQwNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",NO PARKING ( 2025 )
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/noparking.m3u8
