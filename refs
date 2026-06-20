@@ -11041,12 +11041,26 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 
 
 
+<=================== vnl =============================>
 
 
+#EXTINF:-1 group-title="EVENT 020/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 19:00 WIB Japan v Dominican Republic | Week 2 | Women's VNL 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 group-title="EVENT 020/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 20:00 WIB China v Brazil | Week 2 | Women's VNL 2026
+
+#EXTINF:-1 group-title="EVENT 020/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 20:30 WIB Thailand v Canada | Week 2 | Women's VNL 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+
+#EXTINF:-1 group-title="EVENT 020/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 23:30 WIB TÃ¼rkiye v Germany | Week 2 | Women's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=4639d4f35899b1fa809e9a023030fccc&wsABSTime=1781980034
 
 
 
 <=================== Badminton =============================>
+
 
 
 #EXTINF:-1 group-title="EVENT 020/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s", 11:00 WIB SANDS CHINA LTD Macau Open 2026
@@ -11060,18 +11074,35 @@ https://live1.pro2cdnlive.com/live/channel61.m3u8?wsSecret=3040f96c9b683c64655ff
 
 
 
-<=================== VNL =============================>
-
-
 
 
 
 ##############################LIVE EVENT 2###############################
 ##EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+#EXTINF:-1 group-title="EVENT 021/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 00:00 WIB Belanda vs Swedia
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026", 00:00 WIB Belanda vs Swedia (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
 
+#EXTINF:-1 group-title="EVENT 021/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Jerman vs Pantai Gading
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026", 03:00 WIB Jerman vs Pantai Gading (ALT S)
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 021/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 07:00 WIB Ekuador vs CuraÃ§ao
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026", 07:00 WIB Ekuador vs CuraÃ§ao (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 021/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 11:00 WIB Tunisia vs Jepang
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026", 11:00 WIB Tunisia vs Jepang (ALT S)
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 
 
