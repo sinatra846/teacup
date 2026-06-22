@@ -11028,22 +11028,27 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 #EXTINF:-1 group-title="EVENT 023/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 00:00 WIB Argentina vs Austria
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 023/JUNI/2026",  00:00 WIB Argentina vs Austria (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 group-title="EVENT 023/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 04:00 WIB Perancis vs Irak
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 023/JUNI/2026", 04:00 WIB Perancis vs Irak (ALT S)
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
 #EXTINF:-1 group-title="EVENT 023/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 07:00 WIB Norwegia vs Senegal
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 023/JUNI/2026", 07:00 WIB Norwegia vs Senegal (ALT T)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 group-title="EVENT 023/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 10:00 WIB Jordania vs Aljazair
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 
-
-##EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 022/JUNI/2026", 02:00 WIB Belgia vs Iran (ALT S)
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 023/JUNI/2026", 10:00 WIB Jordania vs Aljazair (ALT S)
 http://103.148.44.38:8000/play/a05u/index.m3u8
-
-##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 022/JUNI/2026", 05:00 WIB Uruguay vs Tanjung Verde (ALT T)
-http://103.148.44.38:8000/play/a03t/index.m3u8
-
-
-
 
 
 
