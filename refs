@@ -11003,46 +11003,6 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 <=================== WC =============================>
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 025/JUNI/2026", 05:00 WIB Skotlandia vs Brasil (BF2)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
-
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 025/JUNI/2026",05:00 WIB Skotlandia vs Brasil (TINDS)
-http://103.148.44.38:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 025/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",05:00 WIB Skotlandia vs Brasil (SS1)
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 025/JUNI/2026",05:00 WIB Skotlandia vs Brasil (DS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
-
-<===================>
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 025/JUNI/2026", 05:00 WIB Maroko vs Haiti (BF1)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 025/JUNI/2026", group-title="EVENT 025/JUNI/2026", 05:00 WIB Maroko vs Haiti (TIND)
-http://103.148.44.38:8000/play/a03t/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 025/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",05:00 WIB Maroko vs Haiti (SS3)
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
-
-
-<===================>
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 025/JUNI/2026", 08:00 WIB Afrika Selatan vs Republik Korea (BF2)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -11072,15 +11032,6 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 group-title="EVENT 025/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",08:00 WIB Republik Ceko vs Meksiko (SS2) 
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
-
-
-
-
-
-
-
-
 
 
 
@@ -11127,9 +11078,6 @@ https://afa7d3ea.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
 
-
-
-
 ========================================== VOD KOREA ===========================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD STREAM
 
@@ -11165,41 +11113,16 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20
 
 
 ##EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SAVIORR.m3u8
-
 ##EXTINF:-1 tvg-id="jeongbongwon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAF-PPxR8uZH5Wb5HpQ8E8Ry7Sx9RmNQY8VG2XGiXjJLfAZ2o-FH-PkuU&s=10" group-title="VOD | KOREAN MOVIE",JEONGBOWON 
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/JEONG.m3u8
-
 ##EXTINF:-1 tvg-id="boss9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8L4-FeLBhrikOID4G5Gd2FMUEpXYut0-kigErkkVxqqJfhbMH8gJZMb&s=10" group-title="VOD | KOREAN MOVIE",BOSS
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/BOSS11.m3u8
-
 ##EXTINF:-1 tvg-id="thefirstride" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/First_Ride_film_poster.jpg/250px-First_Ride_film_poster.jpg" group-title="VOD | KOREAN MOVIE", THE FIRST RIDE
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20FIRST%20RIDE.m3u8
-
 ##EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/NUMBER%20ONE1.m3u8
-
 ##EXTINF:-1 tvg-id="onlygod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Only_God_Knows_Everything_poster.jpg/250px-Only_God_Knows_Everything_poster.jpg" group-title="VOD | KOREAN MOVIE",ONLY GOD KNOWS EVERYTHING
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/ONLY%20GOD%20KNOWS%20EVERYTHING.m3u8
-
 ##EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SALMOKJI.m3u8
-
 ##EXTINF:-1 tvg-id="eildftwt" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31896285_v_v8_ab.jpg" group-title="VOD | KOREAN MOVIE",Even if This Love Disappears from the World Tonight (2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Even%20if%20This%20Love%20Disappears%20from%20the%20World%20Tonight%20(2025).m3u8
-
 ##EXTINF:-1 tvg-id="stream10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWTAYUPoKIO4-5kTDJYJuy8v-l4Lt-Skm0cuY3ku1A&s=10" group-title="VOD | KOREAN MOVIE",Streaming ( 2025 )
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/hea#EXTINF:-1 tvg-id="cryp11" tvg-logo="https://image.tmdb.org/t/p/w500/zTucIUYXTjvCT6PQnUyU7vdJPB9.jpg" group-title="VOD | KOREAN MOVIE",Crypto Man ( 2025 )
-
 ##EXTINF:-1 tvg-id="oncewewere" tvg-logo="https://cdns.klimg.com/resized/670x/p/paging/film-once-we-were-us-2026-sinopsis-1-8392b.jpg" group-title="VOD | KOREAN MOVIE",Once We Were Us (2026)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/oncewewereus.m3u8
-
 ##EXTINF:-1 tvg-id="noparking" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3ODg3ZjMtNDYzYi00MmYxLTg3MDgtMTFlYzI4ZGQwNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",NO PARKING ( 2025 )
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/noparking.m3u8
-
-
-
-
 
 
 
@@ -11207,67 +11130,48 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/nopark
 ========================================== VOD INDONESIA ===========================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_INDONESIA.png?raw=true",VOD STREAM
 
-#EXTINF:-1 tvg-id="idmp" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Poster_Film_Sore.jpg" group-title="VOD | INDONESIAN MOVIE",SORE : ISTRI DARI MASA DEPAN
+#EXTM3U
+#EXTINF:-1 tvg-id="idmp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Mwmc7oAeR-obt9nWviM-Ck9QhJzzP5mIGg&s" group-title="VOD | INDONESIAN MOVIE",SORE : ISTRI DARI MASA DEPAN
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sore%2C%20Istri%20Dari%20Masa%20Depan.m3u8
-
 #EXTINF:-1 tvg-id="stt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5LINiFoxsgYcC64dB6En-qw14f2OyZNm09BQLSrH&s" group-title="VOD | INDONESIAN MOVIE ",SAMPAI TITIK TERAKHIRMU
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sampai%20Titik%20Terakhirmu.m3u8
-
-#EXTINF:-1 tvg-id="psg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWqBmm5UQm_A1xw5f3UYEaO62VpW_z9vmmo7HcqPy2w&s" group-title="VOD | INDONESIAN MOVIE",PESUGIHAN SATE GAGAK
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Pesugihan%20Sate%20Gagak.m3u8
-
-#EXTINF:-1 tvg-id="opbpj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTclOfwR9YrMakxlo02v4sR4RL7CLT1DGOwrAQ4R7h51uZ8bEGSx_Dsww&s=10" group-title="VOD | INDONESIAN MOVIE",OZORA: PENGANIAYAAN BRUTAL PENGUASA JAKSEL
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Ozora%20Penganiayaan%20Brutal%20Penguasa%20Jaksel.m3u8
-
-#EXTINF:-1 tvg-id="mnk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB73ub1UWUGZY-SXCs1Pw7uDfQJtB-rrxk_UP17GV4Rg&s=10" group-title="VOD | INDONESIAN MOVIE",MERTUA NGERI KALI
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Ozora%20Penganiayaan%20Brutal%20Penguasa%20Jaksel.m3u8
-
-#EXTINF:-1 tvg-id="skl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXynRGrfQ8WvV-oKDMFk08vXZbZSGwz_i1L-rktfWVsJRd_0Yj2Gge4yAD&s=10" group-title="VOD | INDONESIAN MOVIE",SOSOK KETIGA: LINTRIK
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sosok%20Ketiga%20Lintrik.m3u8
-
-#EXTINF:-1 tvg-id="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpX6j8Zyfh9UyWa9F9aGpz2-XkgOLtNCLomDnC7bZyDA&s=10" group-title="VOD | INDONESIAN MOVIE",SI PALING AKTOR
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Si%20Paling%20Aktor.m3u8
-
-#EXTINF:-1 tvg-id="shtr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQd0nYwnWK1Sx5jwYchXh5_M8UY1EyoC80QYURrdkgnOlQTxICCz5x9ZI&s=10" group-title="VOD | INDONESIAN MOVIE",SHUTTER
-https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/SHUTTER.m3u8
-
-#EXTINF:-1 tvg-id="yknkh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZoI-qWFd_-4HXId2m6H0cfcL1IaO6tdl6LGh1PIRoALbraZ1ylJnaAjL5&s=10" group-title="VOD | INDONESIAN MOVIE",YAKIN NIKAH
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Yakin%20Nikah.m3u8
-
-#EXTINF:-1 tvg-id="ttd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-yG5-jB2Tzuq9jhTSkeZfDEHxYTiE5KN1lYVrciq9Q&s=10" group-title="VOD | INDONESIAN MOVIE",TUKAR TAKDIR
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Tukar%20Takdir.m3u8
-
-#EXTINF:-1 tvg-id="jpmk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSIi2Jjs0mVq7hVPfqUdKHZaqJFLyrBR0HcE5lhzhAMJhFF4GETZPJKu1N&s=10" group-title="VOD | INDONESIAN MOVIE ",JANGAN PANGGIL MAMA KAFIR
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Jangan%20Panggil%20Mama%20Kafir.m3u8
-
-#EXTINF:-1 tvg-id="getir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDf9-ySUFmQrdqdbA9u_3VE2cE8qTjXbPKv1sHHaYIW7GLwiWc5Id_JXE&s=10" group-title="VOD | INDONESIAN MOVIE",GETIH IRENG
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/GETIH%20IRENG.m3u8
-
-#EXTINF:-1 tvg-id="phjr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKsdDSHsZ5tISQJAbNYVcQh_M3bMlmvtlsAkG2SOUSC6Ab7PdxBWfujVsgjAtAHcFwzItv_HSAu8LsHrZzg-owiDYgUoNmewy3BSPyRYN&s=10" group-title="VOD | INDONESIAN MOVIE",PENGIN HIJRAH (2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Pengin%20Hijrah%20(2025).m3u8
-
-#EXTINF:-1 tvg-id="ptr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGdEI8MVbnesLtUPmrKKfOc1E6_qsp1oNwt77k5lQtQ&s=10" group-title="VOD | INDONESIAN MOVIE",PENCARIAN TERAKHIR (2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Pencarian%20Terakhir%20(2025).m3u8
-
-#EXTINF:-1 tvg-id="kkr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAmglbtedM9COT0jk6mybRkiENNQV2kdUtl9XQAC7MQ&s" group-title="VOD | INDONESIAN MOVIE",KAMPUNG KERAMAT (2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Kampung%20Keramat%20(2025).m3u8
-
-#EXTINF:-1 tvg-id="dsdp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfxUKmRWqCpeCVjNn0cB5vlrXOvE7Q3g3TJKePNshKw&s=10" group-title="VOD | INDONESIAN MOVIE",DILANJUTKAN SALAH DISUDAHI PERIH (2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Dilanjutkan%20Salah%20Disudahi%20Perih%20(2025).m3u8
-
 #EXTINF:-1 tvg-id="dbi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvTNlc989yqLkIpkXbgdMrSIn578B7lSNcz3ysD8EAg&s" group-title="VOD | INDONESIAN MOVIE",DIA BUKAN IBU (2025)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Dia%20Bukan%20Ibu%20(2025).m3u8
 
 
 
+========================================== ERR ===========================================
 
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="psg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWqBmm5UQm_A1xw5f3UYEaO62VpW_z9vmmo7HcqPy2w&s" group-title="VOD | INDONESIAN MOVIE",PESUGIHAN SATE GAGAK
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Pesugihan%20Sate%20Gagak.m3u8
+#EXTINF:-1 tvg-id="opbpj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTclOfwR9YrMakxlo02v4sR4RL7CLT1DGOwrAQ4R7h51uZ8bEGSx_Dsww&s=10" group-title="VOD | INDONESIAN MOVIE",OZORA: PENGANIAYAAN BRUTAL PENGUASA JAKSEL
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Ozora%20Penganiayaan%20Brutal%20Penguasa%20Jaksel.m3u8
+#EXTINF:-1 tvg-id="skl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXynRGrfQ8WvV-oKDMFk08vXZbZSGwz_i1L-rktfWVsJRd_0Yj2Gge4yAD&s=10" group-title="VOD | INDONESIAN MOVIE",SOSOK KETIGA: LINTRIK
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sosok%20Ketiga%20Lintrik.m3u8
+#EXTINF:-1 tvg-id="mnk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB73ub1UWUGZY-SXCs1Pw7uDfQJtB-rrxk_UP17GV4Rg&s=10" group-title="VOD | INDONESIAN MOVIE",MERTUA NGERI KALI
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Ozora%20Penganiayaan%20Brutal%20Penguasa%20Jaksel.m3u8
+#EXTINF:-1 tvg-id="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpX6j8Zyfh9UyWa9F9aGpz2-XkgOLtNCLomDnC7bZyDA&s=10" group-title="VOD | INDONESIAN MOVIE",SI PALING AKTOR
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Si%20Paling%20Aktor.m3u8
+#EXTINF:-1 tvg-id="shtr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQd0nYwnWK1Sx5jwYchXh5_M8UY1EyoC80QYURrdkgnOlQTxICCz5x9ZI&s=10" group-title="VOD | INDONESIAN MOVIE",SHUTTER
+https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/SHUTTER.m3u8
+#EXTINF:-1 tvg-id="yknkh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZoI-qWFd_-4HXId2m6H0cfcL1IaO6tdl6LGh1PIRoALbraZ1ylJnaAjL5&s=10" group-title="VOD | INDONESIAN MOVIE",YAKIN NIKAH
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Yakin%20Nikah.m3u8
+#EXTINF:-1 tvg-id="ttd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-yG5-jB2Tzuq9jhTSkeZfDEHxYTiE5KN1lYVrciq9Q&s=10" group-title="VOD | INDONESIAN MOVIE",TUKAR TAKDIR
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Tukar%20Takdir.m3u8
+#EXTINF:-1 tvg-id="jpmk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSIi2Jjs0mVq7hVPfqUdKHZaqJFLyrBR0HcE5lhzhAMJhFF4GETZPJKu1N&s=10" group-title="VOD | INDONESIAN MOVIE ",JANGAN PANGGIL MAMA KAFIR
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Jangan%20Panggil%20Mama%20Kafir.m3u8
+#EXTINF:-1 tvg-id="getir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDf9-ySUFmQrdqdbA9u_3VE2cE8qTjXbPKv1sHHaYIW7GLwiWc5Id_JXE&s=10" group-title="VOD | INDONESIAN MOVIE",GETIH IRENG
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/GETIH%20IRENG.m3u8
+#EXTINF:-1 tvg-id="phjr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKsdDSHsZ5tISQJAbNYVcQh_M3bMlmvtlsAkG2SOUSC6Ab7PdxBWfujVsgjAtAHcFwzItv_HSAu8LsHrZzg-owiDYgUoNmewy3BSPyRYN&s=10" group-title="VOD | INDONESIAN MOVIE",PENGIN HIJRAH (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Pengin%20Hijrah%20(2025).m3u8
+#EXTINF:-1 tvg-id="ptr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGdEI8MVbnesLtUPmrKKfOc1E6_qsp1oNwt77k5lQtQ&s=10" group-title="VOD | INDONESIAN MOVIE",PENCARIAN TERAKHIR (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Pencarian%20Terakhir%20(2025).m3u8
+#EXTINF:-1 tvg-id="kkr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAmglbtedM9COT0jk6mybRkiENNQV2kdUtl9XQAC7MQ&s" group-title="VOD | INDONESIAN MOVIE",KAMPUNG KERAMAT (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Kampung%20Keramat%20(2025).m3u8
+#EXTINF:-1 tvg-id="dsdp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfxUKmRWqCpeCVjNn0cB5vlrXOvE7Q3g3TJKePNshKw&s=10" group-title="VOD | INDONESIAN MOVIE",DILANJUTKAN SALAH DISUDAHI PERIH (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Dilanjutkan%20Salah%20Disudahi%20Perih%20(2025).m3u8
 
 
 
@@ -11277,47 +11181,39 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Dia%20
 ======================================== VOD ACTION ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
-#EXTINF:-1 tvg-id="cao" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/Carry_On_film_poster.jpg/250px-Carry_On_film_poster.jpg" group-title="VOD | ACTION MOVIE",CARRY ON
+#EXTM3U
+#EXTINF:-1 tvg-id="cao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMIRSOYGu6ib_BjA8Wqd0AWqpm0AkWWnNIg&s" group-title="VOD | ACTION MOVIE",CARRY ON
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/CARRY%20ON.m3u8
-
 #EXTINF:-1 tvg-id="pptmt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR05hFAhB9n89eI5_vhdPH6cu9K7PLbKRSwFnHWEi-SnCPeCkA-7I51dl4a&s=10" group-title="VOD | ACTION MOVIE",PANDA PLAN: THE MAGICAL TRIBE (2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PANDA%20PLAN_%20THE%20MAGICAL%20TRIBE%20(2026).m3u8
-
-#EXTINF:-1 tvg-id="fze" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMnIZ6DHLyMIBAjA3ffpGSjQwqxtmir7sZLCpoKSop7SZ0LBqf8q5ZyhA&s=10" group-title="VOD | ACTION MOVIE",FUZE 2026
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/FUZE%20(2026).m3u8
-
 #EXTINF:-1 tvg-id="srloh" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQxZmEzMzYtODM5MC00NTFhLTk4NTItMmNmNDhiNTMxMGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",STORM RIDER: LEGEND OF HAMMERHEAD (2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/STORM%20RIDER_%20LEGEND%20OF%20HAMMERHEAD%20(2026).m3u8
-
-#EXTINF:-1 tvg-id="nwbfsn" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY1NDJjZWYtMGI5MC00OTU0LThkZTEtNjEzODkyMDI5YTFhXkEyXkFqcGc@._V1_.jpg" group-title="VOD | ACTION MOVIE",NINJA WARS - BLACK FOX VS SHOGUN'S NINJA
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Ninja%20Wars%20-%20Black%20Fox%20vs%20Shogun's%20Ninja.m3u8
-
-#EXTINF:-1 tvg-id="twky" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/00/They_Will_Kill_You_film_poster.jpg" group-title="VOD | ACTION MOVIE",THEY WILL KILL YOU
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/They%20Will%20Kill%20You.m3u8
-
-#EXTINF:-1 tvg-id="smc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaeSiI7Y2Tp7tcX9YRwIwiVbxlaWEHw1ASKsV-RXW5A&s=10" group-title="VOD | ACTION MOVIE ",SNAKE 5: MONSTER CITY
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Snake%205_%20Monster%20City.m3u8
-
-#EXTINF:-1 tvg-id="mxcl" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcyNmIwY2UtZTUzNC00Zjk0LWIzNTAtMmNiYWQ1NWIzNzk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",MEXICALI
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/MEXICALI.m3u8
-
-#EXTINF:-1 tvg-id="wm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgxgmX1qHmfTLd6q3nMwixlbw8StcPUF9mvClm6xPzBDszK8UE1h3VxP_&s=10" group-title="VOD | ACTION MOVIE",WAR MACHINE
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/War%20Machine.m3u8
-
-#EXTINF:-1 tvg-id="tdwc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDqhy8tKVhCtHfJeM3GV2jn8qQOMrJaKBngNxg1Y44A&s=10" group-title="VOD | ACTION MOVIE",THE DAKOTA WAR: CHASE
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Dakota%20War_%20Chase.m3u8
-
-#EXTINF:-1 tvg-id="prst" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUlnr-FctrJdqew9rxfD796purmMeECC3bks4v8E9DA&s" group-title="VOD | ACTION MOVIE",PARASAKTHI
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PARASAKTHI.m3u8
-
+#EXTINF:-1 tvg-id="tcjr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS070r7qx-L3ehGhWgvWNsPI0gjr_K1Tsvyk4UIcVBhdMwkIvzDchqvlg-r&s=10" group-title="VOD | ACTION MOVIE",TOM CLANCY’S JACK RYAN: GHOST WAR
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/TOM%20CLANCY%E2%80%99S%20JACK%20RYAN_%20GHOST%20WAR%20(1).m3u8
 #EXTINF:-1 tvg-id="mk2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSilWwbL7jFe-BL3SHupC-FH5ani9FT7kPcdOyzKP20Lw&s=10" group-title="VOD | ACTION MOVIE",MORTAL KOMBAT II (2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Mortal%20Kombat%20II.m3u8
+#EXTINF:-1 tvg-id="pskl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJfTFB5ZdQRYeV2ebqlZqCKHlRtj6P9NuZN9P5Mwq_0neoHA8Bn0X-CY&s=10" group-title="VOD | ACTION MOVIE",PASAKALYE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PASAKALYE.m3u8
+#EXTINF:-1 tvg-id="tfb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBdlpHtj8BVyhWRw_bMeBMh-are2WL2iYeFy9dct7kBHK6srQW7UhIf9I&s=10" group-title="VOD | ACTION MOVIE",THE FINAL BATTLE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20FINAL%20BATTLE.m3u8
+#EXTINF:-1 tvg-id="fze" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjL26ZJE_Dik9JaDqdpw2eMCGP2BEEd_M9Dil7v6lteBPJI5vXMVtsLTWMhSelVid2YCu0J7cx7mk9_vHRRRpEwUMniWRjC2hxfJyDSQ&s=10" group-title="VOD | ACTION MOVIE",FUZE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Fuze.m3u8
 
+
+
+========================================== ERR ===========================================
+
+
+
+#EXTINF:-1 tvg-id="twky" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/00/They_Will_Kill_You_film_poster.jpg" group-title="VOD | ACTION MOVIE",THEY WILL KILL YOU
+#EXTINF:-1 tvg-id="smc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaeSiI7Y2Tp7tcX9YRwIwiVbxlaWEHw1ASKsV-RXW5A&s=10" group-title="VOD | ACTION MOVIE ",SNAKE 5: MONSTER CITY
+#EXTINF:-1 tvg-id="mxcl" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcyNmIwY2UtZTUzNC00Zjk0LWIzNTAtMmNiYWQ1NWIzNzk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",MEXICALI
+#EXTINF:-1 tvg-id="wm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgxgmX1qHmfTLd6q3nMwixlbw8StcPUF9mvClm6xPzBDszK8UE1h3VxP_&s=10" group-title="VOD | ACTION MOVIE",WAR MACHINE
+#EXTINF:-1 tvg-id="tdwc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDqhy8tKVhCtHfJeM3GV2jn8qQOMrJaKBngNxg1Y44A&s=10" group-title="VOD | ACTION MOVIE",THE DAKOTA WAR: CHASE
+#EXTINF:-1 tvg-id="prst" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUlnr-FctrJdqew9rxfD796purmMeECC3bks4v8E9DA&s" group-title="VOD | ACTION MOVIE",PARASAKTHI
 #EXTINF:-1 tvg-id="dtr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_w7DLMuzAn8otLc025_i1f0R0rkx8nN9YOcU5ViH_ww&s=10" group-title="VOD | ACTION MOVIE",DHURANDHAR: THE REVENGE (2026)
-https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/Dhurandhar_%20The%20Revenge%20(2026).m3u8
+#EXTINF:-1 tvg-id="nwbfsn" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY1NDJjZWYtMGI5MC00OTU0LThkZTEtNjEzODkyMDI5YTFhXkEyXkFqcGc@._V1_.jpg" group-title="VOD | ACTION MOVIE",NINJA WARS - BLACK FOX VS SHOGUN'S NINJA
 
-#EXTINF:-1 tvg-id="mda" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlUYrmcbZJkLfNU0ZuD7ejfkgRPGWYaoMLvCqBrON3g&s=10" group-title="VOD | ACTION MOVIE",MY DEAREST ASSASSIN (2026)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/My%20Dearest%20Assassin%20(2026).m3u8
 
 
 
