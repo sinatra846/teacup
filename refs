@@ -2175,33 +2175,23 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 
 
-=====================================hbo max 2==========================================================
+=====================================hbo V+=====================================
 
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="CHANNEL | HBO GRUB",HBO Max
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-#https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3284600346800000.mpd
-
-#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbohitsasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO HITS Max
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-#https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3284600346800000.mpd
-
-#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbofamilyasia.sg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO FAMILY Max
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-#https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3284600346800000.mpd
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="CHANNEL | HBO GRUB",HBO (ALT)
+http://103.148.44.38:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbofamilyasia.sg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO FAMILY (ALT)
+http://103.148.44.38:8000/play/a09d/index.m3u8
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbohitsasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO HITS (ALT)
+http://103.148.44.38:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="cinemaxasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX (ALT)
+http://103.148.44.38:8000/play/a09e/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbosignatureasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO SIGNATURE Max
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3284600346800000.mpd
 
-#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="cinemaxasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX Max
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
-#https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
-#https://jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3284600346800000.mpd
 
 
 =====================================hbo cignal==========================================================
