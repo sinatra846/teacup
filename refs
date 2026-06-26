@@ -11072,7 +11072,7 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 #EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 026/JUNI/2026", 06:00 WIB Tunisia vs Belanda(TINDS)
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 06:00 WIB Tunisia vs Belanda  (TISP)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 026/JUNI/2026", 06:00 WIB Tunisia vs Belanda  (TISP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -11092,11 +11092,6 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-
-
-
-
-
 
 
 <===================>
