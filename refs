@@ -10985,10 +10985,8 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 
-##############################LIVE EVENT 1##############################
-
+<====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 026/JUNI/2026", 06:00 WIB Tunisia vs Belanda (BF2)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11016,10 +11014,7 @@ https://tencent-css.byteplaycdn.com/51da51a3a8697e5a1eef7f027a05901e/6A3E1DB3/Co
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 
-
-##############################LIVE EVENT 2###############################
-
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+<===================>
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 026/JUNI/2026", 06:00 WIB Jepang vs Swedia (BF1)
@@ -11036,22 +11031,6 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 https://tencent-css.byteplaycdn.com/07bb35cb52df0d6b2522a52897e2b0be/6A3E1D4F/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
-
-
-
-
-
-
-
-
-
-
-
-<===================>
-
-
-
-
 
 
 <===================>
@@ -11130,7 +11109,8 @@ https://tencent-css.byteplaycdn.com/51da51a3a8697e5a1eef7f027a05901e/6A3E1DB3/Co
 
 
 
-
+<====================LIVE EVENT 2===================================>
+##EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
 
