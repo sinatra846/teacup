@@ -102,6 +102,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/spotv.png" group-title="CHANNEL | SPORT INDO", SPOTV Now
 https://slive.mana2.my/SpotvNow/index.mpd
 
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -209,7 +210,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORT INDO" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 (ott.navigator) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e3  17143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd  
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -332,7 +333,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8t
 #EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", FUSSBALL TV 1 UHD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", FUSSBALL TV 1 HD
+#EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/ipiptv-assets-lob/main/WC%202026.jpg?raw=true", FUSSBALL TV 1 HD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 1 (ALB) 
