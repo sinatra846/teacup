@@ -514,7 +514,7 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 
 
 =========================================== Malaysia ===========================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Malay%20thumb.png?raw=true",CHANNEL | MALAYSIA
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_MAL.png?raw=true",CHANNEL | MALAYSIA
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/f/f1/TV1_%28Malaysia%2C_2022%29.png/534px-TV1_%28Malaysia%2C_2022%29.png" group-title="CHANNEL | MALAYSIA",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -1092,7 +1092,7 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 ####################################################
 ####################################################
 
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_IND6.png?raw=true",CHANNEL | INDONESIA
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_IND.png?raw=true",CHANNEL | INDONESIA
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV (DTK)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2058,7 +2058,7 @@ SINGAPURA
 
 
 ===================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Singapore%20thumb.png?raw=true",CHANNEL | SINGAPORE
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_SING.png?raw=true",CHANNEL | SINGAPORE
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
