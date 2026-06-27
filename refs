@@ -11068,6 +11068,9 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 #EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 028/JUNI/2026", 04:00 WIB Kroasia vs Ghana (TVS1)
 http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 028/JUNI/2026",04:00 WIB Kroasia vs Ghana(TSN2)  
+http://myxpanel.pro/live/13579/13579/838102.ts 
+
 #EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 028/JUNI/2026",04:00 WIB Kroasia vs Ghana(TVS2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
