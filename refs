@@ -11080,12 +11080,6 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 <====================LIVE EVENT 2==================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 029/JUNI/2026", 02:00 WIB Afrika Selatan vs Kanada (TV1)
-http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
-
-EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 029/JUNI/2026", 02:00 WIB Afrika Selatan vs Kanada (TVS1)
-http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 029/JUNI/2026", 02:00 WIB Afrika Selatan vs Kanada (BF1)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -11098,6 +11092,15 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
 #EXTINF:-1 group-title="EVENT 029/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Afrika Selatan vs Kanada (FSB1)
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 029/JUNI/2026", 02:00 WIB Afrika Selatan vs Kanada (TV1)
+http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
+
+EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 029/JUNI/2026", 02:00 WIB Afrika Selatan vs Kanada (TVS1)
+http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
+
+
+
 
 
 <=================>
