@@ -11189,39 +11189,6 @@ https://tencent-css.byteplaycdn.com/bc45d110f4e170d2614174ed09e43948/6A45DAAC/Co
 <====================LIVE EVENT 2==================================
 EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 02/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSmxsDW3h6Xv8o364TBJhBkN1lzb3D_75FZk6sym4&s=10", 00:00 WIB Ukraina U22 vs Portugal U22
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel83.m3u8
-
-#EXTINF:-1 group-title="EVENT 02/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSmxsDW3h6Xv8o364TBJhBkN1lzb3D_75FZk6sym4&s=10", 02:30 WIB Italia U22 vs Prancis U22 
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
-
-<==================>
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 03:00 WIB Belgia vs Senegal (BF1)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 group-title="EVENT 02/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",  03:00 WIB Belgia vs Senegal (SS2) 
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
-#EXTINF:-1 group-title="EVENT 02/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Belgia vs Senegal (FSB1)
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
-
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026",03:00 WIB Belgia vs Senegal (TSN1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 03:00 WIB Belgia vs Senegal (TV1)
-http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 03:00 WIB Belgia vs Senegal (TVS1)
-http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
-
-<==================>
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 07:00 WIB Amerika Serikat vs Bosnia Herzegovina (BF1)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11257,7 +11224,33 @@ https://tencent-css.byteplaycdn.com/bc45d110f4e170d2614174ed09e43948/6A45DAAC/Co
 
 
 
+<==================>
 
+
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 03:00 WIB Belgia vs Senegal (BF1)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+EXTINF:-1 group-title="EVENT 02/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",  03:00 WIB Belgia vs Senegal (SS2) 
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+EXTINF:-1 group-title="EVENT 02/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Belgia vs Senegal (FSB1)
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026",03:00 WIB Belgia vs Senegal (TSN1)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 03:00 WIB Belgia vs Senegal (TV1)
+http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
+
+EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 03:00 WIB Belgia vs Senegal (TVS1)
+http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
 
 
