@@ -11247,44 +11247,13 @@ http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
 #EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 07:00 WIB Amerika Serikat vs Bosnia Herzegovina (TVS1)
 http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
-
-<==================>
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 01:00 WIB Slovenia vs Slovakia (BF1)
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel84.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 07:00 WIB Amerika Serikat vs Bosnia Herzegovina (TVMAX)
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 group-title="EVENT 02/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",  01:00 WIB Slovenia vs Slovakia (SS2) 
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel84.m3u8
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
-#EXTINF:-1 group-title="EVENT 02/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 01:00 WIB Slovenia vs Slovakia (FSB1)
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
-
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 01:00 WIB Slovenia vs Slovakia (TSN1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 01:00 WIB Slovenia vs Slovakia (TV1)
-http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 02/JULI/2026", 01:00 WIB Slovenia vs Slovakia (TVS1)
-http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
-
-
-
-
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tencent-css.byteplaycdn.com/bc45d110f4e170d2614174ed09e43948/6A45DAAC/Content/DASH_ENC2/L
 
 
 
