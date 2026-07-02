@@ -404,11 +404,30 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/
 #KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
 https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", TSN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-7/g93j-5a9v_1080p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" tvg-id="itzreisa.id" group-title="CHANNEL | WORLD CUP", FIFA World Cup (Tsn 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838103.ts
+http://opplextv.cyou:8080/nasir6160/nasir/349014
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" tvg-id="itzreisa.id" group-title="CHANNEL | WORLD CUP", FIFA World Cup (Tsn 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838102.ts
+http://opplextv.cyou:8080/nasir6160/nasir/349015
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" tvg-id="itzreisa.id" group-title="CHANNEL | WORLD CUP", FIFA World Cup (Tsn 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv8x3tAP0-CWHfpKoj-o4Rz/m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/349016
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" tvg-id="itzreisa.id" group-title="CHANNEL | WORLD CUP", FIFA World Cup (Tsn 4)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuW1Fs344n15KEeKaKxZwJ1/m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/349017
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" tvg-id="itzreisa.id" group-title="CHANNEL | WORLD CUP", FIFA World Cup (Tsn 5)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpss0oU8VkGW-VxjeNebejIG/m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/349018
 
 
 
