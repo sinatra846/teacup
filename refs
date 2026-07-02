@@ -11258,6 +11258,27 @@ http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
 #EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 03/JULI/2026", 06:00 WIB Portugal vs Kroasia (TVS1)
 http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
+#EXTINF:-1 tvg-id="gjk" tvg-name="h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 03/JULI/2026", 06:00 WIB Portugal vs Kroasia (TVMAX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+https://tencent-css.byteplaycdn.com/adca4b6f43cfc5d7a4a5b2b4e5735126/6A4748DC/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 03/JULI/2026", 06:00 WIB Portugal vs Kroasia (FOX26)
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/fx26.m3u8
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" tvg-id="itzreisa.id" group-title="EVENT 03/JULI/2026",06:00 WIB Portugal vs Kroasia (TSN1)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://myxpanel.pro/live/13579/13579/838103.ts
+http://opplextv.cyou:8080/nasir6160/nasir/349014
+
+
+
+
+
+
 
 <==================>
 
