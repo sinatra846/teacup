@@ -1245,7 +1245,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.license_key=22bd0016090143f795a275629a6e7a0a:cae11accebe3ca7535141d35f4d41a1d
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true group-title="CHANNEL | INDONESIA",MOJI (DIGI)
+EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true group-title="CHANNEL | INDONESIA",MOJI (DIGI)
 http://165.99.194.31:9981/stream/channelid/868787017?profile=pass
 
 EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true" group-title="CHANNEL | INDONESIA", MOJI TV DNS
@@ -1374,6 +1374,11 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",VTV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-name="VTV " tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" tvg-id="VTV.id" group-title="Indonesia",VTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://tvratu.my.id/oxygen/index.m3u8?id=vtv
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/OXYGEN%20TV.png?raw=true" group-title="CHANNEL | INDONESIA",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
