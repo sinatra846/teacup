@@ -11206,6 +11206,14 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5
 #KODIPROP:inputstream.adaptive.license_key=efe538648aad30c9893edf1a69eb8c8e:fe9b77088a67777af435c3fa5f1bbdd0
 https://tencent-css.byteplaycdn.com/76e91b77102f907fc72b3fffc178461b/6A488CD1/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 05/JULI/2026", 00:00 WIB Kanada vs Maroko (TVMAX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+https://tencent-css.byteplaycdn.com/975b368bdfff1e1663c23ac92af4d008/6A49D4DC/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 05/JULI/2026", 00:00 WIB Kanada vs Maroko (FOX26)
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/fx26.m3u8
 
