@@ -11181,6 +11181,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.go49UT7HLolzRAVC4/s700/RCTI.png" group-title="EVENT 06/JULI/2026", 03:00 WIB Brasil vs Norwegia (TVMAX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+https://tencent-css.byteplaycdn.com/e730e2ec489583e4c1313172385e75d0/6A4B4B72/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
+
 
 
 <===================>
