@@ -11176,11 +11176,6 @@ http://103.170.100.42:6799channelidhannelid/1362840449?profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Amerika Serikat vs Belgia (FOX26)
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/fx26.m3u8
 
-EXTINF:-1 tvg-name="Tsn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" tvg-id="itzreisa.id" group-title="EVENT 07/JULI/2026", 07:00 WIB Amerika Serikat vs Belgia (TSN1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://myxpanel.pro/live/13579/13579/838103.ts
-http://opplextv.cyou:8080/nasir6160/nasir/349014
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Amerika Serikat vs Belgia (DSPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11205,16 +11200,16 @@ https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 https://tencent-css.byteplaycdn.com/5a7bae442cda105fbdd4555c31605fdb/6A4CD528/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
 
 #EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Meksiko vs Inggris (TS3)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Amerika Serikat vs Belgia (BF1)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Meksiko vs Inggris (WCC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
