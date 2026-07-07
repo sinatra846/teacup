@@ -5959,6 +5959,9 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
+ 
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="CHANNEL | KNOWLEDGE", HGTV (ID)
+http://202.169.224.202:8800/udp/239.9.1.3:1234
 
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="CHANNEL | KNOWLEDGE",DISCOVERY TURBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
