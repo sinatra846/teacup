@@ -11175,10 +11175,10 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 group-title="EVENT 07/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 07:00 WIB Amerika Serikat vs Belgia (FSB1)
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
-EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Amerika Serikat vs Belgia (TV1)
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Amerika Serikat vs Belgia (TV1)
 http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
 
-EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Amerika Serikat vs Belgia (TVS1)
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Amerika Serikat vs Belgia (TVS1)
 http://103.170.100.42:6799channelidhannelid/1362840449?profile=pass
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 07/JULI/2026", 07:00 WIB Amerika Serikat vs Belgia (FOX26)
@@ -11211,10 +11211,6 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efe538648aad30c9893edf1a69eb8c8e:fe9b77088a67777af435c3fa5f1bbdd0
 https://tencent-css.byteplaycdn.com/b0e305100fe288dcf3d5172b8914449e/6A4BA008/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 06/JULI/2026", 07:00 WIB Meksiko vs Inggris (TVMAX)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
