@@ -6236,8 +6236,8 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
 http://013tv.com:8080/F33848/cbd9779b/298503
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: AFN/Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="CHANNEL | LIFESTYLE",Asian Food Network 
-http://013tv.com:8080/F33848/cbd9779b/298503
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="CHANNEL | LIFESTYLE",Asian Food Network
+http://202.169.224.202:8800/udp/239.9.1.5:1234
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
