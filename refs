@@ -11144,14 +11144,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" tvg-id="itzreisa.id" group-title="EVENT 015/JULI/2026", 02:00 WIB Perancis vs Spanyol (TV1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
-#http://103.148.44.38:8000/play/a03t/index.m3u8
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" tvg-id=" fifaworldcup.com" group-title="EVENT 015/JULI/2026", 02:00 WIB Perancis vs Spanyol (TV2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
 
 
