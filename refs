@@ -11174,8 +11174,16 @@ https://live1.streambylivepulse.com/live/channel80.m3u8?wsSecret=439e112610e7b69
 <=================>
 
 
-#EXTINF:-1 group-title="EVENT 016/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Inggris vs Argentina (FSB1)
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="EVENT 016/JULI/2026", 02:00 WIB Inggris vs Argentina (FSB1)
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 016/JULI/2026", 02:00 WIB Inggris vs Argentina (TS3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
