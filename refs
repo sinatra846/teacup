@@ -507,18 +507,15 @@ https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 ===========================================TAYANG SAAT INI===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | LIFESTYLE
 
-
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BU2fC99BVEU98RoZBLzJzmdwWk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5194287/fd714e.jpg" group-title="📺 TV NASIONAL", 📺 FTV Siang Spesial: Berakit Ke Hulu Berenang Ke Hatimu [J1]
+EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BU2fC99BVEU98RoZBLzJzmdwWk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5194287/fd714e.jpg" group-title="📺 TV NASIONAL", 📺 FTV Siang Spesial: Berakit Ke Hulu Berenang Ke Hatimu [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/204.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=610168416f8ba97c40e099fc7f6da341ca9638c345f12d57aa0f5385cfa51b51&waktu=1784186081
-
-
-
-
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/204.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b0e4d1001d0fd51899825848851f1846a0fd9978faed5af2d0bb373c7fa212c1&waktu=1784186671
+https://malingpunya.ervinkasep01.workers.dev/204.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b0e4d1001d0fd51899825848851f1846a0fd9978faed5af2d0bb373c7fa212c1&waktu=1784186671
 
 
 
