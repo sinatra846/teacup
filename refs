@@ -397,6 +397,7 @@ https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
 
 
 
+
 ===================================================>
 
 
@@ -505,14 +506,15 @@ https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 
 
 ===========================================TAYANG SAAT INI===========================================
-EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",TAYANG SAAT INI
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",TAYANG SAAT INI
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="4028c685651d7bcc01651f0db0bf0097" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0db0bf0097/d3c2d675a810405ba8f08fc469276954.jpg" group-title="TV CUBMU", Trans 7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ambil-drm-cub.disini.workers.dev/|User-Agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D|R{SSM}|
+#EXTVLCOPT:http-user-agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 
 
