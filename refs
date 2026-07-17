@@ -276,181 +276,178 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
-
-================================
-
-
+==============================
 
 
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dvfrgRw8SMQeepix3bNzi-Ekt2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5194293/48bff7.jpg" group-title="📺 TV NASIONAL", 📺 Ftv Pagi Spesial Dari Bakmie Jadi You Love Me [J1]
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Xr8AAOVjClvDNr9P3fkGaB9Zn20=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="📺 TV NASIONAL", 📺 Ftv Siang Princess Bollywood vs Prince Dangdut [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/204.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=90f8fe9f5db8e01f5e9da045e4d9a344809845a5379679f3f42aad7e7e71cd42&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dvfrgRw8SMQeepix3bNzi-Ekt2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5194293/48bff7.jpg" group-title="📺 TV NASIONAL", 📺 Ftv Pagi Spesial Dari Bakmie Jadi You Love Me [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/204.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=90f8fe9f5db8e01f5e9da045e4d9a344809845a5379679f3f42aad7e7e71cd42&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/204.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=90f8fe9f5db8e01f5e9da045e4d9a344809845a5379679f3f42aad7e7e71cd42&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RhoLwIQut0w5ndXXhlOfqOHYeME=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg" group-title="📺 TV NASIONAL", 📺 Merangkai Kisah Indah [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/205.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=46baac7d295010129b9d2328528ad5603239cc952330bed8b4408850c020fffb&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RhoLwIQut0w5ndXXhlOfqOHYeME=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg" group-title="📺 TV NASIONAL", 📺 Merangkai Kisah Indah [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/204.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5f52788034f6e58c79bfc75c9df5f6f33d888c42ba8c6273cf1ba0e134d5e304&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Xr8AAOVjClvDNr9P3fkGaB9Zn20=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="📺 TV NASIONAL", 📺 Ftv Siang Princess Bollywood vs Prince Dangdut [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=46baac7d295010129b9d2328528ad5603239cc952330bed8b4408850c020fffb&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=46baac7d295010129b9d2328528ad5603239cc952330bed8b4408850c020fffb&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg" group-title="📺 TV NASIONAL", 📺 Dunia Anak - Upin Ipin [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/204.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5f52788034f6e58c79bfc75c9df5f6f33d888c42ba8c6273cf1ba0e134d5e304&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/204.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5f52788034f6e58c79bfc75c9df5f6f33d888c42ba8c6273cf1ba0e134d5e304&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="📺 TV NASIONAL", 📺 Kisah Nyata: Badai Teror Di Awal Bulan Madu [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/205.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3eab61a0646f265cbac01f387a00d95407fb7ed8849edbe452b60628bb6631cd&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="📺 TV NASIONAL", 📺 Kisah Nyata: Badai Teror Di Awal Bulan Madu [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/665.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f8a2d41c84bc30a0f491e839ecb154161e42d3cd5fd59345d74f5b9d397cc943&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/665.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f8a2d41c84bc30a0f491e839ecb154161e42d3cd5fd59345d74f5b9d397cc943&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rw3YANrLDodOrAxrxUPomDVHjjI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="📺 TV NASIONAL", 📺 Insert Pagi (L) [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/733.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2cc88e62fa29df504cec502a4b02422c08913ecdb81f918d901f5142cfafc13d&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rw3YANrLDodOrAxrxUPomDVHjjI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="📺 TV NASIONAL", 📺 Insert Pagi (L) [J1] (MPD)
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3eab61a0646f265cbac01f387a00d95407fb7ed8849edbe452b60628bb6631cd&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3eab61a0646f265cbac01f387a00d95407fb7ed8849edbe452b60628bb6631cd&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg" group-title="📺 TV NASIONAL", 📺 Layar Drama Indonesia - Ikatan Cinta Aldebaran & Andin [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/733.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2cc88e62fa29df504cec502a4b02422c08913ecdb81f918d901f5142cfafc13d&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/733.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2cc88e62fa29df504cec502a4b02422c08913ecdb81f918d901f5142cfafc13d&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XSpSRDs94R38OpBmssaBVngAr2Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="📺 TV NASIONAL", 📺 Spotlite [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/665.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=112240a7e5fc82d8fed3d8aa4b2bafbc177f82032b8c338cbb69dc336891a43d&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/665.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=112240a7e5fc82d8fed3d8aa4b2bafbc177f82032b8c338cbb69dc336891a43d&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4QSkEgs2hnsVMZGKC-bq_1Gd5kU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg" group-title="📺 TV NASIONAL", 📺 Rumpi: No Secret [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/734.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=206ecb41c5690d6ecbd0b29ea7f96398e1ff209c4f4c1ee5255454fd7fabf0cd&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XSpSRDs94R38OpBmssaBVngAr2Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="📺 TV NASIONAL", 📺 Spotlite [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/734.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=206ecb41c5690d6ecbd0b29ea7f96398e1ff209c4f4c1ee5255454fd7fabf0cd&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/734.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=206ecb41c5690d6ecbd0b29ea7f96398e1ff209c4f4c1ee5255454fd7fabf0cd&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/37vsjyydfCTeW-MKqdZ0NmKuqDg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="📺 TV NASIONAL", 📺 Mega Bollywood : Army [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/782.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=28ad99a618e2c673202341f636f80ea0dfb9e00b9100da89441966b41464f4aa&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/37vsjyydfCTeW-MKqdZ0NmKuqDg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="📺 TV NASIONAL", 📺 Mega Bollywood : Army [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/733.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=235c4e2032a64e54ba7e42ff7d41b6d5fa31590670a548fa97979532bb6f54af&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4QSkEgs2hnsVMZGKC-bq_1Gd5kU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg" group-title="📺 TV NASIONAL", 📺 Rumpi: No Secret [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/782.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=28ad99a618e2c673202341f636f80ea0dfb9e00b9100da89441966b41464f4aa&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/782.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=28ad99a618e2c673202341f636f80ea0dfb9e00b9100da89441966b41464f4aa&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/s8cL7a6IB8GQ6nxSf-uncLVgnYQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381762/81fa00.jpg" group-title="📺 TV NASIONAL", 📺 Apa Kabar Indonesia Pagi [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/733.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=235c4e2032a64e54ba7e42ff7d41b6d5fa31590670a548fa97979532bb6f54af&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/733.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=235c4e2032a64e54ba7e42ff7d41b6d5fa31590670a548fa97979532bb6f54af&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XSpSRDs94R38OpBmssaBVngAr2Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="📺 TV NASIONAL", 📺 Redaksi [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/783.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e4732cdfee139d4d4822e61101685b5f21725e028c4e27258b30f3a8ca80eccf&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/s8cL7a6IB8GQ6nxSf-uncLVgnYQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381762/81fa00.jpg" group-title="📺 TV NASIONAL", 📺 Apa Kabar Indonesia Pagi [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/783.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e4732cdfee139d4d4822e61101685b5f21725e028c4e27258b30f3a8ca80eccf&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/783.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e4732cdfee139d4d4822e61101685b5f21725e028c4e27258b30f3a8ca80eccf&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="📺 TV NASIONAL", 📺 VNL 2026 MEN [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/206.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4fdc53885d336c218171d36ca42efbd16001c43a8521496d948505a9fde6846a&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="📺 TV NASIONAL", 📺 VNL 2026 MEN [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/734.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f075c34bf7b7fb56cfc937309380f903b8e0c76e8d5eecd6ef4cdaf454aaf5af&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XSpSRDs94R38OpBmssaBVngAr2Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="📺 TV NASIONAL", 📺 Redaksi [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/206.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4fdc53885d336c218171d36ca42efbd16001c43a8521496d948505a9fde6846a&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/206.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4fdc53885d336c218171d36ca42efbd16001c43a8521496d948505a9fde6846a&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="📺 TV NASIONAL", 📺 Jendela Negeri [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/734.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f075c34bf7b7fb56cfc937309380f903b8e0c76e8d5eecd6ef4cdaf454aaf5af&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/734.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f075c34bf7b7fb56cfc937309380f903b8e0c76e8d5eecd6ef4cdaf454aaf5af&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_IXFvAras_jT1uvvAYXDnJbFuLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195152/9eaa9f.jpg" group-title="📺 TV NASIONAL", 📺 Sayali [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/6441.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=54647649970661e6e6f7e9915556df7d8a61da5d5a9d54667006a1fa01b69191&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="📺 TV NASIONAL", 📺 Jendela Negeri [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6441.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=54647649970661e6e6f7e9915556df7d8a61da5d5a9d54667006a1fa01b69191&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/6441.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=54647649970661e6e6f7e9915556df7d8a61da5d5a9d54667006a1fa01b69191&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="📺 TV NASIONAL", 📺 Jaktv [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/5415.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b0f7d6cdaad8bc19d1329d8fea7c728896b3c31039f6d6d18c37f146ad3b1892&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="📺 TV NASIONAL", 📺 Jaktv [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/782.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=367940fe24616086949171fe47cf3c22b8078c92e9b1dacc4777aceae3f76435&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_IXFvAras_jT1uvvAYXDnJbFuLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195152/9eaa9f.jpg" group-title="📺 TV NASIONAL", 📺 Sayali [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/5415.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b0f7d6cdaad8bc19d1329d8fea7c728896b3c31039f6d6d18c37f146ad3b1892&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/5415.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b0f7d6cdaad8bc19d1329d8fea7c728896b3c31039f6d6d18c37f146ad3b1892&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="📺 TV NASIONAL", 📺 Rumahnya Anak : Dora & Sahabat [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/782.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=367940fe24616086949171fe47cf3c22b8078c92e9b1dacc4777aceae3f76435&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/782.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=367940fe24616086949171fe47cf3c22b8078c92e9b1dacc4777aceae3f76435&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="📺 TV NASIONAL", 📺 Kabar Bola Dunia [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/783.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=1ebb04afdd5c62b2bf2979dd4181c20032e4b090766131e8ea0a98295082438f&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="📺 TV NASIONAL", 📺 Kabar Bola Dunia [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/870.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8017954c29f06c08d3d9793e85d8e33274192585aa8e5128920c57c71e36474b&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/870.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8017954c29f06c08d3d9793e85d8e33274192585aa8e5128920c57c71e36474b&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rue0Ohlp9pe-tnNDwwymVjgJTEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380288/c2c6be.jpg" group-title="📺 TV NASIONAL", 📺 Sapa Indonesia Pagi [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/783.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=1ebb04afdd5c62b2bf2979dd4181c20032e4b090766131e8ea0a98295082438f&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/783.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=1ebb04afdd5c62b2bf2979dd4181c20032e4b090766131e8ea0a98295082438f&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="📺 TV NASIONAL", 📺 SEA V Cup 2026 Men [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/874.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=61a1dbc6c4d54d5f59d418e7b7740e509178dfab9fd81e2cdcb0177b6156aecb&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rue0Ohlp9pe-tnNDwwymVjgJTEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380288/c2c6be.jpg" group-title="📺 TV NASIONAL", 📺 Sapa Indonesia Pagi [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/206.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=eacb9d734b86dd11a701ffebd0c00f8d9a4e210d21cc27a5945b5a3b2928a35f&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="📺 TV NASIONAL", 📺 SEA V Cup 2026 Men [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/874.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=61a1dbc6c4d54d5f59d418e7b7740e509178dfab9fd81e2cdcb0177b6156aecb&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/874.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=61a1dbc6c4d54d5f59d418e7b7740e509178dfab9fd81e2cdcb0177b6156aecb&waktu=1784247710
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/206.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=eacb9d734b86dd11a701ffebd0c00f8d9a4e210d21cc27a5945b5a3b2928a35f&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/206.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=eacb9d734b86dd11a701ffebd0c00f8d9a4e210d21cc27a5945b5a3b2928a35f&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="📺 TV NASIONAL", 📺 TVRI Program [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/6441.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d82695711133432be53cf0b11fc4cf5c6368c147989bdd3162b1bf6f5373c02b&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="📺 TV NASIONAL", 📺 TVRI Program [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6441.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d82695711133432be53cf0b11fc4cf5c6368c147989bdd3162b1bf6f5373c02b&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/6441.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d82695711133432be53cf0b11fc4cf5c6368c147989bdd3162b1bf6f5373c02b&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="📺 TV NASIONAL", 📺 Medika Natura [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/5415.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ad48925167b8b3e0abe4843cfd6a508f078218f09e17d6af73662351c5f0ebe7&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="📺 TV NASIONAL", 📺 Medika Natura [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/5415.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ad48925167b8b3e0abe4843cfd6a508f078218f09e17d6af73662351c5f0ebe7&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/5415.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ad48925167b8b3e0abe4843cfd6a508f078218f09e17d6af73662351c5f0ebe7&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="📺 TV NASIONAL", 📺 Upin & Ipin Geng Durian Runtuh [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/870.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b60ec35d364f6a6d77569954ad0d9d2a63ce4cd06d1899ca99f0501f6c649cd9&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/870.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b60ec35d364f6a6d77569954ad0d9d2a63ce4cd06d1899ca99f0501f6c649cd9&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="📺 TV NASIONAL", 📺 Jurnal Merah Putih [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/874.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=cce5fe582d85aded236f84adb71bbe2c5aa7d8d6b748951486a4ec65f430540d&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="📺 TV NASIONAL", 📺 Jurnal Merah Putih [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/874.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=cce5fe582d85aded236f84adb71bbe2c5aa7d8d6b748951486a4ec65f430540d&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/874.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=cce5fe582d85aded236f84adb71bbe2c5aa7d8d6b748951486a4ec65f430540d&waktu=1784274473
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="📺 TV NASIONAL", 📺 Amazing Kids : Spongebob Squarepants [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -458,197 +455,242 @@ https://malingpunya.ervinkasep01.workers.dev/874.mpd?nomor_whatsapp_ane=63_955_1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/778.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=560510305f6fdb4fd4bb647c6462ab4fa8ae137b870bac7b92d3a971d35d82e5&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/778.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=560510305f6fdb4fd4bb647c6462ab4fa8ae137b870bac7b92d3a971d35d82e5&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="📺 TV NASIONAL", 📺 Editorial Media Indonesia [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/778.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=655ca47fc64758f66ed1056f3cfe6632b430a6d7b566a65fc36f1c81b86cba41&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/778.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=655ca47fc64758f66ed1056f3cfe6632b430a6d7b566a65fc36f1c81b86cba41&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="📺 TV NASIONAL", 📺 Metro Siang [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/777.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2b2aad80590aebd439040764614cf44e28f9f5ffa2813c49293407cbae7ef09c&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="📺 TV NASIONAL", 📺 Editorial Media Indonesia [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/777.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2b2aad80590aebd439040764614cf44e28f9f5ffa2813c49293407cbae7ef09c&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/777.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2b2aad80590aebd439040764614cf44e28f9f5ffa2813c49293407cbae7ef09c&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="📺 TV NASIONAL", 📺 iNews Room Pagi [J1]
+https://malingpunya.ervinkasep01.workers.dev/777.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=08e5db3cd1b8ad191462e46ca2af067b4705241c590232fe0e8fc9317ea18e59&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="📺 TV NASIONAL", 📺 Metro Siang [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/5409.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=89b1c58bf160468a6b31232514f9109b479466ed1ad5c6e652121d4bf3b7c6b9&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/5409.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=89b1c58bf160468a6b31232514f9109b479466ed1ad5c6e652121d4bf3b7c6b9&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/IReT-5y6B0A3t-dMZBdvamR74ww=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg" group-title="📺 TV NASIONAL", 📺 Bread Barbershop [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/1561.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c3400a98c6ef80b7bb6c835c374864a6d5ba5a458d5e84be3683b0d6d36556b4&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/IReT-5y6B0A3t-dMZBdvamR74ww=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg" group-title="📺 TV NASIONAL", 📺 Bread Barbershop [J1] (MPD)
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/777.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=08e5db3cd1b8ad191462e46ca2af067b4705241c590232fe0e8fc9317ea18e59&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/777.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=08e5db3cd1b8ad191462e46ca2af067b4705241c590232fe0e8fc9317ea18e59&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="📺 TV NASIONAL", 📺 iSeleb [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/1561.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c3400a98c6ef80b7bb6c835c374864a6d5ba5a458d5e84be3683b0d6d36556b4&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/1561.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c3400a98c6ef80b7bb6c835c374864a6d5ba5a458d5e84be3683b0d6d36556b4&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" group-title="📺 TV NASIONAL", 📺 AADD (Ada Apa Dengan Dunia) [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/5409.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=33380c53779a9388770a9b58e06be0dff1b6b3ce1810efc007c4ad3cba0618b8&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/5409.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=33380c53779a9388770a9b58e06be0dff1b6b3ce1810efc007c4ad3cba0618b8&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CYv--Uqkj5pWwDABz8iVKzzUT_E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg" group-title="📺 TV NASIONAL", 📺 Ejen Ali [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/875.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=62521d1105d7ea1cf220f32e3b9848240ed70533b0faf1edf60d43e3527297d4&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" group-title="📺 TV NASIONAL", 📺 AADD (Ada Apa Dengan Dunia) [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=62521d1105d7ea1cf220f32e3b9848240ed70533b0faf1edf60d43e3527297d4&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=62521d1105d7ea1cf220f32e3b9848240ed70533b0faf1edf60d43e3527297d4&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="📺 TV NASIONAL", 📺 Jalan Dakwah [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/18280.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c74b79ecaaaeaaad7b1569a6c7d9c279962f12721b086bbf103c5acd1283c55b&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="📺 TV NASIONAL", 📺 Jalan Dakwah [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/1561.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0946c9487033cc8db2e556780e9ed2357a9d88dcc299bcdf82a810569ee9b6e3&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CYv--Uqkj5pWwDABz8iVKzzUT_E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg" group-title="📺 TV NASIONAL", 📺 Ejen Ali [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18280.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c74b79ecaaaeaaad7b1569a6c7d9c279962f12721b086bbf103c5acd1283c55b&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/18280.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c74b79ecaaaeaaad7b1569a6c7d9c279962f12721b086bbf103c5acd1283c55b&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="📺 TV NASIONAL", 📺 Jalan Dakwah [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/1561.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0946c9487033cc8db2e556780e9ed2357a9d88dcc299bcdf82a810569ee9b6e3&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/1561.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0946c9487033cc8db2e556780e9ed2357a9d88dcc299bcdf82a810569ee9b6e3&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" group-title="📺 TV NASIONAL", 📺 Laper Mata [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/6165.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b63d9af014efc36fed997354f851cfc778ade190d86aa1f4b983aecc26d36dd5&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="📺 TV NASIONAL", 📺 Jalan Dakwah [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6165.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b63d9af014efc36fed997354f851cfc778ade190d86aa1f4b983aecc26d36dd5&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/6165.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b63d9af014efc36fed997354f851cfc778ade190d86aa1f4b983aecc26d36dd5&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="📺 TV NASIONAL", 📺 Sport 8 [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/18162.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=98a6480bb9ddd8fef15c44347003d2939928c795fba31939589dadba628e8466&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="📺 TV NASIONAL", 📺 Sport 8 [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/875.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bb058b897ff331eb283a6054d44017b45f2f0b426397f6c8e299a6e926f02475&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" group-title="📺 TV NASIONAL", 📺 Laper Mata [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18162.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=98a6480bb9ddd8fef15c44347003d2939928c795fba31939589dadba628e8466&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/18162.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=98a6480bb9ddd8fef15c44347003d2939928c795fba31939589dadba628e8466&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="📺 TV NASIONAL", 📺 Badanamu [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bb058b897ff331eb283a6054d44017b45f2f0b426397f6c8e299a6e926f02475&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bb058b897ff331eb283a6054d44017b45f2f0b426397f6c8e299a6e926f02475&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="📺 TV NASIONAL", 📺 Asal Usul [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/9713.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=28202c555f0a3c5d2df2d313748fafe9c16c84842e0650c7613d87a431c8e48e&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="📺 TV NASIONAL", 📺 Badanamu [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/9713.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=28202c555f0a3c5d2df2d313748fafe9c16c84842e0650c7613d87a431c8e48e&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/9713.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=28202c555f0a3c5d2df2d313748fafe9c16c84842e0650c7613d87a431c8e48e&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="📺 TV NASIONAL", 📺 30 Hari 30 Juz [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/7464.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a2f6771f4a8a0ef729c8d49ca25b9fa27ca343edcd0e3950a1018798ded7c776&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="📺 TV NASIONAL", 📺 30 Hari 30 Juz [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/18280.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8c8008eed06e3bbd82053ea5cd65207d097fd12259a3a3361cb17d62b60a31e4&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="📺 TV NASIONAL", 📺 Asal Usul [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/7464.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a2f6771f4a8a0ef729c8d49ca25b9fa27ca343edcd0e3950a1018798ded7c776&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/7464.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a2f6771f4a8a0ef729c8d49ca25b9fa27ca343edcd0e3950a1018798ded7c776&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="📺 TV NASIONAL", 📺 NTV Morning [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18280.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8c8008eed06e3bbd82053ea5cd65207d097fd12259a3a3361cb17d62b60a31e4&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/18280.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8c8008eed06e3bbd82053ea5cd65207d097fd12259a3a3361cb17d62b60a31e4&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="📺 TV NASIONAL", 📺 Asal Usul [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/7432.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0733923e0db399b4872791aad87ba1754e08a52e072ce13092771e3a0844887c&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="📺 TV NASIONAL", 📺 NTV Morning [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/7432.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0733923e0db399b4872791aad87ba1754e08a52e072ce13092771e3a0844887c&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/7432.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0733923e0db399b4872791aad87ba1754e08a52e072ce13092771e3a0844887c&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="📺 TV NASIONAL", 📺 dr.Panda [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/6482.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=acbda2e90c3758917f22617d57b4532ebcd1425cd675a16b80d4bdb47d783015&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="📺 TV NASIONAL", 📺 dr.Panda [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/6165.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f0b88c8d4104348d900b899068a59a393fc9d0ab306509ae845d398df28f70e4&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="📺 TV NASIONAL", 📺 Asal Usul [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6482.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=acbda2e90c3758917f22617d57b4532ebcd1425cd675a16b80d4bdb47d783015&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/6482.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=acbda2e90c3758917f22617d57b4532ebcd1425cd675a16b80d4bdb47d783015&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="📺 TV NASIONAL", 📺 Khazanah Indonesia [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6165.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f0b88c8d4104348d900b899068a59a393fc9d0ab306509ae845d398df28f70e4&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/6165.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f0b88c8d4104348d900b899068a59a393fc9d0ab306509ae845d398df28f70e4&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="📺 TV NASIONAL", 📺 Info Miss Wow [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/9714.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=47e6d6040e561ed5763572ce759643d473fbcbdb464762715855bced660e7a55&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="📺 TV NASIONAL", 📺 Khazanah Indonesia [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/9714.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=47e6d6040e561ed5763572ce759643d473fbcbdb464762715855bced660e7a55&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/9714.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=47e6d6040e561ed5763572ce759643d473fbcbdb464762715855bced660e7a55&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jZdWuD8vGzzdiMNyS1Bvf9djzjI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195635/46272f.jpg" group-title="📺 TV NASIONAL", 📺 Tayo The Little Bus [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/8237.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=df3c05bd3e44939233d3be4836287e4250affefae8fadc30011ff3367094e190&waktu=1784247710
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jZdWuD8vGzzdiMNyS1Bvf9djzjI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195635/46272f.jpg" group-title="📺 TV NASIONAL", 📺 Tayo The Little Bus [J1] (MPD)
+https://malingpunya.ervinkasep01.workers.dev/18162.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e1d6f492db7c4d93262733a152eeb06d9958cc9187de0ffda0982dcc528fe969&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="📺 TV NASIONAL", 📺 Info Miss Wow [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/8237.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=df3c05bd3e44939233d3be4836287e4250affefae8fadc30011ff3367094e190&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/8237.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=df3c05bd3e44939233d3be4836287e4250affefae8fadc30011ff3367094e190&waktu=1784247710
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18162.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e1d6f492db7c4d93262733a152eeb06d9958cc9187de0ffda0982dcc528fe969&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/18162.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e1d6f492db7c4d93262733a152eeb06d9958cc9187de0ffda0982dcc528fe969&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="📺 TV NASIONAL", 📺 Pojok Arena [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/9713.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=96c18dd8e27f6eac531b2b8ab2509b4073860a952f3874d62eb176f61e14bfb7&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="📺 TV NASIONAL", 📺 Pojok Arena [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/9713.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=96c18dd8e27f6eac531b2b8ab2509b4073860a952f3874d62eb176f61e14bfb7&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/9713.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=96c18dd8e27f6eac531b2b8ab2509b4073860a952f3874d62eb176f61e14bfb7&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="📺 TV NASIONAL", 📺 Ilhami [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/7464.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=454e16effdf7b019bec51014629445b4fa766cc052700bd8135e720bbc6e487a&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="📺 TV NASIONAL", 📺 Ilhami [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/7464.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=454e16effdf7b019bec51014629445b4fa766cc052700bd8135e720bbc6e487a&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/7464.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=454e16effdf7b019bec51014629445b4fa766cc052700bd8135e720bbc6e487a&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="📺 TV NASIONAL", 📺 Soundcore Dangdut [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/7432.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8a8807576f5984313a13b45b05e504d8f6003929e0054b2888f4871aae3bd7ef&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="📺 TV NASIONAL", 📺 Soundcore Dangdut [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/7432.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8a8807576f5984313a13b45b05e504d8f6003929e0054b2888f4871aae3bd7ef&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/7432.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8a8807576f5984313a13b45b05e504d8f6003929e0054b2888f4871aae3bd7ef&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="📺 TV NASIONAL", 📺 Bumiku Satu [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/6482.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4168485b82b0548b1741de48f65a7180d101278c7d0c3c2cd5f7661b8acac8b5&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="📺 TV NASIONAL", 📺 Bumiku Satu [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6482.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4168485b82b0548b1741de48f65a7180d101278c7d0c3c2cd5f7661b8acac8b5&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/6482.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4168485b82b0548b1741de48f65a7180d101278c7d0c3c2cd5f7661b8acac8b5&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="📺 TV NASIONAL", 📺 Eksotis Kepri [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/9714.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=86a986e25146273981caf56f3bcfa9006e79a2a0483ad89ce349c366924fc8a6&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="📺 TV NASIONAL", 📺 Eksotis Kepri [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/9714.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=86a986e25146273981caf56f3bcfa9006e79a2a0483ad89ce349c366924fc8a6&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/9714.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=86a986e25146273981caf56f3bcfa9006e79a2a0483ad89ce349c366924fc8a6&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dzPHfzbe_3vSEfP36_OtRiy-BkU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21839/liputan-6-sctv-9ecc14.jpg" group-title="📺 TV NASIONAL", 📺 Tersangka Don Ritto Dilimpahkan ke Kejaksaan Agung, Kasus Febrie Adriansyah Kapan? [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/21839.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0140d158ba506f147b7cb37ef79e1dc82681454c054f9c004b9e1afd4a1d93bd&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dzPHfzbe_3vSEfP36_OtRiy-BkU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21839/liputan-6-sctv-9ecc14.jpg" group-title="📺 TV NASIONAL", 📺 Tersangka Don Ritto Dilimpahkan ke Kejaksaan Agung, Kasus Febrie Adriansyah Kapan? [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21839.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0140d158ba506f147b7cb37ef79e1dc82681454c054f9c004b9e1afd4a1d93bd&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/21839.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0140d158ba506f147b7cb37ef79e1dc82681454c054f9c004b9e1afd4a1d93bd&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I7jqnW9XiWC50jSCf9wKkvDk_n4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21838/liputan-6-sctv-7444ae.jpg" group-title="📺 TV NASIONAL", 📺 LIVE | Babak Baru MBG, Kepala BGN Nanik S Deyang Dipanggil Komisi IX DPR [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/21838.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=36be493d3ffe67f055422ef072dd8746865401eea7fecd55deb621a1b047d95d&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I7jqnW9XiWC50jSCf9wKkvDk_n4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21838/liputan-6-sctv-7444ae.jpg" group-title="📺 TV NASIONAL", 📺 LIVE | Babak Baru MBG, Kepala BGN Nanik S Deyang Dipanggil Komisi IX DPR [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21838.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=36be493d3ffe67f055422ef072dd8746865401eea7fecd55deb621a1b047d95d&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/21838.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=36be493d3ffe67f055422ef072dd8746865401eea7fecd55deb621a1b047d95d&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YUYD1EekXFlRtWWzvtpwE242LXE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21840/liputan-6-sctv-4e172a.jpg" group-title="📺 TV NASIONAL", 📺 LIVE | Presiden Prabowo Panen Raya Tebu, Padi, Kedelai Serentak di 43 Lokasi [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/21840.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=981919f81993c67f15f03026c083c208211d749a942dd716def7d607df06eb7f&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YUYD1EekXFlRtWWzvtpwE242LXE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21840/liputan-6-sctv-4e172a.jpg" group-title="📺 TV NASIONAL", 📺 LIVE | Presiden Prabowo Panen Raya Tebu, Padi, Kedelai Serentak di 43 Lokasi [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21840.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=981919f81993c67f15f03026c083c208211d749a942dd716def7d607df06eb7f&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/21840.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=981919f81993c67f15f03026c083c208211d749a942dd716def7d607df06eb7f&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zc5Uh3XQyeFC8cQJKn4YhOUyyGM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195697/4fea75.jpg" group-title="📺 TV NASIONAL", 📺 MAGIC 5 THE ANIMATION SEASON 2 [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/8237.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=870ca77e515de20f502366c5c61cce3793a45826eeae057bcbdc0d9d4254adf6&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zc5Uh3XQyeFC8cQJKn4YhOUyyGM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195697/4fea75.jpg" group-title="📺 TV NASIONAL", 📺 MAGIC 5 THE ANIMATION SEASON 2 [J1] (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/8237.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=870ca77e515de20f502366c5c61cce3793a45826eeae057bcbdc0d9d4254adf6&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/8237.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=870ca77e515de20f502366c5c61cce3793a45826eeae057bcbdc0d9d4254adf6&waktu=1784274473
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RSB6_KuPg-jzEnWYMUNlYWXY2VY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148397/5a74c4.jpg" group-title="📺 TV NASIONAL", 📺 Filing for Love Ep4 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -656,8 +698,8 @@ https://malingpunya.ervinkasep01.workers.dev/8237.mpd?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6362.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d8df8a11ceabc46de18a1329976fcc73e368ab7741e401aa35ccb38557420e7b&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/6362.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d8df8a11ceabc46de18a1329976fcc73e368ab7741e401aa35ccb38557420e7b&waktu=1784247710
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6362.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=83f48c3f9c36f48ad2f40f4298ba8dd4e02845701456eb835a363aa5787cca51&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/6362.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=83f48c3f9c36f48ad2f40f4298ba8dd4e02845701456eb835a363aa5787cca51&waktu=1784274473
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/AdfZGLY_iRHm3UytGcIs6QA_xHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21777/amazing-muharram-15-fce235.jpg" group-title="📺 TV NASIONAL", 📺 Amazing Muharram 15 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -665,12 +707,17 @@ https://malingpunya.ervinkasep01.workers.dev/6362.mpd?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21777.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b51937996848ef9243e6e81beb76ba48bbcc72d00a9ed8037b0e15c8d17a4c44&waktu=1784247710
-https://malingpunya.ervinkasep01.workers.dev/21777.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b51937996848ef9243e6e81beb76ba48bbcc72d00a9ed8037b0e15c8d17a4c44&waktu=1784247710
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21777.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=09298131f32288a4b72b77af5f73724ec150b0d865e9756103636f86ff95ebc5&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/21777.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=09298131f32288a4b72b77af5f73724ec150b0d865e9756103636f86ff95ebc5&waktu=1784274473
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/60SEdWk3nNa5b9Rr7uCRFGfz_Hw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5167109/6e1883.jpg" group-title="📺 TV NASIONAL", 📺 Wanted [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/8121.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bf8f0564411987d02c7c330e2407756640b23d11dabdaadfd92ef456e70f4e26&waktu=1784274473
+https://malingpunya.ervinkasep01.workers.dev/8121.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bf8f0564411987d02c7c330e2407756640b23d11dabdaadfd92ef456e70f4e26&waktu=1784274473
 
 
 
