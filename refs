@@ -477,22 +477,18 @@ https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 
 
 
-===========================================LIVE || WORLD CUP 2026===========================================
-##EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC22026.webp?raw=true",LIVE | WORLD CUP
+===========================================CHANNEL | VIP INDO===========================================
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC22026.webp?raw=true",CHANNEL | VIP INDO
 
-##EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI SPORT (O)
-
-##EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI SPORT (U) 
-
-##EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP", TVRI Nasional (Maxstream)
-
-##EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP", TVRI Nasional (Nomaden)
-
-##EXTINF:-1 tvg-id="TVRI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI (Channel Feed)
-
-##EXTINF:-1 tvg-id="TVRISports" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="LIVE | WORLD CUP",TVRI Sports (Channel Feed)
-
-
+#EXTINF:-1 tvg-id="Trans.TV.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d5048b36-efb9-426f-b735-7a1ab9e3e7f4.jpg" CHANNEL | VIP INDO, Trans TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/VHJhbnNUVg/manifest.mpd?signature=ZmExZGFhMWQxMGZjY2UxYWU5MjBmZTlmOTA3ZmQ3Nzg=&time=15226453503|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
 
 
 
