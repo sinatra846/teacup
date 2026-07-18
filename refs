@@ -346,30 +346,6 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
 
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-name="" tvg-id="1" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="CHANNEL | SPORT INDO", Sportstars 4
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="CHANNEL | SPORT INDO;LIVE | TIMNAS????",Sportstars 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="CHANNEL | SPORT INDO;LIVE | TIMNAS????",Sportstars 2 live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-
 #EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="LIVE | TIMNAS????", FIFA+ 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="LIVE | TIMNAS????", FIFA+ 
