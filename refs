@@ -3242,25 +3242,44 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 =======DAZN==========
 
 ##EXTINF:-1 tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="CHANNEL | SPORTS",Dazn laliga hypermotion 1
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="CHANNEL | SPORTS",Dazn laliga hypermotion 2
+##EXTINF:-1 tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="CHANNEL | SPORTS",Dazn laliga hypermotion 2
 
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="CHANNEL | SPORTS",Dazn Ringside
+EXTINF:-1 tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="CHANNEL | SPORTS",Dazn Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
-#EXTINF:-1:-1 tvg-id="DAZN1.uk" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="CHANNEL | SPORTS", DAZN 1
+EXTINF:-1:-1 tvg-id="DAZN1.uk" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="CHANNEL | SPORTS", DAZN 1
 http://opplextv.cyou:8080/nasir6160/nasir/233072
 
-#EXTINF:-1:-1 tvg-id="DAZN2.uk" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="CHANNEL | SPORTS", DAZN 2
+EXTINF:-1:-1 tvg-id="DAZN2.uk" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="CHANNEL | SPORTS", DAZN 2
 http://opplextv.cyou:8080/nasir6160/nasir/233075
 
-#EXTINF:-1:-1 tvg-id="DAZN3.uk" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="CHANNEL | SPORTS", DAZN 3
+EXTINF:-1:-1 tvg-id="DAZN3.uk" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="CHANNEL | SPORTS", DAZN 3
 http://opplextv.cyou:8080/nasir6160/nasir/233078
 
-#EXTINF:-1:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="CHANNEL | SPORTS", DAZN 4
+EXTINF:-1:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="CHANNEL | SPORTS", DAZN 4
 http://opplextv.cyou:8080/nasir6160/nasir/233080
 
-#EXTINF:-1:-1 tvg-id="DAZN5.uk" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="CHANNEL | SPORTS", DAZN 5
+EXTINF:-1:-1 tvg-id="DAZN5.uk" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="CHANNEL | SPORTS", DAZN 5
 http://opplextv.cyou:8080/nasir6160/nasir/233082
+
+
+
+
+=======TNTSPORTS==========
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/b/bb/TNT_Sports_Division_Logo.png/revision/latest?cb=20231202205050" group-title="CHANNEL | SPORTS",TNT SPORT 1
+#EXTVLCOPT:network-caching=1000
+http://lunar.pm:8080/Cynthiab/Travel66/100775
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/b/bb/TNT_Sports_Division_Logo.png/revision/latest?cb=20231202205050" group-title="CHANNEL | SPORTS",TNT SPORT 3
+#EXTVLCOPT:network-caching=1000
+http://lunar.pm:8080/Cynthiab/Travel66/100777
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/b/bb/TNT_Sports_Division_Logo.png/revision/latest?cb=20231202205050" group-title="CHANNEL | SPORTS",TNT SPORT 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
+https://live-pv-ta.amazon.fastly-edge.com/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
+
 
 =======SPOTV==========
 
@@ -11368,7 +11387,7 @@ https://live1.streambylivepulse.com/live/channel81.m3u8?wsSecret=46b5f9f6ca8b5da
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 016/JULI/2026", ⚽ LIVE 04:00 WIB Perancis vs Inggris (TS3)
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 019/JULI/2026", ⚽ LIVE 04:00 WIB Perancis vs Inggris (TS3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
