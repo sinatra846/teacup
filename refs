@@ -11009,12 +11009,18 @@ https://live1.streambylivepulse.com/live/channel60.m3u8?wsSecret=b25444be06330e0
 ===============
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="EVENT 019/JULI/2026", 📺 Persebaya 99Th Anniversary Game: Persebaya Surabaya Vs Psis Semarang [J1]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 019/JULI/2026", 📺 Persebaya 99Th Anniversary Game: Persebaya Surabaya Vs Psis Semarang [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/205.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a6c605662d4513bcc0e5ae28c0a5432027b704706ff8d8c1fd847fefc0a0a07a&waktu=1784451959
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=306eae0f3009ae8fa3ff34fc6edb20f40769eadb1b8affaa35a8a86cbe284e84&waktu=1784439157
+https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=306eae0f3009ae8fa3ff34fc6edb20f40769eadb1b8affaa35a8a86cbe284e84&waktu=1784439157
+
+
+
 
 
 <====================LIVE EVENT 2==================================
