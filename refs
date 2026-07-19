@@ -10997,7 +10997,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live1.streambylivepulse.com/live/channel80.m3u8?wsSecret=4dbd3d32d1dda5304aa2f3360f4d1db0&wsABSTime=1784481965
 
-
 #EXTINF:-1 group-title="EVENT 019/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s", 08:00 WIB Daihatsu Japan Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266838196161061_AiSD.m3u8?txSecret=371a9f17716466c422df0895adeb9af8&txTime=6A5D48E0
 
@@ -11007,8 +11006,15 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 https://live1.streambylivepulse.com/live/channel60.m3u8?wsSecret=b25444be06330e06484c2348fc34fbf0&wsABSTime=1784377474
 
 
+===============
 
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="EVENT 019/JULI/2026", 📺 Persebaya 99Th Anniversary Game: Persebaya Surabaya Vs Psis Semarang [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/205.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a6c605662d4513bcc0e5ae28c0a5432027b704706ff8d8c1fd847fefc0a0a07a&waktu=1784451959
 
 
 <====================LIVE EVENT 2==================================
@@ -11250,23 +11256,6 @@ https://pixeldrain.com/api/file/xDtZjqYB?download
 
 
 
-========================================== ERR ===========================================
-
-
-
-##EXTINF:-1 tvg-id="psg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWqBmm5UQm_A1xw5f3UYEaO62VpW_z9vmmo7HcqPy2w&s" group-title="VOD | INDONESIAN MOVIE",PESUGIHAN SATE GAGAK
-##EXTINF:-1 tvg-id="opbpj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTclOfwR9YrMakxlo02v4sR4RL7CLT1DGOwrAQ4R7h51uZ8bEGSx_Dsww&s=10" group-title="VOD | INDONESIAN MOVIE",OZORA: PENGANIAYAAN BRUTAL PENGUASA JAKSEL
-##EXTINF:-1 tvg-id="skl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXynRGrfQ8WvV-oKDMFk08vXZbZSGwz_i1L-rktfWVsJRd_0Yj2Gge4yAD&s=10" group-title="VOD | INDONESIAN MOVIE",SOSOK KETIGA: LINTRIK
-##EXTINF:-1 tvg-id="mnk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB73ub1UWUGZY-SXCs1Pw7uDfQJtB-rrxk_UP17GV4Rg&s=10" group-title="VOD | INDONESIAN MOVIE",MERTUA NGERI KALI
-##EXTINF:-1 tvg-id="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpX6j8Zyfh9UyWa9F9aGpz2-XkgOLtNCLomDnC7bZyDA&s=10" group-title="VOD | INDONESIAN MOVIE",SI PALING AKTOR
-##EXTINF:-1 tvg-id="shtr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQd0nYwnWK1Sx5jwYchXh5_M8UY1EyoC80QYURrdkgnOlQTxICCz5x9ZI&s=10" group-title="VOD | INDONESIAN MOVIE",SHUTTER
-##EXTINF:-1 tvg-id="yknkh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZoI-qWFd_-4HXId2m6H0cfcL1IaO6tdl6LGh1PIRoALbraZ1ylJnaAjL5&s=10" group-title="VOD | INDONESIAN MOVIE",YAKIN NIKAH
-##EXTINF:-1 tvg-id="jpmk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSIi2Jjs0mVq7hVPfqUdKHZaqJFLyrBR0HcE5lhzhAMJhFF4GETZPJKu1N&s=10" group-title="VOD | INDONESIAN MOVIE ",JANGAN PANGGIL MAMA KAFIR
-##EXTINF:-1 tvg-id="getir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDf9-ySUFmQrdqdbA9u_3VE2cE8qTjXbPKv1sHHaYIW7GLwiWc5Id_JXE&s=10" group-title="VOD | INDONESIAN MOVIE",GETIH IRENG
-##EXTINF:-1 tvg-id="phjr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKsdDSHsZ5tISQJAbNYVcQh_M3bMlmvtlsAkG2SOUSC6Ab7PdxBWfujVsgjAtAHcFwzItv_HSAu8LsHrZzg-owiDYgUoNmewy3BSPyRYN&s=10" group-title="VOD | INDONESIAN MOVIE",PENGIN HIJRAH (2025)
-##EXTINF:-1 tvg-id="ptr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGdEI8MVbnesLtUPmrKKfOc1E6_qsp1oNwt77k5lQtQ&s=10" group-title="VOD | INDONESIAN MOVIE",PENCARIAN TERAKHIR (2025)
-##EXTINF:-1 tvg-id="kkr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAmglbtedM9COT0jk6mybRkiENNQV2kdUtl9XQAC7MQ&s" group-title="VOD | INDONESIAN MOVIE",KAMPUNG KERAMAT (2025)
-##EXTINF:-1 tvg-id="dsdp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfxUKmRWqCpeCVjNn0cB5vlrXOvE7Q3g3TJKePNshKw&s=10" group-title="VOD | INDONESIAN MOVIE",DILANJUTKAN SALAH DISUDAHI PERIH (2025)
 
 
 
