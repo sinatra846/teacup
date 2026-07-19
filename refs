@@ -2056,9 +2056,8 @@ SINGAPURA
 ===================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_SING.png?raw=true",CHANNEL | SINGAPORE
 
-
 #EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="CHANNEL | SINGAPORE",Channel 5 
-http://cdn6.163189.xyz/163189/ch5
+http://iptv.kilas7.com:80/kaukia/asdfrewq/22
 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
