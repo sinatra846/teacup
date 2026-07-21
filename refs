@@ -5775,49 +5775,49 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
-#EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/treehouse.png" group-title="CHANNEL | KIDS",Treehouse
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",Treehouse
 https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
-#EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="CHANNEL | KIDS",YTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",YTV
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.assured_buffer_length=30
 #KODIPROP:inputstream.adaptive.max_buffer_length=60
-#EXTINF:-1 tvg-id="Mykidz" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/M_Kidz.png/revision/latest?cb=20200201131221" group-title="CHANNEL | KIDS",MyKidz
+#EXTINF:-1 tvg-id="Mykidz" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",MyKidz
 https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-#EXTINF:-1 tvg-id="Kids TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png" group-title="CHANNEL | KIDS",Kids TV (V+)
+#EXTINF:-1 tvg-id="Kids TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",Kids TV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
-#EXTINF:-1 tvg-id="CBeebies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p0fpxchz.png" group-title="CHANNEL | KIDS",Cbeebies (V+)
+#EXTINF:-1 tvg-id="CBeebies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",Cbeebies (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="CHANNEL | KIDS",Disney Channel
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",Disney Channel
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 tvg-id="PBSKids.mv" tvg-name="PBS Kids" tvg-logo="https://8upload.com/image/681f471c5ef06/pbskidshilay.png" group-title="CHANNEL | KIDS",PBS KIDS
+#EXTINF:-1 tvg-id="PBSKids.mv" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/kidsflix.png" group-title="CHANNEL | KIDS",KidsFlix
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CHANNEL | KIDS",Japanim TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",Japanim TV (1080p)
 https://foxkidstv.be:3369/stream/play.m3u8
 
 
