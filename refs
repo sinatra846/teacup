@@ -781,6 +781,30 @@ https://malingpunya.ervinkasep01.workers.dev/6317.mpd?nomor_whatsapp_ane=63_955_
 =========================================== Malaysia ===========================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_MAL.png?raw=true",CHANNEL | MALAYSIA
 
+#EXTINF:-1 tvg-id="" tvg-name="TV 1 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV1_MY.png" group-title="CHANNEL | MALAYSIA",TV 1 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/24
+
+EXTINF:-1 tvg-id="" tvg-name="TV 3 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" group-title="CHANNEL | MALAYSIA",TV 3 (vip)
+
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV2_MY.png" group-title="CHANNEL | MALAYSIA",TV 2 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/25
+#EXTINF:-1 tvg-id="" tvg-name="TV 7 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV7_MY.png" group-title="CHANNEL | MALAYSIA",TV 7 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/27
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV8.png" group-title="CHANNEL | MALAYSIA",TV 8 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/28
+#EXTINF:-1 tvg-id="" tvg-name="TV 9 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV9_MY.png" group-title="CHANNEL | MALAYSIA",TV 9 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/29
+#EXTINF:-1 tvg-id="" tvg-name="RTM BERITA" tvg-logo="https://tv.cic.net.id/uploads/RTM_NEWS_MY.png" group-title="CHANNEL | MALAYSIA",RTM BERITA (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/30
+#EXTINF:-1 tvg-id="" tvg-name="RTM SPORT" tvg-logo="https://tv.cic.net.id/uploads/RTM_SPORT_MY.png" group-title="CHANNEL | MALAYSIA",RTM SPORT(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/31
+#EXTINF:-1 tvg-id="" tvg-name="OKEY TV" tvg-logo="https://tv.cic.net.id/uploads/TV_OKEY_MY.png" group-title="CHANNEL | MALAYSIA",OKEY TV(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/32
+#EXTINF:-1 tvg-id="" tvg-name="TV ALHIJRAH" tvg-logo="https://tv.cic.net.id/uploads/ALHIJRAH_MY.png" group-title="CHANNEL | MALAYSIA",TV ALHIJRAH (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/33
+#EXTINF:-1 tvg-id="" tvg-name="BERNAMA TV" tvg-logo="https://tv.cic.net.id/uploads/BERNAMA_MY.png" group-title="CHANNEL | MALAYSIA",BERNAMA TV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/34
+
 #EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="CHANNEL | MALAYSIA",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
