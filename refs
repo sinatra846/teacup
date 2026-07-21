@@ -5678,7 +5678,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksH
 <=============== Kids Channels =====================>
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | KIDS
 
-#EXTINF:-1 group-title="CHANNEL | KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aniplus.png",Aniplus
+#EXTINF:-1 group-title="CHANNEL | KIDS" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true",Aniplus
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1856298&extension=ts&play_token=J4RzsLFWgA
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -5897,7 +5897,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
 https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
 
-#EXTINF:-1 tvg-id="pop" tvg-name="POP" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png" group-title="CHANNEL | KIDS",POP
+#EXTINF:-1 tvg-id="pop" tvg-name="POP" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",POP
 https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
 https://maldivesn.net/hilaytv/pop
 
