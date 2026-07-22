@@ -11047,29 +11047,20 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <====================LIVE EVENT 1===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-id="18249" tvg-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" tvg-uid="b62b36a6c8bffe41fd546afa052ef38b",COURT 1
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153287374061_AiHD.m3u8?txSecret=157f8b26dd0f594b817166d24ed0d6ae&txTime=6A613D60
-
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-id="18249" tvg-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" tvg-uid="3291dadd5e19253cd0263621fd627dc7",COURT 2
-https://53b1f59b603742f3fe43bc97dbe7ad63.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153417454061_AiHD.m3u8?txSecret=05f6acde1187b82eefd76eb0598bdc12&txTime=6A613D60
-
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-id="18249" tvg-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" tvg-uid="b7df18a850cd0c12aa9b8751ceafa1d5",COURT 3
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153525847061_AiHD.m3u8?txSecret=4322cda400b57348c9cc2825cf89a935&txTime=6A613D60
 
 
 <=================>
 
 
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
+EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153287374061_AiHD.m3u8?txSecret=157f8b26dd0f594b817166d24ed0d6ae&txTime=6A613D60
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
+EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153417454061_AiHD.m3u8?txSecret=05f6acde1187b82eefd76eb0598bdc12&txTime=6A613D60
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
+EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153525847061_AiHD.m3u8?txSecret=4322cda400b57348c9cc2825cf89a935&txTime=6A613D
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
+EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
 https://tfxs0gr3dgmttgh5nhcj1gwzdrp3pptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel38/playlist.m3u8?wsSecret=b80decca2478498d51e4c765c356c553&wsABSTime=1784750700&wsSession=274414f517e070c8c1886168-178470750149812&wsIPSercert=68531b3b351ff8607113f4382f752b78&wsBindIP=2&wsserid=1168252881075525359
 
 
@@ -11080,13 +11071,13 @@ https://tfxs0gr3dgmttgh5nhcj1gwzdrp3pptwzc3jt.100ycdn.com/live1.streambylivepuls
 
 
 
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Thailand vs Myanmar
+EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Thailand vs Myanmar
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel88.m3u8
 
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Kamboja
+EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Kamboja
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel88.m3u8
 
-#EXTINF:-1 data-source="Manual" group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s" tvg-uid="9fc13b6fdc8c35c0bb1ca106f3b22e8a",MOJI DIGITAL
+EXTINF:-1 data-source="Manual" group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s" tvg-uid="9fc13b6fdc8c35c0bb1ca106f3b22e8a",MOJI DIGITAL
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com/
 https://cdn1.panensport.org/channel/500298550/index.m3u8
@@ -11096,12 +11087,12 @@ https://cdn1.panensport.org/channel/500298550/index.m3u8
 <=================>
 
 
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 15:00 WIB QF: Italy v Netherlands | Final Phase | Women's VNL 2026
+EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 15:00 WIB QF: Italy v Netherlands | Final Phase | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 18:30 WIB QF: Brazil v Japan | Final Phase | Women's VNL 2026
+EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 18:30 WIB QF: Brazil v Japan | Final Phase | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel33.m3u8
