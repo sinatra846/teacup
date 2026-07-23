@@ -11248,12 +11248,12 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20
 
 
 ========================================== VOD KOREA ===========================================
-EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD STREAM
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD STREAM
 
-EXTM3U
-EXTINF:-1 tvg-id="forakiller" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3qFHKXsBB_OPg61sZ85-qTBJJlaqH35nq3Tlc3QLEYdqp75zDYh6adOY&s=10" group-title="VOD | DRAKOR",A SHOP FOR A KILLER SEASON 2 EPS 1
-https://cloud.hownetwork.xyz/xxx/MRAmPmgSHi0uNAU_bkMzOTEXJ2N3VBIxKyIYKCYdZ3VwSHt6aC4yAwYdKBQcAjQ7exx4enc709ee0a4/42/480.m3u8
-EXTINF:-1 tvg-id="forakiller" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3qFHKXsBB_OPg61sZ85-qTBJJlaqH35nq3Tlc3QLEYdqp75zDYh6adOY&s=10" group-title="VOD | DRAKOR",A SHOP FOR A KILLER SEASON 2 EPS 2
+#EXTM3U
+#EXTINF:-1 tvg-id="forakiller" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3qFHKXsBB_OPg61sZ85-qTBJJlaqH35nq3Tlc3QLEYdqp75zDYh6adOY&s=10" group-title="VOD | DRAKOR",A SHOP FOR A KILLER SEASON 2 EPS 1
+https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/eps1fk.m3u8
+#EXTINF:-1 tvg-id="forakiller" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3qFHKXsBB_OPg61sZ85-qTBJJlaqH35nq3Tlc3QLEYdqp75zDYh6adOY&s=10" group-title="VOD | DRAKOR",A SHOP FOR A KILLER SEASON 2 EPS 2
 https://185.237.107.149/v4/Qod0qxAOCAq5j4p_rC2zLQ/1784776061/np/yjiyfr/index-f1-v1-a1.m3u8?v=1779963559&k=zogibKXoQoJXuN2pKkpGjA&kx=1784767882
 
 
