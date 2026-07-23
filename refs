@@ -8886,83 +8886,79 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h236/02.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="CHANNEL | DENS TV", Metro TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQR-mi-WH7mdA9RogvrNdu7N9HF1y6D8zSJJG4JLxPLkqcATjgutlcDCjKi4oMGew-IBP2n2ibnXKwl6T56etT-NgT_OWWCCKYMWolZI3X_BjA1N3m1I9UIxc0ErZbrAOZuEej4bEkUepIlriiqYib0yt-q_hssAQqjME4YxVqBCK_x5os4AQ1W_reYRvb/s700/MY%20CINEMA%20EUROPE.png" group-title="CHANNEL | DENS TV" x-source="GEulis TV" tvg-id="92" , MY CINEMA EUROPE HD
-https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-id="tvg-id="BTV - [Channel 103].id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-id.svg" group-title="CHANNEL | DENS TV", BTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayasd-1.dens.tv/h/h201/S2/mnf.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg" group-title="CHANNEL | DENS TV", tvOne
+#EXTINF:-1 tvg-id="135" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg" group-title="CHANNEL | DENS TV", Berita Satu
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.dens.tv/images/channel-logo/14.jpg" group-title="CHANNEL | DENS TV", Kompas TV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
-
-EXTINF:-1 tvg-id="tvg-id="BTV - [Channel 103].id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-id.svg" group-title="CHANNEL | DENS TV", BTV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h207/S2/mnf.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://www.dens.tv/images/channel-logo/13.jpg" group-title="CHANNEL | DENS TV", MDTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
-EXTINF:-1 tvg-id="22" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg" group-title="CHANNEL | DENS TV", RTV HD
+#EXTINF:-1 tvg-id="22" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg" group-title="CHANNEL | DENS TV", RTV HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 tvg-id="94" tvg-logo="https://www.dens.tv/images/channel-logo/94.jpg" group-title="CHANNEL | DENS TV", Elshinta TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h303/S2/mnf.m3u8
 
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" group-title="CHANNEL | DENS TV", Magna Channel
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="CHANNEL | DENS TV", TVRI
+#EXTINF:-1 tvg-id="171" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="CHANNEL | DENS TV", TVRI Sport
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h19/02.m3u8
+
+
+==========
+
+
+EXTINF:-1 tvg-id="7" tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg" group-title="CHANNEL | DENS TV", tvOne
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+
+EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQR-mi-WH7mdA9RogvrNdu7N9HF1y6D8zSJJG4JLxPLkqcATjgutlcDCjKi4oMGew-IBP2n2ibnXKwl6T56etT-NgT_OWWCCKYMWolZI3X_BjA1N3m1I9UIxc0ErZbrAOZuEej4bEkUepIlriiqYib0yt-q_hssAQqjME4YxVqBCK_x5os4AQ1W_reYRvb/s700/MY%20CINEMA%20EUROPE.png" group-title="CHANNEL | DENS TV" x-source="GEulis TV" tvg-id="92" , MY CINEMA EUROPE HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+
+EXTINF:-1 tvg-id="14" tvg-logo="https://www.dens.tv/images/channel-logo/14.jpg" group-title="CHANNEL | DENS TV", Kompas TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+
+EXTINF:-1 tvg-id="17" tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="CHANNEL | DENS TV", TVRI
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
-#EXTINF:-1 tvg-id="112" tvg-logo="https://www.dens.tv/images/channel-logo/112.jpg" group-title="CHANNEL | DENS TV", Jak tv
+EXTINF:-1 tvg-id="112" tvg-logo="https://www.dens.tv/images/channel-logo/112.jpg" group-title="CHANNEL | DENS TV", Jak tv
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
 
-#EXTINF:-1 tvg-id="21" tvg-logo="https://www.dens.tv/images/channel-logo/21.jpg" group-title="CHANNEL | DENS TV", RodjaTV
+EXTINF:-1 tvg-id="21" tvg-logo="https://www.dens.tv/images/channel-logo/21.jpg" group-title="CHANNEL | DENS TV", RodjaTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
-
-
-
-
 
 
 
