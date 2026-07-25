@@ -11301,15 +11301,35 @@ https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse
 <====================LIVE EVENT 2==================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 05:00 WIB Liverpool vs Sunderland
+
+#EXTINF:-1 tvg-expire="1785014100" tvg-start="1785006000" tvg-uid="775774b79e54e36b65be91e45069e30d" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="EVENT 026/JULI/2026",[🔴 LIVE] [02:00 WIB] [FRIENDLY] Aston Villa - Porto [CH 1]
+https://dz5.bhalocast.pro:7059/hls/viaplaysp2.m3u8?md5=XLqKzKcTzO6YHVWcVYVtfQ&expires=1785015397&ch=viaplaysp2&s=8e1a65afe13c177dbf4e82e891ac5e80|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-expire="1785014100" tvg-start="1785006000" tvg-uid="38c0cb9d273b5816d58780cbfa15dc1d" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="EVENT 026/JULI/2026",[🔴 LIVE] [02:00 WIB] [FRIENDLY] Aston Villa - Porto [CH 2]
+https://dz5.bhalocast.pro:7059/hls/spch42.m3u8?md5=rAodqr-CLX2Td5vvpnh4kw&expires=1785015400&ch=spch42&s=253a26aa29e360df0596a78b250eccb1|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 05:00 WIB Liverpool vs Sunderland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-expire="1785024000" tvg-start="1785016800" tvg-uid="ec3de17e3a49bf4f7a88d06be76d5d39" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/liverpool/logo.webp" group-title="EVENT 026/JULI/2026",[⏳ UPCOMING] [05:00 WIB] [FRIENDLY] Liverpool - Sunderland
+EXTINF:-1 tvg-expire="1785024000" tvg-start="1785016800" tvg-uid="ec3de17e3a49bf4f7a88d06be76d5d39" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/liverpool/logo.webp" group-title="EVENT 026/JULI/2026",[⏳ UPCOMING] [05:00 WIB] [FRIENDLY] Liverpool - Sunderland
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-expire="1785024900" tvg-start="1785016800" tvg-uid="f4565cf5ec1e9843364e17a75e4ce23f" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cfGsyXsXNkIHOD6i27MyJ88KkzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5208424/e94308.jpg" group-title="EVENT 026/JULI/2026", ⏳ (-9j 34m) 05:00 WIB 26/07/26 Liverpool vs Sunderland - Pre-season Friendly Match [J1]
+EXTINF:-1 tvg-expire="1785024900" tvg-start="1785016800" tvg-uid="f4565cf5ec1e9843364e17a75e4ce23f" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cfGsyXsXNkIHOD6i27MyJ88KkzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5208424/e94308.jpg" group-title="EVENT 026/JULI/2026", ⏳ (-9j 34m) 05:00 WIB 26/07/26 Liverpool vs Sunderland - Pre-season Friendly Match [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
@@ -11319,16 +11339,16 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2d2175b0e2ca7b78356a09a0f659f1f6abc7e7f6b0c7739bb71d8415a4bd6de0&waktu=1784982345
 https://malingpunya.ervinkasep01.workers.dev/21875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2d2175b0e2ca7b78356a09a0f659f1f6abc7e7f6b0c7739bb71d8415a4bd6de0&waktu=1784982345
 
-#EXTINF:-1 tvg-uid="40f00068a8dee2fd7d9d8ef86e6b4fdd" data-source="LiveTVluar" tvg-chno="332" tvg-id="SkySportPremierLeague.DE" tvg-name="Sky Sport Premier League" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="EVENT 026/JULI/2026",Sky Sport Premier League
+EXTINF:-1 tvg-uid="40f00068a8dee2fd7d9d8ef86e6b4fdd" data-source="LiveTVluar" tvg-chno="332" tvg-id="SkySportPremierLeague.DE" tvg-name="Sky Sport Premier League" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="EVENT 026/JULI/2026",Sky Sport Premier League
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae4/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWU0OjE3ODQ5OTg0NzA1MjE6Y2RubGl2ZXR2LnR2OmM3N2YzYWI3N2EwMmE0NjkuMTg3ZTE3ZmYyMDZlMThiZWRkOTFjY2YxYjYwYzExYjBlYjdjYTUwYjYxY2JkYjc5OWRlN2RmNjVjZTU5MTZjZA|x-forwarded-for:109.236.88.82
 
-#EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 03.00 WIB Porto vs Aston Villa
+EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 03.00 WIB Porto vs Aston Villa
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-expire="1785013200" tvg-start="1785006000" tvg-uid="2bdf81a44c6686622ec8f8d0c547b732" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="EVENT 026/JULI/2026",[⏳ UPCOMING] [02:00 WIB] [FRIENDLY] Aston Villa - Porto
+EXTINF:-1 tvg-expire="1785013200" tvg-start="1785006000" tvg-uid="2bdf81a44c6686622ec8f8d0c547b732" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="EVENT 026/JULI/2026",[⏳ UPCOMING] [02:00 WIB] [FRIENDLY] Aston Villa - Porto
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-uid="40f00068a8dee2fd7d9d8ef86e6b4fdd" data-source="LiveTVluar" tvg-chno="332" tvg-id="SkySportPremierLeague.DE" tvg-name="Sky Sport Premier League" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="EVENT 026/JULI/2026",Sky Sport Premier League
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
@@ -11336,7 +11356,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae4/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWU0OjE3ODQ5OTg0NzA1MjE6Y2RubGl2ZXR2LnR2OmM3N2YzYWI3N2EwMmE0NjkuMTg3ZTE3ZmYyMDZlMThiZWRkOTFjY2YxYjYwYzExYjBlYjdjYTUwYjYxY2JkYjc5OWRlN2RmNjVjZTU5MTZjZA|x-forwarded-for:109.236.88.82
 
-#EXTINF:-1 tvg-uid="dd2a03c0b71b9ff1d6bb8bacbc17d48d" data-source="TV_Amrik" tvg-chno="118" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" group-title="EVENT 026/JULI/2026",Sky Sports Premier League
+EXTINF:-1 tvg-uid="dd2a03c0b71b9ff1d6bb8bacbc17d48d" data-source="TV_Amrik" tvg-chno="118" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" group-title="EVENT 026/JULI/2026",Sky Sports Premier League
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
 
 
