@@ -11301,15 +11301,11 @@ https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse
 <====================LIVE EVENT 2==================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-
-#EXTINF:-1 tvg-expire="1785014100" tvg-start="1785006000" tvg-uid="775774b79e54e36b65be91e45069e30d" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="EVENT 026/JULI/2026",[🔴 LIVE] [02:00 WIB] [FRIENDLY] Aston Villa - Porto [CH 1]
-https://dz5.bhalocast.pro:7059/hls/viaplaysp2.m3u8?md5=XLqKzKcTzO6YHVWcVYVtfQ&expires=1785015397&ch=viaplaysp2&s=8e1a65afe13c177dbf4e82e891ac5e80|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-expire="1785014100" tvg-start="1785006000" tvg-uid="38c0cb9d273b5816d58780cbfa15dc1d" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="EVENT 026/JULI/2026",[🔴 LIVE] [02:00 WIB] [FRIENDLY] Aston Villa - Porto [CH 2]
-https://dz5.bhalocast.pro:7059/hls/spch42.m3u8?md5=rAodqr-CLX2Td5vvpnh4kw&expires=1785015400&ch=spch42&s=253a26aa29e360df0596a78b250eccb1|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-
-
+#EXTINF:-1 tvg-expire="1785024900" tvg-start="1785016800" tvg-uid="58e8ee82f30f788f4ce4f68dee30aa1d" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/435d2bce27607bd304e5530406e34eba-thumbnail.jpg" group-title="EVENT 026/JULI/2026",[🔴 LIVE 05:00 WIB] [International Friendly] Liverpool vs. Sunderland (Server 3 - ESPN Deportes)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/375.m3u8
 
 
 
