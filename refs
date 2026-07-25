@@ -11220,6 +11220,23 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8297371eaae424d753a31e2a7e3f306c76db00c243852cdbaf378b8cbaeede7e&waktu=1784979702
 https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8297371eaae424d753a31e2a7e3f306c76db00c243852cdbaf378b8cbaeede7e&waktu=1784979702
 
+#EXTINF:-1 tvg-expire="1785000720" tvg-start="1784979120" tvg-uid="841ff756d9d7e0efb83bca665bf567db" data-source="Vididi Combi Termux" tvg-id="21872-5207839" tvg-logo="https://thumbor.prod.vidiocdn.com/9VvKrKBn-XEDmBr9BrX71Tc-1DU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207839/2f87f0.jpg" group-title="EVENT 025/JULI/2026", 🔴 LIVE 18:32 WIB (25/07) - PERSIB vs Arema FC - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=drm&x=1784993448&k=395b7b653d060464505ec85bbc1457f850bdb9196bdba059f2f34ffb2363f682
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=dash&x=1784993448&k=1db16781f20081fb81500408ee2580aa323a38057e8118edab357abd5d4f2943&sc=5207839
+
+#EXTINF:-1 tvg-expire="1785000720" tvg-start="1784979120" tvg-uid="3d3bc102427264d94537dc58cddfdee9" data-source="LIVE Event Vidio" tvg-id="21872-5207839" tvg-logo="https://thumbor.prod.vidiocdn.com/9VvKrKBn-XEDmBr9BrX71Tc-1DU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207839/2f87f0.jpg" group-title="EVENT 025/JULI/2026", 🔴 LIVE 18:32 WIB (25/07) - PERSIB vs Arema FC - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=drm&x=1784993263&k=906c2bf963f285ae5164905bc73dd786238b5fe7b0230e3636df5cdb32f027c2
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=dash&x=1784993263&k=579b3ba9f7f0bb073dbf1151b8c622d745994a2b1f5d36a61b02e4ee903dca4c&sc=5207839
+
+
 ===============
 
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0XoFlJaAAtHreIeWHGF9pHtngpUjav7eG1FByGSuXsah8Booy-Sp7M8&s=10", 19.30 WIB Persib Bandung - Arema FC 
@@ -11246,7 +11263,6 @@ https://live2.streambylivepulse.com/live/channel12.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel5.m3u8
-
 
 
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Celtic vs Milan
