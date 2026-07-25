@@ -11218,32 +11218,57 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
+===============
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9VvKrKBn-XEDmBr9BrX71Tc-1DU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207839/2f87f0.jpg" group-title="EVENT 025/JULI/2026", 🔴 18:32 WIB 25/07/26 PERSIB vs Arema FC - Piala Presiden [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8297371eaae424d753a31e2a7e3f306c76db00c243852cdbaf378b8cbaeede7e&waktu=1784979702
+https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8297371eaae424d753a31e2a7e3f306c76db00c243852cdbaf378b8cbaeede7e&waktu=1784979702
+
+
+
 
 ===============
 
 
 
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 18:00 WIB Fortuna Dusseldorf vs Dortmund
+#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Fortuna Dusseldorf vs Dortmund
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel11.m3u8
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 18:00 WIB  Werder Bremen vs VfL Bochum
+#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB  Werder Bremen vs VfL Bochum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel9.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Kickers Offenbach vs Bayer Leverkusen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel12.m3u8
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Wehen Wiesbaden vs Bayern München
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Celtic vs Milan
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Schalke 04 vs Fagiano Okayama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel5.m3u8
 
+
+
+#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Celtic vs Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Schalke 04 vs Fagiano Okayama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 
 
 
@@ -11314,21 +11339,6 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
-EXTINF:-1 group-title="EVENT 023/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 15:00 WIB QF: Turki v Kanada | Final Phase | Women's VNL 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
-
-EXTINF:-1 tvg-expire="1784814300" tvg-start="1784806200" tvg-uid="d20455f96843802d1a7a623c871aa21a" data-source="dami2" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/626zrg1784729839.jpg" group-title="EVENT 023/JULI/2026",[🔴 LIVE 18:30 WIB] [Volleyball] QF: USA vs. China (Server 1 - Master)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/womensvnl/2026-07-23/qf:-chi.m3u8
-
-EXTINF:-1 group-title="EVENT 023/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 18:30 WIB QF: USA v China | Final Phase | Women's VNL 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
 
 
 <=================>
