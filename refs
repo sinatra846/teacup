@@ -11185,32 +11185,32 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Thailand vs Kamboja
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Thailand vs Kamboja
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Vietnam
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel25.m3u8
 
 ===============
 
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Myanmar vs Malaysia
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Myanmar vs Malaysia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Laos vs Thailand
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Laos vs Thailand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 ===============
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9VvKrKBn-XEDmBr9BrX71Tc-1DU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207839/2f87f0.jpg" group-title="EVENT 025/JULI/2026", 🔴 18:32 WIB 25/07/26 PERSIB vs Arema FC - Piala Presiden [J1]
+EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9VvKrKBn-XEDmBr9BrX71Tc-1DU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207839/2f87f0.jpg" group-title="EVENT 025/JULI/2026", 🔴 18:32 WIB 25/07/26 PERSIB vs Arema FC - Piala Presiden [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
@@ -11220,54 +11220,17 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8297371eaae424d753a31e2a7e3f306c76db00c243852cdbaf378b8cbaeede7e&waktu=1784979702
 https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8297371eaae424d753a31e2a7e3f306c76db00c243852cdbaf378b8cbaeede7e&waktu=1784979702
 
-#EXTINF:-1 tvg-expire="1785000720" tvg-start="1784979120" tvg-uid="841ff756d9d7e0efb83bca665bf567db" data-source="Vididi Combi Termux" tvg-id="21872-5207839" tvg-logo="https://thumbor.prod.vidiocdn.com/9VvKrKBn-XEDmBr9BrX71Tc-1DU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207839/2f87f0.jpg" group-title="EVENT 025/JULI/2026", 🔴 LIVE 18:32 WIB (25/07) - PERSIB vs Arema FC - Piala Presiden
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=drm&x=1784993448&k=395b7b653d060464505ec85bbc1457f850bdb9196bdba059f2f34ffb2363f682
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=dash&x=1784993448&k=1db16781f20081fb81500408ee2580aa323a38057e8118edab357abd5d4f2943&sc=5207839
-
-#EXTINF:-1 tvg-expire="1785000720" tvg-start="1784979120" tvg-uid="3d3bc102427264d94537dc58cddfdee9" data-source="LIVE Event Vidio" tvg-id="21872-5207839" tvg-logo="https://thumbor.prod.vidiocdn.com/9VvKrKBn-XEDmBr9BrX71Tc-1DU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207839/2f87f0.jpg" group-title="EVENT 025/JULI/2026", 🔴 LIVE 18:32 WIB (25/07) - PERSIB vs Arema FC - Piala Presiden
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=drm&x=1784993263&k=906c2bf963f285ae5164905bc73dd786238b5fe7b0230e3636df5cdb32f027c2
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=dash&x=1784993263&k=579b3ba9f7f0bb073dbf1151b8c622d745994a2b1f5d36a61b02e4ee903dca4c&sc=5207839
-
-
-===============
-
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0XoFlJaAAtHreIeWHGF9pHtngpUjav7eG1FByGSuXsah8Booy-Sp7M8&s=10", 19.30 WIB Persib Bandung - Arema FC 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel8.m3u8
 
 ===============
 
 
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Fortuna Dusseldorf vs Dortmund
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel11.m3u8
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB  Werder Bremen vs VfL Bochum
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel9.m3u8
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Kickers Offenbach vs Bayer Leverkusen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel12.m3u8
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Wehen Wiesbaden vs Bayern München
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel5.m3u8
 
-
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Celtic vs Milan
 https://tfxv0gr3uomttgr31hcjtgazdgqjpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel9/playlist.m3u8?wsSecret=a372db89cadb637f8df75f54ed8cf1f9&wsABSTime=1785029197&wsSession=90895688e65947f87d5f7423-178498599801469&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168243542086145774
-
 
 #EXTINF:-1 tvg-expire="1784996100" tvg-start="1784988000" tvg-uid="87cc2bba077dcf78796a01935b56b5ad" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="EVENT 025/JULI/2026",[21:00 WIB] [Friendly Match] Celtic vs AC Milan HD
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -11277,13 +11240,13 @@ https://pul-tenm.gkykp.com/live/sd-1-4561577.m3u8?txSecret=4ef25d9800364e4cbcc99
 
 ===============
 
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 15:00 WIB SF: Brazil v Italy | Final Phase | Women's VNL 2026
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 15:00 WIB SF: Brazil v Italy | Final Phase | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PEbI6ecX/live.isml/.m3u8
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 15:00 WIB SF: Brazil v Italy | Final Phase | Women's VNL 2026
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 15:00 WIB SF: Brazil v Italy | Final Phase | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel33.m3u8
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 18:30 WIB SF: China v Türkiye | Final Phase | Women's VNL 2026
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 18:30 WIB SF: China v Türkiye | Final Phase | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel33.m3u8
@@ -11335,28 +11298,6 @@ https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <====================LIVE EVENT 2==================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
@@ -11365,8 +11306,38 @@ https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-expire="1785024000" tvg-start="1785016800" tvg-uid="ec3de17e3a49bf4f7a88d06be76d5d39" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/liverpool/logo.webp" group-title="EVENT 026/JULI/2026",[⏳ UPCOMING] [05:00 WIB] [FRIENDLY] Liverpool - Sunderland
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-expire="1785024900" tvg-start="1785016800" tvg-uid="f4565cf5ec1e9843364e17a75e4ce23f" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cfGsyXsXNkIHOD6i27MyJ88KkzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5208424/e94308.jpg" group-title="EVENT 026/JULI/2026", ⏳ (-9j 34m) 05:00 WIB 26/07/26 Liverpool vs Sunderland - Pre-season Friendly Match [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2d2175b0e2ca7b78356a09a0f659f1f6abc7e7f6b0c7739bb71d8415a4bd6de0&waktu=1784982345
+https://malingpunya.ervinkasep01.workers.dev/21875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2d2175b0e2ca7b78356a09a0f659f1f6abc7e7f6b0c7739bb71d8415a4bd6de0&waktu=1784982345
+
+#EXTINF:-1 tvg-uid="40f00068a8dee2fd7d9d8ef86e6b4fdd" data-source="LiveTVluar" tvg-chno="332" tvg-id="SkySportPremierLeague.DE" tvg-name="Sky Sport Premier League" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="EVENT 026/JULI/2026",Sky Sport Premier League
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae4/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWU0OjE3ODQ5OTg0NzA1MjE6Y2RubGl2ZXR2LnR2OmM3N2YzYWI3N2EwMmE0NjkuMTg3ZTE3ZmYyMDZlMThiZWRkOTFjY2YxYjYwYzExYjBlYjdjYTUwYjYxY2JkYjc5OWRlN2RmNjVjZTU5MTZjZA|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 03.00 WIB Porto vs Aston Villa
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-expire="1785013200" tvg-start="1785006000" tvg-uid="2bdf81a44c6686622ec8f8d0c547b732" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="EVENT 026/JULI/2026",[⏳ UPCOMING] [02:00 WIB] [FRIENDLY] Aston Villa - Porto
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-uid="40f00068a8dee2fd7d9d8ef86e6b4fdd" data-source="LiveTVluar" tvg-chno="332" tvg-id="SkySportPremierLeague.DE" tvg-name="Sky Sport Premier League" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="EVENT 026/JULI/2026",Sky Sport Premier League
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae4/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWU0OjE3ODQ5OTg0NzA1MjE6Y2RubGl2ZXR2LnR2OmM3N2YzYWI3N2EwMmE0NjkuMTg3ZTE3ZmYyMDZlMThiZWRkOTFjY2YxYjYwYzExYjBlYjdjYTUwYjYxY2JkYjc5OWRlN2RmNjVjZTU5MTZjZA|x-forwarded-for:109.236.88.82
+
+#EXTINF:-1 tvg-uid="dd2a03c0b71b9ff1d6bb8bacbc17d48d" data-source="TV_Amrik" tvg-chno="118" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" group-title="EVENT 026/JULI/2026",Sky Sports Premier League
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
 
 
 
