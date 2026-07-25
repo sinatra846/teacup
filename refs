@@ -11185,16 +11185,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
-https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=6d17b04c64437a5ec91d65f4ed875e1d&wsABSTime=1784983859&wsSession=32845ea3da4483db9c7a49c1-178494066059206&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168264575094383966
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
-https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=51b481e6ff4399be21ae11f351a1afa0&wsABSTime=1784984088&wsSession=32845ea3da4483db9c7a49c1-178494088951944&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168264575094383966
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
-https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=cd4d38156d4dd01521e2c1f7ca79b133&wsABSTime=1784984166&wsSession=32845ea3da4483db9c7a49c1-178494096704716&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168264575094383966
-
-===============
-
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Thailand vs Kamboja
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
@@ -11230,11 +11220,14 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8297371eaae424d753a31e2a7e3f306c76db00c243852cdbaf378b8cbaeede7e&waktu=1784979702
 https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8297371eaae424d753a31e2a7e3f306c76db00c243852cdbaf378b8cbaeede7e&waktu=1784979702
 
-
-
-
 ===============
 
+#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0XoFlJaAAtHreIeWHGF9pHtngpUjav7eG1FByGSuXsah8Booy-Sp7M8&s=10", 19.30 WIB Persib Bandung - Arema FC 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel8.m3u8
+
+===============
 
 
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Fortuna Dusseldorf vs Dortmund
@@ -11319,6 +11312,14 @@ EXTINF:-1 group-title="EVENT 024/JULI/2026" tvg-logo="https://encrypted-tbn0.gst
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
+<========badminton=========>
+
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
+https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=6d17b04c64437a5ec91d65f4ed875e1d&wsABSTime=1784983859&wsSession=32845ea3da4483db9c7a49c1-178494066059206&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168264575094383966
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
+https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=51b481e6ff4399be21ae11f351a1afa0&wsABSTime=1784984088&wsSession=32845ea3da4483db9c7a49c1-178494088951944&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168264575094383966
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
+https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=cd4d38156d4dd01521e2c1f7ca79b133&wsABSTime=1784984166&wsSession=32845ea3da4483db9c7a49c1-178494096704716&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168264575094383966
 
 
 
@@ -11337,18 +11338,6 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
-
-
-
-
-<=================>
-
-
-EXTINF:-1 group-title="EVENT 023/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Thailand vs Vietnam
-https://tfxt0gr4ugmtwgczdecbq8rssa4mscwa1hh5wqj1sn5mnxfsg17ufqb4sah5f.100ycdn.com/live1.streambylivepulse.com/live/channel81/playlist.m3u8?wsSecret=fed1fd33581db67a300328e0491ae461&wsABSTime=1784833064&wsSession=2fa485bfbbc2596ecad271fb-178478986570942&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168202960675450674
-
-EXTINF:-1 group-title="EVENT 023/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Philipina vs Kamboja
-https://tfxt0gr4ugmtwgczdecbq8rssa4mscwa1hh5wqj1sn5mnxfsg17ufqb4sah5f.100ycdn.com/live1.streambylivepulse.com/live/channel81/playlist.m3u8?wsSecret=fc7fa9ce7fa44eac9e60f53a8bfd57fb&wsABSTime=1784833425&wsSession=2fa485bfbbc2596ecad271fb-178479022582938&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168202960675450674
 
 
 
