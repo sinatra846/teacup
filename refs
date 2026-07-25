@@ -7494,12 +7494,11 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/ind
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio1t6Yl_YaFM88JrD_a3kSdN25cJTSbCQ9C2NtwVsN1bbEumqfhdLvZm6lQp19gVASVeFhaGOzjgTOA0k5mdfpAdb00BNQr9Ko4cf0K3KnNbNxLNwrAKeaKAFeuwN4fcVdHfT1ZskyKVhPHK4mHNXaEDTvXg4BwSwq-Yv6Wb4F8ezh3MVbC3YZedppzM8p/s700/ANIMAX.png" group-title="CHANNEL | VISION+",ANIMAX
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
-
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" group-title="CHANNEL | VISION+" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moonbug%20kids.png",Moonbug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_T0l_3bIUfn5V9-b_uuHGEjNYpo3WlbFFa5lBcQzS2O5uqbQat5G0sCowtbyJBGrrSkWe2oa1zeLwU_ERHNEZ2Kxt_87NdV5mfs4hoh8QoskVof1W8WzpM9nqCEAGkEV2NyjK_xx0Sihwb1UWvMZl6Awxz9wMXeQp35N-WY5hwmjGKA3rzgdC4I60l3jD/s700/MOONBUG.png" group-title="CHANNEL | VISION+",MOONBUG
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -11194,7 +11193,30 @@ https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
 https://tfxv1gr4dymttgwanhcjsfa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=cd4d38156d4dd01521e2c1f7ca79b133&wsABSTime=1784984166&wsSession=32845ea3da4483db9c7a49c1-178494096704716&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168264575094383966
 
+===============
 
+#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Thailand vs Kamboja
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Vietnam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel25.m3u8
+
+===============
+
+#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Myanmar vs Malaysia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Laos vs Thailand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 
