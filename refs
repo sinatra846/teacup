@@ -11269,8 +11269,13 @@ https://live2.streambylivepulse.com/live/channel5.m3u8
 https://tfxv0gr3uomttgr31hcjtgazdgqjpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel9/playlist.m3u8?wsSecret=a372db89cadb637f8df75f54ed8cf1f9&wsABSTime=1785029197&wsSession=90895688e65947f87d5f7423-178498599801469&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168243542086145774
 
 
-===============
+#EXTINF:-1 tvg-expire="1784996100" tvg-start="1784988000" tvg-uid="87cc2bba077dcf78796a01935b56b5ad" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="EVENT 025/JULI/2026",[21:00 WIB] [Friendly Match] Celtic vs AC Milan HD
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://pul-tenm.gkykp.com/live/sd-1-4561577.m3u8?txSecret=4ef25d9800364e4cbcc997aec278e763&txTime=6A660E31
 
+===============
 
 #EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 15:00 WIB SF: Brazil v Italy | Final Phase | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PEbI6ecX/live.isml/.m3u8
