@@ -11229,24 +11229,23 @@ https://live2.streambylivepulse.com/live/channel33.m3u8
 https://damitv2.bonekoetv.workers.dev/play/womensvnl/2026-07-26/fin-bra.m3u8
 
 
-
-
-
-
-
-
 ===============
 
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dPylHntHtM6xDzeEPoeN9auLh1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211597/30d8b4.jpg" group-title="EVENT 026/JULI/2026", 🔴 15:00 WIB 26/07/26 PSMS Medan vs Port FC - Piala Presiden [J1] (MPD)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GngzlaMSxsxJG3sVCELZtxZfHfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211409/941e61.jpg" group-title="EVENT 026/JULI/2026", 🔴 19:06 WIB 26/07/26 PERSEBAYA Surabaya vs PERSIJA - Piala Presiden [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0bb85989a4c16b4b87392119d221cb7f6f3b35ae46fd6c34e931a68fc1f61df3&waktu=1785054214
-https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0bb85989a4c16b4b87392119d221cb7f6f3b35ae46fd6c34e931a68fc1f61df3&waktu=1785054214
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d85cf2ddeef58191ebeaea64b3ffa8944f991bf6d850c01c0581aac2bfffa792&waktu=1785067704
+https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d85cf2ddeef58191ebeaea64b3ffa8944f991bf6d850c01c0581aac2bfffa792&waktu=1785067704
+
+
+
+
+
 
 #EXTINF:-1 tvg-expire="1785074400" tvg-start="1785052800" tvg-uid="6a0b4778f7e895fbd163ffd87d8b1dd1" data-source="Vididi Combi Termux" tvg-id="21872-5211597" tvg-logo="https://thumbor.prod.vidiocdn.com/dPylHntHtM6xDzeEPoeN9auLh1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211597/30d8b4.jpg" group-title="EVENT 026/JULI/2026", 🔴 LIVE 15:00 WIB (26/07) - PSMS Medan vs Port FC - Piala Presiden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
