@@ -11200,11 +11200,24 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 #KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d85cf2ddeef58191ebeaea64b3ffa8944f991bf6d850c01c0581aac2bfffa792&waktu=1785067704
 https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d85cf2ddeef58191ebeaea64b3ffa8944f991bf6d850c01c0581aac2bfffa792&waktu=1785067704
 
-EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJTtdcEg1qwooozcUrqI4fhv61RqLx7WJ1Z8e1YCX7MVzpimNZM-pLPdv&s=10", 19:06 WIB 26/07/26 PERSEBAYA Surabaya vs PERSIJA - Piala Presiden
+EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJTtdcEg1qwooozcUrqI4fhv61RqLx7WJ1Z8e1YCX7MVzpimNZM-pLPdv&s=10", 19:06 WIB 26/07/26 PERSEBAYA Surabaya vs PERSIJA - Piala Presiden
 https://tfxw3gr4dymttgwanhqbqge4n45djq31un.100ycdn.com/live1.streambylivepulse.com/live/channel22/playlist.m3u8?wsSecret=fef700bf23509bbcbf0b1238c515c3fb&wsABSTime=1785111412&wsSession=43e51d67857bbe56b43ab9c3-178506821314973&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168202889463477329
 
+#EXTINF:-1 tvg-expire="1785089160" tvg-start="1785067560" tvg-uid="2edc492f946ba58d9a0c0a372a0300a6" data-source="Vididi Combi Termux" tvg-id="21872-5211409" tvg-logo="https://thumbor.prod.vidiocdn.com/GngzlaMSxsxJG3sVCELZtxZfHfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211409/941e61.jpg" group-title="EVENT 026/JULI/2026", 🔴 LIVE 19:06 WIB (26/07) - PERSEBAYA Surabaya vs PERSIJA - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785079195&k=bcaf676c6a8853a35d9d59b9808aff762e1f26e2ce9ab6a4e6439fbf56d1ecf1
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785079195&k=84f16487840754d29fbf50c2e2797f217701fd92529cd68125336edb3fa01f84&sc=5211409
 
-
+#EXTINF:-1 tvg-expire="1785089160" tvg-start="1785067560" tvg-uid="8025db77813bc560713ac6501d4db409" data-source="LIVE Event Vidio" tvg-id="21872-5211409" tvg-logo="https://thumbor.prod.vidiocdn.com/GngzlaMSxsxJG3sVCELZtxZfHfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211409/941e61.jpg" group-title="EVENT 026/JULI/2026", 🔴 LIVE 19:06 WIB (26/07) - PERSEBAYA Surabaya vs PERSIJA - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785078614&k=f8859207a242daa6dc1aab7d9bfa62619bf2f307ad3a8504c30c7a8798da1a6b
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785078614&k=dc6e1ec52297a249b3acae9cdc8872fbd121940dbb4651116931232c69376572&sc=5211409
 
 
 
