@@ -11255,11 +11255,18 @@ https://live2.streambylivepulse.com/live/channel33.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0bb85989a4c16b4b87392119d221cb7f6f3b35ae46fd6c34e931a68fc1f61df3&waktu=1785054214
 https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0bb85989a4c16b4b87392119d221cb7f6f3b35ae46fd6c34e931a68fc1f61df3&waktu=1785054214
 
+#EXTINF:-1 tvg-expire="1785074400" tvg-start="1785052800" tvg-uid="6a0b4778f7e895fbd163ffd87d8b1dd1" data-source="Vididi Combi Termux" tvg-id="21872-5211597" tvg-logo="https://thumbor.prod.vidiocdn.com/dPylHntHtM6xDzeEPoeN9auLh1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211597/30d8b4.jpg" group-title="EVENT 026/JULI/2026", 🔴 LIVE 15:00 WIB (26/07) - PSMS Medan vs Port FC - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785065968&k=334a6c7ee1462d8ac74bde15f5e1eb162d6d638bd13339a38fa54c39c887db9b
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785065968&k=19892cc83f15bce6e395b27386cb499294c42237dd6cfc5ba45cd79457d2f8a6&sc=5211597
+
 #EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJTtdcEg1qwooozcUrqI4fhv61RqLx7WJ1Z8e1YCX7MVzpimNZM-pLPdv&s=10", 15:30 WIB PSMS MEDAN vs PORT FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel6.m3u8
-
 
 
 
