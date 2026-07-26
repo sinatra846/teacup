@@ -11190,6 +11190,30 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GngzlaMSxsxJG3sVCELZtxZfHfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211409/941e61.jpg" group-title="EVENT 026/JULI/2026", 🔴 19:06 WIB 26/07/26 PERSEBAYA Surabaya vs PERSIJA - Piala Presiden [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d85cf2ddeef58191ebeaea64b3ffa8944f991bf6d850c01c0581aac2bfffa792&waktu=1785067704
+https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d85cf2ddeef58191ebeaea64b3ffa8944f991bf6d850c01c0581aac2bfffa792&waktu=1785067704
+
+EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJTtdcEg1qwooozcUrqI4fhv61RqLx7WJ1Z8e1YCX7MVzpimNZM-pLPdv&s=10", 19:06 WIB 26/07/26 PERSEBAYA Surabaya vs PERSIJA - Piala Presiden
+https://tfxw3gr4dymttgwanhqbqge4n45djq31un.100ycdn.com/live1.streambylivepulse.com/live/channel22/playlist.m3u8?wsSecret=fef700bf23509bbcbf0b1238c515c3fb&wsABSTime=1785111412&wsSession=43e51d67857bbe56b43ab9c3-178506821314973&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168202889463477329
+
+
+
+
+
+
+
+
+
+================
+
+
 #EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Thailand vs Vietnam
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
@@ -11232,33 +11256,6 @@ https://damitv2.bonekoetv.workers.dev/play/womensvnl/2026-07-26/fin-bra.m3u8
 ===============
 
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GngzlaMSxsxJG3sVCELZtxZfHfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211409/941e61.jpg" group-title="EVENT 026/JULI/2026", 🔴 19:06 WIB 26/07/26 PERSEBAYA Surabaya vs PERSIJA - Piala Presiden [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d85cf2ddeef58191ebeaea64b3ffa8944f991bf6d850c01c0581aac2bfffa792&waktu=1785067704
-https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d85cf2ddeef58191ebeaea64b3ffa8944f991bf6d850c01c0581aac2bfffa792&waktu=1785067704
-
-
-
-
-
-
-#EXTINF:-1 tvg-expire="1785074400" tvg-start="1785052800" tvg-uid="6a0b4778f7e895fbd163ffd87d8b1dd1" data-source="Vididi Combi Termux" tvg-id="21872-5211597" tvg-logo="https://thumbor.prod.vidiocdn.com/dPylHntHtM6xDzeEPoeN9auLh1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211597/30d8b4.jpg" group-title="EVENT 026/JULI/2026", 🔴 LIVE 15:00 WIB (26/07) - PSMS Medan vs Port FC - Piala Presiden
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785065968&k=334a6c7ee1462d8ac74bde15f5e1eb162d6d638bd13339a38fa54c39c887db9b
-https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785065968&k=19892cc83f15bce6e395b27386cb499294c42237dd6cfc5ba45cd79457d2f8a6&sc=5211597
-
-#EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJTtdcEg1qwooozcUrqI4fhv61RqLx7WJ1Z8e1YCX7MVzpimNZM-pLPdv&s=10", 15:30 WIB PSMS MEDAN vs PORT FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel6.m3u8
 
 
 
