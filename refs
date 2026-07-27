@@ -8147,7 +8147,6 @@ https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
 https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/dHYgTXUgQ2hhbm5lbA/manifest.mpd?signature=ZjhhMDg0YmJmMGViZDNjMzVhMDNkYjQ4M2Y0NTRlOWU=&time=15231527530|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" group-title="CHANNEL | INDONESIA VIP", Indosiar
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8166,36 +8165,12 @@ https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
 https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/QmVyaXRhIFNhdHU/manifest.mpd?signature=MmExYTNhMGMyNDUxZDlkNmExNzMwMjI1Y2ZhOTQzYmM|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" group-title="CHANNEL | INDONESIA VIP", Bioskop Indonesia
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=584638687655344f724d7330484e5552:34616c6b32476b4372427051716b4656
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=MjMwZmZlMmJiNzgwMDlmZDhjOTM5YzQ4N2E4ZGVhNDU|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-http://202.150.161.212:5000/live/channel35/playlist.m3u8
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" group-title="CHANNEL | INDONESIA VIP", Bioskop Indonesia
 #https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6bec4b1b-262f-44e0-821f-a3897ce93251.jpg" group-title="CHANNEL | INDONESIA VIP", Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8204,8 +8179,7 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/VGhyaWxs/manifest.mpd?signature=MjEyYjBiMjliZmZmMjA5YTEyOTRmYzM0ZmM4MTg5YTI=&time=15230610431|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
+https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/VGhyaWxs/manifest.mpd?signature=MzMzYTM4ZDI2NjQ0YmQzZGRjMmIwZDY2Mzk0ZDRiMTg|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8c6fb1a8-44f6-4d20-9093-fb4bb93bc5cd.jpg" group-title="CHANNEL | INDONESIA VIP", Movies News
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8214,8 +8188,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/TW92aWVzIE5ld3M/manifest.mpd?signature=NmZhOWU1OTk3NjFiMzM1MzRmMWEyMjQwYWI1MDk5Yzc=&time=15230611567|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
+https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/TW92aWVzIE5ld3M/manifest.mpd?signature=ZTg1Y2VkZDUzZGZhYzc1YTk0NWZmNDQwODRkMzIwMDE|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg" group-title="CHANNEL | INDONESIA VIP", Cartoon TV Premium
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8224,8 +8197,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd?signature=MjZkZDgzNzY0NGYyNDNhODk2ZjAzZmUzNjVlYzFhMTM=&time=15230612501|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
+https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd?signature=ZDBiZTkxY2VkNTk5MmU5NDlmZDdmYzNlNmEyZWZhZjQ|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e422d53-5c00-49ea-8422-e2a3f1e03f70.jpg" group-title="CHANNEL | INDONESIA VIP", Cartoon TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8234,8 +8206,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/Q2FydG9vbiBUVg/manifest.mpd?signature=NTFhNmQyNDU4NjFhNWMyM2U5OGFmMDYxNzA3NGE1MTM=&time=15230613175|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
+https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/Q2FydG9vbiBUVg/manifest.mpd?signature=OTY1NTNiZTZkMGI2OThjM2UwMDA1OTEyMDAzOTliMzA|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87c43b67-b234-41a8-b188-ae6b498a40b4.jpg" group-title="CHANNEL | INDONESIA VIP", Cartoon TV Classic
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8244,7 +8215,58 @@ https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd?signature=MDM2YzEzMTM5YWQ3ZWU2YzhlN2IwYmMwMjRmNGM4NmY=&time=15230613443|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd?signature=M2FkZTVlMjYwZjI4ZTk3NTE0NGIzZDdlNzUzOTJjMDQ|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTINF:-1 tvg-id="CGTN.Documentary.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f779de19-b7cd-4f39-b332-fbe9eb399ec6.jpg" group-title="CHANNEL | INDONESIA VIP", CGTN Documentary
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/Q0dUTiBEb2N1bWVudGFyeQ/manifest_cc.mpd?signature=N2RjMjk1MzcxZTU0MWUzNTEyNjFkMGY2YWFjNzhmZmM=|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTINF:-1 tvg-id="TVN.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/274d8780-8a11-4f25-8468-7c8da630484f.png" group-title="CHANNEL | INDONESIA VIP", TVN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/dHZOQ2hhbm5lbA/manifest.mpd?signature=YTc5YWJjY2Y3MjJmNWQ3YTZkNDkyNDIzNzg2MzZiY2U|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTINF:-1 tvg-id="NHK.World.Premium.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0768e86c-684d-414a-875f-78f3bda7aede.png" group-title="CHANNEL | INDONESIA VIP", NHK World Premium
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/TkhLIFdvcmxkIFByZW1pdW0/manifest.mpd?signature=ZGY5ZTU3ZWQwMzg2NmEzZDM4MTAyOWZhNGYxZWY0ZjU|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTINF:-1 tvg-id="TV5Monde.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/fb33f9d0-75ea-409d-8898-9d8111c4211c.png" group-title="CHANNEL | INDONESIA VIP", TV5Monde
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/VFY1IE1vbmRl/manifest.mpd?signature=M2M3MTdkY2IxOGYzYzJlNDkxZjgxMjk2NzFlOGZkOTc|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4dbae785-6fc6-4e6a-b3aa-7753cced105b.jpg" group-title="CHANNEL | INDONESIA VIP", Knowledge+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8255,47 +8277,6 @@ https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
 https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/S25vd2xlZGdlKw/manifest_cc.mpd?signature=MjlkN2YyNTA2ZTk1YTA2ZDUwNjI2Mzg0ZDkyYjhjMDI=&time=15230621470|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
-#EXTINF:-1 tvg-id="CGTN.Documentary.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f779de19-b7cd-4f39-b332-fbe9eb399ec6.jpg" group-title="CHANNEL | INDONESIA VIP", CGTN Documentary
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/Q0dUTiBEb2N1bWVudGFyeQ/manifest_cc.mpd?signature=N2RjMjk1MzcxZTU0MWUzNTEyNjFkMGY2YWFjNzhmZmM=&time=15230614717|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
-#EXTINF:-1 tvg-id="TVN.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/274d8780-8a11-4f25-8468-7c8da630484f.png" group-title="CHANNEL | INDONESIA VIP", TVN
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/dHZOQ2hhbm5lbA/manifest.mpd?signature=ODJlYWNjYWYzZjE5ZDYzOTcyZGViYjk0ZDlkMWEyNWQ=&time=15230617406|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
-#EXTINF:-1 tvg-id="NHK.World.Premium.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0768e86c-684d-414a-875f-78f3bda7aede.png" group-title="CHANNEL | INDONESIA VIP", NHK World Premium
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/TkhLIFdvcmxkIFByZW1pdW0/manifest.mpd?signature=ODY1ODFlMTRhMjgwZmIzMTAzMDdhMmM0YzYxOTFiMWY=&time=15230617643|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
-#EXTINF:-1 tvg-id="TV5Monde.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/fb33f9d0-75ea-409d-8898-9d8111c4211c.png" group-title="CHANNEL | INDONESIA VIP", TV5Monde
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/VFY1IE1vbmRl/manifest.mpd?signature=NmFhM2I2ZTVjZDBmZWY2YjkwYzFkY2E3ZDQwMzBmOWU=&time=15230620756|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
 
 
 
