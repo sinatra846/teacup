@@ -10883,6 +10883,11 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
+#EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Filipina vs Myanmar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel5.m3u8
+
 #EXTINF:-1 group-title="EVENT 027/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Malaysia vs Laos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
@@ -10906,10 +10911,8 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
-EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 14:30 WIB Ranking 3-4: China v Italy | Final Phase | Women's VNL 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
+
+
 
 EXTINF:-1 group-title="EVENT 026/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJTtdcEg1qwooozcUrqI4fhv61RqLx7WJ1Z8e1YCX7MVzpimNZM-pLPdv&s=10", 19:06 WIB 26/07/26 PERSEBAYA Surabaya vs PERSIJA - Piala Presiden
 https://tfxw3gr4dymttgwanhqbqge4n45djq31un.100ycdn.com/live1.streambylivepulse.com/live/channel22/playlist.m3u8?wsSecret=fef700bf23509bbcbf0b1238c515c3fb&wsABSTime=1785111412&wsSession=43e51d67857bbe56b43ab9c3-178506821314973&wsIPSercert=e018635d87d6f00b744851e76955bbca&wsBindIP=2&wsserid=1168202889463477329
