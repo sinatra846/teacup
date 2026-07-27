@@ -8887,19 +8887,27 @@ https://amg00735-amg00735c45-denstv-apac-7616.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 
 
+============DOUYU MOVIES=============
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/DOUYUL.png?raw=true",CHANNEL | DOUYU MOVIES
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="CHANNEL | DOUYU MOVIES",JackieChan 24/7
+http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="CHANNEL | DOUYU MOVIES",Shaw Brothers films
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="CHANNEL | DOUYU MOVIES",Shaw Brothers martial arts films
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="CHANNEL | DOUYU MOVIES",Shaw Brothers action films
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="CHANNEL | DOUYU MOVIES",Shaw Brothers comedies
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 group-title="CHANNEL | DOUYU MOVIES" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png",JACKIE CHAN MOVIES
+http://74.91.26.218:82/live/vlcl.m3u8
+#EXTINF:-1 group-title="CHANNEL | DOUYU MOVIES" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png",ANDY LAU MOVIES
+http://74.91.26.218:82/live/vlldh.m3u8
+#EXTINF:-1 group-title="CHANNEL | DOUYU MOVIES" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png",CHOW YUN-FAT MOVIES
+http://74.91.26.218:82/live/vlzrf.m3u8
+#EXTINF:-1 group-title="CHANNEL | DOUYU MOVIES" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png",STEPHEN CHOW MOVIES
+http://74.91.26.218:82/live/vlzxc.m3u8
 
 
 
@@ -9315,9 +9323,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d&sub=t4
-
-
-
 
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/0eE8w/slfDVfG2YIHC8ZM4Q.jpeg" type="movie" group-title="MOVIE", 989-Black Bag 2025
 #KODIPROP:inputstream=inputstream.adaptive
