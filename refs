@@ -10925,6 +10925,18 @@ https://live2.streambylivepulse.com/live/channel4.m3u8
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel10.m3u8
 
+#EXTINF:-1 tvg-expire="1785261900" tvg-start="1785240300" tvg-uid="c6368b96b5d9eac1ccf2d69d7ab1d8e5" data-source="Vididi Combi Termux" tvg-id="21872-5214750" tvg-logo="https://thumbor.prod.vidiocdn.com/OKHdPukgA63PtBbCI7qxJFZoRIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214750/3794e2.jpg" group-title="EVENT 028/JULI/2026", 🔴 LIVE 19:05 WIB (28/07) - DPMM FC vs PERSIB - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785252419&k=440735e9ab8ea3d9b67ea383f61cfdf2ac59b6e12707d28a1df220ae7297a96e
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785252419&k=5edab508bdaae9ea43abbdfab990f3843c1f7ade959fa004a14646d94831122b&sc=5214750
+
+
+
+
+
 
 ==================
 
