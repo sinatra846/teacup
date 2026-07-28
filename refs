@@ -7623,16 +7623,15 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/in
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/international/tv5mondeinfo.jpg" group-title="CHANNEL | WORLD TV",TV5 MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
+EXTINF:-1 tvg-id="RAI Italy" tvg-name="RAI Italy" tvg-logo="https://mimipipi22.github.io/logo/international/raiitalia.jpg" group-title="CHANNEL | WORLD TV",RAI ITALY
 
-#EXTINF:-1 tvg-id="RAI Italy" tvg-name="RAI Italy" tvg-logo="https://mimipipi22.github.io/logo/international/raiitalia.jpg" group-title="CHANNEL | WORLD TV",RAI ITALY
+EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="CHANNEL | WORLD TV", PHOENIX HK
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="CHANNEL | WORLD TV", PHOENIX HK
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/guandongtv.jpg" group-title="CHANNEL | WORLD TV", GUANGDONG TV
+EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/guandongtv.jpg" group-title="CHANNEL | WORLD TV", GUANGDONG TV
 
 EXTINF:-1 group-title="CHANNEL | WORLD TV" tvg-name="" tvg-country="ID" tvg-logo="https://mimipipi22.github.io/logo/international/tvbxinhe.jpg",TVB XING HE
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="CHANNEL | WORLD TV", PHOENIX CHINESE
+
 
 
 
