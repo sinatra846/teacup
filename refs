@@ -7600,6 +7600,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mp
 #KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
 https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd
 
+
+#EXTINF:-1 tvg-logo="#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cetv-1-cn.png",CETV 1
+http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub group-title="CHANNEL | WORLD TV", CETV 1
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cetv-1-cn.png",CETV 1
+http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+
+
 #EXTINF:-1 group-title="CHANNEL | WORLD TV" tvg-name="" tvg-country="ID" tvg-logo="https://mimipipi22.github.io/logo/international/tvbxinhe.jpg",TVB XING HE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -7635,8 +7642,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="CHANNEL | WORLD TV", PHOENIX CHINESE
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/guandongtv.jpg" group-title="CHANNEL | WORLD TV", GUANGDONG TV
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/cetv1.jpg" group-title="CHANNEL | WORLD TV", CETV 1
 
 
 
