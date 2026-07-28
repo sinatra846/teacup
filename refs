@@ -10933,7 +10933,15 @@ https://live2.streambylivepulse.com/live/channel10.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785252419&k=440735e9ab8ea3d9b67ea383f61cfdf2ac59b6e12707d28a1df220ae7297a96e
 https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785252419&k=5edab508bdaae9ea43abbdfab990f3843c1f7ade959fa004a14646d94831122b&sc=5214750
 
-
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OKHdPukgA63PtBbCI7qxJFZoRIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214750/3794e2.jpg" group-title="EVENT 028/JULI/2026", 🔴 19:05 WIB 28/07/26 DPMM FC vs PERSIB - Piala Presiden [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3fd71eb700b2f60dd380038e4d63d0798192ae7815d580e68274af642e0f44d2&waktu=1785246978
+https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3fd71eb700b2f60dd380038e4d63d0798192ae7815d580e68274af642e0f44d2&waktu=1785246978
 
 
 
