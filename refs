@@ -7607,6 +7607,12 @@ https://smt.858.qzz.io/Smart.php?id=tvbs
 #https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="CHANNEL | WORLD TV", PHOENIX CHINESE
+https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/phoenixchinese-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
+
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="CHANNEL | WORLD TV" tvg-logo="https://mimipipi22.github.io/logo/international/tv5monde.jpg",TV5 MONDE ASIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -7622,14 +7628,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="CHANNEL | WORLD TV", PHOENIX HK
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="CHANNEL | WORLD TV", PHOENIX CHINESE
-
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/guandongtv.jpg" group-title="CHANNEL | WORLD TV", GUANGDONG TV
-
 
 EXTINF:-1 group-title="CHANNEL | WORLD TV" tvg-name="" tvg-country="ID" tvg-logo="https://mimipipi22.github.io/logo/international/tvbxinhe.jpg",TVB XING HE
 
-
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="CHANNEL | WORLD TV", PHOENIX CHINESE
 
 
 
