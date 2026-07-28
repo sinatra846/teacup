@@ -1017,28 +1017,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ========================================
-
-
 
 
 
@@ -1106,10 +1085,6 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 
-
-
-
-
 ####################################################
 ############# TV Nasional #########################
 ####################################################
@@ -1150,6 +1125,16 @@ https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (AF)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPj6Q3ggs3TMU5GqFnXp6dXvTRa2WZzBixg&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",TRANS 7 (TESTING)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/VFJBTlM3LW15/manifest.mpd?signature=MGY4OTk1ZGU3NGRkNDA0MDY0OGNiNzVmZjM4ZGNlYjU=&time=15231772046|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", SCTV (IH)
 https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
