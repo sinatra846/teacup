@@ -10971,6 +10971,18 @@ http://filex.me:8080/live/3114654477/5787654467/302264.ts
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel5.m3u8
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rayWLDJnBD83cj9JhSRXE8ElhV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214263/b2c268.png" group-title="EVENT 029/JULI/2026", 🔴 16:45 WIB 29/07/26 Tottenham Hotspur vs Sydney FC - Pre-season Friendly Match [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=57c181da023df2f10e4923a3019c6ec7ad18c2d1d54af118d14a26af66d7643d&waktu=1785318545
+https://malingpunya.ervinkasep01.workers.dev/21875.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=57c181da023df2f10e4923a3019c6ec7ad18c2d1d54af118d14a26af66d7643d&waktu=1785318545
+
+
+
 
 #EXTINF:-1 group-title="EVENT 029/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 17:00 WIB Cerezo Osaka vs Borussia Dortmund
 #EXTINF:-1 group-title="EVENT 029/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Bayer Leverkusen vs Genk
