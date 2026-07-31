@@ -11010,6 +11010,23 @@ https://live2.streambylivepulse.com/live/channel15.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3a2866d4eee5aa40371431a8f7e564583df016893f12a7f0a5b55c96401edaf5&waktu=1785486427
 https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3a2866d4eee5aa40371431a8f7e564583df016893f12a7f0a5b55c96401edaf5&waktu=1785486427
 
+
+#EXTINF:-1 tvg-expire="1785506280" tvg-start="1785484680" tvg-uid="7abac04bb79d03cc44d71a27078ad4a5" data-source="LIVE Event Vidio" tvg-id="21872-5217134" tvg-logo="https://thumbor.prod.vidiocdn.com/xXdfwHYxWoAY-TwAIY4y0--4_gM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5217134/83df4c.jpg" group-title="EVENT 31/JULI/2026", 🔴 LIVE 14:58 WIB (31/07) - Arema FC vs DPMM FC - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785497485&k=a8681e463689a8c6a6d6999f1808445b7b1b0dc29f943ca87df549860b8076e4
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785497485&k=42f832bfe88d1fd9c8849389f28629f881cc5b9378734053dfd845dbfd8942b9&sc=5217134
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="EVENT 31/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 19:30 WIB Persib vs Tampines Rovers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
