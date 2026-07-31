@@ -11167,9 +11167,19 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/MAN1.m
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20King%E2%80%99s%20Warden2.m3u8
 #EXTINF:-1 tvg-id="py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ABnm-gg8y_ZIGV-SY8W61fxlXkkHvtEyJjukY8Kv9w&s=10" group-title="VOD | KOREAN MOVIE ",PROJECT Y
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PROJECT%20Y%203.m3u8
-
 #EXTINF:-1 tvg-id="tu" tvg-logo="https://down-id.img.susercontent.com/file/id-11134207-8224t-mh25pufv14i37c" group-title="VOD | KOREAN MOVIE ",THE UGLY
 https://pixeldrain.com/api/file/dhVuQptM?download
+#EXTINF:-1 tvg-id="thefirstride" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/First_Ride_film_poster.jpg/250px-First_Ride_film_poster.jpg" group-title="VOD | KOREAN MOVIE", THE FIRST RIDE
+https://pixeldrain.com/api/file/eCQmmExF?download
+#EXTINF:-1 tvg-id="boss9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8L4-FeLBhrikOID4G5Gd2FMUEpXYut0-kigErkkVxqqJfhbMH8gJZMb&s=10" group-title="VOD | KOREAN MOVIE",BOSS
+https://pixeldrain.com/api/file/wLbZkiv3?download
+#EXTINF:-1 tvg-id="jeongbongwon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAF-PPxR8uZH5Wb5HpQ8E8Ry7Sx9RmNQY8VG2XGiXjJLfAZ2o-FH-PkuU&s=10" group-title="VOD | KOREAN MOVIE",JEONGBOWON 
+https://pixeldrain.com/api/file/DXnyTY5J?download
+#EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
+https://pixeldrain.com/api/file/KVx1XLSV?download
+
+
+
 
 #EXTINF:-1 tvg-id="sgr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GfMORRTU7IUaBVZB_cWqrb41MKPVn3kCwrP8un9-2w&s=10" group-title="VOD | KOREAN MOVIE ",SUGAR
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SUGAR3.m3u8
@@ -11190,11 +11200,6 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20
 
 ========================================== ERR ===========================================
 
-
-##EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
-##EXTINF:-1 tvg-id="jeongbongwon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAF-PPxR8uZH5Wb5HpQ8E8Ry7Sx9RmNQY8VG2XGiXjJLfAZ2o-FH-PkuU&s=10" group-title="VOD | KOREAN MOVIE",JEONGBOWON 
-##EXTINF:-1 tvg-id="boss9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8L4-FeLBhrikOID4G5Gd2FMUEpXYut0-kigErkkVxqqJfhbMH8gJZMb&s=10" group-title="VOD | KOREAN MOVIE",BOSS
-##EXTINF:-1 tvg-id="thefirstride" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/First_Ride_film_poster.jpg/250px-First_Ride_film_poster.jpg" group-title="VOD | KOREAN MOVIE", THE FIRST RIDE
 ##EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
 ##EXTINF:-1 tvg-id="onlygod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Only_God_Knows_Everything_poster.jpg/250px-Only_God_Knows_Everything_poster.jpg" group-title="VOD | KOREAN MOVIE",ONLY GOD KNOWS EVERYTHING
 ##EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
@@ -11220,8 +11225,16 @@ https://pixeldrain.com/api/file/fBoG3SoN?download
 https://pixeldrain.com/api/file/8MYepqxP?download
 #EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 5
 https://pixeldrain.com/api/file/9exBB1JQ?download
-
-
+#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 6
+https://pixeldrain.com/api/file/VF27wE9L?download
+#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 7
+https://pixeldrain.com/api/file/tRd4sbup?download
+#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 8
+https://pixeldrain.com/api/file/4R5Pd5mg?download
+#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 9
+https://pixeldrain.com/api/file/LWKqqPd8?download
+#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 10
+https://pixeldrain.com/api/file/McA2BCsQ?download
 
 
 
@@ -11268,6 +11281,7 @@ https://pixeldrain.com/api/file/oCpSqqah?download
 https://pixeldrain.com/api/file/nXDb1hSE?download
 #EXTINF:-1 tvg-id="auto.mukidi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | INDONESIAN MOVIE",MUKIDI
 https://pixeldrain.com/api/file/xDtZjqYB?download
+
 
 
 
