@@ -11087,6 +11087,20 @@ https://live2.streambylivepulse.com/live/channel1.m3u8
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel23.m3u8
 
+#EXTINF:-1 data-source="Manual" group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" tvg-uid="ae8a0826b1a364c10a9ba37e1caf8460",INDOSIAR ALT
+http://filex.me:8080/live/3114654477/5787654467/302264.ts
+
+#EXTINF:-1 tvg-expire="1785607260" tvg-start="1785585660" tvg-uid="b801c734c3b1cbedf6c4303f2f427971" data-source="LIVE Event Vidio" tvg-id="21872-5217787" tvg-logo="https://thumbor.prod.vidiocdn.com/HhvKLa1v5_l_OiIXCEIui3JKfD8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5217787/d0b7b3.jpg" group-title="EVENT 1/AGUSTUS/2026", ⏳ JAM 19:01 WIB (01/08) - PERSEBAYA Surabaya vs Port FC - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=drm&x=1785595783&k=5666046e797982df8b43817f5c907ca8e60a7e6d3d76fd86a6f90bc2b7bf99eb
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=dash&x=1785595783&k=94b029c5db6cf1d8c73eec46d78b3ac692d3974805d0449391e7b2e8d922f2c4&sc=5217787
+
+
+
+
 
 =======astonvilla======
 
