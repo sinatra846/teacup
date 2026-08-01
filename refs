@@ -11005,23 +11005,50 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 tvg-expire="1785531600" tvg-start="1785523500" tvg-uid="1601e17b255efa92c5effc9296060b8f" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/6be08e57d623eab41bf4b22e88ed3a77-thumbnail.jpg" group-title="EVENT 1/AGUSTUS/2026",[🟡 PRE-SHOW 01:45 WIB] [International Friendly] Birmingham City vs. Barcelona (Server 1 - Master)
+#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10", 15:00 WIB Yonex Taipei Open 2026
+https://tfy20gr3uomttgr31hcj38rzdgp3pptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=789aa9e587d6909ebb7bc5ae628fc698&wsABSTime=1785607506&wsSession=098fa76988a5fced8ee48be3-178556430813776&wsIPSercert=54f32b35b52af8a89d00bd42edab63a0&wsBindIP=2&wsserid=1168235407058605159
+
+#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10", 15:00 WIB Yonex Taipei Open 2026
+https://tfy20gr3uomttgr31hctw8rzdnpjpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=e0eda44a9d4aac3b6d1e57139ff06278&wsABSTime=1785607570&wsSession=31efe9c20da7b971cc958266-178556437115327&wsIPSercert=54f32b35b52af8a89d00bd42edab63a0&wsBindIP=2&wsserid=1168235409236928544
+
+#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10", 15:00 WIB Yonex Taipei Open 2026
+https://tfy20gr3uomttgr31hctw8rzdnctpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=a7b58e591ac70fda49cb91a68a47243a&wsABSTime=1785607638&wsSession=e327e00c9473c272e4b13545-178556443982883&wsIPSercert=54f32b35b52af8a89d00bd42edab63a0&wsBindIP=2&wsserid=1168235407123617978
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXTINF:-1 tvg-expire="1785531600" tvg-start="1785523500" tvg-uid="1601e17b255efa92c5effc9296060b8f" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/6be08e57d623eab41bf4b22e88ed3a77-thumbnail.jpg" group-title="EVENT 1/AGUSTUS/2026",[🟡 PRE-SHOW 01:45 WIB] [International Friendly] Birmingham City vs. Barcelona (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/club-friendly/2026-07-31/bir-bar.m3u8
 
-#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01.45 WIB Birmingham City vs. Barcelona
+EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01.45 WIB Birmingham City vs. Barcelona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-uid="e54cab3cd6e4a1bdf10e13f189f8d83f" data-source="Cdnsports" tvg-name="Ziggo Sport 2 FHD NL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="EVENT 1/AGUSTUS/2026",Ziggo Sport 2 FHD NL
+EXTINF:-1 tvg-uid="e54cab3cd6e4a1bdf10e13f189f8d83f" data-source="Cdnsports" tvg-name="Ziggo Sport 2 FHD NL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="EVENT 1/AGUSTUS/2026",Ziggo Sport 2 FHD NL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cce6b/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZTZiOjE3ODU2ODk3NTc1MDM6Y2RubGl2ZXR2LnR2OmUxYmEzZTI1OWFjYTUzNGUuZWIwZWE5YjZhMDI2NzZiMWZmNGMwMWU4ZDE3Njk5NTE4ZTM1OGQ5Nzc0MGM5NGRkOTdlODE3YmZhYmUwZTRhYw
 
-#EXTINF:-1 tvg-uid="43f70a20b5035c2df88f447b184ceb18" data-source="LiveTVluar" tvg-chno="380" tvg-id="ZiggoSport2.NL" tvg-name="Ziggo Sport 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.webp" group-title="EVENT 1/AGUSTUS/2026",Ziggo Sport 2
+EXTINF:-1 tvg-uid="43f70a20b5035c2df88f447b184ceb18" data-source="LiveTVluar" tvg-chno="380" tvg-id="ZiggoSport2.NL" tvg-name="Ziggo Sport 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.webp" group-title="EVENT 1/AGUSTUS/2026",Ziggo Sport 2
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -11032,14 +11059,6 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cca85/playlist.m3u8?token=
 
 
 
-EXTINF:-1 group-title="EVENT 31/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10", 15:00 WIB Yonex Taipei Open 2026
-https://tfy10gr3uomttgr31hctw8rzdncbpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=f2365a437ba7f067c1242e38f54578a7&wsABSTime=1785527576&wsSession=c0146a9a972232fe3a1a8665-178548437696907&wsIPSercert=767fe3b42d7e9911240225d18c62f649&wsBindIP=2&wsserid=1168235407086917223
-
-EXTINF:-1 group-title="EVENT 31/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10", 15:00 WIB Yonex Taipei Open 2026
-https://tfy10gr3uomttgr31hctw8rzdncbpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel63/playlist.m3u8?wsSecret=d4d44fda9e577352f7fa0e43978d212c&wsABSTime=1785527767&wsSession=a26752487d0d32d36969faa9-178548456838162&wsIPSercert=767fe3b42d7e9911240225d18c62f649&wsBindIP=2&wsserid=1168235407094257409
-
-EXTINF:-1 group-title="EVENT 31/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10", 15:00 WIB Yonex Taipei Open 2026
-https://tfy10gr3uomttgr31hctw8rzdncbpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel62/playlist.m3u8?wsSecret=249d3a7ecadd03d2168ecf6dc187927e&wsABSTime=1785527932&wsSession=a26752487d0d32d36969faa9-178548473343325&wsIPSercert=767fe3b42d7e9911240225d18c62f649&wsBindIP=2&wsserid=1168235407094257409
 
 =============
 
