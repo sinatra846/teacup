@@ -11148,10 +11148,18 @@ https://live2.streambylivepulse.com/live/channel4.m3u8
 https://live2.streambylivepulse.com/live/channel11.m3u8
 
 
+#EXTINF:-1 tvg-expire="1785591900" tvg-start="1785583800" tvg-uid="1da7d6b23007f6be758fd60f3fa2d0a5" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="EVENT 1/AGUSTUS/2026" ,[18:30 WIB] [Friendly Match] Manchester City vs Inter Milan --- HD (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jxa76.com/live/sd-6Mwe5Hawq1WZSVaoN3.m3u8?txSecret=d1e75a5cd245fede50beb95319849151&txTime=19FBE578277
 
 
-
-
+#EXTINF:-1 tvg-uid="c1775f3a022c33b38635a96411801b03" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/a5a4f96788b378563a9403e72e8ebda2-thumbnail.jpg" group-title="EVENT 1/AGUSTUS/2026" ,[🟡 PRE-SHOW 18:30 WIB] [International Friendly] Manchester City vs. Inter Milan (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/club-friendly/2026-08-01/mci-int.m3u8
 
 
 
