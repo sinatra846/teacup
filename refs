@@ -11106,10 +11106,7 @@ https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/l
 https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=dash&x=1785587122&k=f86fba6c130ea62aea1361405e7a9063b6bf1199874ddd6961d9a55a2c5d7725&sc=5217862
 
 
-
-
-
-=============
+======chelsea=======
 
 #EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 16:45 WIB Chelsea vs Tottenham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -11126,8 +11123,22 @@ https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=xWsxZrW1A2ixqeamxmpAEg&expire
 https://dz5.bhalocast.pro:7059/hls/spch42.m3u8?md5=m28QiBnMyQc-pjwT9hVY6g&expires=1785581812&ch=spch42&s=2c3df82f5aad84d9d95b445fa3586b98|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 
+=======astonvilla======
+
+#EXTINF:-1 tvg-expire="1785593700" tvg-start="1785585600" tvg-uid="b5bf00055bfa2ad94afecd0162ea39c0" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIGA INGGRIS",[19:00 WIB] [Friendly Match] Indonesia All Stars vs Aston Villa (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.191/hls/OHFFAaa.m3u8
 
 
+======inter=======
+
+
+#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18.30 WIB Manchester City - Inter Milan 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel11.m3u8
 
 
 
