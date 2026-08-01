@@ -11100,8 +11100,12 @@ https://live2.streambylivepulse.com/live/channel4.m3u8
 https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1838518.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=542cd3eee77cde5beac1ca8f6672bb5c
 
 
+=============
 
-
+#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 16:45 WIB Chelsea vs Tottenham
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=b0f82b4b26e893819b03f4bbb1e7a271&wsABSTime=1785520109
 
 
 
@@ -11121,10 +11125,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 =============
 
 
-EXTINF:-1 group-title="EVENT 31/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Timor-Leste vs Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=b0f82b4b26e893819b03f4bbb1e7a271&wsABSTime=1785520109
 
 EXTINF:-1 tvg-expire="1785507000" tvg-start="1785492000" tvg-uid="b65a56045b506c20d6b89912b705d457" data-source="Live event 90sport" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/65r35wne5ldb3y.png" group-title="EVENT 31/JULI/2026" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] ASEAN Championship | (17.00 WIB) Timor-Leste vs Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -11174,10 +11174,10 @@ https://live2.streambylivepulse.com/live/channel33.m3u8
 
 =============
 
-EXTINF:-1 group-title="EVENT 30/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 06.30 WIB Liverpool vs Wrexham 
+#EXTINF:-1 group-title="EVENT 30/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 06.30 WIB Liverpool vs Wrexham 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel18.m3u8
+https://live2.streambylivepulse.com/live/channel5.m3u8
 
 EXTINF:-1 tvg-expire="1785375900" tvg-start="1785367800" tvg-uid="7954543fb35822ab3f9d620db4dc525a" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/liverpool/logo.webp" group-title="EVENT 30/JULI/2026",[🔴 LIVE] [06:30 WIB] [FRIENDLY] Liverpool - Wrexham [CH 1]
 https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=0oy7nOStDfFAi7mdo5CYBw&expires=1785372089&ch=spch2&s=10ad8a0bf62612e9b0a3a2bfc14f3756|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
