@@ -11014,45 +11014,47 @@ https://tfy20gr3uomttgr31hctw8rzdnpjpptwzc3jt.100ycdn.com/live1.streambylivepuls
 #EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10", 15:00 WIB Yonex Taipei Open 2026
 https://tfy20gr3uomttgr31hctw8rzdnctpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=a7b58e591ac70fda49cb91a68a47243a&wsABSTime=1785607638&wsSession=e327e00c9473c272e4b13545-178556443982883&wsIPSercert=54f32b35b52af8a89d00bd42edab63a0&wsBindIP=2&wsserid=1168235407123617978
 
+==================
 
+#EXTINF:-1 group-title="EVENT 01/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 16:00 WIB Thailand vs Philippines
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
+#EXTINF:-1 group-title="EVENT 01/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Vietnam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
+==================
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-EXTINF:-1 tvg-expire="1785531600" tvg-start="1785523500" tvg-uid="1601e17b255efa92c5effc9296060b8f" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/6be08e57d623eab41bf4b22e88ed3a77-thumbnail.jpg" group-title="EVENT 1/AGUSTUS/2026",[🟡 PRE-SHOW 01:45 WIB] [International Friendly] Birmingham City vs. Barcelona (Server 1 - Master)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/club-friendly/2026-07-31/bir-bar.m3u8
-
-EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01.45 WIB Birmingham City vs. Barcelona
+#EXTINF:-1 group-title="EVENT 01/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Laos vs Filipina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel1.m3u8
 
-EXTINF:-1 tvg-uid="e54cab3cd6e4a1bdf10e13f189f8d83f" data-source="Cdnsports" tvg-name="Ziggo Sport 2 FHD NL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="EVENT 1/AGUSTUS/2026",Ziggo Sport 2 FHD NL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cce6b/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZTZiOjE3ODU2ODk3NTc1MDM6Y2RubGl2ZXR2LnR2OmUxYmEzZTI1OWFjYTUzNGUuZWIwZWE5YjZhMDI2NzZiMWZmNGMwMWU4ZDE3Njk5NTE4ZTM1OGQ5Nzc0MGM5NGRkOTdlODE3YmZhYmUwZTRhYw
-
-EXTINF:-1 tvg-uid="43f70a20b5035c2df88f447b184ceb18" data-source="LiveTVluar" tvg-chno="380" tvg-id="ZiggoSport2.NL" tvg-name="Ziggo Sport 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.webp" group-title="EVENT 1/AGUSTUS/2026",Ziggo Sport 2
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=streamsports99&plan=vip
+#EXTINF:-1 group-title="EVENT 01/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Thailand vs Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cca85/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYTg1OjE3ODU2ODk4MTA0MzI6Y2RubGl2ZXR2LnR2OmFiMzZjNjE4YzJhZWEyNzEuNmM0Yjg5YjQ1MGY5ZDBkY2JjNjU1ZDEwNDg2MTY2MGMxNjQzODg2Y2NkZDIyYjAxMzMzMDk5ZjA1NjY5YTI4NA|x-forwarded-for:109.236.88.82
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel1.m3
+
+==================
+
+#EXTINF:-1 group-title="EVENT 01/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 15:30 WIB Persija vs PSMS
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel6.m3u8
+
+#EXTINF:-1 group-title="EVENT 01/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 19:30 WIB Persebaya Surabaya vs Port FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel23.m3u8
+
+
+
+
+
+
+
+
 
 
 
