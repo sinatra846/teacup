@@ -11086,18 +11086,27 @@ https://live2.streambylivepulse.com/live/channel1.m3
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel23.m3u8
 
-
 #EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10",15:30 WIB Persija vs PSMS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel4.m3u8
-
 
 #EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 15:30 WIB Persija vs PSMS
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1838518.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=542cd3eee77cde5beac1ca8f6672bb5c
+
+#EXTINF:-1 tvg-expire="1785592980" tvg-start="1785571380" tvg-uid="287646b81ffac4d3eb9e03a5ef505dbf" data-source="LIVE Event Vidio" tvg-id="21872-5217862" tvg-logo="https://thumbor.prod.vidiocdn.com/VZblBbeBQPF_yzqL_WicSaB13Nw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5217862/d38ffa.jpg" group-title="EVENT 1/AGUSTUS/2026", 🔴 LIVE 15:03 WIB (01/08) - PERSIJA vs PSMS Medan - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=drm&x=1785587122&k=419156ce6552fb62e8e72846cc7697e1627aff47ac524736392d6949c2373de4
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21872&ext=dash&x=1785587122&k=f86fba6c130ea62aea1361405e7a9063b6bf1199874ddd6961d9a55a2c5d7725&sc=5217862
+
+
+
 
 
 =============
