@@ -10935,7 +10935,49 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <====================LIVE EVENT 1===================================>
-EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+#EXTINF:-1 group-title="EVENT 3/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:30 WIB Kamboja vs Timor-Leste
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-expire="1785768000" tvg-start="1785753000" tvg-uid="475b45374e21311d4f8a17f29822c19b" data-source="Live event 90sport" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/hqlps638d1qjmz.png" group-title="EVENT 3/AGUSTUS/2026" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] ASEAN Championship | (17.30 WIB) Cambodia vs Timor-Leste
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://90sport.com/
+https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a4fbe9100567544412e8c13%2Findex.m3u8&client_id=cts&uid=t4a8hqem&is_vip=true&verify=1785751200-1XdaZGndrLda2pfe7f7%2BKsHWFmQt%2F1iCB5ipFNH8rfE%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+
+#EXTINF:-1 tvg-expire="1785778800" tvg-start="1785763800" tvg-uid="4aa0f6a6bfed972efaed9102cdb541c4" data-source="Live event 90sport" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/6w0s8xubo2r91k.png" group-title="EVENT 3/AGUSTUS/2026" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] ASEAN Championship | (20.30 WIB) Indonesia vs Vietnam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://90sport.com/
+https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a4fbe9100567544412e8c14%2Findex.m3u8&client_id=cts&uid=gs0pg0z5&is_vip=true&verify=1785751200-mFN4hzQr6n2QIBAQ%2Ff7xwl9fBPpWsXkgJxq88F02Wiw%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+
+#EXTINF:-1 tvg-expire="1785766200" tvg-start="1785751200" tvg-uid="9561fc0f08d57f451f4a2a1c75fbac8d" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="EVENT 3/AGUSTUS/2026",[17:00 WIB] [ASEAN Championship] Cambodia vs Timor-Leste (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.190/hls/NNNN.m3u8
+
+
+
+
+#EXTINF:-1 group-title="EVENT 03/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:30 WIB Indonesia vs Vietnam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 EXTINF:-1 group-title="EVENT 3/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 3:00 WIB Liverpool vs Leeds United 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -10957,7 +10999,7 @@ https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=2WlOxSULAQuPuFu4lUymcg&expire
 
 
 
-#EXTINF:-1 group-title="EVENT 02/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCo7uIVZGiJW97CcNswAQB-3Okjb12jpyaxafYzJB_gA&s=10", 23:00 WIB Wrexham vs Sunderland
+EXTINF:-1 group-title="EVENT 02/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCo7uIVZGiJW97CcNswAQB-3Okjb12jpyaxafYzJB_gA&s=10", 23:00 WIB Wrexham vs Sunderland
 
 
 ====selesai======
@@ -10965,7 +11007,7 @@ https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=2WlOxSULAQuPuFu4lUymcg&expire
 EXTINF:-1 group-title="EVENT 02/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 14:00 WIB Ranking 3-4: Japan v Slovenia | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JAwSjHbw/live.isml/.m3u8
 
-#EXTINF:-1 group-title="EVENT 02/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 14:00 WIB Ranking 3-4: Japan v Slovenia | Final Phase | Men's VNL 2026
+EXTINF:-1 group-title="EVENT 02/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 14:00 WIB Ranking 3-4: Japan v Slovenia | Final Phase | Men's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel33.m3u8
@@ -11045,7 +11087,7 @@ EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black
 
 
 
-#EXTINF:-1 group-title="EVENT 03/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCo7uIVZGiJW97CcNswAQB-3Okjb12jpyaxafYzJB_gA&s=10", 03:00 WIB Liverpool vs Leeds United
+EXTINF:-1 group-title="EVENT 03/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCo7uIVZGiJW97CcNswAQB-3Okjb12jpyaxafYzJB_gA&s=10", 03:00 WIB Liverpool vs Leeds United
 
 
 
