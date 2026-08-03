@@ -1265,9 +1265,7 @@ https://cdn.qd.je/163189.php?id=iqiyi
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV (AF)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-
-
-#EXTINF:-1 tvg-id="Trans.TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",Trans TV (TESTING)
+EXTINF:-1 tvg-id="Trans.TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",Trans TV (TESTING)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
@@ -1276,10 +1274,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
 https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/dash/VHJhbnNUVg/manifest.mpd?signature=Yzg5NzViODZiNzg5ZjcwZWYwOWQwNWM5MGRiZTM2ZjE=&time=15233770705|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV (DT)
 #EXTVLCOPT:http-origin=https://20.detik.com/
@@ -1300,7 +1294,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (TESTING)
+EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (TESTING)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
@@ -1309,19 +1303,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
 https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/dash/VFJBTlM3LW15/manifest.mpd?signature=NzE2NmE5YWVhMmIzOWQ3NGFhODg5NzhmMjBmZjM5NDY=&time=15233771033|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", SCTV (IH)
 https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
