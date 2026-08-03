@@ -1108,20 +1108,53 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-logo="https://terkini24.id/wp-content/uploads/2026/07/Logo-Piala-AFF-2026.webp" group-title="LIVE | PIALA AFF",MNC TV (2) R+
+#EXTINF:-1 tvg-logo="https://terkini24.id/wp-content/uploads/2026/07/Logo-Piala-AFF-2026.webp" group-title="LIVE | PIALA AFF",MNC TV (1) R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-logo="https://terkini24.id/wp-content/uploads/2026/07/Logo-Piala-AFF-2026.webp" group-title="LIVE | PIALA AFF",RCTI (2) R+
+#EXTINF:-1 tvg-logo="https://terkini24.id/wp-content/uploads/2026/07/Logo-Piala-AFF-2026.webp" group-title="LIVE | PIALA AFF",RCTI (1) R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-logo="https://terkini24.id/wp-content/uploads/2026/07/Logo-Piala-AFF-2026.webp" group-title="LIVE | PIALA AFF",GTV (2) R+
+#EXTINF:-1 tvg-logo="https://terkini24.id/wp-content/uploads/2026/07/Logo-Piala-AFF-2026.webp" group-title="LIVE | PIALA AFF",GTV (1) R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+
+# === RCTI+ SECTION ===
+# Updated: 2026-08-03 02:54:15
+
+
+#EXTINF:-1 tvg-id="RCTI" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785761654~hmac=7aa7eb4354e34db6b79d25e7b679721d160d35b7c969f1c5cd71253112032709
+
+#EXTINF:-1 tvg-id="MNCTV" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1785761654~hmac=ea258fb2b70531bb671454e49915847a618d1572352e47ed321ad46f50d16a8c
+
+#EXTINF:-1 tvg-id="GTV" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1785761654~hmac=d0f1781ba99ffd14e4a9ab663bc25548033a23502a55b0be06cfd5636bece5b8
+
+#EXTINF:-1 tvg-id="iNews" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1785761655~hmac=a5730821d03f17cf7c661e0d84f00e30242a44e4c365379155bbf3c727b69c94
+
+
+
+# === END RCTI+ SECTION ===
+
+
+===================================================>
+
 
 #EXTINF:-1 tvg-id="SoccerChannel.id@SD" group-title="LIVE | PIALA AFF" tvg-logo="https://terkini24.id/wp-content/uploads/2026/07/Logo-Piala-AFF-2026.webp",Soccer Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
