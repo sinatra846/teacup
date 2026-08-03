@@ -1405,7 +1405,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true", INDOSIAR (IH)
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR (VD)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -1420,7 +1420,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1785850273&s=824b5d8dd719d739a75e3705502e38bea1a9f7fa44761c6c95a2cd835df4c8b9
 
 
-#EXTINF:-1 group-title="CHANNEL | TESTING" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",Indosiar (test)
+#EXTINF:-1 group-title="CTESTING" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",Indosiar (test)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
