@@ -1747,6 +1747,10 @@ https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmsb4YOQgSJY1E7pIWyoiaBfMWsjcaXeQBQ&s", SANGAJI TV
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsP7kcYHiXYfhANpz1m5X-Maw2aOB2l3b8d_g2fr5&s=10" group-title="CHANNEL | DAERAH", PUJA TV ACEH
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://pujatv.siar.us/live/pujatv.m3u8
+
 EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://i.ytimg.com/vi/RjB_6Ps3BKc/maxresdefault.jpg", dTVi
 https://e.siar.us/live/dtvi.m3u8
 
@@ -1755,6 +1759,10 @@ https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | DAERAH",MATRIX TV
 https://stream.matrixtv.id/hls/1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | DAERAH", STARA TV Bojonegoro
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://bojonegoro.staratv.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | DAERAH", STARA TV Majalengka ( TIDAK STABIL )
 #EXTVLCOPT:http-referrer=https://tv.garden/
