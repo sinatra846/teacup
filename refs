@@ -1092,107 +1092,41 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-===========================
 
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | TESTING", SPORTV BRA 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-
-EXTINF:-1 tvg-id="0-1-6z5974915" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | TESTING", GOLTV VIVO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4
-https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
-
-EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP" , BBC ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kilat-live.com/
-#EXTVLCOPT:http-origin=https://kilat-live.com
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | TESTING" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", FUSSBALL TV 1 UHD
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
-
-EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/ipiptv-assets-lob/main/WC%202026.jpg?raw=true", FUSSBALL TV 1 HD
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+============================
 
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | TESTING", TUDN (Mexico)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
-
-
-
-
-
-
-
-===================================================>
-
-
-
-EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", FS1 WC 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
-#https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8EXF
-
-EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", FOX 26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
-
-EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", DSPORTS+ (Latin America)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
-
-EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true", DSPORTS2 (Latin America)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-
-EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 1 (ALB) 
+#EXTINF:-1 group-title="CHANNEL | TESTING" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 1 (ALB) 
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 
-EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 2 (ALB) 
+#EXTINF:-1 group-title="CHANNEL | TESTING" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 2 (ALB) 
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
-EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 3 (ALB) 
+#EXTINF:-1 group-title="CHANNEL | TESTING" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",SUPERSPORT 3 (ALB) 
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
-EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", beIN Sports 1 (France)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | TESTING", beIN Sports 1 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
-EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", beIN Sports 2 (France)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | TESTING", beIN Sports 2 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
-EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP", beIN Sports 3 (France)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | TESTING", beIN Sports 3 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
-EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP",RTM SPORT
-http://iptv.kilas7.com:80/kaukia/asdfrewq/31
-
-EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true" group-title="CHANNEL | WORLD CUP",OKEY TV
-http://iptv.kilas7.com:80/kaukia/asdfrewq/32
-
-EXTINF:-1 group-title="CHANNEL | WORLD CUP" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Tipik 2
+#EXTINF:-1 group-title="CHANNEL | TESTING" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/WC%202026.jpg?raw=true",Tipik 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
 https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
@@ -1374,6 +1308,8 @@ https://cdn.qd.je/163189.php?id=iqiyi
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV (AF)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
+
+
 #EXTINF:-1 tvg-id="Trans.TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",Trans TV (TESTING)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1382,7 +1318,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/dash/VHJhbnNUVg/manifest.mpd?signature=ZDE0NWQ4MmI5MjIwMzBkMGZmMDUzNWIwMTRkMDcwZTk=&time=15233637350|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/dash/VHJhbnNUVg/manifest.mpd?signature=Yzg5NzViODZiNzg5ZjcwZWYwOWQwNWM5MGRiZTM2ZjE=&time=15233770705|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV (DT)
 #EXTVLCOPT:http-origin=https://20.detik.com/
@@ -1411,7 +1351,17 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/dash/VFJBTlM3LW15/manifest.mpd?signature=YTFlMTI4YTc4MjZlZTBmNzQxMWYxOTZkMmJlNDczOGE=&time=15233637605|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/dash/VFJBTlM3LW15/manifest.mpd?signature=NzE2NmE5YWVhMmIzOWQ3NGFhODg5NzhmMjBmZjM5NDY=&time=15233771033|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1419,7 +1369,7 @@ https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", SCTV (IH)
 https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true",SCTV (AF)
+EXTINF:-1 tvg-id="SCTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true",SCTV (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1435,7 +1385,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", SCTV (VD)
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true",RCTI (AF)
+EXTINF:-1 tvg-id="RCTI.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true",RCTI (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1532,7 +1482,7 @@ https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",ANTV (AF)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:-1 tvg-id="tvOne.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",TVOne (AF)
+EXTINF:-1 tvg-id="tvOne.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",TVOne (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1617,6 +1567,9 @@ https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
+EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071135.png?raw=true" group-title="CHANNEL | INDONESIA",GARUDA TV HD
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",VTV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -1624,8 +1577,10 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/OXYGEN%20TV.png?raw=true" group-title="CHANNEL | INDONESIA",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/NUSANTARA.png?raw=true" group-title="CHANNEL | INDONESIA",Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="792" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/NUSANTARA.png?raw=true" group-title="CHANNEL | INDONESIA", Nusantara TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNBC.1.png?raw=true",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1666,7 +1621,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 =========================================== LOKAL NASIONAL 2 ===========================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_LOKAL.png?raw=true",CHANNEL | INDONESIA 2
 
-#EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI612NgFzm6YzMrijNtMNO7ZytN3oW4XriwzP9nxf54oOl9oxOeqYGB2FqBXhWy2epjs.png" group-title="CHANNEL | LOKAL ID",TRANS 7
+EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI612NgFzm6YzMrijNtMNO7ZytN3oW4XriwzP9nxf54oOl9oxOeqYGB2FqBXhWy2epjs.png" group-title="CHANNEL | LOKAL ID",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1674,7 +1629,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60ESweMqJx4c8EBO_60BmED9Y5MfUz8XNV222xP63m1h5SElmT2RNhNhAFQxYCB1hQ.png" group-title="CHANNEL | LOKAL ID", SCTV
+EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60ESweMqJx4c8EBO_60BmED9Y5MfUz8XNV222xP63m1h5SElmT2RNhNhAFQxYCB1hQ.png" group-title="CHANNEL | LOKAL ID", SCTV
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -1683,7 +1638,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI600Sap_cD4_NkUXQNPjLH_5AbjrB5Id0QFEy-0CDT6rF88ZfrPhstr6Dka-49RkEH6XFd9L1Pa-UvoPdsU4YoXC.png" group-title="CHANNEL | LOKAL ID",INDOSIAR
+EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI600Sap_cD4_NkUXQNPjLH_5AbjrB5Id0QFEy-0CDT6rF88ZfrPhstr6Dka-49RkEH6XFd9L1Pa-UvoPdsU4YoXC.png" group-title="CHANNEL | LOKAL ID",INDOSIAR
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -1692,7 +1647,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62MNORWXhRljohHx2YQIONJh_s2OoNqZil0O72K6urrFvnRWXmfqsHkyKgoYHUrXCE.png" group-title="CHANNEL | LOKAL ID",TRANS TV
+EXTINF:-1 tvg-id="" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62MNORWXhRljohHx2YQIONJh_s2OoNqZil0O72K6urrFvnRWXmfqsHkyKgoYHUrXCE.png" group-title="CHANNEL | LOKAL ID",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1704,7 +1659,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60cCNoz4GDuubU6t81EE1EPliRbQ0ME5nLHsRlV76BNUkCcwBhRCXy9WXu5E4TdP50.png" group-title="CHANNEL | LOKAL ID",RCTI
+EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60cCNoz4GDuubU6t81EE1EPliRbQ0ME5nLHsRlV76BNUkCcwBhRCXy9WXu5E4TdP50.png" group-title="CHANNEL | LOKAL ID",RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
@@ -1713,9 +1668,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-32777070300
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60cCNoz4GDuubU6t81EE1EPliRbQ0ME5nLHsRlV76BNUkCcwBhRCXy9WXu5E4TdP50.png" group-title="CHANNEL | LOKAL ID",RCTI
+EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60cCNoz4GDuubU6t81EE1EPliRbQ0ME5nLHsRlV76BNUkCcwBhRCXy9WXu5E4TdP50.png" group-title="CHANNEL | LOKAL ID",RCTI
 
-#EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61REOtG0HOIFlZ86eoLkXmDWHFvWdhFyvbEh8527aJVMge4vTbeynLpmMaqudYzxd4.png"  group-title="CHANNEL | LOKAL ID",MNC TV
+EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61REOtG0HOIFlZ86eoLkXmDWHFvWdhFyvbEh8527aJVMge4vTbeynLpmMaqudYzxd4.png"  group-title="CHANNEL | LOKAL ID",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1725,10 +1680,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI635TjD8Ug8R3WFst2gW4l2lPR__R4fICvSqAHtDlcZ8NPpxg18EB-AAj8EemBX_wos.png" group-title="CHANNEL | LOKAL ID",GTV
+EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI635TjD8Ug8R3WFst2gW4l2lPR__R4fICvSqAHtDlcZ8NPpxg18EB-AAj8EemBX_wos.png" group-title="CHANNEL | LOKAL ID",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62l1mZGg1gWHmQZ_f7XYKFlN9lB2ZUxu3WusyGLkn1Ul2Jhlh67cyy0V-IxA-emxa8.png" group-title="CHANNEL | LOKAL ID",iNEWS
+EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62l1mZGg1gWHmQZ_f7XYKFlN9lB2ZUxu3WusyGLkn1Ul2Jhlh67cyy0V-IxA-emxa8.png" group-title="CHANNEL | LOKAL ID",iNEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1740,89 +1695,89 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60fO6IeybYZAabPyXqXOLKYyoHAjQz4VnlX0PWV90EqNbds1uZIai8U2n0MUFvr_Rw.png" group-title="CHANNEL | LOKAL ID",ANTV
+EXTINF:-1 tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI60fO6IeybYZAabPyXqXOLKYyoHAjQz4VnlX0PWV90EqNbds1uZIai8U2n0MUFvr_Rw.png" group-title="CHANNEL | LOKAL ID",ANTV
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
-#EXTINF:-1 tvg-id="MDTV" group-title="CHANNEL | LOKAL ID" tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI63LsVLM4qKVdW7JWPV96VQqOSMoH1on1PWdYDXE8jq4VNftl5KD4CQpRZUmgwI8Dhc.png",MDTV HD
+EXTINF:-1 tvg-id="MDTV" group-title="CHANNEL | LOKAL ID" tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI63LsVLM4qKVdW7JWPV96VQqOSMoH1on1PWdYDXE8jq4VNftl5KD4CQpRZUmgwI8Dhc.png",MDTV HD
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/Channel IndonesiaEpg" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61DloXpED32URELDSGasbFaajYk1MbNj7FILZ_GlnbDXdMfDJJxIKPcYIzjiDhy8Kc.png" group-title="CHANNEL | LOKAL ID",RTV
+EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/Channel IndonesiaEpg" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61DloXpED32URELDSGasbFaajYk1MbNj7FILZ_GlnbDXdMfDJJxIKPcYIzjiDhy8Kc.png" group-title="CHANNEL | LOKAL ID",RTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" group-title="CHANNEL | LOKAL ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png", Metro TV
+EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" group-title="CHANNEL | LOKAL ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png", Metro TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI63P3Ut4rO6BK1UAvdlV5DlmSDAVQbffsWphjy5HBLTzChpb_PiQeTxWB2masIcNtl8.png" group-title="CHANNEL | LOKAL ID",KOMPAS TV
+EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI63P3Ut4rO6BK1UAvdlV5DlmSDAVQbffsWphjy5HBLTzChpb_PiQeTxWB2masIcNtl8.png" group-title="CHANNEL | LOKAL ID",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | LOKAL ID" BTV tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62MNORWXhRljohHx2YQIONJ1EEB795r33fKS_O9zNBW3RUOcuM-nVNQL870yw6KHOA.png", BTV
+EXTINF:-1 group-title="CHANNEL | LOKAL ID" BTV tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI62MNORWXhRljohHx2YQIONJ1EEB795r33fKS_O9zNBW3RUOcuM-nVNQL870yw6KHOA.png", BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
-#EXTINF:-1  group-title="CHANNEL | LOKAL ID" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61r760Dxto2LayuSLJ9RoldFK8-ULJm-eanqFQzZ_jLO-oxSUnrwfsDYX_vbpQoVbM.png",DAAI TV
+EXTINF:-1  group-title="CHANNEL | LOKAL ID" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61r760Dxto2LayuSLJ9RoldFK8-ULJm-eanqFQzZ_jLO-oxSUnrwfsDYX_vbpQoVbM.png",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61LwP9oiCOeJGE3AZkEZmIka0kcnSc2TSe5nthCgCobAA9DUVmWgHomgDqV47fNHaozuW3aisv2EvBsorN2IPqP.png" group-title="CHANNEL | LOKAL ID",CNBC INDONESIA
+EXTINF:-1 tvg-chno="29" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvckiwjv3KN0pn9379yksI61LwP9oiCOeJGE3AZkEZmIka0kcnSc2TSe5nthCgCobAA9DUVmWgHomgDqV47fNHaozuW3aisv2EvBsorN2IPqP.png" group-title="CHANNEL | LOKAL ID",CNBC INDONESIA
 http://41.205.93.154/CNBC/index.m3u8
 http://89.105.221.127/CNBC/index.m3u8?token=test
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvbD6mwdxXP1FgWyJmy6sWcVTFP-8ThAfzBmpw0Bu9BxIj37JTQm8fBgrjE0OjCjQWS8I3w5KwtsRYxMIeJ5lvcQ.png" group-title="CHANNEL | LOKAL ID",IDX
+EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="http://103.93.129.155:80/images/GU9mUyzmuQTC74lnkhLmxVVYfRTa33ZoNWcV87axRRAkdDmvqz9DgjiuOsNO1-4FPtk0zWxOLoEehzpHWcDUvbD6mwdxXP1FgWyJmy6sWcVTFP-8ThAfzBmpw0Bu9BxIj37JTQm8fBgrjE0OjCjQWS8I3w5KwtsRYxMIeJ5lvcQ.png" group-title="CHANNEL | LOKAL ID",IDX
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="CHANNEL | LOKAL ID",Nusantara TV
+EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="CHANNEL | LOKAL ID",Nusantara TV
 http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nqmdRKkn/Garudatv-removebg-preview.png" group-title="CHANNEL | LOKAL ID",Garuda TV HD
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/nqmdRKkn/Garudatv-removebg-preview.png" group-title="CHANNEL | LOKAL ID",Garuda TV HD
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/mh9sgmzvwbqfic3tlbkci/Bnchanel.jpg?rlkey=8bn38qw1ohg6xy8wkajeu1ccv&dl=0" group-title="CHANNEL | LOKAL ID",BN Channel
+EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/mh9sgmzvwbqfic3tlbkci/Bnchanel.jpg?rlkey=8bn38qw1ohg6xy8wkajeu1ccv&dl=0" group-title="CHANNEL | LOKAL ID",BN Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8?app_type=web&userid=lite&chname=BN-TV
 
-#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/1oI0gduQjQYF5hmro0lmfOSJ_l0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="CHANNEL | LOKAL ID", MAGNA DNS
+EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/1oI0gduQjQYF5hmro0lmfOSJ_l0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="CHANNEL | LOKAL ID", MAGNA DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | LOKAL ID" tvg-id="TVRIWorld.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI WORLD
+EXTINF:-1 group-title="CHANNEL | LOKAL ID" tvg-id="TVRIWorld.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | LOKAL ID" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI NASIONAL
+EXTINF:-1 group-title="CHANNEL | LOKAL ID" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="CHANNEL | LOKAL ID",TVRI SPORT
+EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="CHANNEL | LOKAL ID",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" group-title="CHANNEL | LOKAL ID",CNN Indonesia
+EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" group-title="CHANNEL | LOKAL ID",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="CHANNEL | LOKAL ID",Berita SATU
+EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="CHANNEL | LOKAL ID",Berita SATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oR8KunwWb8Q/mqdefault.jpg" group-title="CHANNEL | LOKAL ID", SINPO TV
+EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oR8KunwWb8Q/mqdefault.jpg" group-title="CHANNEL | LOKAL ID", SINPO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1833,41 +1788,15 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 
-#EXTINF:0 tvg-id="TheIndonesiaChannelHD" tvg-name="The Indonesia Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_bxXyI7LiAcr5Zwr-ukzvKnwob45bIfJYw&s" group-title="CHANNEL | LOKAL ID", The Indonesia Channel
+EXTINF:0 tvg-id="TheIndonesiaChannelHD" tvg-name="The Indonesia Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_bxXyI7LiAcr5Zwr-ukzvKnwob45bIfJYw&s" group-title="CHANNEL | LOKAL ID", The Indonesia Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=ee710916af2548d1b91d02a5d9cbc436:a16ebdfabe2bc6d7294fe5849abb2b4a
 https://atemecdnbalancer-voe.sysln.id/live/eds/TheIndonesianChannelHD/mediampd/TheIndonesianChannelHD.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/148286.v2.png" group-title="CHANNEL | LOKAL ID", FICOM TV
+EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/148286.v2.png" group-title="CHANNEL | LOKAL ID", FICOM TV
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | LOKAL ID", STARA TV Majalengka
-#EXTVLCOPT:http-referrer=https://tv.garden/
-https://stream.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | LOKAL ID", STARA TV Bandung
-#EXTVLCOPT:http-referrer=https://tv.garden/
-https://bandung.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | LOKAL ID", STARA TV Cianjur
-#EXTVLCOPT:http-referrer=https://tv.garden/
-https://cianjur.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | LOKAL ID", STARA TV Malang
-#EXTVLCOPT:http-referrer=https://tv.garden/
-https://malang.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | LOKAL ID",STARATV PARAHYANGAN
-https://parahyangan.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | LOKAL ID",STARATV JAKARTA
-https://jakarta.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | LOKAL ID",MATRIX TV
-https://stream.matrixtv.id/hls/1/stream.m3u8
-
 
 
 
@@ -2068,6 +1997,32 @@ https://e.siar.us/live/dtvi.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PKTV_New_Logo_2020.png/250px-PKTV_New_Logo_2020.png" group-title="CHANNEL | DAERAH", PKTV
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | DAERAH",MATRIX TV
+https://stream.matrixtv.id/hls/1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | DAERAH", STARA TV Majalengka GGG
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://stream.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | DAERAH", STARA TV Bandung
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://bandung.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | DAERAH", STARA TV Cianjur
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://cianjur.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | DAERAH", STARA TV Malang
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://malang.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | DAERAH",STARATV PARAHYANGAN
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | DAERAH",STARATV JAKARTA
+https://jakarta.staratv.id/hls/0/stream.m3u8
+
 
 
 
