@@ -10966,7 +10966,13 @@ https://live2.streambylivepulse.com/live/channel1.m3u8
 https://live2.streambylivepulse.com/live/channel4.m3u8
 
 
-
+#EXTINF:-1 tvg-expire="1785851580" tvg-start="1785829980" tvg-uid="7da05b3a441fa62531164625c8e5ec51" data-source="LIVE Event Vidio" tvg-id="21872-5245496" tvg-logo="https://thumbor.prod.vidiocdn.com/cJyNjUXyi1OrIZkmQhvLUze7u8U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5245496/2adbae.jpg" group-title="EVENT 04/AGUSTUS/2026", 🔴 LIVE 14:53 WIB (04/08) - Semifinal: PERSIB vs PERSIJA - Piala Presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=21872&ext=drm&x=1785841834&k=a2463d42bb090a028087d3858eef9bdf34eb03d51c41c5cc5f13644f9d92c33a
+https://vididi.bonetvstream.workers.dev/index.mpd?q=21872&ext=dash&x=1785841834&k=89c79691752e01c57d930c4b900a8c32242e4fd8e965f37e41388eb613545ca5&sc=5245496
 
 
 
