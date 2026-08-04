@@ -2019,7 +2019,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/in
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=CCTV-4
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:network-caching=1000
@@ -2051,6 +2050,56 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://i.imgur.com/x9WlTNz.png", ZHEJIANG TV
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="CHANNEL | HK/TAIWAN",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",人間衛視 
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",東森美洲 
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",TVBS-Asia 
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
+
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="CHANNEL | HK/TAIWAN",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="CHANNEL | HK/TAIWAN",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TW" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bts_tw.png" group-title="CHANNEL | HK/TAIWAN",Buddha Compassion TV Station
+https://live-ott2b2.cdn.hinet.net/ott2b2-live/bts/chunklist.m3u8
+https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1747663115-5-5-c33c3ae82b2bce3f971893bbb3fffdec&aliyun_uuid=e423247e-34a2-4fa3-b8d5-4b060bc476f9
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="CHANNEL | HK/TAIWAN",DALI TV
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="CHANNEL | HK/TAIWAN",SUPREME MASTER TV 
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="CHANNEL | HK/TAIWAN",WXTV
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN",NEWS TAIWAN
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
