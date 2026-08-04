@@ -10946,7 +10946,67 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <====================LIVE EVENT 1===================================>
-EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+#EXTINF:-1 group-title="EVENT 04/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Myanmar vs Laos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel1.m3u8
+
+#EXTINF:-1 group-title="EVENT 04/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Filipina vs Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel1.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 04/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 15:30 WIB Persib vs Persija
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel4.m3u8
+
+
+
+
+
+
+
+
+
+
+==========
+
+#EXTINF:-1 group-title="EVENT 04/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 19:30 WIB Persebaya Surabaya vs Arema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel22.m3u8
+
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 04/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Jeju United vs Bayern München
+#EXTINF:-1 group-title="EVENT 04/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 19:30 WIB Bangkok Glass vs Aston Villa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 EXTINF:-1 group-title="EVENT 3/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:30 WIB Indonesia vs Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
