@@ -2053,44 +2053,63 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 
 #EXTINF:-1 tvg-id="PetClubTV.hk" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="CHANNEL | HK/TAIWAN",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",人間衛視 
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",東森美洲 
 http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",TVBS-Asia 
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
-
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="CHANNEL | HK/TAIWAN",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="CHANNEL | HK/TAIWAN",唯心電視 (480p)
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="TW" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bts_tw.png" group-title="CHANNEL | HK/TAIWAN",Buddha Compassion TV Station
 https://live-ott2b2.cdn.hinet.net/ott2b2-live/bts/chunklist.m3u8
 https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1747663115-5-5-c33c3ae82b2bce3f971893bbb3fffdec&aliyun_uuid=e423247e-34a2-4fa3-b8d5-4b060bc476f9
-
 #EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="CHANNEL | HK/TAIWAN",DALI TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-
 #EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="CHANNEL | HK/TAIWAN",SUPREME MASTER TV 
 https://lbs-us1.suprememastertv.com/720p.m3u8
-
 #EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="CHANNEL | HK/TAIWAN",WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-
 #EXTINF:-1 group-title="CHANNEL | HK/TAIWAN",NEWS TAIWAN
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
-
-
-
-
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",(大街)三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",(大街)鳳凰資訊
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",(大街)緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title=CHANNEL | HK/TAIWAN",(大街)49號
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",人間衛視 
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="CHANNEL | HK/TAIWAN",東森美洲 
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8 
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chc-action-cn.png",CHC ACTION MOVIES
+http://69.30.245.50/live/chcdz.m3u8
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chc-home-theater-cn.png",CHC HOME THEATER
+http://69.30.245.50/live/chcjt.m3u8
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chc-fan-movies-cn.png",CHC FAN MOVIES
+http://69.30.245.50/live/chchd.m3u8
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://i.postimg.cc/50wMy1WN/ezgif-4735e3cd5608a8.png",LTV ASIA
+https://cdn.qd.je/163189.php?id=lhdy
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://i.postimg.cc/jd3BsCn4/ezgif-43b2379c01036f.png",LTV CLASSIC
+https://cdn.qd.je/163189.php?id=lhjd
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://i.postimg.cc/zGVrFn8y/ezgif-5eb251647a846b17.png",LTV ANIMATION
+https://cdn.qd.je/163189.php?id=lhkt
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://i.postimg.cc/C5PrL65x/ezgif-468afc6e0a817f.png",LTV IDOL
+https://cdn.qd.je/163189.php?id=lhox
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://i.postimg.cc/RFfCQw1V/ezgif-577111a11bd498b7.png",LTV JAPAN KOREA
+https://cdn.qd.je/163189.php?id=lhrh
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://i.postimg.cc/5N9XC99r/ezgif-42aafcb5e02f98.png",LTV DRAMA
+https://cdn.qd.je/163189.php?id=lhxj
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://i.postimg.cc/8cpzMwGv/ezgif-496f658d6a8d21.png",LTV MOVIES
+https://cdn.qd.je/163189.php?id=lhyp
+#EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-logo="https://i.postimg.cc/gj9PqZ5Y/ezgif-8f2c1abf06b08a7b.png",ELTA LIFESTYLE TRAVEL
+http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8
 
 
 
@@ -2180,17 +2199,9 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="CHANNEL | SINGAPORE",Oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mediacorp_flat_logo_%282015%29.svg" group-title="CHANNEL | SINGAPORE",Mediacorp Entertainment Chinese (Singapore)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8?ads.vf=5mohxYauw_q
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mediacorp_flat_logo_%282015%29.svg" group-title="CHANNEL | SINGAPORE", Mediacorp Entertainment - English (Singapore)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8?ads.vf=g48qoh_qHLS
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mediacorp_flat_logo_%282015%29.svg" group-title="CHANNEL | SINGAPORE", Mediacorp Entertainment - Tamil (Singapore)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8?ads.vf=7NuondEN9pK
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mediacorp_flat_logo_%282015%29.svg" group-title="CHANNEL | SINGAPORE",Mediacorp Entertainment Chinese (Singapore)
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mediacorp_flat_logo_%282015%29.svg" group-title="CHANNEL | SINGAPORE", Mediacorp Entertainment - English (Singapore)
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mediacorp_flat_logo_%282015%29.svg" group-title="CHANNEL | SINGAPORE", Mediacorp Entertainment - Tamil (Singapore)
 
 
 ===================
