@@ -10944,9 +10944,9 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <====================LIVE EVENT 1===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 3/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:30 WIB Indonesia vs Vietnam
+EXTINF:-1 group-title="EVENT 3/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:30 WIB Indonesia vs Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel15.m3u8
@@ -11162,42 +11162,6 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20
 
 
 
-========================================== VOD KOREA TEST ===========================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD DRAMA KOREA
-
-#EXTM3U
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 1
-https://pixeldrain.com/api/file/mL9Piobo?download
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 2
-https://pixeldrain.com/api/file/E1yQ5xx6?download
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 3
-https://pixeldrain.com/api/file/fBoG3SoN?download
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 4
-https://pixeldrain.com/api/file/8MYepqxP?download
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 5
-https://pixeldrain.com/api/file/9exBB1JQ?download
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 6
-https://pixeldrain.com/api/file/VF27wE9L?download
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 7
-https://pixeldrain.com/api/file/tRd4sbup?download
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 8
-https://pixeldrain.com/api/file/4R5Pd5mg?download
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 9
-https://pixeldrain.com/api/file/LWKqqPd8?download
-#EXTINF:-1 tvg-id="auto.agent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | DRAKOR ",Agent Kim Reactivated-SEASON 1 EPS 10
-https://pixeldrain.com/api/file/McA2BCsQ?download
-
-=========================
-
-#EXTINF:-1 tvg-id="auto.ashop" tvg-logo="https://filmfare.wwmindia.com/photogallery/2024/jan/ashopforkillers91705480891.jpg" group-title=" VOD | DRAKOR ",A SHOP FOR KILLERS -SEASON 2 EPS 1
-https://pixeldrain.com/api/file/kWHvp5ae?download
-#EXTINF:-1 tvg-id="auto.ashop" tvg-logo="https://filmfare.wwmindia.com/photogallery/2024/jan/ashopforkillers91705480891.jpg" group-title=" VOD | DRAKOR ",A SHOP FOR KILLERS -SEASON 2 EPS 2
-https://pixeldrain.com/api/file/71jAMTk5?download
-#EXTINF:-1 tvg-id="auto.ashop" tvg-logo="https://filmfare.wwmindia.com/photogallery/2024/jan/ashopforkillers91705480891.jpg" group-title=" VOD | DRAKOR ",A SHOP FOR KILLERS -SEASON 2 EPS 3
-https://pixeldrain.com/api/file/wJZkiHur?download
-#EXTINF:-1 tvg-id="auto.ashop" tvg-logo="https://filmfare.wwmindia.com/photogallery/2024/jan/ashopforkillers91705480891.jpg" group-title=" VOD | DRAKOR ",A SHOP FOR KILLERS -SEASON 2 EPS 4
-https://pixeldrain.com/api/file/hd5FBv3s?download
-
 
 
 ========================================== VOD INDONESIA ===========================================
@@ -11258,13 +11222,32 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/CARRY%
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PANDA%20PLAN_%20THE%20MAGICAL%20TRIBE%20(2026).m3u8
 #EXTINF:-1 tvg-id="srloh" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQxZmEzMzYtODM5MC00NTFhLTk4NTItMmNmNDhiNTMxMGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",STORM RIDER: LEGEND OF HAMMERHEAD (2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/STORM%20RIDER_%20LEGEND%20OF%20HAMMERHEAD%20(2026).m3u8
+#EXTINF:-1 tvg-id="auto.thedakota" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDqhy8tKVhCtHfJeM3GV2jn8qQOMrJaKBngNxg1Y44A&s=10" group-title="VOD | ACTION MOVIE",THE DAKOTA WAR: CHASE
+https://pixeldrain.com/api/file/X7g3HcoP?download
+
+
+
+#EXTINF:-1 tvg-id="auto.theywhill" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/00/They_Will_Kill_You_film_poster.jpg" group-title="VOD | ACTION MOVIE",THEY WILL KILL YOU
+
+https://pixeldrain.com/api/file/mL9Piobo?download
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TSS" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/9f250021-aa61-360b-9af3-76656acb6d38.jpeg" group-title="VOD | ACTION MOVIE",THE SUICIDE SQUAD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f93d3fdd-a525-418d-8d0a-1177b50c6225&sub=t23
 
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/12/2d077460-3a16-30eb-a911-f372f13e6604.jpeg" group-title="VOD | ACTION MOVIE",SUPERMAN RETURNS
+EXTINF:-1 tvg-id="SS" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/12/2d077460-3a16-30eb-a911-f372f13e6604.jpeg" group-title="VOD | ACTION MOVIE",SUPERMAN RETURNS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=593f91d3-e760-49e2-874f-5be5161663d3&sub=t2
@@ -11308,7 +11291,8 @@ https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/05/11383/ilpklu7adqto_h/index-v1-a
 ##EXTINF:-1 tvg-id="smc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaeSiI7Y2Tp7tcX9YRwIwiVbxlaWEHw1ASKsV-RXW5A&s=10" group-title="VOD | ACTION MOVIE ",SNAKE 5: MONSTER CITY
 ##EXTINF:-1 tvg-id="mxcl" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcyNmIwY2UtZTUzNC00Zjk0LWIzNTAtMmNiYWQ1NWIzNzk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",MEXICALI
 ##EXTINF:-1 tvg-id="wm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgxgmX1qHmfTLd6q3nMwixlbw8StcPUF9mvClm6xPzBDszK8UE1h3VxP_&s=10" group-title="VOD | ACTION MOVIE",WAR MACHINE
-##EXTINF:-1 tvg-id="tdwc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDqhy8tKVhCtHfJeM3GV2jn8qQOMrJaKBngNxg1Y44A&s=10" group-title="VOD | ACTION MOVIE",THE DAKOTA WAR: CHASE
+
+
 ##EXTINF:-1 tvg-id="prst" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUlnr-FctrJdqew9rxfD796purmMeECC3bks4v8E9DA&s" group-title="VOD | ACTION MOVIE",PARASAKTHI
 ##EXTINF:-1 tvg-id="dtr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_w7DLMuzAn8otLc025_i1f0R0rkx8nN9YOcU5ViH_ww&s=10" group-title="VOD | ACTION MOVIE",DHURANDHAR: THE REVENGE (2026)
 ##EXTINF:-1 tvg-id="nwbfsn" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY1NDJjZWYtMGI5MC00OTU0LThkZTEtNjEzODkyMDI5YTFhXkEyXkFqcGc@._V1_.jpg" group-title="VOD | ACTION MOVIE",NINJA WARS - BLACK FOX VS SHOGUN'S NINJA
