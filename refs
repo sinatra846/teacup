@@ -1364,7 +1364,7 @@ https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1786008064&s=19ebb7914442ba5632753ec05a83f78079a3f54766ae4fe23202414e79bfab4f
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1786016144&s=ba892522f2b15b2b1e250793ac4acde2a856103b124a2121f44f38d037f6204b
 
 EXTINF:-1 tvg-id="RCTI.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true",RCTI (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1411,7 +1411,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true", INDOSIAR (IH)
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR (VD)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR (1)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -1419,11 +1419,19 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",Indosiar (VD2)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",Indosiar (2)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1785850273&s=824b5d8dd719d739a75e3705502e38bea1a9f7fa44761c6c95a2cd835df4c8b9
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786016144&s=bc3398a121e262679b60a757aa180243041a7e6a71c0f0592c7d4fb6176c676b
+
+
+
+
+
+
+
+
 
 EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
