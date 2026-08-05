@@ -10985,6 +10985,14 @@ http://193.47.62.191/hls/RRRRAA.m3u8
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel16.m3u8
 
+#EXTINF:-1 tvg-expire="1785942000" tvg-start="1785924000" tvg-uid="d79b6b503948e5fb85c50202e898d7b8" data-source="Live Event Seru" tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" group-title="EVENT 05/AGUSTUS/2026",[🔴 LIVE 17:00 WIB] [International Club Friendly] AC Milan vs Inter Milan [HD]
+#EXTVLCOPT:http-referrer=https://www.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://www.livenobarseru.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://livenesa.b-cdn.net/live/sd-6Mwe5HavzPZ3nxe2FX/index.m3u8
+
+
+
 =================
 
 #EXTINF:-1 group-title="EVENT 05/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:30 WIB Chelsea vs Juventus
@@ -10994,13 +11002,6 @@ https://live2.streambylivepulse.com/live/channel16.m3u8
 http://193.47.62.193/hls/RRRRAAAA.m3u8
 
 #EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01:30 WIB Arsenal vs Real Betis
-
-
-
-
-
-
-
 
 EXTINF:-1 group-title="EVENT 04/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Myanmar vs Laos
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
