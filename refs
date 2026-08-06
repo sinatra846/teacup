@@ -1351,6 +1351,10 @@ EXTINF:-1 tvg-id="SCTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https:
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
+#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://images.indihometv.com/logo_sctv_ver2.png" group-title="📺 Nasional",SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ https://beetv.my.id/stream/vd.m3u8?ch=sct
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
