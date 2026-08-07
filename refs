@@ -1422,7 +1422,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786184903&s=7fe98b0bc26586297a2618a2da7ad917c346e8253ca12730897edb537241ea80
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786195687&s=cef0dd66d5560f8e62c871bfef97a4b816551f308b1a3ab41ee612aa16376f4e
 
 EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",Indosiar (2)
 http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts
@@ -2260,10 +2260,6 @@ https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 #EXTINF:-1 channel-id="5c665db3e6c01b72c4977bc2" tvg-id="5c665db3e6c01b72c4977bc2" tvg-chno="250" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="CHANNEL | PLUTO TV",Pluto TV Cult Films
 https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
-
-
-
-
 
 
 ===================================== CHANNEL | RELIGI ==========================================================
