@@ -1423,7 +1423,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786178631&s=2bb924a64c19e24e5ccaeb73e787352e2b50177247c662bed923ab217ea40f9f
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786184903&s=7fe98b0bc26586297a2618a2da7ad917c346e8253ca12730897edb537241ea80
 
 EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",Indosiar (2)
 http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts
