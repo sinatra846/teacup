@@ -10949,8 +10949,13 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 #EXTINF:-1 group-title="EVENT 07/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 09:00 WIB Victor Korea Masters 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel64.m3u8
 
-=================
+======SEAVLEAGUE===========
 
+#EXTINF:-1 tvg-uid="196bfc67ee8538a5ca387957de3f4eae" data-source="VolleyballChuoiChien" tvg-logo="https://media.chuoichientv.net/media/uploads/20250708_205811_d1efe47d.png" group-title="LIVE EVENT | VOLI 🏐",[🔴 LIVE 13:00 WIB] [Bóng Chuyền SEA V.LEAGUE] Indonesia W vs Vietnam W (FHD1 - Camry)
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8
 
 
 
