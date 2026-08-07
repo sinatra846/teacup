@@ -1377,7 +1377,7 @@ EXTINF:-1 tvg-id="RCTI.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https:
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", GTV (AF)
+EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", GTV (AF)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -1405,7 +1405,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
-#EXTINF:-1 tvg-id="MDTV.id@HD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true",MDTV (AF)
+EXTINF:-1 tvg-id="MDTV.id@HD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true",MDTV (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1423,11 +1423,14 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",Indosiar (2)
+EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",Indosiar (2)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786023378&s=b7d4136a35b1b09c4a5d0b54d6f2d42e08aac07c3381064202a6887a65e0b72b
+
+#EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOA1ll2ZY1xe2W8P4YvPUVhmLQHrxTQEaiBgGkBnDhKTsO-39ewCeLXWzBIpuOlRoWZfCaWcA5uEipVe0SZBmnnruXplwj1dHjSW4-MXwAe64JoypQicAAd9h2hq_KxDsw.png" group-title="CHANNEL | INDONESIA",Indosiar (2)
+http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts
 
 EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1499,7 +1502,7 @@ https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7838&type=drm
 https://tvratu.my.id/vid/index.mpd?id=783&type=dash
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/METRO.1.png?raw=true" group-title="CHANNEL | INDONESIA", METRO TV (AF)
+EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/METRO.1.png?raw=true" group-title="CHANNEL | INDONESIA", METRO TV (AF)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -1518,6 +1521,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index
 #EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/KOMPAS.1.png?raw=true",Kompas TV (IH)
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="Kompas TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/KOMPAS.1.png?raw=true" group-title="CHANNEL | INDONESIA",Kompas TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
+
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RTV.1.png?raw=true",RTV (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
@@ -1531,7 +1538,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayasd-1.dens.tv/h/h201/stream.m3u8?app_type=web&userid=lite&chname=BTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8?app_type=web&userid=lite&chname=BTV
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -10937,13 +10944,12 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 19:30 WIB Persebaya - Persib 
+EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 19:30 WIB Persebaya - Persib 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel27.m3u8
 
-
-#EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOA1ll2ZY1xe2W8P4YvPUVhmLQHrxTQEaiBgGkBnDhKTsO-39ewCeLXWzBIpuOlRoWZfCaWcA5uEipVe0SZBmnnruXplwj1dHjSW4-MXwAe64JoypQicAAd9h2hq_KxDsw.png" group-title="EVENT 06/AGUSTUS/2026",15:30 WIB Persija Jakarta - Arema FC (1)
+EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOA1ll2ZY1xe2W8P4YvPUVhmLQHrxTQEaiBgGkBnDhKTsO-39ewCeLXWzBIpuOlRoWZfCaWcA5uEipVe0SZBmnnruXplwj1dHjSW4-MXwAe64JoypQicAAd9h2hq_KxDsw.png" group-title="EVENT 06/AGUSTUS/2026",15:30 WIB Persija Jakarta - Arema FC (1)
 http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts
 #EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOA1ll2ZY1xe2W8P4YvPUVhmLQHrxTQEaiBgGkBnDhKTsO-39ewCeLXWzBIpuOlRoWZfCaWcA5uEipVe0SZBmnnruXplwj1dHjSW4-MXwAe64JoypQicAAd9h2hq_KxDsw.png" group-title="EVENT 06/AGUSTUS/2026",15:30 WIB Persija Jakarta - Arema FC (2)
 http://rjcf.ofztvxv.top:8080/live/vip4111774539023/b2cd7c34176f/34327.ts
