@@ -10867,7 +10867,8 @@ EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://www.srilankaspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel11.m3u8
-
+#EXTINF:-1 tvg-expire="1786198500" tvg-start="1786190400" tvg-uid="63b5e971d394be163be7607c65b1f155" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/chelsea/logo.webp" group-title="EVENT 08/AGUSTUS/2026",[🔴 LIVE] [19:00 WIB] [FRIENDLY] Chelsea - AC Milan [CH 1]
+https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=KD5zkBi77M50Kiee0s-0dg&expires=1786194970&ch=spch1&s=28ed51723cfb5bbfe23d8f26958ea3ef|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 
 #EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 19:00 WIB Chelsea vs Milan
