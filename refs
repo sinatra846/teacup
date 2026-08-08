@@ -1127,30 +1127,31 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 
-# === RCTI+ SECTION ===
-# Updated: 2026-08-07 07:17:12
+# === BAGIAN RCTI+ ===
+# Diperbarui: 2026-08-08 06:55:33
 
 #EXTINF:-1 tvg-id="RCTI" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786123031~hmac=b3245824bc9bc223a1af9658a88ddf40b80f6f1ba8531d9ac7674521921eb45d
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786208132~hmac=8dbade21c2631642115cbd81799f02cd726762a7a0f5bf690ebdcacc5bd3b861
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786123031~hmac=fc23aae31f77e94c2f3363ac3527c20d2b86e33d861c8f1ecb83bee818da2637
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786208132~hmac=86b9076ce41740b97eb41c0e0c7ea3eb940c7ac2af2ce8aad7052b57058b2c78
 
 #EXTINF:-1 tvg-id="GTV" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1786123032~hmac=8d3167acc142f6f83db24f4308bacadffd31c53d4497dddfafcb856ab1b5b889
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1786208132~hmac=b624834cc86b47a22451c6f9595d3a8aa963674d7fa94a31c0bf860ca5f41577
 
 #EXTINF:-1 tvg-id="iNews" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786123032~hmac=42c8b309a950c31b6b5086a1f7f1ed3b80204919269a5872ae324badb0383f55
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786208132~hmac=892c3bc7542038bac2feaf956bf26ef240ad31f985a5fa7a25f78a0ba104b0e6
 
-# === END RCTI+ SECTION ===
+# === AKHIR BAGIAN RCTI+ ===
+
 
 ===================================================>
 
