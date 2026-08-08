@@ -1330,7 +1330,7 @@ https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1786259976&s=340afa88f3a82e89637819d396cb53f577dce05a61c6c100b843048d560cdc83
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1786277416&s=a2adc0f0d1ea25421e8ecbc80fe1f21c05d0d8fef9fb2d910c058fa8e898b3ac
 
 EXTINF:-1 tvg-id="RCTI.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true",RCTI (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
