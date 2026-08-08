@@ -10863,13 +10863,6 @@ http://193.47.62.192/hls/ijjjaaa.m3u8
 https://dz5.bhalocast.pro:7059/hls/spch42.m3u8?md5=JQ-mDZZERq5NcCBvI11L2A&expires=1786194981&ch=spch42&s=bfd511471f065c1ea6cc952342c34fc3|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 19:00 WIB Chelsea vs Milan
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10917,10 +10910,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 <================>
 
 
-#EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 09:00 WIB Victor Korea Masters 2026
+EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 09:00 WIB Victor Korea Masters 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4283233595776061_AiSD.m3u8?txSecret=782d799165dabd0db837a4988d86eb85&txTime=6A77A6E0
 
-#EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 09:00 WIB Victor Korea Masters 2026
+EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 09:00 WIB Victor Korea Masters 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8
 
 
@@ -10936,74 +10929,6 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 
 
-==============================
-
-
-EXTINF:-1 group-title="EVENT 07/AGUSTUS/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 17:40 WIB MotoGP Free Practice 1: Qatar Airways Grand Prix of Great Britain - MotoGP 2026 Round 12
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-EXTINF:-1 group-title="EVENT 07/AGUSTUS/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 21:55 WIB MotoGP Practice: Qatar Airways Grand Prix of Great Britain - MotoGP 2026 Round 12
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-EXTINF:-1 group-title="EVENT 07/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 19:00 WIB Bayern München vs Aston Villa
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-EXTINF:-1 group-title="EVENT 07/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Singapura vs Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel6.m3u8
-
-EXTINF:-1 group-title="EVENT 07/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Vietnam vs Kamboja
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live1.streambylivepulse.com/live/channel1.m3u8?wsSecret=ceae353f11252e0da6b8b0f684fe9adf&wsABSTime=1786129609
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-EXTINF:-1 group-title="EVENT 07/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Vietnam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://tfy80gr3uomttgr31hct1gczdkc3pptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel62/playlist.m3u8?wsSecret=563a39f462171fe8d2ca0097f30f0d20&wsABSTime=1786123969&wsSession=5d9fb414ade5308c36a159a0-178608077722800&wsIPSercert=68531b3b351ff8607113f4382f752b78&wsBindIP=2&wsserid=19560480166232784
-
-EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 19:30 WIB Persebaya - Persib 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel27.m3u8
-
-EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOA1ll2ZY1xe2W8P4YvPUVhmLQHrxTQEaiBgGkBnDhKTsO-39ewCeLXWzBIpuOlRoWZfCaWcA5uEipVe0SZBmnnruXplwj1dHjSW4-MXwAe64JoypQicAAd9h2hq_KxDsw.png" group-title="EVENT 06/AGUSTUS/2026",15:30 WIB Persija Jakarta - Arema FC (1)
-http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts
-EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOA1ll2ZY1xe2W8P4YvPUVhmLQHrxTQEaiBgGkBnDhKTsO-39ewCeLXWzBIpuOlRoWZfCaWcA5uEipVe0SZBmnnruXplwj1dHjSW4-MXwAe64JoypQicAAd9h2hq_KxDsw.png" group-title="EVENT 06/AGUSTUS/2026",15:30 WIB Persija Jakarta - Arema FC (2)
-http://rjcf.ofztvxv.top:8080/live/vip4111774539023/b2cd7c34176f/34327.ts
-
-EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 19:30 WIB Persebaya - Persib (2)
-https://live3.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001786020539-0-0-42ae815cae9c09c55afbfc42dee870ea
-
-===================
 
 
 EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 07:00 WIB Victor Korea Masters 2026
@@ -11016,46 +10941,11 @@ EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.g
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel64.m3u8
 
 
-=================
-
-EXTINF:-1 group-title="EVENT 05/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:30 WIB Chelsea vs Juventus
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://193.47.62.193/hls/RRRRAAAA.m3u8
-
-EXTINF:-1 tvg-expire="1785947400" tvg-start="1785929400" tvg-uid="303b8bf6005b20a4784e30e0d8130b02" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/chelsea/logo.webp" group-title="EVENT 05/AGUSTUS/2026",[🔴 LIVE] [18:30 WIB] [FRIENDLY] Chelsea - Juventus [CH 1]
-https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=0PjVNwVtXtvaeN6EMT-v3A&expires=1785934274&ch=spch1&s=58a0dd68a8c4b39da67c113bb813182b|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-EXTINF:-1 group-title="EVENT 04/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Myanmar vs Laos
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel1.m3u8
-
-EXTINF:-1 group-title="EVENT 04/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Filipina vs Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel1.m3u8
-
-========aff==========
-
-EXTINF:-1 group-title="EVENT 1/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Laos vs Filipina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel1.m3u8
-
-====liga inggris=========
-
-EXTINF:-1 group-title="EVENT 30/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 06.30 WIB Liverpool vs Wrexham 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel5.m3u8
 
 
 <====================LIVE EVENT 2================================
 EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01:30 WIB Arsenal vs Real Betis
 
 
 
