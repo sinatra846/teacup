@@ -10806,16 +10806,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 13:00 WiB Vietnam vs Philippines 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
-
-#EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 16:30 WiB Thailand vs Indonesia 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
-
 #EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 17:45 WIB MotoGP Qualifying: Qatar Airways Grand Prix of Great Britain - MotoGP 2026 Round 12
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -10840,27 +10830,6 @@ https://live2.streambylivepulse.com/live/channel1.m3u8
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel15.flv
 
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Juventus vs Internazionale
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://193.47.62.191/hls/GGGG.m3u8
-
-#EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Juventus vs Internazionale
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8
-
-==========CHELSEA MILAN============
-
-
-#EXTINF:-1 tvg-uid="63b5e971d394be163be7607c65b1f155" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/chelsea/logo.webp" group-title="EVENT 08/AGUSTUS/2026",[🔴 LIVE] [19:00 WIB] [FRIENDLY] Chelsea - AC Milan [CH 1]
-https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=Yv6H1fQYLzoqU_Tn-YgCOQ&expires=1786200676&ch=spch1&s=fcb5d4d4aa8d62b0903bc26b14a0099d|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-uid="1d7e7cb12b21be97950a6ca4bee17e49" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/chelsea/logo.webp" group-title="EVENT 08/AGUSTUS/2026",[🔴 LIVE] [19:00 WIB] [FRIENDLY] Chelsea - AC Milan [CH 2]
-https://dz5.bhalocast.pro:7059/hls/spch79.m3u8?md5=qxTmBoGP0f_br-Mr75lIjw&expires=1786200679&ch=spch79&s=fbfe8e86c4e314c701c2255da9a26eaf|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-
 
 ========BAYER LEVERKUSEN==============
 
@@ -10874,11 +10843,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1
 
 ========TOTTENHAM==============
 
-
-
-#EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Tottenham Hotspur vs Getafe
-
-#EXTINF:-1 tvg-expire="1786205700" tvg-start="1786197600" tvg-uid="0d854579ca3946fd17dd4dfee39ebadb" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tottenham%20vs%20Getafe.jpg" group-title="EVENT 08/AGUSTUS/2026", [🔴 LIVE 21:00 WIB - 08/08/2026] [Friendlies Clubs] Tottenham vs. Getafe
+#EXTINF:-1 tvg-expire="1786205700" tvg-start="1786197600" tvg-uid="0d854579ca3946fd17dd4dfee39ebadb" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tottenham%20vs%20Getafe.jpg" group-title="EVENT 08/AGUSTUS/2026",Tottenham vs. Getafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a565694d06bfc5094e143b9-hd/chunks.m3u8?is_vip=false&token=1786283250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f054cec5e4fbeb879843e6b95deb957
@@ -10889,7 +10854,7 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a565694d06bfc5094e143b9-hd/
 
 
 
-#EXTINF:-1 tvg-uid="40f00068a8dee2fd7d9d8ef86e6b4fdd" data-source="LiveTVluar" tvg-chno="262" tvg-id="SkySportPremierLeague.DE" tvg-name="Sky Sport Premier League" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="EVENT 08/AGUSTUS/2026",Sky Sport Premier League
+#EXTINF:-1 tvg-uid="40f00068a8dee2fd7d9d8ef86e6b4fdd" data-source="LiveTVluar" tvg-chno="262" tvg-id="SkySportPremierLeague.DE" tvg-name="Sky Sport Premier League" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="EVENT 08/AGUSTUS/2026",West Ham vs Portsmouth
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -10931,26 +10896,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 
 
 <================>
-
-
-EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 09:00 WIB Victor Korea Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4283233595776061_AiSD.m3u8?txSecret=782d799165dabd0db837a4988d86eb85&txTime=6A77A6E0
-
-EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 09:00 WIB Victor Korea Masters 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
