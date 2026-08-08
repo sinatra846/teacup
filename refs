@@ -1591,7 +1591,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTARA%20TV.png?raw=true" group-title="CHANNEL | INDONESIA",ANTARA TV
+#EXTINF:-1 tvg-id="AntaraTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTARA%20TV.png?raw=true",Antara TV
+https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-3277707030000000.mpd
+
 EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071314.png?raw=true", BN CHANNEL
 
 EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BLOOMBERG.1.png?raw=true" group-title="CHANNEL | INDONESIA",Bloomberg
