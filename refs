@@ -10853,6 +10853,10 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a565694d06bfc5094e143b9-hd/
 ========WEST HAM==============
 
 
+#EXTINF:-1 tvg-expire="1786205700" tvg-start="1786197600" tvg-uid="57d63daba63752187a9e0519566c5509" data-source="Live event 90sport" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/6mcsjnry8qy52t.png" group-title="EVENT 08/AGUSTUS/2026" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90-sport.com/",[LIVE] English Carabao Cup | (21.00 WIB) West Ham United vs Portsmouth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://90-sport.com/
+https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a57a7e015d865a011b78714-hd%2Findex.m3u8&client_id=cts&uid=dw139i46&is_vip=true&verify=1786197600-cLj36MkqL6vvZDKvx%2BI3lwqIOvjaGITA9d3YV8dhLQk%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90-sport.com/
 
 #EXTINF:-1 tvg-uid="40f00068a8dee2fd7d9d8ef86e6b4fdd" data-source="LiveTVluar" tvg-chno="262" tvg-id="SkySportPremierLeague.DE" tvg-name="Sky Sport Premier League" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="EVENT 08/AGUSTUS/2026",West Ham vs Portsmouth
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
