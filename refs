@@ -1984,8 +1984,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGl
 #EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-name="Astro Awani" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ASTRO%20AWANI.jpg?raw=true" group-title="CHANNEL | NEWS" ,ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-
-
 =========TAIWAN🇭🇰🇹🇼==============
 
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_HK.png?raw=true",CHANNEL | HK/TAIWAN
@@ -4960,10 +4958,241 @@ https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index
 
 
 
+//========================================================================
+//Collected by Maytoko2 menampilkan playlist >>> FRISTMEDIA
+//========================================================================
+
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_KNOWLEDGE.png?raw=true",CHANNEL | FIRSTMEDIA
 
 
 
+#EXTM3U
 
+#EXTINF:0 tvg-id="ChampionsGolf2HD" tvg-name="Champions Golf 2 HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/419.png" group-title="CHANNEL | FIRSTMEDIA",Champions Golf 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
+
+#EXTINF:0 tvg-id="ThrillHD" tvg-name="Thrill HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/426.png" group-title="CHANNEL | FIRSTMEDIA,Thrill HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=652fbcf861644b82845595b2a5e27930:74659e65360fcc00939d192e541328d4
+https://atemecdnbalancer-voe.sysln.id/live/eds/Thrill/mediampd/Thrill.mpd
+
+#EXTINF:0 tvg-id="ChampionsGolf1HD" tvg-name="Champions Golf 1 HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png" group-title="CHANNEL | FIRSTMEDIA",Champions Golf 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=c53012b08edf478187064665dde647cb:5390bb924b102d566b9e59afbdc08fab
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
+
+#EXTINF:0 tvg-id="TheIndonesiaChannelHD" tvg-name="The Indonesia Channel HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/427.png" group-title="CHANNEL | FIRSTMEDIA",The Indonesia Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=ee710916af2548d1b91d02a5d9cbc436:a16ebdfabe2bc6d7294fe5849abb2b4a
+https://atemecdnbalancer-voe.sysln.id/live/eds/TheIndonesianChannelHD/mediampd/TheIndonesianChannelHD.mpd
+
+#EXTINF:0 tvg-id="SINPOTVHD" tvg-name="SIN PO TV HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/417.png" group-title="CHANNEL | FIRSTMEDIA",SIN PO TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
+https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
+
+#EXTINF:0 tvg-id="BBCNEWSHD" tvg-name="BBC NEWS HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/424.png" group-title="CHANNEL | FIRSTMEDIA",BBC NEWS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=3e945d5e5407487d9aeeae91b8fd0b6e:f7f78a2d4bd19fc7be1ffb6be1d98a3c
+https://atemecdnbalancer-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
+
+#EXTINF:0 tvg-id="BlippiandFriendsHD" tvg-name="Blippi and Friends HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/422.png" group-title="CHANNEL | FIRSTMEDIA",Blippi and Friends HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=30cb6b1511584d05bba9bec48d694699:35d3f84be1e4d8148dfab38e17fe7c06
+https://atemecdnbalancer-voe.sysln.id/live/eds/BlippiandFriendsHD/mediampd/BlippiandFriendsHD.mpd
+
+#EXTINF:0 tvg-id="CNNIndonesiaHD" tvg-name="CNN Indonesia HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/405.png" group-title="CHANNEL | FIRSTMEDIA",CNN Indonesia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=5af79fbb6d3d4a01ae7dfe8c9c8b54d6:4211c75cbb9c340fa3987c5b731537bd
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIndonesiaHD/mediampd/CNNIndonesiaHD.mpd
+
+#EXTINF:0 tvg-id="TVParlemen" tvg-name="TV Parlemen" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/410.png" group-title="CHANNEL | FIRSTMEDIA",TV Parlemen
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=d401d448059e43ab80b8d0781419abfc:b9de5d0d1c3d472b7d9cc4e2d1312fd4
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVParlemen/mediampd/TVParlemen.mpd
+
+#EXTINF:0 tvg-id="HitsMoviesHD" tvg-name="Hits Movies HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/98.png" group-title="CHANNEL | FIRSTMEDIA",Hits Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=8ceb920a30423b029177ea99c31c2e3e:0d210c4a6971df7ed9e835eddea5a996
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/newmpd/HitsMoviesHD.mpd
+
+#EXTINF:0 tvg-id="ZBioskop" tvg-name="Zee Bioskop" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/188.png" group-title="CHANNEL | FIRSTMEDIA",Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=bdca519d28b436e689337d9ca8ea7aaf:8231647f4b55ba5bd6c489f5d51acb94
+https://atemecdnbalancer-voe.sysln.id/live/eds/ZeeBioskop/newmpd/ZeeBioskop.mpd
+
+#EXTINF:0 tvg-id="CNBCIndonesiaHD" tvg-name="CNBC Indonesia HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/407.png" group-title="CHANNEL | FIRSTMEDIA",CNBC Indonesia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=932a44e2e38449748e4b061d6c44c08a:71cd900e707df67d7df0c259ffa18963
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNBCIndonesiaHD/mediampd/CNBCIndonesiaHD.mpd
+
+#EXTINF:0 tvg-id="FH" tvg-name="First Highlights" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/27.png" group-title="CHANNEL | FIRSTMEDIA",First Highlights
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=a885301cc764406fb897bd2b2738e97d:eb3d733397cab652cfe62788ee6939e1
+https://atemecdnbalancer-voe.sysln.id/live/eds/firsthighlight/mediampd/firsthighlight.mpd
+
+#EXTINF:0 tvg-id="FirstFaithHD" tvg-name="First Faith HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/333.png" group-title="CHANNEL | FIRSTMEDIA",First Faith HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=21bdf8df30a64ab8b3f5f6ab4e419607:e0610e6769fe05683474b17cbe9a031b
+https://atemecdnbalancer-voe.sysln.id/live/eds/FirstFaithHD/mediampd/FirstFaithHD.mpd
+
+#EXTINF:0 tvg-id="Kairos" tvg-name="Kairos" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/151.png" group-title="CHANNEL | FIRSTMEDIA",Kairos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
+https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mediampd/Kairos.mpd
+
+#EXTINF:0 tvg-id="Dragon" tvg-name="Dragon TV" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/153.png" group-title="CHANNEL | FIRSTMEDIA",Dragon TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
+https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
+
+#EXTINF:0 tvg-id="RockActionHD" tvg-name="ROCK Action HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/169.png" group-title="CHANNEL | FIRSTMEDIA",ROCK Action HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=054c2e404e06370bb728e8996b59cb12:6df130e1d02c0beaea744830fab04504
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/newmpd/RockExtremeHD.mpd
+
+#EXTINF:0 tvg-id="tvNHD" tvg-name="tvN HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/26.png" group-title="CHANNEL | FIRSTMEDIA",tvN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=ae192476463136b1881b6b268f50ee1f:4808aebcc73e085db020ee37fb015d03
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/newmpd/TvNHD.mpd
+
+#EXTINF:0 tvg-id="Anhui" tvg-name="Anhui TV" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/251.png" group-title="CHANNEL | FIRSTMEDIA",Anhui TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnhuiTV/mediampd/AnhuiTV.mpd
+
+#EXTINF:0 tvg-id="MOJI" tvg-name="MOJI" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/82.png" group-title="CHANNEL | FIRSTMEDIA",MOJI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=b96f2ca8bfbd3c6fb6369ae705d49750:5b47ad9ecb30c5a483b8dbb545709f52
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/newmpd/MOJIOChannel.mpd
+
+#EXTINF:0 tvg-id="Jiangsu" tvg-name="Jiangsu TV" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/245.png" group-title="CHANNEL | FIRSTMEDIA",Jiangsu TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
+https://atemecdnbalancer-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd
+
+#EXTINF:0 tvg-id="Hunan" tvg-name="Hunan TV" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/294.png" group-title="CHANNEL | FIRSTMEDIA",Hunan TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
+https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mpdnew/HunanTV.mpd
+
+#EXTINF:0 tvg-id="ZhejiangTV" tvg-name="Zhejiang TV" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/289.png" group-title="CHANNEL | FIRSTMEDIA",Zhejiang TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
+https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mpd
+
+#EXTINF:0 tvg-id="CitraEntertainmentHD" tvg-name="Citra Entertainment HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/307.png" group-title="CHANNEL | FIRSTMEDIA",Citra Entertainment HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
+
+#EXTINF:0 tvg-id="ShenzenTV" tvg-name="Shenzen TV" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/272.png" group-title="CHANNEL | FIRSTMEDIA",Shenzen TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
+https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd
+
+#EXTINF:0 tvg-id="SCTVHD" tvg-name="SCTV HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/290.png" group-title="CHANNEL | FIRSTMEDIA",SCTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=80f063b13dd3301096aecb7903ed4a29:af95b28f5233690d3b4e6c03f5079d07
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/newmpd/SCTVHD.mpd
+
+#EXTINF:0 tvg-id="GMSHD" tvg-name="GMS Channel HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/167.png" group-title="CHANNEL | FIRSTMEDIA",GMS Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
+https://atemecdnbalancer-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mpd
+
+#EXTINF:0 tvg-id="JakTV" tvg-name="JAK TV" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/238.png" group-title="CHANNEL | FIRSTMEDIA",JAK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
+https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
+
+#EXTINF:0 tvg-id="FirstWarriors" tvg-name="First Warriors HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/300.png" group-title="CHANNEL | FIRSTMEDIA",First Warriors HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=77555ed22f924e4b98620319e1de3739:2876649ccd9840346084c565d25f8f6b
+https://atemecdnbalancer-voe.sysln.id/live/eds/FirstWarriorsHD/mediampd/FirstWarriorsHD.mpd
+
+#EXTINF:0 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/203.png" group-title="CHANNEL | FIRSTMEDIA",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=ae21f8dbfe264f7ca52245ac5db9191d:5c7d955344f05e32f3c0899a3baacfaf
+https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mediampd/TV9.mpd
+
+#EXTINF:0 tvg-id="JakartaGlobeNewsChannelHD" tvg-name="Jakarta Globe News Channel HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/270.png" group-title="CHANNEL | FIRSTMEDIA",Jakarta Globe News Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+
+#EXTINF:0 tvg-id="IndosiarHD" tvg-name="Indosiar HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/218.png" group-title="FIRSTMEDIA",Indosiar HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=22e3a990f63c3af6af82cb60176a66b5:d8f402e5bae4dbb9aef0b81bfdc9f679
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/newmpd/IndosiarHD.mpd
+
+#EXTINF:0 tvg-id="CitraMuslimHD" tvg-name="Citra Muslim HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/292.png" group-title="CHANNEL | FIRSTMEDIA",Citra Muslim HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpdnew/CitraMuslimHD.mpd
+
+#EXTINF:0 tvg-id="BloombergHD" tvg-name="Bloomberg HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/316.png" group-title="CHANNEL | FIRSTMEDIA",Bloomberg HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpdnew/BloombergHD.mpd
+
+#EXTINF:0 tvg-id="AXNHD" tvg-name="AXN HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/2.png" group-title="CHANNEL | FIRSTMEDIA",AXN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=5bd691f9687432178debe3cb0c530400:31061889874ca7178d3046c72ba39fe7
+https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/newmpd/AXNHD.mpd
+
+#EXTINF:0 tvg-id="TVOne" tvg-name="TVONE" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/143.png" group-title="CHANNEL | FIRSTMEDIA",TVONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=8b6ecd065f2f3fd5afe4010c8099072b:14c050c30215d9929a0b7b9574696cbc
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/newmpd/TvOne.mpd
+
+#EXTINF:0 tvg-id="LoveNatureHD" tvg-name="Love Nature HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/256.png" group-title="CHANNEL | FIRSTMEDIA",Love Nature HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=2b118654dc953ee08110095970ee88c0:26373297cfa39d35c447112eef9d2440
+https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/newmpd/LoveNatureHD.mpd
+
+#EXTINF:0 tvg-id="AnimalPlanetHD" tvg-name="Animal Planet HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/250.png" group-title="CHANNEL | FIRSTMEDIA",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 
 
 
