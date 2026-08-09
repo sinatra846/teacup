@@ -1001,9 +1001,7 @@
 
 
 #EXTM3U billed-msg=".", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
-  url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
-
-
+  url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24" https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
 
 # --- Timnas Indonesia ---
 
@@ -1261,51 +1259,39 @@ https://cdn.qd.je/163189.php?id=iqiyi
 
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_IND.png?raw=true",CHANNEL | INDONESIA
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV (DT)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV (1)
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV (AF)
+===========TRANSTV=================
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=6
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS TV (2)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-EXTINF:-1 tvg-id="Trans.TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",Trans TV (TESTING)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/dash/VHJhbnNUVg/manifest.mpd?signature=Yzg5NzViODZiNzg5ZjcwZWYwOWQwNWM5MGRiZTM2ZjE=&time=15233770705|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+===========TRANS7=================
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 HD (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (AF)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 (DT)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 (2)
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (TESTING)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjktbpid02.transvision.co.id/riutx01-932c82924f8bd65499f196478878e854/dash/VFJBTlM3LW15/manifest.mpd?signature=NzE2NmE5YWVhMmIzOWQ3NGFhODg5NzhmMjBmZjM5NDY=&time=15233771033|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (3)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", SCTV (IH)
 https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
