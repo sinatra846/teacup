@@ -10624,6 +10624,20 @@ https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=BtA7ChSXfQ91wvjCb26l_A&expires
 
 
 
+=======ARSENAL============
+
+#EXTINF:-1 tvg-expire="1786287600" tvg-start="1786280400" tvg-uid="48f01e0202479dcf12e7a1b828823ae9" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arsenal%20vs%20Borussia%20Dortmund.jpg" group-title="EVENT 09/AGUSTUS/2026", LIVE Arsenal vs. Borussia Dortmund
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787e6/chunks.m3u8?is_vip=false&token=1786367849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d885ee7541cba92e2c74a2f3e564002
+
+#EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Arsenal vs Boussia Dortmund
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+http://193.47.62.191/hls/HRRRAx.m3u8
+
+
 
 
 <================>
