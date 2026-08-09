@@ -10592,17 +10592,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-========MANCHESTER CITY============
-
-#EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Manchester City vs Atlético Madrid
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://193.47.62.191/hls/FAFAFAFAZZZZ.m3u8
-
-#EXTINF:-1 tvg-expire="1786291200" tvg-start="1786273200" tvg-uid="7c70666b8b9994d045b3ec13cea6f3b6" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/manchester-city/logo.webp" group-title="EVENT 09/AGUSTUS/2026", LIVE Manchester City - Atlético Madrid [CH 1]
-https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=AJLCj4d4fzMYLIaBRCjhKg&expires=1786277793&ch=spch40&s=4f888b1462e5dd195415fbcb6377fddb|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
 ========CHELSEA============
 
 #EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 19:00 WIB Johor Darul Ta'zim vs Chelsea
@@ -10623,7 +10612,8 @@ https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=BtA7ChSXfQ91wvjCb26l_A&expires
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 http://193.47.62.58/hls/JSSSSAA.m3u8
 
-
+#EXTINF:-1 tvg-expire="1786290300" tvg-start="1786282200" tvg-uid="f33b621e0e5c844b6eafea9988ed2bd9" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/liverpool/logo.webp" group-title="EVENT 09/AGUSTUS/2026",🔴 LIVE Liverpool - AS Monaco
+https://dz5.bhalocast.pro:7059/hls/spch5.m3u8?md5=9HszxDvFCbdGgESBfSj1rw&expires=1786286758&ch=spch5&s=13012fac9337f50f30057448c508c57a|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 
 =======ARSENAL============
