@@ -10363,6 +10363,25 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
+========MANCHESTER CITY============
+
+#EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Manchester City vs Atlético Madrid
+
+
+
+
+========CHELSEA============
+
+#EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 19:00 WIB Johor Darul Ta'zim vs Chelsea
+
+
+
+
+
+
+========LIVERPOOL============
+
+#EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Liverpool vs Monaco
 
 
 
@@ -10370,40 +10389,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 
 
-EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 21:30 WIB MotoGP Tissot SPRINT: Qatar Airways Grand Prix of Great Britain - MotoGP 2026 Round 12
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Malaysia vs Filipina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel1.m3u8
-
-EXTINF:-1 group-title="EVENT 08/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Thailand vs Myanmar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel15.flv
-
-
-========BAYER LEVERKUSEN==============
-
-
-
-========TOTTENHAM==============
-
-
-
-========WEST HAM==============
-
-
-
-========MANCHESTER UNITED==============
-
-
-<================>
 
 <================>
 
