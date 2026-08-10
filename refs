@@ -1305,9 +1305,9 @@ https://tv.canal86.my.id/emtekhd/stream.m3u8?id=734&type=hls&e=1786323784&s=4741
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1786343444&s=c8c3d57889dea902a5b5cf6d87d349e6542a470e2791abba3ecc8e33fc2b9374
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1786430391&s=9c3242eeb9b2d16e2de1769ad689db336b99591e5f824ee0af87984c99a482cf
 
-#EXTINF:0 tvg-id="SCTVHD" tvg-name="SCTV HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",SCTV (2)
+EXTINF:0 tvg-id="SCTVHD" tvg-name="SCTV HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",SCTV (2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=80f063b13dd3301096aecb7903ed4a29:af95b28f5233690d3b4e6c03f5079d07
@@ -1390,9 +1390,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786343444&s=90ad08b1e3aeae6d0ce5343dc1b0666f1c51eb73b77a72a6172a3571b32d1fed
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786430391&s=f9eb0dfbcf47b5dc8fb3f66c5b49d4760116783cfe231af23a7fecbb885b8fdca
 
-#EXTINF:0 tvg-id="IndosiarHD" tvg-name="Indosiar HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (2) 
+EXTINF:0 tvg-id="IndosiarHD" tvg-name="Indosiar HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (2) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=22e3a990f63c3af6af82cb60176a66b5:d8f402e5bae4dbb9aef0b81bfdc9f679
