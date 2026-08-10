@@ -1373,7 +1373,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786430391&s=f9eb0dfbcf47b5dc8fb3f66c5b49d4760116783cfe231af23a7fecbb885b8fdca
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786430391&s=f9eb0dfbcf47b5dc8fb3f66c5b49d4760116783cfe231af23a7fecbb885b8fdc
 
 EXTINF:0 tvg-id="IndosiarHD" tvg-name="Indosiar HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (2) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1403,7 +1403,7 @@ https://tvratu.my.id/vid/index.mpd?id=782&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=782&type=hls&e=1786339205&s=4a3b0a454134adfff2f14a8c0f21f59824a5e60e14d00d20a2b1f8fee161d460
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=782&type=hls&e=1786430391&s=d7b12a94cd45ba2bd8b4f81c493600c357c19430f908aa2c51ae604ded3c8ecc
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1427,7 +1427,7 @@ https://tvratu.my.id/vid/index.mpd?id=783&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=783&type=hls&e=1786339205&s=ff1e3bc40ccbdb7bd6fa8e4e682657dfa916e4d3bcc7b9251b73370a4eda52ad
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=783&type=hls&e=1786430391&s=9a61c6e35164ca7eb1fa42a4f1e9c67e56f563458edc0431ad7a8673c4e6b0a4Z
 
 EXTINF:-1 tvg-id="tvOne.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",TVOne (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1444,7 +1444,19 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=206&type=hls&e=1786339205&s=f2734ce45657cc33e6363ef58936f25c3f5b70afe04d5880710db8cdd00ef95d
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=206&type=hls&e=1786430391&s=94048f06f3a052a25862cb6859e007936394ff6db61d623494ac5b6dec343639
+
+
+
+
+
+
+
+
+
+
+
+
 
 EXTINF:-1 tvg-id="Moji.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true",MOJI (AF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1481,7 +1493,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=777&type=hls&e=1786339205&s=b075ab768f9ec8a657706401baeddf4f096d038e3f648457f2e117fb0562eeec
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=777&type=hls&e=1786430391&s=d62aa240bf8bda300b874282ca32710e55428b2a639f2faeaa64ee657189aa55
 
 EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/METRO.1.png?raw=true" group-title="CHANNEL | INDONESIA", METRO TV (AF)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
