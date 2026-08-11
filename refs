@@ -10568,6 +10568,19 @@ https://live2.streambylivepulse.com/live/channel12.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://ondemand.st/papi/tv/dlhd/910/playlist.m3u8?tk=bCQCSx8JD6s9GJ5bQY-C9w&e=1786485719
 
+#EXTINF:-1 tvg-uid="7c7030cf3dfda8570a5c4c2ff862b9af" data-source="DAMITV3" tvg-logo="https://static.assetstorage.net/assets/thumb/f5c7bbb555a089d72acb91aacc9a9b0c-thumbnail.jpg" group-title="EVENT 011/AGUSTUS/2026",[🔴 LIVE 17:00 WIB] [International Friendly] Juventus vs. Palermo (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-11/juv-pal/playlist.m3u8?tk=bCQCSx8JD6s9GJ5bQY-C9w&e=1786485719
+
+
+
+
+
+
+
+
 
 
 EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 16:30 WIB Thailand vs Vietnam
