@@ -1290,7 +1290,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1786517614&s=3b26674ecfcb2a2238ce23028eb89e41db2f1b704e9c1ac0e12105d1bb685b96
 
-#EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title=""CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",SCTV (2)
+#EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",SCTV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -10568,103 +10568,14 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <====================LIVE EVENT 1===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
-
-#EXTINF:-1 group-title="EVENT 011/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 17:00 WIB Juventus vs Palermo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel12.m3u8
-
-#EXTINF:-1 tvg-uid="f19ddfb9d965666dbeab255119d79c32" data-source="DAMITV3" tvg-logo="https://static.assetstorage.net/assets/thumb/f5c7bbb555a089d72acb91aacc9a9b0c-thumbnail.jpg" group-title="EVENT 011/AGUSTUS/2026",[🔴 LIVE 17:00 WIB] [International Friendly] Juventus vs. Palermo (Server 2 - CBS Sports Golazo)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://ondemand.st/papi/tv/dlhd/910/playlist.m3u8?tk=bCQCSx8JD6s9GJ5bQY-C9w&e=1786485719
-
-#EXTINF:-1 tvg-uid="7c7030cf3dfda8570a5c4c2ff862b9af" data-source="DAMITV3" tvg-logo="https://static.assetstorage.net/assets/thumb/f5c7bbb555a089d72acb91aacc9a9b0c-thumbnail.jpg" group-title="EVENT 011/AGUSTUS/2026",[🔴 LIVE 17:00 WIB] [International Friendly] Juventus vs. Palermo (Server 1 - Master)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-11/juv-pal/playlist.m3u8?tk=bCQCSx8JD6s9GJ5bQY-C9w&e=1786485719
-
-#EXTINF:-1 tvg-id="1562885" group-title="EVENT 011/AGUSTUS/2026" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1974.png?24531",05/08 06:00 PM | Juventus vs. Palermo (GR: NOVA SPORTS PRIME ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D9074C9797BD15C15236B5592DECA509
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562885&extension=ts&play_token=ntBUzuCTKQ
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
 
 
+l
 
 
-
-
-EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 16:30 WIB Thailand vs Vietnam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
-
-EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 18:15 WIB MotoGP Race: Qatar Airways Grand Prix of Great Britain - MotoGP 2026 Round 12
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-========CHELSEA============
-
-EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 19:00 WIB Johor Darul Ta'zim vs Chelsea
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://193.47.62.192/hls/RRRRRRRR.m3u8
-
-EXTINF:-1 tvg-expire="1786284900" tvg-start="1786276800" tvg-uid="a1bfbf46c1a4c33f033dbff132e34966" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/chelsea/logo.webp" group-title="EVENT 09/AGUSTUS/2026", LIVE Chelsea - Johor Darul Ta'zim
-https://dz5.bhalocast.pro:7059/hls/spch1.m3u8?md5=BtA7ChSXfQ91wvjCb26l_A&expires=1786282003&ch=spch1&s=0481fc4ac4f9d2f9ab7bedb7031426d4|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-
-========LIVERPOOL============
-
-EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Liverpool vs Monaco
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://193.47.62.58/hls/JSSSSAA.m3u8
-
-EXTINF:-1 tvg-expire="1786290300" tvg-start="1786282200" tvg-uid="f33b621e0e5c844b6eafea9988ed2bd9" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/liverpool/logo.webp" group-title="EVENT 09/AGUSTUS/2026",🔴 LIVE Liverpool - AS Monaco
-https://dz5.bhalocast.pro:7059/hls/spch5.m3u8?md5=9HszxDvFCbdGgESBfSj1rw&expires=1786286758&ch=spch5&s=13012fac9337f50f30057448c508c57a|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-
-=======ARSENAL============
-
-EXTINF:-1 tvg-expire="1786287600" tvg-start="1786280400" tvg-uid="48f01e0202479dcf12e7a1b828823ae9" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arsenal%20vs%20Borussia%20Dortmund.jpg" group-title="EVENT 09/AGUSTUS/2026", LIVE Arsenal vs. Borussia Dortmund
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787e6/chunks.m3u8?is_vip=false&token=1786367849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d885ee7541cba92e2c74a2f3e564002
-
-EXTINF:-1 group-title="EVENT 09/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Arsenal vs Boussia Dortmund
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://193.47.62.191/hls/HRRRAx.m3u8
-
-
-
-
-<================>
-
-
-
-EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 07:00 WIB Victor Korea Masters 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8
-EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 07:00 WIB Victor Korea Masters 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel62.m3u8
-EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 07:00 WIB Victor Korea Masters 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel63.m3u8
-EXTINF:-1 group-title="EVENT 06/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCLI2I0vTfuzX2NKQ2LQYUyPcVH3agBr0LdnQR_Nnbg&s", 07:00 WIB Victor Korea Masters 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel64.m3u8
 
 
 
