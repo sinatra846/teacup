@@ -1279,13 +1279,6 @@ https://video.detik.com/transtv/smil:transtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (156V)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (32V1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
-
-EXTINF:-1 tvg-id="Trans7.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true",TRANS 7 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1718794991_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY1MjkwNDMzMjYmd293emF0b2tlbmhhc2g9YWFhcjVPNHVNZ295NEhHTW9Sb08wSFZWSjVxVldUb3dNejFHNG1iV3Ziaz0=.m3u8
 
 ===============================
 
@@ -1427,25 +1420,18 @@ EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="ht
 #KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",ANTV (1)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7828&type=drm
-https://tvratu.my.id/vid/index.mpd?id=782&type=dash
-
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTINF:-1 tvg-id="ANTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",ANTV (1)
 https://beetv.my.id/stream/vd.m3u8?ch=antv
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true", ANTV (2)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=782&type=hls&e=1786517614&s=31b7ec60f7d579922b090701152ad262ea2e4357c35404d31f5b635dffda626c
+#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",ANTV (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=10
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1457,7 +1443,7 @@ https://tv.canal86.my.id/emtekhd/stream.m3u8?id=782&type=hls&e=1786517614&s=31b7
 EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",ANTV (AF)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",TV ONE (1)
+EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",TV ONE
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -1465,11 +1451,12 @@ EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7838&type=drm
 https://tvratu.my.id/vid/index.mpd?id=783&type=dash
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true", TV ONE (1)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",TV ONE (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=783&type=hls&e=1786438162&s=e746bb7ab3aff1434c100df77aa4fbb1cb9a3cfcaf79df11d8486210c42a8533
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bento4590.workers.dev/index.mpd?q=783&ext=dash&x=1786626940&k=d1b0f30d1f93722f29c0423ec5ae54d9e913cfc48522c37aeb417ea4e7d450d3&sc=783
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
