@@ -1310,8 +1310,6 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-===============================
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1326,8 +1324,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-===============================
-
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true",GTV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1339,8 +1335,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-===============================
 
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",iNews (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1634,6 +1628,37 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BLOOMBE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
+
+
+# === BAGIAN RCTI+ ===
+# Diperbarui: 2026-08-14 18:55:51
+
+#EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786769750~hmac=89b26e43e13ef6b776f464891f40e1e28b602c460a80c18a96791621c9144441
+
+#EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786769750~hmac=bfa8c0cc23aefbe5fe4959d607fa5114921bf97800eb68658d57bdab5b4a0f44
+
+#EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1786769751~hmac=888d4fe9127f3f1e6bfe4020a41568a130a4d5ffacc6e0f0878a45f0abaf0d21
+
+#EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786769751~hmac=42489c708666f4284332c3081b7ac8611180c0b319ca4220da2e6c98660a73cb
+
+# === AKHIR BAGIAN RCTI+ ===
+
+
+
+
+
 
 
 =========================================== DAERAH ===========================================
