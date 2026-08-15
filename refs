@@ -1640,30 +1640,37 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BLOOMBE
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
 
 
-# === BAGIAN RCTI+ ===
-# Diperbarui: 2026-08-14 18:55:51
 
-#EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI R+
+
+
+
+# === RCTI+ SECTION ===
+# Updated: 2026-08-15 12:40:36
+
+#EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786769750~hmac=89b26e43e13ef6b776f464891f40e1e28b602c460a80c18a96791621c9144441
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786833635~hmac=fa4af2ff1b4415aa39cfc25def21f9deeed7b3551bac3ff49ca350cc57966e2a
 
-#EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV R+
+#EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786769750~hmac=bfa8c0cc23aefbe5fe4959d607fa5114921bf97800eb68658d57bdab5b4a0f44
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786833635~hmac=8cce8692b0fe568669cb5b1afcc10b0c629352a83fb50936ea4b4543ab983dff
 
-#EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV R+
+#EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1786769751~hmac=888d4fe9127f3f1e6bfe4020a41568a130a4d5ffacc6e0f0878a45f0abaf0d21
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1786833636~hmac=b909e1219d2da5de868fa183e71ca58841938b93a62d029e570388262b3f0237
 
-#EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews R+
+#EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786769751~hmac=42489c708666f4284332c3081b7ac8611180c0b319ca4220da2e6c98660a73cb
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786833636~hmac=acee2ff929ae1a5a54e6d7b86fe3428b2ad9af51abb9d154878c2da492f845fc
 
-# === AKHIR BAGIAN RCTI+ ===
+# === END RCTI+ SECTION ===
+
+
+
 
 
 
