@@ -10641,6 +10641,12 @@ https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-expire="1786899600" tvg-start="1786888800" tvg-uid="f81aaa23d1a0444dbb91edb9253d519f" data-source="DAMITV3" tvg-logo="https://static.assetstorage.net/assets/thumb/cdb535307c76201190c9d9adae3cdd14-thumbnail.jpg" group-title="EVENT 016/AGUSTUS/2026",[🔴 LIVE 21:00 WIB] [Football] Arsenal vs. Manchester City (Server 3 - ESPN Deportes)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/community-shield/2026-08-16/ars-mci/espn-deportes-es/playlist.m3u8?tk=GMRFAXsmZyl6jd746Ol6Cw&e=1786932219
+
 <================>
 
 #EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKF4t5o17n3PkqwRHnpvj5c31aDxX_XLsvXTPjdmYTSg&s=10", 19:30 WIB Watford vs Southampton
