@@ -1533,8 +1533,8 @@ https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=17868994
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=drm&x=1786876010&k=e1bda017924683be2e343e462899de2d455c742d581d586ee546eeee756d6d3f
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1786876010&k=d87604fb4fb48501b97190903e9f4bb00300b55896c0d1102f43e8306932c9f2&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.tsender57.workers.dev/index.mpd?q=204&ext=drm&x=1786931472&k=20da705612a7a74878bad71bd8ec7fb39b1fed4a3401b0e194dd3568f424ebbf
+https://streamvididi.tsender57.workers.dev/index.mpd?q=204&ext=dash&x=1786931472&k=94de4c337f2a53be3c8c3d73f9e171095117fd4ae164429906fb322f69bc8758&sc=204
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
