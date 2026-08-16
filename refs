@@ -10590,24 +10590,9 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Liverpool vs Como
 
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Chelsea vs Real Sociedad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel6.m3u8
-
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Tottenham Hotspur vs Hoffenheim
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Bayern München vs RB Leipzig
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Newcastle United vs Bayer Leverkusen
-
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Borussia M'gladbach vs Aston Villa
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=124.play
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Tottenham Hotspur vs Hoffenheim
+#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 22:00 WIB Schalke 04 vs Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10615,23 +10600,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:00 WIB Everton vs Lille
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=123.play
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 21:45 WIB Manchester United vs Milan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Singapura vs Thailand
+#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Malaysia vs Vietnam
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10640,7 +10609,26 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKF4t5o17n3PkqwRHnpvj5c31aDxX_XLsvXTPjdmYTSg&s=10", 21:00 WIB Middlesbrough vs Lincoln City
+#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 22:00 WIB Racing Santander vs Villarreal
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18j_oaQgPkn450KLfNsHtoSQVw83W2QtIClj-bM21JA&s=10", 21:00 WIB Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKF4t5o17n3PkqwRHnpvj5c31aDxX_XLsvXTPjdmYTSg&s=10", 19:30 WIB Watford vs Southampton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10648,7 +10636,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 015/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKF4t5o17n3PkqwRHnpvj5c31aDxX_XLsvXTPjdmYTSg&s=10", 23:30 WIB Sheffield United vs Birmingham City
+#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKF4t5o17n3PkqwRHnpvj5c31aDxX_XLsvXTPjdmYTSg&s=10", 22:00 WIB Burnley vs West Ham United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10656,13 +10644,21 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
+<================>
 
-#EXTINF:-1 data-source="Manual" group-title="EVENT 015/AGUSTUS/2026" tvg-id="21945-5258362" tvg-logo="https://thumbor.prod.vidiocdn.com/xWpZTzNt4dEjjMC58u-uP1gbSCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5258362/2df61b.jpg" tvg-uid="6548a2dbe4788d8b1772b4c7ec6edba3",🔴 LIVE 19:02 WIB (15/08) - Sabah FC vs PERSIB - Dewata Challenge Series
-#EXTVLCOPT:http-origin=https://xlz.textliveupdaterz.com
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://tfyg3gr4ugmtwgczdcqjqgr5n45djq31un.100ycdn.com/live1.streambylivepulse.com/live/channel32/playlist.m3u8?wsSecret=bf9f7a3e7a13ddf08010a3015fc0ae8e&wsABSTime=1786840436&wsSession=59ae1260c6557dad03edc108-178679723794629&wsIPSercert=b2941a3a622c1ef12cc8d8e031a4482a&wsBindIP=2&wsserid=1168287746130901650
+#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://shorter.me/87PxH", 19:30 WIB Feyenoord vs Go Ahead Eagles
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
+#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://shorter.me/87PxH", 21:45 WIB Ajax vs Heerenveen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 
 
@@ -10670,29 +10666,24 @@ https://tfyg3gr4ugmtwgczdcqjqgr5n45djq31un.100ycdn.com/live1.streambylivepulse.c
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
-#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Deportivo Alavés vs Getafe
+#EXTINF:-1 group-title="EVENT 017/AGUSTUS/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:00 WIB Espanyol vs Levante
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
-#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:30 WIB Sevilla vs Rayo Vallecano
+#EXTINF:-1 group-title="EVENT 017/AGUSTUS/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:30 WIB Celta de Vigo vs Osasuna
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
-#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://shorter.me/87PxH", 01:00 WIB Excelsior vs PSV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="EVENT 017/AGUSTUS/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 01:45 WIB Lens vs PSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 016/AGUSTUS/2026" tvg-logo="https://shorter.me/3gy7g", 01:00 WIB Al Nassr vs Al Fateh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
-https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
-
-
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
 
 
