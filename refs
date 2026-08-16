@@ -1518,14 +1518,14 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
-#EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",⬜INDOSIAR
+#EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",⬜ INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=drm&x=1786899497&k=bdde6a10086e865eb740149b56e15e4d7ecfd8ba34ee72bbf6bea148f0617af4
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1786899497&k=b9ca87a422c9622aaa8de44bc9cf75e912fb4abdd67b00c89ddf1ab574894ca6&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1786899497&k=0cccaf439b7d89d603471db0131eb7d3cf38f601fe255f4fed451bfa0887bfaa
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1786899497&k=9016fae861819643e00cc100b5dbfdbb161e6f09f5b3ef6bae0ede1eb6668fc3&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
