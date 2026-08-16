@@ -1492,7 +1492,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.
 
 
 
-# Updated: 2026-08-16
+# Updated: 2026-08-17
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -1524,8 +1524,8 @@ https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1786899497&k=0cccaf439b7d89d603471db0131eb7d3cf38f601fe255f4fed451bfa0887bfaa
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1786899497&k=9016fae861819643e00cc100b5dbfdbb161e6f09f5b3ef6bae0ede1eb6668fc3&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.tsender57.workers.dev/index.mpd?q=205&ext=drm&x=1786931472&k=6772f727c3b691dd671caa8168d57484cf22eb868a62ae1efad474faaebda5ea
+https://streamvididi.tsender57.workers.dev/index.mpd?q=205&ext=dash&x=1786931472&k=52b46b7ff21fc0821d137dacf5aa5d7d5b4e726aa3493e3d1085403f73a7c08c&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
