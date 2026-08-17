@@ -1356,7 +1356,7 @@ https://streambonetv.adenrahim97.workers.dev/index.mpd?q=8237&ext=dash&x=1786673
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vididi.bonetv.biz.id/index.mpd?q=8237&ext=dash&x=1786763959&k=0377efa9e0db96ae397f2b0a134e3f87df8bcac3f4a1c50cfcda8cf51e2f19c0&sc=8237
+https://vididi.bento4590.workers.dev/index.mpd?q=8237&ext=dash&x=1786970735&k=7a5093de833e19e65d8fb70344cbc42ac912d953568ab58447fbffa3b7c7d589&sc=8237
 
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RTV.1.png?raw=true",RTV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1517,10 +1517,10 @@ https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.tsender57.workers.dev/index.mpd?q=205&ext=drm&x=1786931472&k=6772f727c3b691dd671caa8168d57484cf22eb868a62ae1efad474faaebda5ea
-https://streamvididi.tsender57.workers.dev/index.mpd?q=205&ext=dash&x=1786931472&k=52b46b7ff21fc0821d137dacf5aa5d7d5b4e726aa3493e3d1085403f73a7c08c&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=drm&x=1786970735&k=9002f408de4aa28446b9df3193801bb4b8f46c4302d92cebe08b16c6c9d5c641
+https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1786970735&k=f66b61a8fb3e0ce876f68b3d9a3a858e574a775ca277ffc58a6f7f4f4ef1a26f&sc=205
 
-#EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
+EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
