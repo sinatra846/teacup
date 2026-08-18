@@ -1644,8 +1644,8 @@ https://stream.bonetv.web.id/index.mpd?q=205&ext=dash&x=1787057309&k=6760b22454d
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=204&ext=drm&x=1787050936&k=f68c750129c8254919bbbebc031dcd2f784a0f94f7e7db6658684d2dfa4649e1
-https://stream.bonetv.web.id/index.mpd?q=204&ext=dash&x=1787050936&k=7b3a01bdce1041e1c6d9945254f98e0671970fbd117d3a19900e06f6ce43969e&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=204&ext=drm&x=1787068535&k=5121f97bd22c05ebb80c69bcb6d49bdfb18f9445d0c9e68b1979012f364110a1
+https://stream.bonetv.web.id/index.mpd?q=204&ext=dash&x=1787068535&k=09b28366e6aee4d6798b6d104d359c7ff1c609290ac7cb3b29b4078568df30b8&sc=204
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
