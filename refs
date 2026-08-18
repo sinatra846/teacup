@@ -1532,14 +1532,14 @@ https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
 #KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=drm&x=1786970735&k=9002f408de4aa28446b9df3193801bb4b8f46c4302d92cebe08b16c6c9d5c641
 https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1786970735&k=f66b61a8fb3e0ce876f68b3d9a3a858e574a775ca277ffc58a6f7f4f4ef1a26f&sc=205
 
-EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
+#EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1786972810&k=c26859a3e39774441bff18c30b4ff55f39a492dfe439c48bc8e02a4a269b3ca5
-https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1786972810&k=d8cd0eafc880dec7cb42884dae421dc580b0573bd20b9f9cf71d95720709e04f&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=204&ext=drm&x=1787050936&k=f68c750129c8254919bbbebc031dcd2f784a0f94f7e7db6658684d2dfa4649e1
+https://stream.bonetv.web.id/index.mpd?q=204&ext=dash&x=1787050936&k=7b3a01bdce1041e1c6d9945254f98e0671970fbd117d3a19900e06f6ce43969e&sc=204
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -1550,7 +1550,7 @@ https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1786972810&k=d8c
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🚀SCTV
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true",🛩️SCTV
+EXTINF:-1 tvg-id="SCTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true",🛩️SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204&type=dash
 
@@ -1671,25 +1671,42 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 
 
 
-# === BAGIAN RCTI+ ===
-# Diperbarui: 2026-08-17 18:41:58
+
+
+
+=== RCTI+ SECTION ===
+# Updated: 2026-08-18 06:44:45
 
 #EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787028117~hmac=c1a1cfe28b0d23c9ff207f47bdfe012d0e6eec3381d2d727dfd2e9419eb8dd19
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787071484~hmac=7326932f3fc069ec2604cb2bb3211420b6fe258b8aa95bbb23b099082ec84b82
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787028118~hmac=63e4f8f788f7d07bfc7eae22b98fa15c24f31923603f45e24290406110a05980
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787071484~hmac=3fb9913b1b6fa5ec1561fc8ad840e6a6619a1053af52f15002127ea3dcb6b1c4
+
+#EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787071484~hmac=49debf9993441e94376d55ded4c9bac5e390fa3b82c431a7a05be9d6458c5fe6
 
 #EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787028118~hmac=2a19cb2b67bfd80d5a89c35890accc513073d006e328d9c9bf5a82aefd63beb3
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787071485~hmac=8a6badcc2dc9bda89667df13ade8ad8d9bcf23f5f06fa47a768287b2a962895f
 
-# === AKHIR BAGIAN RCTI+ ===
+# === END RCTI+ SECTION ===
+
+
+
+
+
+
+
+
+
 
 
 
