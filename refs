@@ -999,6 +999,106 @@ ERROR 404 NOT FOUND
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U billed-msg=".", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
   url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24" https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
 
@@ -1090,6 +1190,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
+
+
+
 ===================================================>
 #####LIVE | PIALA AFF####
 
@@ -1120,30 +1223,36 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 
-# === BAGIAN RCTI+ ===
-# Diperbarui: 2026-08-08 06:55:33
+
+
+=== RCTI+ SECTION ===
+# Updated: 2026-08-18 06:44:45
 
 #EXTINF:-1 tvg-id="RCTI" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786208132~hmac=8dbade21c2631642115cbd81799f02cd726762a7a0f5bf690ebdcacc5bd3b861
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787071484~hmac=7326932f3fc069ec2604cb2bb3211420b6fe258b8aa95bbb23b099082ec84b82
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786208132~hmac=86b9076ce41740b97eb41c0e0c7ea3eb940c7ac2af2ce8aad7052b57058b2c78
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787071484~hmac=3fb9913b1b6fa5ec1561fc8ad840e6a6619a1053af52f15002127ea3dcb6b1c4
 
 #EXTINF:-1 tvg-id="GTV" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1786208132~hmac=b624834cc86b47a22451c6f9595d3a8aa963674d7fa94a31c0bf860ca5f41577
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787071484~hmac=49debf9993441e94376d55ded4c9bac5e390fa3b82c431a7a05be9d6458c5fe6
 
 #EXTINF:-1 tvg-id="iNews" group-title="LIVE | PIALA AFF" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786208132~hmac=892c3bc7542038bac2feaf956bf26ef240ad31f985a5fa7a25f78a0ba104b0e6
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787071485~hmac=8a6badcc2dc9bda89667df13ade8ad8d9bcf23f5f06fa47a768287b2a962895f
 
-# === AKHIR BAGIAN RCTI+ ===
+# === END RCTI+ SECTION ===
+
+
+
+
 
 
 
