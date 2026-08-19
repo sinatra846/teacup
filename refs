@@ -1470,6 +1470,11 @@ https://cdn.qd.je/163189.php?id=8tv
 https://cdn.qd.je/163189.php?id=iqiyi
 
 
+
+
+
+
+
 //========================================================================
 //Collected by andra|sinatra menampilkan playlist >>> NASIONAL 
 //========================================================================
@@ -1734,14 +1739,13 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
 
-EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",🟧 INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=drm&x=1786970735&k=9002f408de4aa28446b9df3193801bb4b8f46c4302d92cebe08b16c6c9d5c641
-https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1786970735&k=f66b61a8fb3e0ce876f68b3d9a3a858e574a775ca277ffc58a6f7f4f4ef1a26f&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=drm&x=1787147236&k=0e1090badca87530a2bcb9bac4b61d12bd861216a426c380ad2808153fa04d5b
+https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787147236&k=ea7ac456423f261a6ed438962391e59ade0301bac05a598118ccdae928c00a31&sc=205
 
 #EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",⬜ INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1758,8 +1762,8 @@ https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787132517&k=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=drm&x=1787132517&k=b9852168687f63988edd706c63595066dc5dffa7cdf0645c8c6dcc626af101f5
-https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=dash&x=1787132517&k=0acf28ace2c43ce017ce82c56039395231c9537c6c55a8919f0e76e32a23f1e7&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=drm&x=1787147236&k=ae8193dd6b3aaf224455f257d25200751e44b9d334dfb9600ec351d1d8a312c9
+https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=dash&x=1787147236&k=d69258ef8075a0c337b99c024f0d42d0e96ca794098468b041467fb785308ff5&sc=204
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
