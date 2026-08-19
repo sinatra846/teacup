@@ -1731,9 +1731,8 @@ https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787147236&k=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=drm&x=1787132517&k=19b9012bc984c0b9af4a50bd7e862c0a5dac12f65dfd474011218dc237bea1ec
-https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787132517&k=f8516790121128519cdf344e94b75cd87941a2c4b54c6e4b251b6c74aea8a772&sc=205
-
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=drm&x=1787154133&k=eb582f8d981b8e37310032218018aa608e999ce5646d59b81139192034194417
+ 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
