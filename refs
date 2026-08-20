@@ -1563,7 +1563,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vididi.bonetvstream.workers.dev/index.mpd?q=8237&ext=dash&x=1787147236&k=39aa3c8f02c125065e9da4499c4f1163c42a90415827f2fd3dfacdc107fc5a14&sc=8237
+https://vididi.bento4590.workers.dev/index.mpd?q=8237&ext=dash&x=1787218302&k=b70dc60d83cd9e852abfc0e07a5e58a1c9cdbaa99b12c2474ce3dbf10a4676be&sc=8237
 
 EXTINF:-1 tvg-uid="2b247a6a49d3d05c092a876ab5159244" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="8237" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true,MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1599,7 +1599,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vididi.bonetvstream.workers.dev/index.mpd?q=777&ext=dash&x=1787147236&k=45123dc12f73b3836b75fbb4312b1e50022aeb2ecb5e68e59868ec2c216f499b&sc=777
+https://vididi.bento4590.workers.dev/index.mpd?q=777&ext=dash&x=1787218302&k=9f165d195182887955dc26a0c4273d9029bfe7c1823b32bc1222e339c5d79b80&sc=777
 
 EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/METRO.1.png?raw=true" group-title="CHANNEL | INDONESIA", METRO TV (AF)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1722,8 +1722,8 @@ https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=drm&x=1787147236&k=0e1090badca87530a2bcb9bac4b61d12bd861216a426c380ad2808153fa04d5b
-https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787147236&k=ea7ac456423f261a6ed438962391e59ade0301bac05a598118ccdae928c00a31&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1787218302&k=c4fd3411860e31464c942df6350c7c983c64c8c3168c9bf294fe32a2f12a2fe9
+https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1787218302&k=4c2cf559c592702d9c4bd6877af9ba6f188ee48f145b679a066fd905da473a11&sc=204
 
 #EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",⬜ INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1740,8 +1740,8 @@ https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787154133&k=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=drm&x=1787147236&k=ae8193dd6b3aaf224455f257d25200751e44b9d334dfb9600ec351d1d8a312c9
-https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=dash&x=1787147236&k=d69258ef8075a0c337b99c024f0d42d0e96ca794098468b041467fb785308ff5&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1787218302&k=c4fd3411860e31464c942df6350c7c983c64c8c3168c9bf294fe32a2f12a2fe9
+https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1787218302&k=4c2cf559c592702d9c4bd6877af9ba6f188ee48f145b679a066fd905da473a11&sc=204
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -1794,7 +1794,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=783&ext=dash&x=1787113547&k=18c88bf1ff0ce7534dfe014478bf0332327a3eef5e30742024b26b4054248f74&sc=783
+https://vididi.bento4590.workers.dev/index.mpd?q=783&ext=dash&x=1787218302&k=147059cf498d525e910d07609ebde63dbbb5489f72de2ee96ec8b87ac328d1f6&sc=783
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
