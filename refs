@@ -1717,7 +1717,7 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
 
-#EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",🟧 INDOSIAR
+EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",🟧 INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1731,8 +1731,8 @@ https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1787218302&k=4c2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=drm&x=1787154133&k=eb582f8d981b8e37310032218018aa608e999ce5646d59b81139192034194417
-https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787154133&k=9eff3bde89fda85d1cade3d6135c5395e8206aea920ad916bca262a9ff5cbb86&sc=205
+KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=drm&x=1787218302&k=01dc22aafe7566d6d31b440190ada82dd9abd0a6f55df46f7ba431eb591f426b
+https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1787218302&k=d720cebb98c1bcbb4d0ce80a09c09e072ab1f6b2f4ef5d62086e538d574753a4&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
