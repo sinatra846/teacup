@@ -2389,7 +2389,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:-1 tvg-uid="2b247a6a49d3d05c092a876ab5159244" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="8237" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true",MENTARI TV (2)
+EXTINF:-1 tvg-uid="2b247a6a49d3d05c092a876ab5159244" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="8237" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true",MENTARI TV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2426,7 +2426,7 @@ EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="htt
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=23
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-uid="9804db8ee03d545e7d249fb1882a1d5a" data-source="Vididi Combi Termux" tvg-id="777-777" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/METRO.1.png?raw=true" group-title="CHANNEL | INDONESIA", METRO TV (2)
+EXTINF:-1 tvg-uid="9804db8ee03d545e7d249fb1882a1d5a" data-source="Vididi Combi Termux" tvg-id="777-777" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/METRO.1.png?raw=true" group-title="CHANNEL | INDONESIA", METRO TV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2446,14 +2446,6 @@ http://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/KOMPAS.1.png?raw=true",KOMPAS TV (2)
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
-
-EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/KOMPAS.1.png?raw=true" group-title="CHANNEL | INDONESIA", KOMPAS TV (AF)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -2544,7 +2536,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
-#EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",⬜ INDOSIAR
+EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",⬜ INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2558,7 +2550,7 @@ https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1787218302&k=d72
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (🚀8826 V3)
 https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
-#EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
+EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🛩️SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2602,12 +2594,6 @@ https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-327770703000000
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=10.play
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🗽ANTV
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
-
 #EXTINF:0 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🗿ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -2620,7 +2606,7 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🥎TV ONE
+EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🥎TV ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2635,7 +2621,7 @@ EXTINF:-1 tvg-id="TVOne" tvg-url="https://raw.githubusercontent.com/apistech/pro
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-#EXTINF:-1 tvg-id="tvOne.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🏀TV ONE
+EXTINF:-1 tvg-id="tvOne.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🏀TV ONE
 https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 
 
@@ -2716,6 +2702,7 @@ EXTINF:-1 tvg-id="Lokal" group-title="CHANNEL | INDONESIA" tvg-logo="https://git
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=4.play
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+
 
 
 
