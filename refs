@@ -6477,6 +6477,16 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1559
 #EXTINF:-1 tvg-uid="6924a48543772129d8220ed19c2ae0bb" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/282676.m3u8
 
+#EXTINF:-1 tvg-uid="6aa1149949b040fc46501dfd9267aa5e" data-source="Cdnsports" tvg-name="TNT Sports 1 FHD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="LIVE | LIGA INGGRIS",TNT Sports 1 FHD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODc0MDkxNDI2MzU6Y2RubGl2ZXR2LnR2OmU0NjBjNDJiYTdhNWM0ZDMuNjRkZWVkYzMzN2VjNWM4MGNlYjRlZmM4N2NiMjE3MTUyYTFiMjQ5MDFjNDUyYWQ1NmQwNzBjYTIyMjhlMmNiOA
+
+#EXTINF:-1 tvg-uid="64485a4761d7ae824041d805399f7468" data-source="Cdnsports" tvg-name="TNT Sports 1 HD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="LIVE | LIGA INGGRIS",TNT Sports 1 HD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc343/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQzOjE3ODc0MDkxNDI2NTk6Y2RubGl2ZXR2LnR2OmQxYzc1ZDg2ODdkODVhNTguMzlhZmE4NzA0Mjg0MTVlYjE5ZTQzZDkzMDU5NTNmMjY0MzAxYTRiM2YyYmI0MTIxMWI1NmQzMWM2MTBkNDExZg
+
 
 
 
