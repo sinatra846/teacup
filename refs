@@ -6396,30 +6396,30 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/944
 
 
 =======================================LIGA ITALIA==========================================================================
-=====================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LALIGA
 
+#EXTINF:-1 tvg-uid="2e96cab7228963f3009f0c45da7e175a" data-source="April2027" group-title="LIVE | SERIE A" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069726.m3u8
+#EXTINF:-1 tvg-uid="3bc608cf5d2dcb763a7067ef031e4c23" data-source="April2027" group-title="LIVE | SERIE A" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 2 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069725.m3u8
+#EXTINF:-1 tvg-uid="e70e540c3e2727e1fc1f7ecb479041f0" data-source="April2027" group-title="LIVE | SERIE A" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 3 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069724.m3u8
+#EXTINF:-1 tvg-uid="6f6b6fbe2f594fa17c0d8a1e9235aaf6" data-source="April2027" group-title="LIVE | SERIE A" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 4 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069723.m3u8
+#EXTINF:-1 tvg-uid="f789b9de274034310a10c8dd088cf95a" data-source="April2027" group-title="LIVE | SERIE A" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 5 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069722.m3u8
+#EXTINF:-1 tvg-uid="876629136a2ff618f011a5a71c15cf95" data-source="April2027" group-title="LIVE | SERIE A" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 6 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069721.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuZnHWpyN5JqE7IGJlMC-qSuJg5nr2AhPu17HQBP0jnOnSlZWxikZX3gd&s=10" group-title="LIVE | SERIE A", SERIE A 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=ita1&type=m3u8
+#EXTINF:-1 tvg-uid="6aa1149949b040fc46501dfd9267aa5e" data-source="Cdnsports" tvg-name="TNT Sports 1 FHD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="LIVE | SERIE A",TNT Sports 1 FHD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODc0ODA3MTEwODA6Y2RubGl2ZXR2LnR2OmUzYjc2ZjQ3ZWJiMzQxMDYuMWQ3ZWNjYTNlOWQyMzQyNzYxNGMzNjhkODQ5Y2UxYWI0MTBhODlmZjAyMTYyOGFmYTRhM2IwZjVmMGY3MjhlMg
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuZnHWpyN5JqE7IGJlMC-qSuJg5nr2AhPu17HQBP0jnOnSlZWxikZX3gd&s=10" group-title="LIVE | SERIE A", SERIE A 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=ita2&type=m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-uid="9756a350db6f0d090eb4e8a0554cd921" data-source="Cdnsports" tvg-name="TNT Sports 2 FHD UK" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="LIVE | SERIE A",TNT Sports 2 FHD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3ODc0ODA3MTEyMDA6Y2RubGl2ZXR2LnR2OjM2ODA1NDQwOWRlYjUyNjEuNTViMzAyMWRlZjA3MmI5M2RlZGIzMjc0YTU4ODgwZjExZjBjZjE4ZGE5MjI4ZTQ3M2MyNTEyMGVkNWU4MDVmMQ
 
 
 
