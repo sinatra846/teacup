@@ -4962,25 +4962,6 @@ https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 
 =======================================BeIN SPORT====================================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_BEIN.png?raw=true",CHANNEL | BEIN 
-================================================================================================================================================================
-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR-SEMUA DALAM SATU BAR
-===============ALLINONEBAR==================
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-EXTINF:-1 tvg-id="beINSports4" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://iili.io/JhkQo22.png", BEIN SPORTS 4 
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTVLCOPT:http-user-agent=Mozilla/5.
-EXTINF:-1 tvg-id="beINSports5" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://iili.io/JhkQzk7.png", BEIN SPORTS 5 
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5003,6 +4984,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://iili.io/JhkQCrl.png" group-title="CHANNEL | BEIN SPORT",BEIN SPORTS 3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="beINSports4" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://iili.io/JhkQo22.png", BEIN SPORTS 4 
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.
+#EXTINF:-1 tvg-id="beINSports5" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://iili.io/JhkQzk7.png", BEIN SPORTS 5 
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+========================
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5228,10 +5226,10 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 ========SPORSTAR==================
 
 
-EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f1/e5/ec/f1e5ecee1a5d54e85a9a1538ea7b70be.jpg" group-title="CHANNEL | SPORTS",Sportstar 2 
-EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bd/ba/36/bdba3690ab7a99a6c366daa60248b24a.jpg" group-title="CHANNEL | SPORTS",Sportstar 3
-EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_9knowlsd4XtCxrSDmrFb9Wp115YNmhdOUEBHZKVLvqNiPmzwfKdjCBeqcmqDvx4Kx7FLaeJMmxgsJRhmQeq7FCiFVAtjZ2FouopKrH00ipAxmZTtNto8sS28ABddUH85pd-Hcn3S_cX85-ZNwXa4R7NN0sTb5O20ffr8tkX723I7O3MtC0dvthhBYbVL/s700/SPORTSTARS%204.png" group-title="CHANNEL | SPORTS",SPORTSTARS 4
-EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/3f/2b/c43f2bd530894be3162cb790dd83fd42.jpg" group-title="CHANNEL | SPORTS",Sportstar 1 
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f1/e5/ec/f1e5ecee1a5d54e85a9a1538ea7b70be.jpg" group-title="CHANNEL | SPORTS",Sportstar 2 
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bd/ba/36/bdba3690ab7a99a6c366daa60248b24a.jpg" group-title="CHANNEL | SPORTS",Sportstar 3
+##EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_9knowlsd4XtCxrSDmrFb9Wp115YNmhdOUEBHZKVLvqNiPmzwfKdjCBeqcmqDvx4Kx7FLaeJMmxgsJRhmQeq7FCiFVAtjZ2FouopKrH00ipAxmZTtNto8sS28ABddUH85pd-Hcn3S_cX85-ZNwXa4R7NN0sTb5O20ffr8tkX723I7O3MtC0dvthhBYbVL/s700/SPORTSTARS%204.png" group-title="CHANNEL | SPORTS",SPORTSTARS 4
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/3f/2b/c43f2bd530894be3162cb790dd83fd42.jpg" group-title="CHANNEL | SPORTS",Sportstar 1 
 
 
 ==========================
@@ -5907,13 +5905,25 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-uid="f98d91ff3918336c77222d78ad60ec7f" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png", ┃AE┃ DUBAI RACING 1 | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/660659.m3u8
+#EXTINF:-1 tvg-uid="8729cfb939e28b7c84fba1f4e44eacbd" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png", ┃AE┃ DUBAI RACING 2 | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/660658.m3u8
+#EXTINF:-1 tvg-uid="3f0c63d599f01301a8ed2a72ee5fe278" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png", ┃AE┃ DUBAI RACING 3 | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/660657.m3u8
+#EXTINF:-1 tvg-uid="4515d06173d93dd09c684ac7e681ddf6" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/SKY RACING.png", ┃AU┃ SKY RACING 1 | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/944678.m3u8
+#EXTINF:-1 tvg-uid="584a01943944b4df14deb01fcac35fc4" data-source="Macportal3" group-title="CHANNEL | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/894436.png", HR| DUBAI RACING 1 TV HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/894436.m3u8
+#EXTINF:-1 tvg-uid="288e1a4de040de873606d1acf11334d9" data-source="Macportal3" group-title="CHANNEL | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/894437.png", HR| DUBAI RACING 2 HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/894437.m3u8
+#EXTINF:-1 tvg-uid="65a6820d827769c492c7c7bfedbb4951" data-source="Macportal3" group-title="CHANNEL | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/894438.png", HR| DUBAI RACING 3 HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/894438.m3u8
 
 
 
-##EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", ICC Women
-##EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", Dubai1
-##EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", Dubai2
-##EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", Dubai3
+
+
 
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", Solcalcio
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
@@ -6403,6 +6413,21 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ita2&type=m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =====================================LIVE | LIGA JERMAN========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA JERMAN
 
@@ -6451,34 +6476,69 @@ https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-w
 =====================================LIVE | LALIGA========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LALIGA
 
-#EXTINF:-1 tvg-uid="0f7cff700692f947e564f7884173b2f6" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 RAW 50FPS FHD (IRELAND)
+#EXTINF:-1 tvg-uid="2e96cab7228963f3009f0c45da7e175a" data-source="April2027" group-title="LIVE | LALIGA" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069726.m3u8
+#EXTINF:-1 tvg-uid="3bc608cf5d2dcb763a7067ef031e4c23" data-source="April2027" group-title="LIVE | LALIGA" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 2 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069725.m3u8
+#EXTINF:-1 tvg-uid="e70e540c3e2727e1fc1f7ecb479041f0" data-source="April2027" group-title="LIVE | LALIGAL" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 3 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069724.m3u8
+#EXTINF:-1 tvg-uid="6f6b6fbe2f594fa17c0d8a1e9235aaf6" data-source="April2027" group-title="LIVE | LALIGA" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 4 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069723.m3u8
+#EXTINF:-1 tvg-uid="f789b9de274034310a10c8dd088cf95a" data-source="April2027" group-title="LIVE | LALIGA" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 5 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069722.m3u8
+#EXTINF:-1 tvg-uid="876629136a2ff618f011a5a71c15cf95" data-source="April2027" group-title="LIVE | LALIGA" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT 6 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069721.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="beIN Sports 1 Indonesia" tvg-logo="https://iili.io/JhkLZXa.png" group-title="LIVE | LALIGA", BEIN SPORTS 1 
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://iili.io/JhkQ9dN.png" group-title="LIVE | LALIGA", BEIN SPORTS 2 
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://iili.io/JhkQCrl.png" group-title="LIVE | LALIGA",BEIN SPORTS 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-uid="0f7cff700692f947e564f7884173b2f6" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 RAW 50FPS FHD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312727.m3u8
-#EXTINF:-1 tvg-uid="903876dda95a0adca45f4e29d24ce726" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 RAW 50FPS FHD (IRELAND)
+#EXTINF:-1 tvg-uid="903876dda95a0adca45f4e29d24ce726" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 RAW 50FPS FHD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312728.m3u8
-#EXTINF:-1 tvg-uid="4764daebd18a7eb4b27f62e4c68ba2c4" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 HEVC FHD (IRELAND)
+#EXTINF:-1 tvg-uid="4764daebd18a7eb4b27f62e4c68ba2c4" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 HEVC FHD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312717.m3u8
-#EXTINF:-1 tvg-uid="a430533a25ce1b550f4f274d1408bacb" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 HEVC FHD (IRELAND)
+#EXTINF:-1 tvg-uid="a430533a25ce1b550f4f274d1408bacb" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 HEVC FHD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312718.m3u8
-#EXTINF:-1 tvg-uid="02e141d93d394d3cf5a9178900a99bd1" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 HEVC HD (IRELAND)
+#EXTINF:-1 tvg-uid="02e141d93d394d3cf5a9178900a99bd1" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 HEVC HD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312719.m3u8
-#EXTINF:-1 tvg-uid="94fd3f7fbcdd45f0cbdf2add3d7f0c42" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 HEVC HD (IRELAND)
+#EXTINF:-1 tvg-uid="94fd3f7fbcdd45f0cbdf2add3d7f0c42" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 HEVC HD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312720.m3u8
-#EXTINF:-1 tvg-uid="7ba500e20bea296c6bcb5a1d4ce4cc95" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 FHD (IRELAND)
+#EXTINF:-1 tvg-uid="7ba500e20bea296c6bcb5a1d4ce4cc95" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 FHD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312725.m3u8
-#EXTINF:-1 tvg-uid="d3a07ac4375460360ff6124e8395fb12" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 FHD (IRELAND)
+#EXTINF:-1 tvg-uid="d3a07ac4375460360ff6124e8395fb12" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 FHD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312726.m3u8
-#EXTINF:-1 tvg-uid="70649843d545ff15e51b1b7d97323818" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS  1 HD (IRELAND)
+#EXTINF:-1 tvg-uid="70649843d545ff15e51b1b7d97323818" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS  1 HD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312723.m3u8
-#EXTINF:-1 tvg-uid="dcc2253dbca1f40625b64276f63ff8c4" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 HD (IRELAND)
+#EXTINF:-1 tvg-uid="dcc2253dbca1f40625b64276f63ff8c4" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 HD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312724.m3u8
-#EXTINF:-1 tvg-uid="470a30a0de44e465350163041f50f085" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 SD (IRELAND)
+#EXTINF:-1 tvg-uid="470a30a0de44e465350163041f50f085" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 SD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312721.m3u8
-#EXTINF:-1 tvg-uid="181f5003c68d0f6def760145be8f8761" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 SD (IRELAND)
+#EXTINF:-1 tvg-uid="181f5003c68d0f6def760145be8f8761" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png", ┃UK┃ PREMIER SPORTS 2 SD (IRELAND)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312722.m3u8
-#EXTINF:-1 tvg-uid="65cc442e2afe950850dd73fd60f66e21" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 FHD (UK)
+#EXTINF:-1 tvg-uid="65cc442e2afe950850dd73fd60f66e21" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png", ┃UK┃ PREMIER SPORTS 1 FHD (UK)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312729.m3u8
-#EXTINF:-1 tvg-uid="83f17ffe563fd2e6e45fe0a434ec9987" data-source="Sports7November" group-title="LIVE | LALIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png", ┃UK┃ PREMIER SPORTS 1 8K
+#EXTINF:-1 tvg-uid="83f17ffe563fd2e6e45fe0a434ec9987" data-source="Sports7November" group-title="LIVE | LALIGA;LIVE | EREDIVISIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png", ┃UK┃ PREMIER SPORTS 1 8K
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/827990.m3u8
+
 
 
 
@@ -6551,9 +6611,18 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc343/playlist.m3u8?token=
 
 
 
+======================= LIVE | EREDIVISIE ====================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | EREDIVISIE
 
 
-
+#EXTINF:-1 tvg-uid="8246d8590ec2b49f23d6f6976fa9fcc3" data-source="April2027" group-title="LIVE | EREDIVISIE" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png", NL-ZG| ESPN ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069730.m3u8
+#EXTINF:-1 tvg-uid="7c31ea94432b04110592b7ce31f3c657" data-source="April2027" group-title="LIVE | EREDIVISIE" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN2.png", NL-ZG| ESPN 2 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069729.m3u8
+#EXTINF:-1 tvg-uid="230e5c1d81d4871bc9ff646c861dce41" data-source="April2027" group-title="LIVE | EREDIVISIE" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN-3.png", NL-ZG| ESPN 3 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069728.m3u8
+#EXTINF:-1 tvg-uid="43e77f6b4906e75f5e7c7d75fe4edf0d" data-source="April2027" group-title="LIVE | EREDIVISIE" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN4.png", NL-ZG| ESPN 4 ᴿᴬᵂ | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069727.m3u8
 
 
 
