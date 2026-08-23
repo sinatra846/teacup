@@ -4856,9 +4856,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="LIVE FORMULA 1",beIN Sports 3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 tvg-uid="cc8eed871ac15a97665d42790ec4efe9" data-source="Macportal1" group-title="LIVE FORMULA 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png", ┃DE┃ SKY SPORT F1 FHD DOLBY 5.1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1149421.m3u8
 
+#EXTINF:-1 tvg-uid="441dd96529b9d0dca8a515ced6a5b0a1" data-source="Macportal3" group-title="LIVE FORMULA 1" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DAZNF1.png", ES-C| DAZN F1 ᴿᴬᵂ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/2068325.m3u8
 
+#EXTINF:-1 tvg-uid="14b81223f99a08fd52ff5a98f3db6058" data-source="Macportal1" group-title="LIVE FORMULA 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png", ┃ES┃ DAZN F1 FHD HEVC | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/587368.m3u8
 
+#EXTINF:-1 tvg-uid="5df30c6cede08ea62305f94032e0d59e" data-source="Macportal3" group-title="LIVE FORMULA 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png", F1| F1 TV FHD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/317187.m3u8
 
 
 
@@ -5483,11 +5491,10 @@ https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 =======SPORTTV==========
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg",SPORTV 1
-#EXTGRP: CHANNEL | SPORTS
+#EXTINF:-1 tvg-uid="c47cb56121660da0831c5f3257e3be03" data-source="PLtaaii" group-title="CHANNEL | SPORTS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/SporTV.png",SPORTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg",SPORTV 2
 #EXTGRP: CHANNEL | SPORTS
