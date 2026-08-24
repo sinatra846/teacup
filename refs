@@ -3558,8 +3558,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=drm&x=1787451193&k=0935dc0037bb619accf92d185b0480ac55381953839b3383092f663ebf3f4920
-https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=dash&x=1787451193&k=140b4ef0e8db734428625f48bb8bd001d10a033b01d37e7c8041e6ab3c1c5d32&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=drm&x=1787623890&k=22c38fd14481adf9dab2d91870dfd62cbc0538da526613970d87cd4e2e10c527
+https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=dash&x=1787623890&k=2f6e2f8d21e0cae1af69af7460c55b3428b7845f29c3cf15148752db777fc8f4&sc=204
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
