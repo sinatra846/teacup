@@ -12981,19 +12981,58 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 025/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10", 13:00 WIB Iran v Iraq | Pool Phase | AVC Women's Continentals 2026
-https://rumble.com/live-hls-dvr/9eS2GvvIz54/playlist.m3u8
-
-#EXTINF:-1 group-title="EVENT 025/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10", 17:30 WIB Japan v Vietnam | Pool Phase | AVC Women's Continentals 2026
-https://rumble.com/live-hls-dvr/9eS2GvvIz54/playlist.m3u8
-
-================
-
 #EXTINF:-1 group-title="EVENT 025/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 23:45 WIB Sabah vs Hapoel Be'er Sheva
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 025/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 20:00 WIB Hungaria W vs Jerman W
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/jSQxqWosdQ7f/2026/8/25/12_1_22/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 025/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 20:00 WIB Hungaria W vs Jerman W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
+https://live1.quickscoreboardz.com/live/channel84.m3u8?wsSecret=dab4a125750b4e6c9d166dfc7034c6d9&wsABSTime=1787682754
+
+#EXTINF:-1 group-title="EVENT 025/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 21:00 WIB Yunani W vs Austria W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
+https://live1.quickscoreboardz.com/live/channel85.m3u8?wsSecret=79c46498fe5135337fef02e06db3da33&wsABSTime=1787682850
+
+#EXTINF:-1 group-title="EVENT 025/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 21:00 WIB Itali W vs Slovakia W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
+https://live1.quickscoreboardz.com/live/channel86.m3u8?wsSecret=b515ca4e2478417821e4e679a1f27c26&wsABSTime=1787682996
+
+#EXTINF:-1 group-title="EVENT 025/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 21:30 WIB Spanyol W vs Belanda W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
+https://live1.quickscoreboardz.com/live/channel87.m3u8?wsSecret=29f49933ecdffcfc61d82fdf9682a604&wsABSTime=1787683482
+
+#EXTINF:-1 group-title="EVENT 025/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 23:00 WIB Polandia W vs Slovenia W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
+https://player2.originpullstream.com/live/channel33.m3u8
+
+#EXTINF:-1 group-title="EVENT 026/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 00:00 WIB Republik Ceko W vs Ukraina W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
+https://live1.quickscoreboardz.com/live/channel82.m3u8?wsSecret=13eaf6b6c7636d9fedf3cf05ee9ee85b&wsABSTime=1787683590
+
+#EXTINF:-1 group-title="EVENT 026/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 00:00 WIB Swedia W vs Kroasia W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
+https://live1.quickscoreboardz.com/live/channel83.m3u8?wsSecret=70d90bfa54ac7f7eebcc582dcba847d7&wsABSTime=1787683664
+
+
+
+
+
+
+
+
+
 
 
 <=================== EVENT 2 =============================>
