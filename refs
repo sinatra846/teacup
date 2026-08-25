@@ -3595,13 +3595,6 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1787678920&k=95679a85867954088751f6e3f5f3cd348ba3e33b023500c8a45f5cfe11281e2e
 https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1787678920&k=c8029582d97475381ea4bc6755300961b5c16b1d2495ca8f0ef65162d5d649b6&sc=204
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="809.trans" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA" tvg-id="ANTV",🆕Antv (🚀8826)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=10&type=fitnah
