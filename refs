@@ -3557,8 +3557,9 @@ https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787623890&k=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=drm&x=1787623890&k=22c38fd14481adf9dab2d91870dfd62cbc0538da526613970d87cd4e2e10c527
-https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=dash&x=1787623890&k=2f6e2f8d21e0cae1af69af7460c55b3428b7845f29c3cf15148752db777fc8f4&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1787678920&k=95679a85867954088751f6e3f5f3cd348ba3e33b023500c8a45f5cfe11281e2e
+https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1787678920&k=c8029582d97475381ea4bc6755300961b5c16b1d2495ca8f0ef65162d5d649b6&sc=204
+
 
 ===EDT
 
@@ -3592,7 +3593,8 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streamvididi.tsender57.workers.dev/index.mpd?q=782&ext=dash&x=1787536433&k=622a441df2e55a4530b2421b2933f36438327bdf8768455af659e69efe7c1ac5&sc=782
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1787678920&k=95679a85867954088751f6e3f5f3cd348ba3e33b023500c8a45f5cfe11281e2e
+https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1787678920&k=c8029582d97475381ea4bc6755300961b5c16b1d2495ca8f0ef65162d5d649b6&sc=204
 
 #EXTINF:-1 tvg-id="809.trans" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA" tvg-id="ANTV",🆕Antv (🚀8826)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
