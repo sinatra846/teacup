@@ -3486,11 +3486,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDONESIANA1.png?raw=true" group-title="CHANNEL | INDONESIA" tvg-id="IndonesianaTV.id" tvg-name="03. TV Nasional 2", INDONESIANA TV
 https://tvstreamcast.com/indonesiana.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="CNN.Indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78YtG5kGQt19g0Kn6kBmKHRsicsicWnQKWA&s" group-title="CHANNEL | INDONESIA VIP",CNN Indonesia
+#EXTINF:-1 tvg-id="CNN.Indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78YtG5kGQt19g0Kn6kBmKHRsicsicWnQKWA&s" group-title="CHANNEL | INDONESIA",CNN Indonesia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
