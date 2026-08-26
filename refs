@@ -4812,9 +4812,6 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 
-
-
-
 =======================================LIVE FORMULA 1====================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | FORMULA 1
 
@@ -4841,6 +4838,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 
 #EXTINF:-1 tvg-uid="cc8eed871ac15a97665d42790ec4efe9" data-source="Macportal1" group-title="LIVE FORMULA 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png", ┃DE┃ SKY SPORT F1 FHD DOLBY 5.1
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1149421.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://object-streamo.emonaja.com/img/skysportsf1.webp" group-title="LIVE FORMULA 1", Sky Sports F1 (United Kingdom)
+https://xemzi.short.gy/2000005
 
 #EXTINF:-1 tvg-uid="441dd96529b9d0dca8a515ced6a5b0a1" data-source="Macportal3" group-title="LIVE FORMULA 1" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DAZNF1.png", ES-C| DAZN F1 ᴿᴬᵂ
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/2068325.m3u8
@@ -5037,17 +5038,17 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/559
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/228727.m3u8
 #EXTINF:-1 tvg-uid="88d82d05d45884bc52ee4e1fda538138" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport2.png", ┃BG┃ 🆕MAX SPORT 2 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/228726.m3u8
-#EXTINF:-1 tvg-uid="1587671546ce4911ff488274d00f186e" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Max-sport-3.-logo.png", 🆕┃BG┃ MAX SPORT 3 HD
+#EXTINF:-1 tvg-uid="1587671546ce4911ff488274d00f186e" data-source="Sports7November" group-title="CHANNEL | SPORTS;LIVE | SERIE A" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Max-sport-3.-logo.png", 🆕┃BG┃ MAX SPORT 3 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/228725.m3u8
-#EXTINF:-1 tvg-uid="b0c77e5d1908124d584459b7e55c4a12" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png", ┃BG┃ 🆕MAX SPORT 4 HD
+#EXTINF:-1 tvg-uid="b0c77e5d1908124d584459b7e55c4a12" data-source="Sports7November" group-title="CHANNEL | SPORTS;LIVE | SERIE A" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png", ┃BG┃ 🆕MAX SPORT 4 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/228724.m3u8
 #EXTINF:-1 tvg-uid="c5a6981b4f9b52f75b1ea385f2dc3de0" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/max-sport-1-logo%20(1).png", 🆕┃BG┃ MAX SPORT 1
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/228632.m3u8
 #EXTINF:-1 tvg-uid="e463dfda2b3bdd0a3bd9f1c0ab12c845" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport2.png", ┃BG┃ 🆕MAX SPORT 2
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/228631.m3u8
-#EXTINF:-1 tvg-uid="8b18e0bb578731f859c9fc5704d9ed1f" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Max-sport-3.-logo.png", 🆕┃BG┃ MAX SPORT 3
+#EXTINF:-1 tvg-uid="8b18e0bb578731f859c9fc5704d9ed1f" data-source="Sports7November" group-title="CHANNEL | SPORTS;LIVE | SERIE A" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Max-sport-3.-logo.png", 🆕┃BG┃ MAX SPORT 3
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/228630.m3u8
-#EXTINF:-1 tvg-uid="d81bd30bb4ffb72b815078da009b8ca6" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png", ┃BG┃ 🆕MAX SPORT 4
+#EXTINF:-1 tvg-uid="d81bd30bb4ffb72b815078da009b8ca6" data-source="Sports7November" group-title="CHANNEL | SPORTS;LIVE | SERIE A" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png", ┃BG┃ 🆕MAX SPORT 4
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/228629.m3u8
 #EXTINF:-1 tvg-uid="aeaddce9725a9b2b3e056bc80c6f75fd" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%
 
@@ -5269,111 +5270,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
-=======SKY SPORT==========
-
-
-#EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220728001048" group-title="CHANNEL | SPORTS", Sky Sports Main Event (United Kingdom)
-https://xemzi.short.gy/2000001
-
-#EXTINF:-1 tvg-name="Sky Sports Action FHD" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sky_Sports_Action_-_Logo_2026.svg/3840px-Sky_Sports_Action_-_Logo_2026.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="CHANNEL | SPORTS", Sky Sports Action (United Kingdom)
-https://xemzi.short.gy/2000011
-
-#EXTINF:-1 tvg-name="Sky Sports Mix FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1280px-Sky_Sport_Mix_Logo_2022.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="CHANNEL | SPORTS", Sky Sports Mix (United Kingdom)
-https://xemzi.short.gy/2000008
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="CHANNEL | SPORTS", Sky Sports Premier League (United Kingdom)
-https://xemzi.short.gy/2000002
-
-#EXTINF:-1 tvg-name="Sky Sports Racing FHD" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="CHANNEL | SPORTS", Sky Sports Racing (United Kingdom)
-http://opplextv.cyou:8080/nasir6160/nasir/346385
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://object-streamo.emonaja.com/img/skysportsf1.webp" group-title="CHANNEL | SPORTS", Sky Sports F1 (United Kingdom)
-https://xemzi.short.gy/2000005
-
-#EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://object-streamo.emonaja.com/img/skysportsf1.webp" group-title="CHANNEL | SPORTS", Sky Sports F1 (United Kingdom/Alt)
-http://opplextv.cyou:8080/nasir6160/nasir/346380
-
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="CHANNEL | SPORTS", Sky Sport 1 (New Zealand)
-https://pal6.short.gy/skyspt1nz
-
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="CHANNEL | SPORTS", Sky Sport 2 (New Zealand)
-https://pal6.short.gy/skyspt2nz
-
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="CHANNEL | SPORTS", Sky Sport 3 (New Zealand)
-https://pal6.short.gy/skyspt3nz
-
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="CHANNEL | SPORTS", Sky Sport 4 (New Zealand)
-https://pal6.short.gy/skyspt4nz
-
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="CHANNEL | SPORTS", Sky Sport 5 (New Zealand)
-https://pal6.short.gy/skyspt5nz
-
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="CHANNEL | SPORTS", Sky Sport 6 (New Zealand)
-https://pal6.short.gy/skyspt6nz
-
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="CHANNEL | SPORTS", Sky Sport 7 (New Zealand)
-https://pal6.short.gy/skyspt7nz
-
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="CHANNEL | SPORTS", Sky Sport Premier League (New Zealand)
-https://pal6.short.gy/skyspt8nz
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="CHANNEL | SPORTS", Sky Sports Premier League
-https://xemzi.short.gy/2000002
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="CHANNEL | SPORTS", Sky Sports Premier League (Alternative)
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
-
-#EXTINF:-1 tvg-name="Sky Sports Racing FHD" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="CHANNEL | SPORTS", radio="false", Sky Sports Racing
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47872
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://object-streamo.emonaja.com/img/skysportsf1.webp" group-title="CHANNEL | SPORTS", Sky Sports F1
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47865
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://object-streamo.emonaja.com/img/skysportsf1.webp" group-title="CHANNEL | SPORTS", Sky Sport F1
-http://ott.premium-tv.org:80/live/wonton57/874893/89667.m3u8
-
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/960px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="CHANNEL | SPORTS", Sky Sport MotoGP (Italy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXT-X-STREAM-INF:BANDWIDTH=28000000
-http://ott.premium-tv.org:80/live/wonton57/874893/89662.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/skysports.png" group-title="CHANNEL | SPORTS", Sky Sports Live 1 (Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/skysports.png" group-title="CHANNEL | SPORTS", Sky Sports Live 2 (Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
-https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/skysports.png" group-title="CHANNEL | SPORTS", Sky Sports Live 4 (Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
-https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/skysports.png" group-title="CHANNEL | SPORTS", Sky Sports Live 5 (Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-https://nog-live1-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
-
-EXTINF:-1 tvg-name="Sky Sports Bundesliga" tvg-logo="https://object-streamo.emonaja.com/img/skysports.png" group-title="CHANNEL | SPORTS" Sky Sports Bundesliga (Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
-
-
 =======TSN==========
 
 
@@ -5399,7 +5295,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/e8f64cde509e90db805c59e5d3d92855f6d4fa6a172f984c597e6063820b58de.jpg" group-title="CHANNEL | SPORTS", DSPORTS
+#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/e8f64cde509e90db805c59e5d3d92855f6d4fa6a172f984c597e6063820b58de.jpg" group-title="CHANNEL | SPORTS;LIVE | LALIGA", DSPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
@@ -5409,40 +5305,40 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1
 =======DIGI==========
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS",DIG1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL",DIG1
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS",DIG2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL",DIG2
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS",DIG3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL",DIG3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS",DIG4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL",DIG4
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig4.m3u8
 
 
 =======PRIMA==========
 
 
-#EXTINF:-1 tvg-url="" tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="CHANNEL | SPORTS" ,Prima Sport 1 
+#EXTINF:-1 tvg-url="" tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="CHANNEL | SPORTS;LIVE | UCL" ,Prima Sport 1 
 #EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 tvg-url="" tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="CHANNEL | SPORTS" ,Prima Sport 2 
+#EXTINF:-1 tvg-url="" tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="CHANNEL | SPORTS;LIVE | UCL" ,Prima Sport 2 
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
-#EXTINF:-1 tvg-url="" tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="CHANNEL | SPORTS",Prima Sport 3 
+#EXTINF:-1 tvg-url="" tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="CHANNEL | SPORTS;LIVE | UCL",Prima Sport 3 
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
-#EXTINF:-1 tvg-uid="d4c5136dc5718daadcc48c4c3737fa30" data-source="Plusthailand" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a3/Prima_Sport_4_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/120?cb=20240205123200" group-title="CHANNEL | SPORTS",Prima Sport 4
+#EXTINF:-1 tvg-uid="d4c5136dc5718daadcc48c4c3737fa30" data-source="Plusthailand" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a3/Prima_Sport_4_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/120?cb=20240205123200" group-title="CHANNEL | SPORTS;LIVE | UCL",Prima Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 
-#EXTINF:-1 tvg-uid="31be5e0e53268d50161afefd1445d126" data-source="Plusthailand" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f2/Prima_Sport_5_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/120?cb=20240205123646" group-title="CHANNEL | SPORTS",Prima Sport 5
+#EXTINF:-1 tvg-uid="31be5e0e53268d50161afefd1445d126" data-source="Plusthailand" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f2/Prima_Sport_5_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/120?cb=20240205123646" group-title="CHANNEL | SPORTS;LIVE | UCL",Prima Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
@@ -5855,9 +5751,6 @@ https://cdn-seachange-prod-01.vos360.video/Content/DASH/Live/channel(b3278dd9-ff
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/60/c9/6d/60c96d90e35914c87f4f7c856ebdb297.jpg" group-title="CHANNEL | SPORTS",Rai Sport
 
-
-
-
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", Hbo Boxing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5904,12 +5797,8 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/894438.m3u8
 
 
-
-
-
-
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", Solcalcio
-https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
+https://it.ly/48XfUCc?profile=inspirationFreetv.m3u8
 
 
 
@@ -6408,9 +6297,6 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=
 
 
 
-
-
-
 =====================================LIVE | LIGA JERMAN========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA JERMAN
 
@@ -6537,8 +6423,6 @@ http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&e
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312824.m3u8
 #EXTINF:-1 tvg-uid="475847b28f752da4bb48e4f6f7f2c779" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312835.m3u8
-#EXTINF:-1 tvg-uid="dd2a03c0b71b9ff1d6bb8bacbc17d48d" data-source="TV_Amrik" tvg-chno="154" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://images.open-epg.com/x467.png" group-title="LIVE | LIGA INGGRIS",Sky Sports Premier League
-https://restream-live.realiptv.to/09145054/65339468/102182
 #EXTINF:-1 tvg-uid="74dce21a1f0c136777a2b21212a1e5a4" data-source="Plusthailand" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="LIVE | LIGA INGGRIS",⚽SKY premier league
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
 #EXTINF:-1 tvg-uid="939d6b212ea0af97b7f755f73e64fa84" data-source="Vietnamch2" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League FHD
@@ -6563,8 +6447,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/131
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/396881.m3u8
 #EXTINF:-1 tvg-uid="028f77349570bf7d0dcd739a94597de9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT PREMIER LEAGUE HD.png", ┃NZ┃ SKY SPORT PREMIER LEAGUE HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/809372.m3u8
-#EXTINF:-1 tvg-uid="a0c1f9b97615add6b96ffac2ddb1c69d" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/SPORTS/SUPERSPORT PREMIER LEAGUE HD.png", ┃AF┃ SUPERSPORT PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/459868.m3u8
 #EXTINF:-1 tvg-uid="46e89451c166377cca6f29cfeeb2f00a" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png", ┃SPORTS┃ STAR SPORTS SELECT 1 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373202.m3u8
 #EXTINF:-1 tvg-uid="6971b13878a4c980a5228eb5d85952b9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png", ┃SPORTS┃ STAR SPORTS SELECT 2 HD
@@ -6582,15 +6464,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1559
 #EXTINF:-1 tvg-uid="6924a48543772129d8220ed19c2ae0bb" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/282676.m3u8
 
-#EXTINF:-1 tvg-uid="6aa1149949b040fc46501dfd9267aa5e" data-source="Cdnsports" tvg-name="TNT Sports 1 FHD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="LIVE | LIGA INGGRIS",TNT Sports 1 FHD UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODc0MDkxNDI2MzU6Y2RubGl2ZXR2LnR2OmU0NjBjNDJiYTdhNWM0ZDMuNjRkZWVkYzMzN2VjNWM4MGNlYjRlZmM4N2NiMjE3MTUyYTFiMjQ5MDFjNDUyYWQ1NmQwNzBjYTIyMjhlMmNiOA
-
-#EXTINF:-1 tvg-uid="64485a4761d7ae824041d805399f7468" data-source="Cdnsports" tvg-name="TNT Sports 1 HD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="LIVE | LIGA INGGRIS",TNT Sports 1 HD UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc343/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQzOjE3ODc0MDkxNDI2NTk6Y2RubGl2ZXR2LnR2OmQxYzc1ZDg2ODdkODVhNTguMzlhZmE4NzA0Mjg0MTVlYjE5ZTQzZDkzMDU5NTNmMjY0MzAxYTRiM2YyYmI0MTIxMWI1NmQzMWM2MTBkNDExZg
 
 
 
@@ -6625,24 +6498,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069
 
 ==============================================LIVE | UCL============================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | UCL
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="beIN Sports" tvg-logo="https://iili.io/JhkLZXa.png" group-title="LIVE | UCL", beIN Sports 1 ID
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="beIN Sports 2" tvg-logo="https://iili.io/JhkQ9dN.png" group-title="LIVE | UCL", beIN Sports 2 ID
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="beIN Sports 3" tvg-logo="https://iili.io/JhkQCrl.png" group-title="LIVE | UCL", beIN Sports 3 ID
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="LIVE | UCL" tvg-id="" tvg-logo="https://media.suara.com/pictures/970x544/2025/03/07/92764-logo-liga-champions.jpg", UCL 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
