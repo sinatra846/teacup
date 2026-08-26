@@ -3583,7 +3583,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕SCTV (🚀204 v4)
+EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕SCTV (🚀204 v4)
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 ###https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
