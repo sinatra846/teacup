@@ -3340,7 +3340,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 ##http://165.99.194.31:5555/stream/channelid/581358214?profile=pass
 
-#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV - Server 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" ch-number="6" group-title="CHANNEL | INDONESIA",🆕 TRANS 7 (🚀801 v0)
+###EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV - Server 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" ch-number="6" group-title="CHANNEL | INDONESIA",🆕 TRANS TV (🚀801 v0)
+##https://bigdickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
+
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV - Server 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" ch-number="6" group-title="CHANNEL | INDONESIA",🆕Trans TV  (🚀801 v0)
 https://bigdickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
 
 #EXTINF:-1 tvg-id="800.trans" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" ch-number="6" group-title="CHANNEL | INDONESIA",Trans TV  (🆕 🚀802 v1)
