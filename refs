@@ -3554,8 +3554,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=drm&x=1787830754&k=dd4608523ee61fe9f34eff9dc37cb16b4cadef868fcd21d7d4c29958720e5c9f
-https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787830754&k=9d0675d4fdcaffab53accb69d689404e3d664ac449319b14a94a4cb895476d45&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=drm&x=1787843133&k=cbb375c28ce4f638495203149d8f2c038a4ab73d8238b33b97e1011d42bb1cb0
+https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1787843133&k=781b1ea5e287ae48e6fd1ce9224282714ec3ad70c5b92fb8e245e9f8c6c8c56e&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV (🚀204 v1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -3597,8 +3597,22 @@ https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vididi.bonetvstream.workers.dev/index.mpd?q=782&ext=dash&x=1787830754&k=78c29952f2c9fbc3ad063e193fbeaa0496c24d34482943773d6c85d819265390&sc=782
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="809.trans" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA" tvg-id="ANTV",🆕Antv (🚀782 V1)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
