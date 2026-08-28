@@ -4266,11 +4266,6 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 #EXTM3U url-tvg="https://akariko−bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
-https://akariko−bck1.sankuria.sbs/novid/hls/radio_stream.m3u8
-#EXTINF:-1 group-title="Information" tvg-logo="",This is a relay playlist
-https://akariko−bck1.sankuria.sbs/novid/hls/radio_stream.m3u8
-
 #EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 #EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
@@ -4290,7 +4285,58 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
 #EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tokyomx2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png",Tokyo MX2
 https://akariko−bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
-
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bstbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bstvtokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bs10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",BS 10
+https://akariko−bck1.sankuria.sbs/stream/jp/bs10/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bs11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
+https://akariko−bck1.sankuria.sbs/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bs12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
+https://akariko−bck1.sankuria.sbs/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BS4K
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowprime.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif",WOWOW Prime 
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowcinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif",WOWOW Cinema
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowlive.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif",WOWOW Live
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bs10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif",BS 10 Premium
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs242.gif",JSport 1
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs243.gif",JSport 2
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports3.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs244.gif",JSport 3
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports4.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs245.gif",JSport 4
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="greenchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",Green Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="animax.in" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs236.gif",Animax
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nihoneigasenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif",Nihon Eiga Senmon
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="fishingvision.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",Fishing Vision
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",WOWOW Plus
+https://akariko−bck1.sankuria.sbs/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="disneychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif",Disney Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png",Jcom BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
+https://akariko−bck1.sankuria.sbs/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
 
 
 
