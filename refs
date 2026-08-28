@@ -5016,6 +5016,13 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
+#EXTINF:-1 tvg-uid="e21c89d5c326e016ac16a43faf8a3960" data-source="Sports7November" group-title="LIVE | MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", ┃DE┃ SKY SPORT TOP EVENT FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1149434.m3u8
+
+
+
+
+
 
 
 
@@ -5599,8 +5606,8 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 
 
-=========================================== SPORTS======================================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_000000007b388230be6d90d7cf1d6b6a.png?raw=true",CHANNEL | GOLF
+=========================================== G0LF======================================================
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_000000007b388230be6d90d7cf1d6b6a.png?raw=true",CHANNEL | G0LF
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -5629,6 +5636,26 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/Champio
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
 https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
+
+#EXTINF:-1 tvg-uid="31a9db0a13e8809f12ac76d331160ce9" data-source="Sports7November" group-title="CHANNEL | GOLF" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT GOLF.png", ┃DE┃ SKY SPORT GOLF FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1149429.m3u8
+#EXTINF:-1 tvg-uid="fef1cf5c473bccdbfb6fa8806312f6d1" data-source="Sports7November" group-title="CHANNEL | GOLF" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS GOLF.png", ┃UK┃ SKY SPORTS GOLF HEVC FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312032.m3u8
+#EXTINF:-1 tvg-uid="29f5144d24a545f2ddf9958419b22ecf" data-source="Sports7November" group-title="CHANNEL | GOLF" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTACTION.png", ┃IT┃ SKY SPORT GOLF HEVC
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167170.m3u8
+#EXTINF:-1 tvg-uid="d772e9cfa1541f716c445b79f4239915" data-source="Sports7November" group-title="CHANNEL | GOLF" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTACTION.png", ┃IT┃ SKY SPORT GOLF FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/240463.m3u8
+
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="NBC GOLF CHANNEL" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/03/golf-channel-lpga-logo.png" group-title="CHANNEL | GOLF",🆕NBC GOLF CHANNEL(257)
+http://bgdc.live:25461/joak18@yahoo.com/5643956/37730
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/03/golf-channel-lpga-logo.png" group-title="CHANNEL | GOLF",🆕GOLF CHANNEL 🇸🇰(257)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+
+
 
 
 =======DAZN==========
