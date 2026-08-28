@@ -4724,12 +4724,14 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Moj.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tv.canal86.my.id/emtekhd/stream.m3u8?id=7619&type=hls&e=1785750917&s=c9f7914117f163348927bc9c361b36a24d1a001baa18737563085a89ff8197b0
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png" x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJVQQ8DlXIP7DyipmYFAbqHy3vuXf2IMwdmbaZoCBKEItRVzB-872Axc_xiCMLPrUDkRS6OiE2fNDU5s5KdIKwka0MbnAi4awjUJ42JVf8jIQZgR4VQIYwYBCOQYxsQ3ieu8yC1Tt2GCdkAWBbZrEttQ4U8i4lomwnI_LEMR5IBKiiWi3To-3jU3k_2iht/s700/MUSIC%20TV.png" group-title="CHANNEL | MUSIC" x-source="GEulis TV" ,MUSIC TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/musictv.png" group-title="CHANNEL | MUSIC",Musik TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="CHANNEL | MUSIC", MIC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/mictv.png" group-title="CHANNEL | MUSIC",MIC TV
 https://mic.siar.us/mic/live/playlist.m3u8
-http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
 #EXTINF:-1 tvg-uid="6bfca52c8fb133437ce97410ea03ce8b" data-source="TV_Amrik" tvg-chno="97" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="CHANNEL | MUSIC",MTV USA
 http://23.237.104.106:8080/USA_MTV/index.m3u8
@@ -4755,7 +4757,6 @@ https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/
 https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
 
 EXTINF:-1 tvg-id="MTVLive.id" tvg-name="MTV Live" tvg-logo="https://mimipipi22.github.io/logo/music/mtvlive.jpg" group-title="CHANNEL | MUSIC",
 MTV LIVE
@@ -7677,9 +7678,11 @@ https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gdy1nf8.png?v=1.0.0.1" group-title="CHANNEL | KNOWLEDGE" tvg-id="403" tvg-name="Crime + Investigation HD", Crime + Investigation HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd|Referer=https://www.visionplus.id
 
-
-EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png" group-title="CHANNEL | KNOWLEDGE",Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f2/95/cc/f295cc1b6543904e3db5d450a8749577.jpg" group-title="CHANNEL | KNOWLEDGE", Naturescape 
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/3291200/manifest.m3u8
