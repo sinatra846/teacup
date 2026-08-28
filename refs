@@ -3554,8 +3554,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=drm&x=1787883053&k=f6bdc6326852c314071da94252fe358e588b4c3e0bbbcb021d289f1f04c82516
-https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1787883053&k=98ab93cf197c7944d5fa3681c36077d1e9d9682d92e81ee8bc2d8d3a953cdbd7&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=drm&x=1787900181&k=b5665071a69b7da4535d1136314b64ea9d9881143c2173d02dc0aa998098d78f
+https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1787900181&k=1b784705f8f15fd7d68b791e6e278d82b14ede9ff0ec707fe37e761c460ae9cf&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV (🚀204 v1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -3563,8 +3563,8 @@ https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1787883053&k=98a
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1787883053&k=ba8fff2af99f1b93d65e336217476b5efc52c0e33601657cc7bb418f78f2d99b
-https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1787883053&k=12142b77b438e8f9e9001d5f3aee79f8d8d8f0f9d233decd1d187793bbc80a4f&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1787900181&k=57773e589cf34ef283bbbd68187d072d5bc20f5cfe87ff79776cb4091581c32e
+https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1787900181&k=08f41ffa9738915e6f135cf9e9d8dda45a2106855dec93ead740032bc00d3260&sc=204
 
 ===EDT
 
