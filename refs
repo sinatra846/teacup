@@ -4235,10 +4235,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="CHANNEL | SINGAPORE",Oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
-##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mediacorp_flat_logo_%282015%29.svg" group-title="CHANNEL | SINGAPORE",Mediacorp Entertainment Chinese (Singapore)
-##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mediacorp_flat_logo_%282015%29.svg" group-title="CHANNEL | SINGAPORE", Mediacorp Entertainment - English (Singapore)
-##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mediacorp_flat_logo_%282015%29.svg" group-title="CHANNEL | SINGAPORE", Mediacorp Entertainment - Tamil (Singapore)
-
 
 ===================
 
@@ -4256,6 +4252,44 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
 EXTINF:-1 group-title="CHANNEL | SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="http://www.2456788.com/tvicon/spotv.png",SPORT 2 (SGP)
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+
+
+
+
+
+
+//========================================================================
+//Collected by andra|sinatra menampilkan playlist >>> CHANNEL | JAPAN 
+//========================================================================
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_HBO.png?raw=true",group-title="CHANNEL | JAPAN
+
+#EXTM3U url-tvg="https://akariko−bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
+https://akariko−bck1.sankuria.sbs/novid/hls/radio_stream.m3u8
+#EXTINF:-1 group-title="Information" tvg-logo="",This is a relay playlist
+https://akariko−bck1.sankuria.sbs/novid/hls/radio_stream.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joaxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",NTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joexdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",TV Asahi
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jorxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jotxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",TV Tokyo
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jocxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",Fuji TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tokyomx1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",Tokyo MX1
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tokyomx2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png",Tokyo MX2
+https://akariko−bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+
 
 
 
@@ -6328,47 +6362,23 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=
 
 
 
-=====================================LIVE | LIGA JERMAN========================================================================
+=====================================LIVE | BUNDESLIGA========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA JERMAN
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | LIGA JERMAN", CH 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-uid="cabff78b4d3dde7041c3d611b97f1978" data-source="Sports7November" group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", ┃FI┃ V SPORT 1 HD | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/244121.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | LIGA JERMAN", CH 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Lije/Bun7.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | LIGA JERMAN", CH 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Lije/Bun8.m3u8
+#EXTINF:-1 tvg-uid="246eaa249ae4fc4609dc3f88677395bc" data-source="Sports7November" group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", ┃FI┃ VIASAT SPORT PREMIUM HD | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/244128.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | LIGA JERMAN", CH 4
+#EXTINF:-1 tvg-uid="7558fd66e20016f2ad554cd89feca1b2" data-source="Mac Portal 5" group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", GR| NOVASPORT 3 UHD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/534449.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3YgKhAMGlkn_9DFUR74KdIPl4oi-qpXTaiLrOa_630grs2jqRjkRd9BI&s=10" group-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | BUNDESLIGA",BUNDESLIGA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | LIGA JERMAN", CH 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
-
 
 
 
@@ -6447,6 +6457,10 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/827
 
 ======================= LIVE | LIGA INGGRIS ====================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA INGGRIS
+
+
+#EXTINF:-1 tvg-expire="1787884800" tvg-start="1787868000" tvg-uid="0e547e2f09c23219dd055e30add99976" data-source="Macportal6" group-title="🔴 🔴 LIVE EVENT NOW 3 | BONE TV" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", 🔴 LIVE (05:00 WIB | 28-08-2026) Stars of the Open US Open 2026 | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1909971-m8hfdt4h.m3u8
 
 #EXTINF:-1 tvg-uid="b06d5186c9a546c7a36eaf8c143548e7" data-source="VietnamCH" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
