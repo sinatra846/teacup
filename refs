@@ -4403,7 +4403,6 @@ EXTVLCOPT:http-referrer=https://maxstream.tv/
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
-
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Hits" group-title="CHANNEL | HBO GRUB" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
@@ -4425,7 +4424,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#EXTINF:-1 tvg-id="CINEMAX" group-title="CHANNEL | HBO GRUB" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX" group-title="CHANNEL | HBO GRUB" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",Cinemax
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 
@@ -4445,19 +4444,19 @@ http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5RbceB29EejRfcxXmhZoaQo/m3u8
 
 ========================
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="CHANNEL | HBO GRUB", HBO ID (1️⃣✅)
+#EXTINF:0 tvg-logo="https://iili.io/Ju79f8g.png" group-title="CHANNEL | HBO GRUB", HBO ID (1️⃣✅)
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="CHANNEL | HBO GRUB", HBO Family ID (1️⃣✅)
+#EXTINF:0 tvg-logo="https://iili.io/Ju79otR.png" group-title="CHANNEL | HBO GRUB", HBO Family ID (1️⃣✅)
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="CHANNEL | HBO GRUB", HBO Hits ID (1️⃣✅)
+#EXTINF:0 tvg-logo="https://iili.io/Ju79nwv.png" group-title="CHANNEL | HBO GRUB", HBO Hits ID (1️⃣✅)
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="CHANNEL | HBO GRUB", HBO Signature ID (1️⃣✅)
+#EXTINF:0 tvg-logo="https://iili.io/Ju79IMN.png" group-title="CHANNEL | HBO GRUB", HBO Signature ID (1️⃣✅)
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="CHANNEL | HBO GRUB", Cinemax ID (1️⃣✅)
+#EXTINF:0 tvg-logo="https://iili.io/Ju79IMN.png" group-title="CHANNEL | HBO GRUB", Cinemax ID (1️⃣✅)
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
 
 
