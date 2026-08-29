@@ -6714,11 +6714,6 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 ############ INDIHOME #################################################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MAXTRIMC_1.png?raw=true",CHANNEL | MAXTRIM
 
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0
-#EXTINF:-1 tvg-id="discovery_asia" group-title="CHANNEL | MAXTRIM" tvg-url="" group-logo="" tvg-logo="https://images.maxstream.tv//sites/default/files/entry/0_nhmzmt8u/landscape_carousel_hdpi.webp",HBO
-https://tencent-css-live.byteplaycdn.com/vos/DASH/discoveryasia/manifest.mpd?encp=aghmliYDaQ0_4btYT-Ccjw&uid=&expp=1787976125
-
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="CHANNEL | MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
