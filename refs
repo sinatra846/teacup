@@ -13070,7 +13070,7 @@ EXTINF:-1 tvg-uid="c2060037aa054aa12d3d1d240bfa2ba7" data-source="VolleyballChuo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
 
-#EXTINF:-1 group-title="EVENT 028/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10", 18:30 WIB China v Vietnam | Playoffs | AVC Women's Continentals 2026
+EXTINF:-1 group-title="EVENT 028/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10", 18:30 WIB China v Vietnam | Playoffs | AVC Women's Continentals 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
 https://live2.gigabitdelivery.com/live/channel33.m3u8
@@ -13104,7 +13104,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 <====================LIVE EVENT 2================================
 EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 029/AGUSTUS/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Crystal Palace vs Manchester City
+EXTINF:-1 group-title="EVENT 029/AGUSTUS/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Crystal Palace vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
