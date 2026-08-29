@@ -13090,6 +13090,19 @@ https://live2.gigabitdelivery.com/live/channel33.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
+#EXTINF:-1 tvg-expire="1788020400" tvg-start="1788002400" tvg-uid="43f4bf7ed0d99cbb3dc1b27974fd6076" data-source="Macportal6" group-title="EVENT 029/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", CH 1 (18:20 WIB | 29-08-2026) Liverpool v Nottingham Forest Premier League Matchweek 2 2026/2027
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1909966-d30zzp9d.m3u8
+#EXTINF:-1 tvg-expire="1788017400" tvg-start="1787999400" tvg-uid="19cb59ae6931f008a583fd8368de982a" data-source="Macportal6" group-title="EVENT 029/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", CH 2 🔴 LIVE (17:30 WIB | 29-08-2026) Liverpool v Nottingham Forest Premier League Matchweek 2 2026/2027
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1909968-d30zzp9d.m3u8
+#EXTINF:-1 tvg-expire="1788019200" tvg-start="1788001200" tvg-uid="48532e5ffa3fcd3b7ca5d2a5d6fc950e" data-source="Macportal6" group-title="EVENT 029/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",CH 3 🔴 LIVE (18:00 WIB | 29-08-2026) LIVERPOOL V NOTTINGHAM FOREST | SE: PLAY+ PPV 8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/2021240-d30zzp9d.m3u8
+#EXTINF:-1 tvg-expire="1788016200" tvg-start="1787998200" tvg-uid="cb7f711d23495c0dc4273569df5f124f" data-source="Macportal6" group-title="EVENT 029/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",CH 4 🔴 LIVE (17:10 WIB | 29-08-2026) LIVERPOOL VS. NOTTINGHAM FOREST | BR: DISNEY+ PPV 10
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/2070624-d30zzp9d.m3u8
+#EXTINF:-1 tvg-expire="1788017400" tvg-start="1787999400" tvg-uid="19cb59ae6931f008a583fd8368de982a" data-source="Macportal6" group-title="EVENT 029/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",CH 5🔴 LIVE (17:30 WIB | 29-08-2026) Liverpool v Nottingham Forest Premier League Matchweek 2 2026/2027
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1909968-d30zzp9d.m3u8
+#EXTINF:-1 tvg-expire="1788019200" tvg-start="1788001200" tvg-uid="48532e5ffa3fcd3b7ca5d2a5d6fc950e" data-source="Macportal6" group-title="EVENT 029/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",CH 6 🔴 LIVE (18:00 WIB | 29-08-2026) LIVERPOOL V NOTTINGHAM FOREST | SE: PLAY+ PPV 8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/2021240-d30zzp9d.m3u8
+
 #EXTINF:-1 group-title="EVENT 029/AGUSTUS/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Coventry City vs Hull City
 #EXTINF:-1 group-title="EVENT 029/AGUSTUS/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB AFC Bournemouth vs Everton
 
