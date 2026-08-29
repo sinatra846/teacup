@@ -13091,11 +13091,11 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 EXTINF:-1 tvg-expire="1788030000" tvg-start="1788012000" tvg-uid="18e912c8c5723c922f6d9eb43f66dfc8" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/hull-city/logo.webp" group-title="EVENT 029/AGUSTUS/2026",[🔴 LIVE] [21:00 WIB] [PREMIER LEAGUE] Hull City - Coventry City [CH 1]
 https://dz5.bhalocast.pro:7059/hls/spch78.m3u8?md5=4wO5UJ9q-V9WGMWkmtxDAw&expires=1788015985&ch=spch78&s=d612537ad6cb630a4b284cc007faf707|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-expire="1788030000" tvg-start="1788012000" tvg-uid="dbff29db943be7c1d1a2f00814230c7b" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/hull-city/logo.webp" group-title="EVENT 029/AGUSTUS/2026",[🔴 LIVE] [21:00 WIB] [PREMIER LEAGUE] Hull City - Coventry City [CH 2]
+EXTINF:-1 tvg-expire="1788030000" tvg-start="1788012000" tvg-uid="dbff29db943be7c1d1a2f00814230c7b" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/hull-city/logo.webp" group-title="EVENT 029/AGUSTUS/2026",[🔴 LIVE] [21:00 WIB] [PREMIER LEAGUE] Hull City - Coventry City [CH 2]
 https://dz5.bhalocast.pro:7059/hls/epl02.m3u8?md5=qBbx8KSzlYnKdgiioicakw&expires=1788015990&ch=epl02&s=b291cb54d39a23ec7b04dcfbc1885a47|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 EXTINF:-1 group-title="EVENT 029/AGUSTUS/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Coventry City vs Hull City
-#EXTINF:-1 group-title="EVENT 029/AGUSTUS/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB AFC Bournemouth vs Everton
+EXTINF:-1 group-title="EVENT 029/AGUSTUS/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB AFC Bournemouth vs Everton
 
 EXTINF:-1 group-title="EVENT 029/AGUSTUS/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB Tottenham Hotspur vs Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -13233,14 +13233,6 @@ EXTINF:-1 group-title="EVENT 030/AGUSTUS/2026" tvg-logo="https://shorter.me/3gy7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-
-
-
-
-
-
-
-
 
 
 
