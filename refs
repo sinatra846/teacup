@@ -13593,38 +13593,28 @@ https://pixeldrain.com/api/file/xDtZjqYB?download
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
 #EXTM3U
-#EXTINF:-1 tvg-id="cao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMIRSOYGu6ib_BjA8Wqd0AWqpm0AkWWnNIg&s" group-title="VOD | ACTION MOVIE",CARRY ON
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/CARRY%20ON.m3u8
-#EXTINF:-1 tvg-id="pptmt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR05hFAhB9n89eI5_vhdPH6cu9K7PLbKRSwFnHWEi-SnCPeCkA-7I51dl4a&s=10" group-title="VOD | ACTION MOVIE",PANDA PLAN: THE MAGICAL TRIBE (2026)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PANDA%20PLAN_%20THE%20MAGICAL%20TRIBE%20(2026).m3u8
-#EXTINF:-1 tvg-id="srloh" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQxZmEzMzYtODM5MC00NTFhLTk4NTItMmNmNDhiNTMxMGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",STORM RIDER: LEGEND OF HAMMERHEAD (2026)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/STORM%20RIDER_%20LEGEND%20OF%20HAMMERHEAD%20(2026).m3u8
-#EXTINF:-1 tvg-id="auto.thedakota" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDqhy8tKVhCtHfJeM3GV2jn8qQOMrJaKBngNxg1Y44A&s=10" group-title="VOD | ACTION MOVIE",THE DAKOTA WAR: CHASE
-https://pixeldrain.com/api/file/X7g3HcoP?download
-
-EXTINF:-1 tvg-id="auto.theywhill" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/00/They_Will_Kill_You_film_poster.jpg" group-title="VOD | ACTION MOVIE",THEY WILL KILL YOU
-https://pixeldrain.com/api/file/mL9Piobo?download
-
-#EXTINF:-1 tvg-id="TSS" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/9f250021-aa61-360b-9af3-76656acb6d38.jpeg" group-title="VOD | ACTION MOVIE",THE SUICIDE SQUAD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f93d3fdd-a525-418d-8d0a-1177b50c6225&sub=t23
-
-EXTINF:-1 tvg-id="SS" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/12/2d077460-3a16-30eb-a911-f372f13e6604.jpeg" group-title="VOD | ACTION MOVIE",SUPERMAN RETURNS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=593f91d3-e760-49e2-874f-5be5161663d3&sub=t2
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-spider-man-brand-new-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Brand New Day
+https://stream.playcdn.de/playlist/ea1f84dda9d31504bca5afa472a164e7/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-last-house-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Last House
+https://stream.playcdn.de/playlist/68f667c7c0983affb36dd442c6731c6f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-evil-dead-burn-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Evil Dead Burn
+https://stream.playcdn.de/playlist/d4b97ce3101a7e607a267009c48ed80d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-colony-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Colony
+https://stream.playcdn.de/playlist/376543dc6374ddd87ece2c873c4e17ab/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: No Way Home
+https://stream.playcdn.de/playlist/dafb4188069455ca5f34bb36cfbb8570/11/480.m3u8
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Endgame
+https://stream.playcdn.de/playlist/153ea0ec867efae5398835a787407b6d/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lucky-strike-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lucky Strike
+https://stream.playcdn.de/playlist/09f0e27f57cd4f6201a7c0d6b77a0e79/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2018/05/film-avengers-infinity-war-2018.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Infinity War
+https://stream.playcdn.de/playlist/3c263196bf30ea494572b60e30045587/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-isolate-thief-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Isolate Thief
+https://stream.playcdn.de/playlist/14541b66b4c057402ceb374e2d09e12f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-toy-story-5-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Toy Story 5
+https://stream.playcdn.de/playlist/c4cc52ec309068faa3b4eaef99d3628c/2/480.m3u8?x=1
 
 =================err=================
-
-
-
 
 
 
