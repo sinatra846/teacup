@@ -3562,16 +3562,16 @@ http://103.172.187.30:80/play/u9llyoKSGKK1GVWDBfWH9Az8rx72M0_ZzjagtFzTPbI/m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1788091760&k=4b7f211d37e0a4ac6d2b61802c0a21939124f42e6f6db3fdb2e35e54b4e5bc84
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1788091760&k=715b32fc07625057a44364328567cafea7f7eb6d0e28c9fb166c4aa7ffc28a4e&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1788096983&k=696257c49945762ae26783319a40adf7840f325688a062dc3df4c80d3d1bd892
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1788096983&k=bbf0436696b5fef922ffa4e92303f7792a404a6814acdea170f114192ff9442e&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV (🚀204 v1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=drm&x=1788091760&k=b31209b61a6650db48e6591bc60b0cb5cd2f7add679c983a51c55f5beb5f570c
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1788091760&k=5a1cb032df82baf675e73ded3dd77ccf09c9b854573784ea76e95ee4879c851d&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=drm&x=1788096983&k=15fc3bc5a83a20857d5496af820571c57b0bf0fe5734437f35e2a6b12311280b
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1788096983&k=f1561877fadecd35f5d1214044fbaf477a2fe2702e5d3883abe54d44004bbc96&sc=204
 
 ===EDT
 
@@ -3605,7 +3605,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=782&ext=dash&x=1788091760&k=40be1adc9376f9ec94b32e1dcff20365d76fa9fdf18aa1311f3ec91818d5ab23&sc=782
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=782&ext=dash&x=1788096983&k=7ae3c85ea5ebc700799cd1b8d79b2ef817eef962cb02494fa272fd69abf3779e&sc=782
 
 #EXTINF:-1 tvg-id="809.trans" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA" tvg-id="ANTV",🆕Antv (🚀782 V1)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3631,7 +3631,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=783&ext=dash&x=1788091760&k=cf5213b58e2b6f52cec69c13742bfcb29b1893621538aee848fe6eb0dbdfec1b&sc=783
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=783&ext=dash&x=1788096983&k=3a1344af75b5556aad3e01e92f62181e3ed85e4339cd914667d58110e37e0c05&sc=783
 
 EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png" group-title="CHANNEL | INDONESIA" x-source="Apple TV update" tvg-id="TVRI - [Channel 118].id" , TVRI
 #KODIPROP:inputstream=inputstream.ffmpegdirect
