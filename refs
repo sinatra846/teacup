@@ -3325,9 +3325,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV - Server 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" ch-number="6" group-title="CHANNEL | INDONESIA",🆕Trans TV  (🚀801 v0)
 https://bigdickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
 
-###EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true",🆕 TRANS 7 (🚀801 v01)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true",🆕 TRANS 7 (🚀801 v01)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-##http://165.99.194.31:5555/stream/channelid/314965130?profile=pass
+http://165.99.194.31:5555/stream/channelid/314965130?profile=pass
+
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="INDONESIA TV",🆕 TRANS 7 (🚀801 v02)
+http://ktpremium.world:2095/live/xm1001/4757410/73609.m3u8
+###https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="801.trans" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 TRANS 7 (🚀801 v1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -3351,7 +3356,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7 - Server 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 TRANS 7 (🚀801 v01)
+###EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7 - Server 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 TRANS 7 (🚀801 v01)
 https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
 
 ----
@@ -3512,6 +3517,14 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
+###EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+###EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+#EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",VIVA TV (TS)
+###http://wakhaji.biz.id/hls/hls-oxygen.php?id=vtv
+###https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
+http://202.169.224.202:8800/udp/239.9.1.39:1234
+
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/OXYGEN%20TV.png?raw=true" group-title="CHANNEL | INDONESIA",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
@@ -3558,7 +3571,14 @@ http://103.172.187.30:80/play/u9llyoKSGKK1GVWDBfWH9Az8rx72M0_ZzjagtFzTPbI/m3u8
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar - Server 3" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (🚀8826 V001)
 https://bigdickgital.semar26.xyz/fetch?id=idigital.m3u8&auth=idgtlsemar25
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ptGBYoy.jpeg" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA", Champions League | Moji Digital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo=""https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (TS)
+http://ktpremium.world:2095/live/xm1001/4757410/73617.m3u8
+###http://202.169.224.202:8800/udp/239.9.1.25:1234
+###http://202.169.224.202:8800/udp/239.4.4.2:1234
+###http://103.148.44.38:8000/play/a05c/index.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/ptGBYoy.jpeg" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA", Champions League | Moji Digital
 https://bigdickgital.semar26.xyz/fetch?id=mlg.m3u8&auth=mlgsemar25
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacjhZRm9qQk9DY2g4YW9XR203Z1ZUbUZNdjZuQkxocVNrbzZuNDFVVlljNw
 http://013tv.com:8080/F33848/cbd9779b/298550
@@ -3660,6 +3680,11 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=1000
 
 EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png" group-title="CHANNEL | INDONESIA",TVRI (720p)
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png" group-title="CHANNEL | INDONESIA",TVRI SPORT (TS)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://ikitv.sqn.at:8000/play/a027/index.m3u8
+###http://119.82.250.109:8080/nl.m3u8?id=1167
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png" group-title="CHANNEL | INDONESIA" x-source="copas" tvg-id="" tvg-name="" ,TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
