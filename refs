@@ -3560,16 +3560,16 @@ https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (🚀205 V2)
 https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
-#EXTINF:-1 tvg-id="Indosiar  Ott Nav" tvg-name="Indosiar  Ott Nav - Server 1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (🚀8826 V002)
+###EXTINF:-1 tvg-id="Indosiar  Ott Nav" tvg-name="Indosiar  Ott Nav - Server 1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (🚀8826 V002)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
-http://103.172.187.30:80/play/u9llyoKSGKK1GVWDBfWH9Az8rx72M0_ZzjagtFzTPbI/m3u8
+####http://103.172.187.30:80/play/u9llyoKSGKK1GVWDBfWH9Az8rx72M0_ZzjagtFzTPbI/m3u8
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar - Server 3" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (🚀8826 V001)
-https://bigdickgital.semar26.xyz/fetch?id=idigital.m3u8&auth=idgtlsemar25
+###EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar - Server 3" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (🚀8826 V001)
+####https://bigdickgital.semar26.xyz/fetch?id=idigital.m3u8&auth=idgtlsemar25
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo=""https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (TS)
@@ -3578,10 +3578,10 @@ http://ktpremium.world:2095/live/xm1001/4757410/73617.m3u8
 ###http://202.169.224.202:8800/udp/239.4.4.2:1234
 ###http://103.148.44.38:8000/play/a05c/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/ptGBYoy.jpeg" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA", Champions League | Moji Digital
+###EXTINF:-1 tvg-logo="https://i.imgur.com/ptGBYoy.jpeg" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA", Champions League | Moji Digital
 https://bigdickgital.semar26.xyz/fetch?id=mlg.m3u8&auth=mlgsemar25
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacjhZRm9qQk9DY2g4YW9XR203Z1ZUbUZNdjZuQkxocVNrbzZuNDFVVlljNw
-http://013tv.com:8080/F33848/cbd9779b/298550
+###http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacjhZRm9qQk9DY2g4YW9XR203Z1ZUbUZNdjZuQkxocVNrbzZuNDFVVlljNw
+##http://013tv.com:8080/F33848/cbd9779b/298550
 
 #EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",INDOSIAR (🚀205 V3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -3599,6 +3599,11 @@ https://vididi.bonetv.biz.id/index.mpd?q=205&ext=dash&x=1788172810&k=cf61c494ca9
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=204&ext=drm&x=1788172810&k=35932083a76041a5d71c15cf9587071077d64eb771bfa9df8ea35c2fa3395a5e
 https://vididi.bonetv.biz.id/index.mpd?q=204&ext=dash&x=1788172810&k=83d90b0100ade9769c9c16c4028fc1d52f5c4a54e059cce41ad5b5b4eac6a37b&sc=204
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",SCTV (VDO)
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 ===EDT
 
