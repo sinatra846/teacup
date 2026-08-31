@@ -13250,11 +13250,11 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiq
 
 EXTINF:-1 tvg-expire="1788112200" tvg-start="1788094200" tvg-uid="bc14203c93a1ea427a85fac69ede5935" data-source="Macportal6" group-title="EVENT 030/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", 🔴 LIVE (19:50 WIB | 30-08-2026) Sunderland v Fulham Premier League Matchweek 2 2026/2027
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1909970.m3u8
-#EXTINF:-1 tvg-expire="1788112200" tvg-start="1788094200" tvg-uid="bc14203c93a1ea427a85fac69ede5935" data-source="Macportal6" group-title="EVENT 030/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", 🔴 LIVE (19:50 WIB | 30-08-2026) Sunderland v Fulham Premier League Matchweek 2 2026/2027
+EXTINF:-1 tvg-expire="1788112200" tvg-start="1788094200" tvg-uid="bc14203c93a1ea427a85fac69ede5935" data-source="Macportal6" group-title="EVENT 030/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", 🔴 LIVE (19:50 WIB | 30-08-2026) Sunderland v Fulham Premier League Matchweek 2 2026/2027
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1909970.m3u8
-#EXTINF:-1 tvg-expire="1788112200" tvg-start="1788094200" tvg-uid="845c9caae6a5edd942c353c141b5cc6f" data-source="Macportal6" group-title="EVENT 030/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", 🔴 LIVE (19:50 WIB | 30-08-2026) Chelsea v Brighton & Hove Albion Premier League Matchweek 2 2026/2027
+EXTINF:-1 tvg-expire="1788112200" tvg-start="1788094200" tvg-uid="845c9caae6a5edd942c353c141b5cc6f" data-source="Macportal6" group-title="EVENT 030/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", 🔴 LIVE (19:50 WIB | 30-08-2026) Chelsea v Brighton & Hove Albion Premier League Matchweek 2 2026/2027
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1909969.m3u8
-#EXTINF:-1 tvg-expire="1788112200" tvg-start="1788094200" tvg-uid="845c9caae6a5edd942c353c141b5cc6f" data-source="Macportal6" group-title="EVENT 030/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", 🔴 LIVE (19:50 WIB | 30-08-2026) Chelsea v Brighton & Hove Albion Premier League Matchweek 2 2026/2027
+EXTINF:-1 tvg-expire="1788112200" tvg-start="1788094200" tvg-uid="845c9caae6a5edd942c353c141b5cc6f" data-source="Macportal6" group-title="EVENT 030/AGUSTUS/2026" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", 🔴 LIVE (19:50 WIB | 30-08-2026) Chelsea v Brighton & Hove Albion Premier League Matchweek 2 2026/2027
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1909969.m3u8
 
 EXTINF:-1 group-title="EVENT 030/AGUSTUS/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 20:00 WIB Leeds United vs Brentford
@@ -13601,7 +13601,8 @@ https://stream.playcdn.de/playlist/68f667c7c0983affb36dd442c6731c6f/2/480.m3u8?x
 https://stream.playcdn.de/playlist/d4b97ce3101a7e607a267009c48ed80d/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-colony-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Colony
 https://stream.playcdn.de/playlist/376543dc6374ddd87ece2c873c4e17ab/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: No Way Home
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI",
+Spider-Man: No Way Home
 https://stream.playcdn.de/playlist/dafb4188069455ca5f34bb36cfbb8570/11/480.m3u8
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Endgame
 https://stream.playcdn.de/playlist/153ea0ec867efae5398835a787407b6d/4/480.m3u8?x=1
@@ -13613,6 +13614,13 @@ https://stream.playcdn.de/playlist/3c263196bf30ea494572b60e30045587/4/480.m3u8?x
 https://stream.playcdn.de/playlist/14541b66b4c057402ceb374e2d09e12f/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-toy-story-5-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Toy Story 5
 https://stream.playcdn.de/playlist/c4cc52ec309068faa3b4eaef99d3628c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-obsession-2025-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Obsession
+https://stream.playcdn.de/playlist/1178b40cfbe0ec806e4e1116cfc8ddf3/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-deep-water-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Deep Water
+https://stream.playcdn.de/playlist/ace88b4f6afc788c96ed56c7f3c080d1/2/480.m3u8?x=1
+
+
+
 
 =================err=================
 
