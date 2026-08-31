@@ -3498,6 +3498,20 @@ EXTINF:-1 tvg-id="CNN.Indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
 https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/Q05OaS1teQ/manifest.mpd?signature=NTY2MDljZWViNWFhN2RiZTk3ODlkZTQ0ZWU4YTRmOGI=&time=15243667704|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cbm-drm.openwindow042.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA", CNN Indonesia
+##https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1983115534_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODgxNjIxMDE1MDUmd293emF0b2tlbmhhc2g9VWdzMXpQem1DZDRZaTRKNHRLaVRrd1hZM3BDM2ZlTFJwN3lBZDNxeEtiYz0=.m3u8
+
+
+
+
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071135.png?raw=true" group-title="CHANNEL | INDONESIA",GARUDA TV (STR)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
