@@ -13197,40 +13197,33 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <====================LIVE EVENT 1===================================>
-XTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-EXTINF:-1 group-title="EVENT 01/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzsa_oea_WrvEdQb4T7MAAnjAgMuPkgwxkxbD5QF-95w&s=10", 23:00 WIB Parma vs Cremonese
+#EXTINF:-1 group-title="EVENT 02/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s", 08:00 WIB LI-NING China Masters 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305631782905061_AiHD.m3u8?txSecret=4cb51243ac3fa73b0466fedfd10dd923&txTime=6A989C60
+#EXTINF:-1 group-title="EVENT 02/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s", 08:00 WIB LI-NING China Masters 2026
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4305632772373061_AiHD.m3u8?txSecret=f70b50ab08bf840e56277dbb4ca9a41b&txTime=6A989C60
+#EXTINF:-1 group-title="EVENT 02/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s", 08:00 WIB LI-NING China Masters 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305632882467061_AiHD.m3u8?txSecret=061cc159332b53426283a240fa33c628&txTime=6A989C60
+
+#EXTINF:-1 group-title="EVENT 02/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzsa_oea_WrvEdQb4T7MAAnjAgMuPkgwxkxbD5QF-95w&s=10", 23:00 WIB Udinese vs Venezia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-EXTINF:-1 group-title="EVENT 01/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvX5mcS5aKuJqoeUBeE0PTU--qzpMzT-W4Ke6pheLOA&s", 17:00 WIB Ezra vs Shan United
-EXTINF:-1 group-title="EVENT 01/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvX5mcS5aKuJqoeUBeE0PTU--qzpMzT-W4Ke6pheLOA&s", 17:00 WIB Kasuka vs Manila Digger
 
-EXTINF:-1 group-title="EVENT 01/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 20:00 WIB Belgia W vs Jerman W
+#EXTINF:-1 group-title="EVENT 02/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 21:00 WIB Serbia W vs Yunani W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
 https://live2.domainkqt.cc/live/channel33.m3u8
 
-EXTINF:-1 group-title="EVENT 01/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 23:00 WIB Turki W vs Azerbajian W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel33.m3u8
-
-===============
-
-EXTINF:-1 group-title="EVENT 01/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s", 002 LI-NING China Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305631147504061_AiSD.m3u8?txSecret=c0d949946f37d6c138ef23ed45055fe6&txTime=6A974AE0
-EXTINF:-1 group-title="EVENT 01/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s", 002 LI-NING China Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305631260993061_AiSD.m3u8?txSecret=d8c39cf168c1dabeddb0d8332fd2a90b&txTime=6A974AE0#EXTINF:-1 group-title="EVENT 01/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s", 002 LI-NING China Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305631415377061_AiSD.m3u8?txSecret=e253c9e5425b663bbd73e2f5d9e6e805&txTime=6A974AE0
 
 
 <====================LIVE EVENT 2================================
-EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-EXTINF:-1 group-title="EVENT 02/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYYA2DEOWF2jNxotWPUK8C-k37zaaabfCQSea_7RXag&s=10", 01:45 WIB HEBC vs Borussia Dortmund
+#EXTINF:-1 group-title="EVENT 03/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYYA2DEOWF2jNxotWPUK8C-k37zaaabfCQSea_7RXag&s=10", 01:45 WIB Osnabrück vs Bayern München
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -13239,18 +13232,23 @@ EXTINF:-1 group-title="EVENT 02/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
-XTINF:-1 group-title="EVENT 02/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzsa_oea_WrvEdQb4T7MAAnjAgMuPkgwxkxbD5QF-95w&s=10", 02:00 WIB Torino vs Monza
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTINF:-1 group-title="EVENT 03/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKF4t5o17n3PkqwRHnpvj5c31aDxX_XLsvXTPjdmYTSg&s=10", 02:00 WIB Burnley vs Middlesbrough
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 group-title="EVENT 03/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 00:00 WIB Italia W vs Sewdia W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
+https://live2.domainkqt.cc/live/channel33.m3u8
 
-
-
+#EXTINF:-1 group-title="EVENT 03/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 00:00 WIB Polandia W vs Belanda W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
+https://live1.quickscoreboardz.com/live/channel82.m3u8?wsSecret=e82e37046ffde8cb88a6c9717235c2c1&wsABSTime=1788365849
 
 
 
