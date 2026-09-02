@@ -3620,8 +3620,8 @@ https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
 #EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png" group-title="CHANNEL | INDONESIA",TVRI SPORT (TS)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://ikitv.sqn.at:8000/play/a027/index.m3u8
-###http://119.82.250.109:8080/nl.m3u8?id=1167
+###http://ikitv.sqn.at:8000/play/a027/index.m3u8
+http://119.82.250.109:8080/nl.m3u8?id=1167
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png" group-title="CHANNEL | INDONESIA" x-source="copas" tvg-id="" tvg-name="" ,TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
