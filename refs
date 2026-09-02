@@ -3296,7 +3296,11 @@ EXTINF:-1 tvg-id="TRANS7" tvg-logo="https://github.com/sinatra846/iptv-assets-/b
 ###https://video.detik.com/transtv-sec/smil:transtv.smil/media_w2041597390_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc0NDM4MDc5Njgmd293emF0b2tlbmhhc2g9RjhUcGpKdTREVDhHRFc1c1YxMkt5dXVxT2RhWmkyYk1pS2VYeldQMThtST0=_1111387.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mdtv.jpg" group-title="CHANNEL | INDONESIA",MDTV (DNS)
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
