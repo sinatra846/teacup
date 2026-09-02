@@ -3299,10 +3299,6 @@ EXTINF:-1 tvg-id="TRANS7" tvg-logo="https://github.com/sinatra846/iptv-assets-/b
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mdtv.jpg" group-title="CHANNEL | INDONESIA",MDTV (DNS)
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
-
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
