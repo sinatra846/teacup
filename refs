@@ -3258,16 +3258,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV - Server 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" ch-number="6" group-title="CHANNEL | INDONESIA",Trans TV  (🚀801 v0)
 https://bigdickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
 
-###EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true",TRANS 7 (🚀801 v01)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-####http://165.99.194.31:5555/stream/channelid/314965130?profile=pass
-
-#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7 - Server 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (🚀801 v0)
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7 - Server 2" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="CHANNEL | INDONESIA",🆕 TRANS 7 (🚀8826 v01)
 https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-###EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 TRANS 7 TS
-###http://ktpremium.world:2095/live/xm1001/4757410/73609.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 TRANS 7 TS
+http://ktpremium.world:2095/live/xm1001/4757410/73609.m3u8
 ###https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
   
 ###EXTINF:-1 tvg-id="801.trans" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",TRANS 7 (🚀801 v1)
