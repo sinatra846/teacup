@@ -3756,7 +3756,13 @@ http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://warningfm.github.io/v3/img/JxtgBmg.png?v=1.0.0.1" group-title="CHANNEL | DAERAH", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9RmuCRs74yUMqr1ihbK3P3O7CFyKbh8ZgQRxwyaA2Q&s=10" group-title="CHANNEL | DAERAH", STV SAMARINDA
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzPSqZw860lx6paf4OQAfscUyrlMs3akcznqb7k6vg2Q&s" group-title="CHANNEL | DAERAH", BATAM TV
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+
+####EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:mimetype=application/dash+xml
@@ -3765,7 +3771,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=drm
-#EXTINF:-1 tvg-id="DAAI TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://iili.io/JMp3WNV.png" group-title="CHANNEL | DAERAH",DAAI TV 
+####EXTINF:-1 tvg-id="DAAI TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://iili.io/JMp3WNV.png" group-title="CHANNEL | DAERAH",DAAI TV 
 https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -3785,13 +3791,13 @@ http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" group-title="CHANNEL | DAERAH", JTV
+####EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" group-title="CHANNEL | DAERAH", JTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=dash
 
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" group-title="CHANNEL | DAERAH", JTV (1)
+####EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" group-title="CHANNEL | DAERAH", JTV (1)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/chunklist_w1853455900.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="JITV Jogja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3EM-5RBWcPoyEOnpEtsbdwCbDglpzJ_kPiJfmP3T4w&s=10" group-title="CHANNEL | DAERAH",JITV Jogja
@@ -5447,6 +5453,30 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/nujnit1784996751.png" group-title="CHANNEL | SPORTS", DAZN 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/1rrcbx1784996764.png" group-title="CHANNEL | SPORTS", DAZN 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4z35dr1784996780.png" group-title="CHANNEL | SPORTS", DAZN 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2cnyr1784996789.png" group-title="CHANNEL | SPORTS", DAZN 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
+
+##EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ffw8yk1773512280.png" group-title="CHANNEL | SPORTS", DAZN 5
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
+
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="CHANNEL | SPORTS", TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
@@ -5568,6 +5598,10 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc170/playlist.m3u8?token=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc16d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTZkOjE3ODgzOTU0NDQ5MDk6Y2RubGl2ZXR2LnR2OjRkNzE2OTU2NDM1OTIwNDguZDA2M2ZmODM0MWExMWM0NzJlYzgzYTg2NWQwMGY5ZDZmZjViMjU4NDcyOTUzNGExM2UzYTUwMDRlY2E5YzFiYQ
 
+#EXTINF:-1 tvg-name="CBS Golazo Sports" tvg-logo="https://i.imgur.com/LGNjMKR.png" group-title="CHANNEL | SPORTS;LIVE | SERIE A", CBS SPORTS GOLAZO [COPPA ITALIA]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 
 =======DIGI==========
