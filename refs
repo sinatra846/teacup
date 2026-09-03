@@ -4791,11 +4791,19 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="CHANNEL | MUSIC", K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
 
-#EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://images.pluto.tv/channels/64c37e710e086a0009e824ab/colorLogoPNG.png" group-title="CHANNEL | MUSIC",NOW 70s
-https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
-https://amg01076-amg01076c1-mytvsuper-apac-7840.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccb6b2930335ccf1de362b2dcfa53882:49854b26f0857b9eb491516793ac56b5
+#EXTINF:-1 tvg-id="kronehit1-x" tvg-name="KRONEHIT TV" tvg-logo="https://i.imgur.com/f4KOpQl.png"  group-title="CHANNEL | MUSIC",KRONEHIT TV
+https://ac-003.live.p7s1video.net/6e5a61c7/t_003/kronehittv-at/cenc-default.mpd 
 
+#EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png"  group-title="CHANNEL | MUSIC",M.net UHD
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+
+#EXTINF:-176 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-logo="https://i.imgur.com/9C0pL2G.png"  group-title="CHANNEL | MUSIC",Kpop TV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_70s.png?raw=true"  group-title="CHANNEL | MUSIC",NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://mimipipi22.github.io/logo/music/now80.jpg" group-title="CHANNEL | MUSIC",NOW 80s
 https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
 https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
