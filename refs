@@ -3321,11 +3321,11 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
-#EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV FHD
-#https://ln.run/TRANSTV-FHD
+###EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV FHD
+###https://ln.run/TRANSTV-FHD
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 FHD
-#https://ln.run/TRANS7-FHD
+####EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 FHD
+###https://ln.run/TRANS7-FHD
 
 ###EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",TV ONE
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
