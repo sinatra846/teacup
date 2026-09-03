@@ -3316,6 +3316,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/player/x15a7g.html?video=x8qckyq
 https://live.eu-north-1a.cf.dmcdn.net/sec2(DK_VIcgKMFcRJPA8N0sn3jAFanNZ6h3iJpjZME2nmtoNi8SSomNqyOz9YU0aDmuqXbuwAgFh95FKH8RQEgwWc-9lN7JhJFItLSSwH9Ai0tisd8eVnu9aSwLRzRwnf7nv)/dm/3/x8qckyq/d/live-480.m3u8#cell=lcf-eu-north-1a
 
+#EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV FHD
+https://ln.run/TRANSTV-FHD
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 FHD
+https://ln.run/TRANS7-FHD
+
 ###EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",TV ONE
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
