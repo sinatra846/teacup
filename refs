@@ -13276,24 +13276,8 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 04/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Adhyaksa
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1854128.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f009a2a747786f52bd6677e2a8a97f9a
-
-#EXTINF:-1 tvg-uid="fd56eedee608ecfc2fad9cefc17d4513" data-source="Shoot LiveEvent" tvg-logo="https://oss.yalla-shoot-admin.com/team/202eb9b36a23560e768c351a539ddfceee8.png" group-title="EVENT 04/SEPTEMBER/2026",[🔴 LIVE 15:30 WIB] [Indonesian Liga 1] Arema FC vs Adhyaksa FC Banten [Zhubo]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5687025_1.m3u8?auth_key=1788597567-0-0-7047765d845e383de4f2b6857f406f1c
-
-#EXTINF:-1 tvg-uid="9e0f8148561081751d0c0d84e43467c2" data-source="Live Event Seru" tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/55cba4a142146e2cdc317d21eb4daf76.png" group-title="EVENT 04/SEPTEMBER/2026",[🔴 LIVE 15:30 WIB] [Indonesian Super League] Arema FC vs Isenmulang Kalteng [HD]
-#EXTVLCOPT:http-referrer=https://www.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://www.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://miyanuh.b-cdn.net/live/sd-6MxiKav5SD45TaXm81/index.m3u8
-
-###EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT 04/SEPTEMBER/2026", 15:30 WIB Arema vs Adhyaksa
-###http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts
+#EXTINF:-1 group-title="EVENT 04/SEPTEMBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", ♨️ 4/9 - 19;00 WIB |BALI UNITED VS PSS SLEMAN| MAX
+https://live2.domainkqt.cc/live/channel6.m3u8
 
 #EXTINF:-1 group-title="EVENT 04/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bali United vs PSS Sleman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
