@@ -3677,7 +3677,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",Kawanua TV
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",Kawanua TV
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3730,7 +3730,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-EXTINF:-1 tvg-id="dutaTV" tvg-name="duta TV" tvg-logo="https://iili.io/JbtoJyl.png" group-title="CHANNEL | DAERAH", Duta TV
+#EXTINF:-1 tvg-id="dutaTV" tvg-name="duta TV" tvg-logo="https://iili.io/JbtoJyl.png" group-title="CHANNEL | DAERAH", Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8
 
