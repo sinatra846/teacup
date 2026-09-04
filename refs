@@ -3275,15 +3275,15 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 ###EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV
 ###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 (TRANSMEDIA)
+###EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 (TRANSMEDIA)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/player/x15a7g.html?video=x8qckyq
-https://live.eu-north-1a.cf.dmcdn.net/sec2(kJh_CKZBu3-OxinDsc4_NFefHrONv-bAsCHupNh0TkLy65ErKyLnUZ2iwwn-qix6l6fbio8uPGuIC9M3J6LYSuQuDBpdd_OARiALxiRrs_Hac-gyrKQZfaMy--_NUody)/dm/3/x8qckyq/d/live-720.m3u8#cell=lcf-eu-north-1a
+###https://live.eu-north-1a.cf.dmcdn.net/sec2(kJh_CKZBu3-OxinDsc4_NFefHrONv-bAsCHupNh0TkLy65ErKyLnUZ2iwwn-qix6l6fbio8uPGuIC9M3J6LYSuQuDBpdd_OARiALxiRrs_Hac-gyrKQZfaMy--_NUody)/dm/3/x8qckyq/d/live-720.m3u8#cell=lcf-eu-north-1a
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ggsrreJ.png" group-title="CHANNEL | INDONESIA",Trans TV
+####EXTINF:0 tvg-logo="https://i.imgur.com/ggsrreJ.png" group-title="CHANNEL | INDONESIA",Trans TV
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
+###https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 #EXTINF:-1 tvg-uid="fb67775ca2466d21431970b34544c003" data-source="Supermar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpv42_NHgvbLPYtkmvnu3q3gA5kP0KsaZpUvzDk-tZeZX1tFGqdlh3t8&s=10" group-title="CHANNEL | INDONESIA",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -3499,7 +3499,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 ###EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar - Server 3" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR (🚀8826 V001)
 ####https://bigdickgital.semar26.xyz/fetch?id=idigital.m3u8&auth=idgtlsemar25
 
-####EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",INDOSIAR (🚀205 V3)
+#EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="205" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-uid="2e61e12f5293186586b8adbe67ac315d",INDOSIAR (🚀205 V3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
