@@ -3505,8 +3505,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=drm&x=1788519172&k=522b758cfd5259add711730917fcd609ecafe0365196af2afef702fa5b68baed
-###https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=dash&x=1788519172&k=f4193eaf5b167d081820498a8f3ddc93232172fc87e46957a9f52eeda84025ea&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=drm&x=1788526768&k=bd509ccc78da9a7a86ab372030297c371a5388e6de82166739993514fb8c2f53
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=dash&x=1788526768&k=86f24eba5f7da3e0d0782f380e1edba7008210f2be91e9de4f20782125ed71b8&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV (🚀204 v1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -3514,22 +3514,22 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=drm&x=1788519172&k=5af49a3d69e6766b7105e2c7b75713f045dcf7b60aee23be9c2736f424c59249
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=dash&x=1788519172&k=19571c2c79b3303cd96fd5d7a5b715e64c825bcef60e684f2d3813ed3fcd3181&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=drm&x=1788526768&k=c5f7626606e21b21c1500784446673f376eef887476f0d105c36efb8bb5368c2
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=dash&x=1788526768&k=c1bdc53d3ab38ac08c3832536b2f7684574b5794138ae27db98bd0742e7961fe&sc=204
 
 #EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕Antv (🚀782 V0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=782&ext=dash&x=1788519172&k=8d1a8987b014665fe5dabb3eff444aa725c7440996c0a26d139137a98861c7aa&sc=782
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=782&ext=dash&x=1788526768&k=2e98361089291dbfca6d238dbd7c05816d982d5df8d94097b2dde2624f4a650b&sc=782
 
 #EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🆕TVONE (🚀783 V1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=783&ext=dash&x=1788519172&k=e87f7ad5189cbc96ca03a9f44f449bad66d1553871a20e21b829992456be56ef&sc=783
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=783&ext=dash&x=1788526768&k=a5806284f914a8cc39d505af5b58764c134401e5f6a3c6a30fc55e6370a64bd5&sc=783
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
