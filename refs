@@ -3505,8 +3505,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=drm&x=1788526768&k=bd509ccc78da9a7a86ab372030297c371a5388e6de82166739993514fb8c2f53
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=dash&x=1788526768&k=86f24eba5f7da3e0d0782f380e1edba7008210f2be91e9de4f20782125ed71b8&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=drm&x=1788534999&k=ef04c0d8425f24f1f8f8bc098420ddb4d7a63bf046f9d2c40401f0ba2e7cd87c
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=dash&x=1788534999&k=ccc7004136a09f9025fe81570bdabf512f79f290c5f0dbee86688b87ae380f0e&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV (🚀204 v1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
