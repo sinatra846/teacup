@@ -3517,22 +3517,22 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=204&ext=drm&x=1788605514&k=d3873d8cf635f77a52fdaedcb3a87db4f2c3143fa25848bcba867fc0c188b167
-https://stream.bonetv.web.id/index.mpd?q=204&ext=dash&x=1788605514&k=1880b1b9225904b8181f0812ae61ae89eeea8e08c5a711024b8438da85fa86f1&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=204&ext=drm&x=1788622061&k=0dae9471d2db6900e203a6b68404d0a8129e9b0662b3d6608dc72450793f154a
+https://stream.bonetv.web.id/index.mpd?q=204&ext=dash&x=1788622061&k=b591e30077c4db69c60e714bac9f23d7d1955b6f5ee97ede323fb51b1bd9d744&sc=204
 
 #EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕Antv (🚀782 V0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://stream.bonetv.web.id/index.mpd?q=782&ext=dash&x=1788605514&k=04925ab07c6380729ecbe56561991a59d6266024f1285e5330ffed59e650e7cd&sc=782
+https://stream.bonetv.web.id/index.mpd?q=782&ext=dash&x=1788622061&k=ff197dbbf8bb5e7b3852515dde06a8f5ff0139e6024bab0792aac060b0fbb145&sc=782
 
 #EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🆕TVONE (🚀783 V1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://stream.bonetv.web.id/index.mpd?q=783&ext=dash&x=1788605514&k=4ab6d21100de89f18740472ccc8b2c38fc39a8b74e04a906ce32eb81a962f20c&sc=783
+https://stream.bonetv.web.id/index.mpd?q=783&ext=dash&x=1788622061&k=e3490ee87dacca0723823872843e601793901b63732d9b4d79f90084c093918d&sc=783
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
