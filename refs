@@ -5746,6 +5746,16 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="CHANNEL | SPORTS",SKY SPORT TENNIS HD (RUTUBE)
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
 
+#EXTINF:-1 tvg-uid="56b80e67e201e4aeb0585dec177320d4" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", SKY SPORT UNO HD [IT]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/894998.m3u8
+
+#EXTINF:-1 tvg-uid="90739fc9573e7f9dd4ffce7c4229c714" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTUNO.png",  [IT] SKY SPORT UNO HEVC
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167167.m3u8
+
+#EXTINF:-1 tvg-uid="900de613e865432afb250b5349b9d3d4" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTUNO.png",  [IT] SKY SPORT UNO FHD 
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177687.m3u8
+
+
 =================
 
 #EXTINF:-1 tvg-name="Sky Bundesliga" tvg-logo="" group-title="CHANNEL | SPORTS;LIVE | BUNDESLIGA",Sky Bundesliga (TMAXAPP)
