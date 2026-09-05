@@ -13310,6 +13310,16 @@ https://live2.domainkqt.cc/live/channel19.m3u8
 #EXTINF:-1 tvg-id="Indosiar Liga 1" tvg-name="Indosiar Liga 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT 05/SEPTEMBER/2026",15:30 WIB Bhayangkara vs Persebaya Surabaya
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/indosiarTV.m3u8
 
+#EXTINF:-1 tvg-uid="610f7dba4f7adf32d36e832a842c343c" data-source="Shoot LiveEvent" tvg-logo="https://oss.yalla-shoot-admin.com/team/2021a0198d139b1333912e2952b8819a433.png" group-title="EVENT 05/SEPTEMBER/2026",[🔴 LIVE 15:30 WIB] [Indonesian Liga 1] Bhayangkara Presisi Indonesia FC vs Persebaya Surabaya [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5687050_1.m3u8?auth_key=1788683847-0-0-79f82b8eebb8cb6facc9058fc13276ec
+
+#EXTINF:-1 tvg-uid="301cd6bb42b95c2667110e49da5d3381" data-source="Live Event Seru" tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/837cf9a178940067578b7343018e003a.png" group-title="EVENT 05/SEPTEMBER/2026",[🔴 LIVE 15:30 WIB] [Indonesian Super League] Bhayangkara Presisi Indonesia FC vs Persebaya Surabaya [HD]
+#EXTVLCOPT:http-referrer=https://www.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://www.livenobarseru.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://miyanuh.b-cdn.net/live/sd-6MxiKav5RgHMGrxvyT/index.m3u8
+
 #EXTINF:-1 group-title="EVENT 05/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Borneo vs Persija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
