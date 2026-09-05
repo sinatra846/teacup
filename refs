@@ -3275,6 +3275,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 ###EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV
 ###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
+#EXTINF:-1 tvg-id="Trans7.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/trans7.png",Trans 7 HD
+https://ogietv.biz.id:443/Buatx/AppxMaling/1313.m3u8
+
 ###EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 (TRANSMEDIA)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/player/x15a7g.html?video=x8qckyq
