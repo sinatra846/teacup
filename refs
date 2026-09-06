@@ -13272,10 +13272,17 @@ https://live1.quickscoreboardz.com/live/channel22.m3u8?wsSecret=1ba32325a53b2afd
 #EXTVLCOPT:http-origin=https://lxscore.com
 https://hd-stream.prohades.com/live/default-1854136.m3u8
 
-#EXTINF:-1 tvg-expire="1788714000" tvg-start="1788696000" tvg-uid="9d3ef09de596ba45a1d6039ae2476fa9" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Persib%20Bandung%20vs%20PSM%20Makassar.jpg" group-title="EVENT 06/SEPTEMBER/2026", [🔴 LIVE 19:00 WIB - 06/09/2026] [Liga 1] Persib Bandung vs. PSM Makassar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f1887eeaf4f1e6ae820f5-backup/chunks.m3u8?is_vip=false&token=1788786208-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb36ec8b868d4222157bc457b320e998
+
+#EXTINF:-1 tvg-uid="13e0adb16154fc643fdcab15150f512c" data-source="LXSCORE" tvg-logo="https://apiv2.allsportsapi.com/logo/4715_persib-bandung.jpg" group-title="🇮🇩BRI SUPER LEAGUE | BONE TV",🔴 [LIVE] Persib Bandung vs PSM Makassar [50] | BONE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com
+https://hd-stream.prohades.com/live/default-1854136.m3u8
+
+
+
+
+
 
 
 <================================================>
@@ -13526,6 +13533,187 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_INDONESIA.png?raw=true",VOD STREAM
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2020/06/The-Raid-2_all-templateThumbnail.jpg" group-title="VOD | INDONESIAN MOVIE",THE RAID 2 (BERANDAL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtheRaid2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-sadali-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",SADALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsadali.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-musuh-dalam-selimut-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",MUSUH DALAM SELIMUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmusuhDalam-Selimut1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3zP_qB1uNqQ/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",UANG PASSOLO - AMPLOP KONDANGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDuang-Passolo.m3u8
+#EXTINF:-1 tvg-logo="https://wartabuana.com/wp-content/uploads/2025/12/TIMUR_POSTER_925X527_300ppi-scaled.jpg" group-title="VOD | INDONESIAN MOVIE",TIMUR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtimur01.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2025/12/06/32923-poster-film-wasiat-warisan-instagramcomfilm-wasiatwarisan.jpg" group-title="VOD | INDONESIAN MOVIE",WASIAT WARISAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwasiat-Warisan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XO4l2zUeL84/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",MERTUA NGERI KALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmertuaNgeri-Kali.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0fchlmZwc4o5RO7B0fvaagCXGw0=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/12124/jadi-tuh-barang-fb3960.jpg" group-title="VOD | INDONESIAN MOVIE",JADI TUH BARANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjadiTuh-Barang01.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/11/30/692b4ade4e8fc-kisah-david-ozora-diangkat-jadi-film-ozora-tuding-ketidakadilan-hukum-dengan-cara-paling-menohok_1265_711.jpg" group-title="VOD | INDONESIAN MOVIE",OZORA - PENGANIAYAAN BRUTAL PENGUASA JAKSEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDozora.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/12/04/1366079666.jpg" group-title="VOD | INDONESIAN MOVIE",NIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDnia.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rNE8IHQHh3s/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",JANGAN PANGGIL MAMA KAFIR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjanganPanggil-MamaKafir.m3u8
+#EXTINF:-1 tvg-logo="https://www.inibalikpapan.com/wp-content/uploads/2025/10/54899-film-air-mata-mualaf-instagram.webp" group-title="VOD | INDONESIAN MOVIE",AIR MATA MUALAF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDairMata-Mualaf.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-sampai-titik-terakhirmu-2025_890_490.webp" group-title="VOD | INDONESIAN MOVIE",SAMPAI TITIK TERAKHIRMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsampaiTitik-Terakhirmu.m3u8
+#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/2026/03/31/film-the-verdict.jpg" group-title="VOD | INDONESIAN MOVIE",THE VERDICT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDthe-Verdict.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/11/30/24386-foto-teaser-film-legenda-kelam-malin-kundang.jpg" group-title="VOD | INDONESIAN MOVIE",MALIN KUNDANG (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmalin-Kundang.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/03/12/2976601761.jpg" group-title="VOD | INDONESIAN MOVIE",SI PALING AKTOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsiPaling-Aktor.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YZ95gKwbeAc/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",GAK NYANGKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDgak-Nyangka.m3u8
+#EXTINF:-1 tvg-logo="https://genz.id/wp-content/uploads/2025/09/Film-Tukar-Takdir-1.jpeg" group-title="VOD | INDONESIAN MOVIE",TUKAR TAKDIR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtukar-Takdir.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FBd1zpjXQ3Q/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",HARTA, TAHTA, BORU NI RAJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDhartaTahtaBoruNi-Raja.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CKe7QKewwpY/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",JENDELA SERIBU SUNGAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjendelaSeribu-Sungai.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RRq2ZE8C7KQ/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",SEPEDA PRESIDENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsepeda-President.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/01/28/2344693464.jpg" group-title="VOD | INDONESIAN MOVIE",SURAT UNTUK MASA MUDAKU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsuratUntuk-MasaMudaku.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZBfAWdV_m-M/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",LOSMEN BU BROTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlosmen-BuBroto.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lZOjybcuDi8/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",SIAPA DIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsiapa-Dia.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tHO7uDPXAXE/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SEMUSIM SETELAH KEMARAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsemusimSetelah-Kemarau.m3u8
+#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/2020/03/12/poster-mariposa_ratio-16x9.jpg" group-title="VOD | INDONESIAN MOVIE",MARIPOSA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmariposa.m3u8
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/JDF_5McwoI3pjxje60kkpnjV_KU=/500x281/smart/filters:quality(75):strip_icc()/kly-media-production/medias/4549218/original/095734800_1692791495-Selesai._-_Alt_B_-_Poster_Landscape.jpg" group-title="VOD | INDONESIAN MOVIE",SELESAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDselesai.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/09/17/3618033056.jpg" group-title="VOD | INDONESIAN MOVIE",YAKIN NIKAH (Wed or Wait)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDyakin-Nikah.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2025/07/04/686726c786111-film-pengin-hijrah_665_374.jpg" group-title="VOD | INDONESIAN MOVIE",PENGIN HIJRAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpengin-Hijrah.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaylo.id/wp-content/uploads/2025/10/The-Period-of-her-Cover.jpg" group-title="VOD | INDONESIAN MOVIE",THE PERIOD OF HER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDThePeriod-OfHer.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e1TEZc8cN8s/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KELUARGA BESAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkeluarga-Besar.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tuUSrwrP1yk/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KARTU POS WINI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkartuPos-Wini.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LXRnwwpXz6s/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KAKA BOSS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkaka-Bos.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/48b12d297087ee9d94504ac7007f042d9b5b0654b1e3913ac5cfe73ff42cc221.png" group-title="VOD | INDONESIAN MOVIE",YOWIS BEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDyowis-Ben2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-cocote-tonggo-2025_890_490.webp" group-title="VOD | INDONESIAN MOVIE",COCOTE TONGGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer="https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvemdkLUk5bi1xU3ItS25nL21hc3Rlci5tM3U4"}
+https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VhWZK7kD-t5NDffiKzLhG8DzQC8=/1920x1080/filters:quality(70)/vidio-media-production/uploads/image/source/50708/0f3377.jpg" group-title="VOD | INDONESIAN MOVIE",GJLS: IBUKU IBU IBU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDGjls-ibuku-IbuIbu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m52r8kXdfBs/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",CINTA TAK SEINDAH DRAMA KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121759
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/E5Jdw9alAKM/mqdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SURGA DI TELAPAK KAKI BAPAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121473
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/soqYtgjfzFk/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",HIDUP INI TERLALU BANYAK KAMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121409
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qa1YwXc9K8d2i6yww8vP3js9vpU=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/11721/angel-pol-837a40.png" group-title="VOD | INDONESIAN MOVIE",ANGEL POOLLL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=129411
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-tak-ingin-usai-di-sini-2025_600_880.webp" group-title="VOD | INDONESIAN MOVIE",TAK INGIN USAI DI SINI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126285
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u7SRMGoJ9b9TsVtKm5WRvVz-bjo=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8865733/mendadak-dangdut_upload-979150.jpg" group-title="VOD | INDONESIAN MOVIE",MENDADAK DANGDUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmendadak-Dangdut.m3u8
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/api/wm/2023/09/25/poster-film-imam-tanpa-makmum_169.jpeg?w=1200" group-title="VOD | INDONESIAN MOVIE",IMAM TANPA MAKMUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=106724
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SrSiTa_Kiwg/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SAH: KATA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=124261
+#EXTINF:-1 tvg-logo="https://img.merahputih.com/media/cc/ae/a6/ccaea608cb6507fa0d6af372d8c65073.jpg" group-title="VOD | INDONESIAN MOVIE",SERIBU BAYANG PURNAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=135434
+#EXTINF:-1 tvg-logo="https://image.idntimes.com/post/20230621/3c21862b-f56f-4bc2-8c72-63500a47cc8d-6669300796f7d476974db5e6358dc174.jpeg" group-title="Bioskop Online",GANJIL GENAP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=104239
+#EXTINF:-1 tvg-logo="https://gayatekno.id/wp-content/uploads/2024/06/images-4-1.jpeg" group-title="VOD | INDONESIAN MOVIE",SEKAWAN LIMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=112281
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PEb0yhsmfxc/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SUJUD TERAKHIR BAPAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://www.googleapis.com/drive/v3/files/1FL9ztUfAK0_zL-G8TVPwtkzb9uyCMlsL?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s6Kz_94zdHQ/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KUN ANA WA ANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=113967
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01jxv9vw5dx1dze9bz55pkggcc.jpg" group-title="VOD | INDONESIAN MOVIE",JODOH 3 BUJANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126981
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5DbFY0Fq-Vs/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",LEBIH DARI SELAMA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=127488
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nLjzzjfwwvg/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",PANGGIL AKU AYAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=128955
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500_and_h282_face/u6B4OIoT4lnWqIxy3lEEVcnleY4.jpg", group-title="VOD | INDONESIAN MOVIE",5 CM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/s/m64grw66otbicfw/5cm.%282012%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xlvSRI6t_PU/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SEBELUM DIJEMPUT NENEK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsebelum-DijemputNenek.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/webp/photo/2024/08/01/1604763664.jpg" group-title="VOD | INDONESIAN MOVIE",SAKARATUL MAUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsakaratul-Maut.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/43/2025/06/27/mitos-malam-satu-suro-466849331.jpg" group-title="VOD | INDONESIAN MOVIE",SATU SURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsatu-Suro.m3u8
+#EXTINF:-1 tvg-logo="bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp">https://pic.bstarstatic.com/ugc/bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp" group-title="VOD | INDONESIAN MOVIE",MARIABAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmariaban.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/10/22/52437-film-kuncen.jpg" group-title="VOD | INDONESIAN MOVIE",KUNCEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkun-Cen01.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/03/26/3231857517.jpg" group-title="VOD | INDONESIAN MOVIE",PESUGIHAN SATE GAGAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpesugihan-SateGagak01.m3u8
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x800/webp/photo/p1/134/2025/07/28/ChatGPT-Image-28-Jul-2025-151517-829203663.png" group-title="VOD | INDONESIAN MOVIE",DIA BUKAN IBU (A Woman Called Mother)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDdiaBukan-Ibu.m3u8
 #EXTINF:-1 tvg-id="idmp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Mwmc7oAeR-obt9nWviM-Ck9QhJzzP5mIGg&s" group-title="VOD | INDONESIAN MOVIE",SORE : ISTRI DARI MASA DEPAN
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sore%2C%20Istri%20Dari%20Masa%20Depan.m3u8
 #EXTINF:-1 tvg-id="stt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5LINiFoxsgYcC64dB6En-qw14f2OyZNm09BQLSrH&s" group-title="VOD | INDONESIAN MOVIE ",SAMPAI TITIK TERAKHIRMU
@@ -13564,6 +13752,13 @@ https://pixeldrain.com/api/file/oCpSqqah?download
 https://pixeldrain.com/api/file/nXDb1hSE?download
 #EXTINF:-1 tvg-id="auto.mukidi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | INDONESIAN MOVIE",MUKIDI
 https://pixeldrain.com/api/file/xDtZjqYB?download
+
+
+
+
+
+
+
 
 
 
