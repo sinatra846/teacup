@@ -13341,6 +13341,12 @@ https://live1.quickscoreboardz.com/live/channel23.m3u8?wsSecret=f196d60aa259b74b
 https://live1.quickscoreboardz.com/live/channel22.m3u8?wsSecret=1ba32325a53b2afd6161fd6dd6174fcb&wsABSTime=1788719463
 
 #EXTINF:-1 group-title="EVENT 06/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8SJAxTu9afh8OPnNzQZfvecwsgwyTQ3bc9YyNYwabqw&s=10", 16:00 WIB Australia U-20 vs Indonesia U-20
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1867787.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=856a3ae14f774d95556af14140612b03
+
+#EXTINF:-1 group-title="EVENT 06/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8SJAxTu9afh8OPnNzQZfvecwsgwyTQ3bc9YyNYwabqw&s=10", 16:00 WIB Australia U-20 vs Indonesia U-20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.hexvaridstreamnode.com/
 https://live2.domainkqt.cc/live/channel10.m3u8
