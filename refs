@@ -13294,6 +13294,10 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiq
 #EXTINF:-1 tvg-uid="c5d2b7e4ac88f2ac3637ca5b1440f830" data-source="Macportal1" group-title="EVENT 06/SEPTEMBER/2026" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png", 20:00 WIB Everton vs Manchester United
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314077.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-premium-1.png" group-title="EVENT 06/SEPTEMBER/2026",20:00 WIB Everton vs Manchester United
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/arenasportpremium1.m3u8
+
 #EXTINF:-1 group-title="EVENT 06/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:30 WIB Arsenal vs Chelsea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
