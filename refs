@@ -4522,12 +4522,12 @@ https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="CHANNEL | RELIGI", KINGDOM OF SAUDI ARABIA 1
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="CHANNEL | RELIGI", KINGDOM OF SAUDI ARABIA 2
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/02.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="madinahtv.id" tvg-logo="https://urfan.id/logo/madinahtv.png",Madinah TV
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
@@ -4538,16 +4538,6 @@ https://stream.urfan.id/madinah
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://stream.urfan.id/mekah
-
-#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://i.ibb.co.com/1zFVnXg/makkahlive.png" group-title="CHANNEL | RELIGI", MAKKAH LIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
-
-#EXTINF:-1   tvg-logo="https://i.ibb.co.com/3zB0gVk/madinahlive.png" group-title="CHANNEL | RELIGI", MADINAH LIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
 
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="MQTV.id" tvg-logo="https://urfan.id/logo/mqtv.png",MQTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
@@ -4562,8 +4552,12 @@ https://stream.urfan.id/tv9
 https://stream.urfan.id/tvmu
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | RELIGI" group-title="CHANNEL | RELIGI" tvg-logo="https://lh3.googleusercontent.com/Oy34Zw8c0-OZJkTq7f21MRvEkUBPGG11tWK83pR4BxhV55SbTXj8Tbvnz43ZeJZVeg", DMI (TAWAFTV)
+#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-logo="https://lh3.googleusercontent.com/Oy34Zw8c0-OZJkTq7f21MRvEkUBPGG11tWK83pR4BxhV55SbTXj8Tbvnz43ZeJZVeg", DMI (TAWAFTV)
 https://tvstreamcast.com/tawaftv.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV.id@SD" group-title="CHANNEL | RELIGI" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rodjatv.png",Rodja TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="alwafatarim.id" tvg-logo="https://urfan.id/logo/alwafa.png",Al Wafa Tarim TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
@@ -4611,7 +4605,7 @@ https://flv.intechmedia.net/live/ch12.m3u8
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://stream.urfan.id/naajiyatv
 
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="medstv.id" tvg-logo="https://urfan.id/logo/medstv.png",Meds TV
+EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="medstv.id" tvg-logo="https://urfan.id/logo/medstv.png",Meds TV
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://flv.intechmedia.net/live/ch23.m3u8
@@ -4626,12 +4620,15 @@ https://flv.intechmedia.net/live/ch24.m3u8
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://stream.urfan.id/rinjanitv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="CHANNEL | RELIGI",Izzah TV (480p)
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="mqhtv.id" tvg-logo="https://urfan.id/logo/dotid.png",MQH TV
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://flv.intechmedia.net/live/ch34.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Rodja_TV.png/500px-Rodja_TV.png" group-title="CHANNEL | RELIGI",Rodja TV
+EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Rodja_TV.png/500px-Rodja_TV.png" group-title="CHANNEL | RELIGI",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
