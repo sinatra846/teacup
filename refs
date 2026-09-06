@@ -13255,9 +13255,8 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiq
 #EXTINF:-1 tvg-uid="c5d2b7e4ac88f2ac3637ca5b1440f830" data-source="Macportal1" group-title="EVENT 06/SEPTEMBER/2026" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png", 22:30 WIB Arsenal vs Chelsea
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314077.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-premium-1.png" group-title="EVENT 06/SEPTEMBER/2026",22:30 WIB Arsenal vs Chelsea
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/arenasportpremium1.m3u8
+#EXTINF:-1 tvg-uid="d2f9394db124eebc3a028161b17a94f8" data-source="April2027" group-title="EVENT 06/SEPTEMBER/2026" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE FHD | BONE TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/394557.m3u8
 
 EXTINF:-1 tvg-id="Indosiar Liga 1" tvg-name="Indosiar Liga 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT 05/SEPTEMBER/2026",15:30 WIB Bhayangkara vs Persebaya Surabaya
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/indosiarTV.m3u8
