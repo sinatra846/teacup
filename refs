@@ -13272,16 +13272,11 @@ https://live1.quickscoreboardz.com/live/channel22.m3u8?wsSecret=1ba32325a53b2afd
 #EXTVLCOPT:http-origin=https://lxscore.com
 https://hd-stream.prohades.com/live/default-1854136.m3u8
 
-#EXTINF:-1 group-title="EVENT 06/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8SJAxTu9afh8OPnNzQZfvecwsgwyTQ3bc9YyNYwabqw&s=10", 16:00 WIB Australia U-20 vs Indonesia U-20
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1867787.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=856a3ae14f774d95556af14140612b03
+#EXTINF:-1 tvg-expire="1788714000" tvg-start="1788696000" tvg-uid="9d3ef09de596ba45a1d6039ae2476fa9" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Persib%20Bandung%20vs%20PSM%20Makassar.jpg" group-title="EVENT 06/SEPTEMBER/2026", [🔴 LIVE 19:00 WIB - 06/09/2026] [Liga 1] Persib Bandung vs. PSM Makassar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f1887eeaf4f1e6ae820f5-backup/chunks.m3u8?is_vip=false&token=1788786208-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb36ec8b868d4222157bc457b320e998
 
-#EXTINF:-1 group-title="EVENT 06/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8SJAxTu9afh8OPnNzQZfvecwsgwyTQ3bc9YyNYwabqw&s=10", 16:00 WIB Australia U-20 vs Indonesia U-20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.hexvaridstreamnode.com/
-https://live2.domainkqt.cc/live/channel10.m3u8
 
 <================================================>
 
