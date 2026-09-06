@@ -3695,7 +3695,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",Kawanua TV
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",Kawanua TV ( Ga 24 Jam )
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3735,22 +3735,20 @@ http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://warningfm.github.io/v3/img/JxtgBmg.png?v=1.0.0.1" group-title="CHANNEL | DAERAH", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=drm
-####EXTINF:-1 tvg-id="DAAI TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://iili.io/JMp3WNV.png" group-title="CHANNEL | DAERAH",DAAI TV 
-https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=dash
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="dutaTV" tvg-name="duta TV" tvg-logo="https://iili.io/JbtoJyl.png" group-title="CHANNEL | DAERAH", Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8
+
+#EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eQ40zVhYrrSZS2f31sg3w7cVAXsJVo9mD9nwqj6GxA&s=10" http-referrer="https://stream.carubantv.id" group-title="CHANNEL | DAERAH", CARUBAN TV
+#EXTVLCOPT:http-referrer=https://stream.carubantv.id
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://stream.carubantv.id/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzPSqZw860lx6paf4OQAfscUyrlMs3akcznqb7k6vg2Q&s" group-title="CHANNEL | DAERAH", BATAM TV
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abtv blitar" group-title="CHANNEL | DAERAH" group-logo="https://i.imgur.com/pu8dxmJ.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv48NBxUj_VYla6KB-nwX0DlRnIUv8TEvxLYCuO0oBeA&s=10", ABTV BLITAR
+https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
 
 EXTINF:-1 tvg-logo="https://iili.io/JbtnQjI.png" group-title="CHANNEL | DAERAH",Elshinta TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
