@@ -3397,18 +3397,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
-####EXTINF:0 tvg-id="CNNIndonesiaHD" tvg-name="CNN Indonesia HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNN INDONESIA (1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-####KODIPROP:inputstream.adaptive.license_key=5af79fbb6d3d4a01ae7dfe8c9c8b54d6:4211c75cbb9c340fa3987c5b731537bd
-###https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIndonesiaHD/mediampd/CNNIndonesiaHD.mpd
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png" group-title="CHANNEL | INDONESIA",CNN Indonesia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
+https://video.detik.com/livecnn/smil:cnntv/playlist.m3u8
 
-####EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNN INDONESIA (2)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-###https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNBC.1.png" group-title="CHANNEL | INDONESIA",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
+https://video.detik.com/livecnbc/smil:cnbctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="135" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/beritasatu01.png?raw=true" group-title="CHANNEL | INDONESIA", BERITA SATU (D)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3447,14 +3442,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",VTV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
-
-###EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-###EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-####EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",VIVA TV (TS)
-###http://wakhaji.biz.id/hls/hls-oxygen.php?id=vtv
-###https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-http://ikitv.sqn.at:8000/play/a023/index.m3u8
-http://202.169.224.202:8800/udp/239.9.1.39:1234
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/OXYGEN%20TV.png?raw=true" group-title="CHANNEL | INDONESIA",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
@@ -3534,9 +3521,9 @@ https://streambone.usw40304648193001.workers.dev/index.mpd?q=782&ext=dash&x=1788
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://streambone.usw40304648193001.workers.dev/index.mpd?q=783&ext=dash&x=1788691954&k=4fbbc4a131c8822aab3fb6c64f2d08666f5f2a054c660b80051d0e81cdf5e8a7&sc=783
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",SCTV (VDO)
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/sctv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", SCTV (VHD)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 ===EDT
@@ -7904,6 +7891,9 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png" group-title="CHANNEL | LIFESTYLE", Warner TV ID
 https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="Warner.id" tvg-logo="https://mncvision.id/userfiles/image/channel/warner_tv.png" group-title="CHANNEL | LIFESTYLE", WARNER TV
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
