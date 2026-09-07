@@ -3325,11 +3325,23 @@ https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-32777
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8?app_type=web&userid=lite&chname=BTV
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TRANS TV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png",TRANS TV DIGITAL
+EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TRANS TV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png",TRANS TV DIGITAL
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/192206.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg",Trans 7 Digital
+EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg",Trans 7 Digital
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/192207.m3u8
+
+#EXTINF:-1 tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png",TRANS 7 DTK | BONE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.eu-north-1a.cf.dmcdn.net/sec2(sTI-cAZqwh84Esk8zhB3reP8_ripdIThBAvpQWQIMbWaW1lrSs9JuobChZNGtanHNx-kcx-a06hD5iPg7XVGgusJ44ZByY-OoYQ40DQAWELDZt7Jpd4V437I8VNChNhm)/dm/3/x8qckyq/d/live-720.m3u8
+
+#EXTINF:-1 tvg-uid="95536357052b2de22cf0fc2cfe391da6" data-source="Trans" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png",TRANS TV DTK | BONE TV
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-cookie=_gcl_au=1.1.1187301614.1788794674; _ga=GA1.1.577828992.1788794674; cshx=3bcdb206; __dtma=146380193.1413718130.1788794674.1788794674.1788794674.1; __dtmc=146380193; dtklucx=gen_e2f7ec68-cd98-9fa8-d49b-72283089a558; _ga_Y7WW684XXD=GS2.1.s1788794674$o1$g1$t1788794674$j60$l0$h0; _pk_id.20.33e9=6b90e33747b7265b.1788794675.; _pk_ses.20.33e9=1; __dtmb=146380193.3.10.1788794675; FCCDCF=%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22f15e4afd-0fd4-45ad-a3f5-eec39514cae1%5C%22%2C%5B1788794675%2C193000000%5D%5D%22%5D%5D%5D; _fbp=fb.1.1788794675701.79058791324124068; cto_bundle=O0mdW19VTlVRWElVYW14Y3ZUeFd0c0hjd01lSkJZaTNteW5DVnI0ejA4clE0QzRaVUtsa216OW1JUFhpbFpQY1E4JTJCQ05JSHclMkZCUm5aZnJ1VGY5TWRqYzNOM25NZjRLZktYOU8yQ054Z1RhTzB5V3ZwalZpYjNDc3luR1ZlMEZ5OGUyTktEY1lhclMlMkI5Rktmd1I5dnZQWmNTTUElM0QlM0Q; FCNEC=%5B%5B%22AKsRol9cswmwzfMj36AwP52OXIh8aE4-whhDF154YjBARUxiIBV6VZDNnZY6p7FNZETkY00Jyn474RQnRvu0jQf8JDFGvCC_eiPlHumVf9UzxaAmdJAFz9BUwkxwptE4MVY6lpReSZ3F1XJLTJ-x8Jua9ARhGv-QyQ%3D%3D%22%5D%5D; HWWAFSESID=95a1bb29d9923bed28; HWWAFSESTIME=1788794672181; _ga_ZB365DT921=GS2.1.s1788794674$o1$g1$t1788794680$j54$l0$h0; _ga_CY42M5S751=GS2.1.s1788794674$o1$g1$t1788794680$j54$l0$h0
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1614766461_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg3OTU1NzU4OTMmd293emF0b2tlbmhhc2g9elZ1aWxEUGNxbnFxM1o0QTY2clQ4N0JwaUpFWUY5Ujh6VmdYQm1ia1p0UT0=.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://20.detik.com/&Origin=https://20.detik.com&Cookie=_gcl_au=1.1.1187301614.1788794674; _ga=GA1.1.577828992.1788794674; cshx=3bcdb206; __dtma=146380193.1413718130.1788794674.1788794674.1788794674.1; __dtmc=146380193; dtklucx=gen_e2f7ec68-cd98-9fa8-d49b-72283089a558; _ga_Y7WW684XXD=GS2.1.s1788794674$o1$g1$t1788794674$j60$l0$h0; _pk_id.20.33e9=6b90e33747b7265b.1788794675.; _pk_ses.20.33e9=1; __dtmb=146380193.3.10.1788794675; FCCDCF=%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22f15e4afd-0fd4-45ad-a3f5-eec39514cae1%5C%22%2C%5B1788794675%2C193000000%5D%5D%22%5D%5D%5D; _fbp=fb.1.1788794675701.79058791324124068; cto_bundle=O0mdW19VTlVRWElVYW14Y3ZUeFd0c0hjd01lSkJZaTNteW5DVnI0ejA4clE0QzRaVUtsa216OW1JUFhpbFpQY1E4JTJCQ05JSHclMkZCUm5aZnJ1VGY5TWRqYzNOM25NZjRLZktYOU8yQ054Z1RhTzB5V3ZwalZpYjNDc3luR1ZlMEZ5OGUyTktEY1lhclMlMkI5Rktmd1I5dnZQWmNTTUElM0QlM0Q; FCNEC=%5B%5B%22AKsRol9cswmwzfMj36AwP52OXIh8aE4-whhDF154YjBARUxiIBV6VZDNnZY6p7FNZETkY00Jyn474RQnRvu0jQf8JDFGvCC_eiPlHumVf9UzxaAmdJAFz9BUwkxwptE4MVY6lpReSZ3F1XJLTJ-x8Jua9ARhGv-QyQ%3D%3D%22%5D%5D; HWWAFSESID=95a1bb29d9923bed28; HWWAFSESTIME=1788794672181; _ga_ZB365DT921=GS2.1.s1788794674$o1$g1$t1788794680$j54$l0$h0; _ga_CY42M5S751=GS2.1.s1788794674$o1$g1$t1788794680$j54$l0$h0
+
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -3338,11 +3350,11 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png" group-title="CHANNEL | INDONESIA",CNN Indonesia HD
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNN Indonesia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 https://video.detik.com/livecnn/smil:cnntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNBC.1.png" group-title="CHANNEL | INDONESIA",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNBC.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 https://video.detik.com/livecnbc/smil:cnbctv/playlist.m3u8
 
@@ -3459,8 +3471,12 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=1000
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA",TVRI Sport
+EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA",TVRI Sport
 https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
+
+#EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="CHANNEL | INDONESIA", TVRI SPORT
+#EXTVLCOPT:http-user-agent="TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+https://nu.mayangtv.my.id/numaling/bisul.php?play=aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TcG9ydEhEL2hscy9TcG9ydEhELm0zdTg=
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVRI.1.png" group-title="CHANNEL | INDONESIA" x-source="copas" tvg-id="" tvg-name="" ,TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -3474,27 +3490,27 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 ======EDT=======
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/antv-id.png?raw=true" group-title="CHANNEL | INDONESIA",ANTV 
+#EXTINF:-1 tvg-id="8" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",ANTV 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
-#EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="CHANNEL | INDONESIA",RCTI 
+#EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti 
 
-#EXTINF:-1 tvg-name="MNCTV.id" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png" group-title="CHANNEL | INDONESIA",MNCTV 
+#EXTINF:-1 tvg-name="MNCTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MNCTV 
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv 
 
-#EXTINF:-1 tvg-name="GTV.id" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="CHANNEL | INDONESIA",GTV 
+#EXTINF:-1 tvg-name="GTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",GTV 
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv 
 
-#EXTINF:-1 tvg-name="iNews.id" tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="CHANNEL | INDONESIA",iNews 
+#EXTINF:-1 tvg-name="iNews.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true" group-title="CHANNEL | INDONESIA",iNews 
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
