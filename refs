@@ -3421,7 +3421,7 @@ https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=17889555
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://streambonetv.adenrahim97.workers.dev/index.mpd?q=782&ext=dash&x=1788955524&k=b1065da5b7c3bbbc6cb88508d379285c07af08254cba45917f8624c46484d9f0&sc=782
 
-EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🆕TVONE
+#EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🆕TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
