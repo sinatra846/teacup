@@ -2022,26 +2022,46 @@ https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD STREAM
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-spider-man-brand-new-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Brand New Day
-https://stream.playcdn.de/playlist/ea1f84dda9d31504bca5afa472a164e7/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-last-house-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Last House
-https://stream.playcdn.de/playlist/68f667c7c0983affb36dd442c6731c6f/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-evil-dead-burn-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Evil Dead Burn
-https://stream.playcdn.de/playlist/d4b97ce3101a7e607a267009c48ed80d/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-colony-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Colony
-https://stream.playcdn.de/playlist/376543dc6374ddd87ece2c873c4e17ab/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: No Way Home
-https://stream.playcdn.de/playlist/dafb4188069455ca5f34bb36cfbb8570/11/480.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Endgame
-https://stream.playcdn.de/playlist/153ea0ec867efae5398835a787407b6d/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lucky-strike-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lucky Strike
-https://stream.playcdn.de/playlist/09f0e27f57cd4f6201a7c0d6b77a0e79/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2018/05/film-avengers-infinity-war-2018.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Infinity War
-https://stream.playcdn.de/playlist/3c263196bf30ea494572b60e30045587/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-isolate-thief-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Isolate Thief
-https://stream.playcdn.de/playlist/14541b66b4c057402ceb374e2d09e12f/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-toy-story-5-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Toy Story 5
-https://stream.playcdn.de/playlist/c4cc52ec309068faa3b4eaef99d3628c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-disclosure-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Disclosure Day
+https://stream.playcdn.de/playlist/a9dd119abae8c4189dadf957b13ccec0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-masters-universe-2026-1-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Masters of the Universe
+https://stream.playcdn.de/playlist/1c05ce0aed1b73a6f8295a270cfd6713/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-lee-cronins-mummy-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lee Cronin's The Mummy
+https://stream.playcdn.de/playlist/9dcb869e18f971fec28f2b4903a6c24f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-run-2025-1-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Run
+https://stream.playcdn.de/playlist/e1402e6e2afbbb5987cf658e311947f1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-project-hail-mary-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Project Hail Mary
+https://stream.playcdn.de/playlist/f9dc1e3abe0f4abacb40b7b235c56d99/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-furious-2025-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Furious
+https://stream.playcdn.de/playlist/e8c0fe26202f0c6592faafea25e2ed6c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2023/06/film-spider-man-across-the-spider-verse-2023-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Across the Spider-Verse
+https://stream.playcdn.de/playlist/4a2180a34789a413c7464cddb433390e/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/08/film-bu-feng-zhui-ying-2025-lk21-4.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Shadow's Edge (Bu feng zhui ying aka)
+https://stream.playcdn.de/playlist/f70b8fd5e42fe54ee94f32300610430b/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-hustle-2004-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Hustle
+https://stream.playcdn.de/playlist/115ed6403f36e0e7c8d2141560515046/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Demon Slayer: Kimetsu No Yaiba Infinity Castle: Akaza Returns
+https://stream.playcdn.de/playlist/8dab345a1b7fc29ee141e12d4a1c3885/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-legend-aang-last-airbender-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avatar Aang: The Last Airbender
+https://stream.playcdn.de/playlist/0b438d80baa57f1c409f794a98167997/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2015/12/film-avengers-age-of-ultron-2015.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Age of Ultron
+https://stream.playcdn.de/playlist/939521bfedc9b8c88957e5810ed25da6/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-jackass-best-last-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Jackass: Best and Last
+https://stream.playcdn.de/playlist/7ea32cde50b55e0d28df4953fb2cf9cf/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-devils-mouth-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Devil's Mouth
+https://stream.playcdn.de/playlist/681a2ce7f59f23b412aa72f159c68e6d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-eyes-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Eyes
+https://stream.playcdn.de/playlist/f09725e7485c9bb6f51ff0d2d16c0c90/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lenin-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lenin
+https://stream.playcdn.de/playlist/c8cc736de916a72ed375ff89e36c2274/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gentleman-thief-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Gentleman Thief
+https://stream.playcdn.de/playlist/789be48b523ff7e3f5cdd03d4bc1e556/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/07/film-the-fantastic-four-first-steps-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Fantastic Four: First Steps
+https://stream.playcdn.de/playlist/c04520ada6ec9849fd8ea7df1f436eb1/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thunderbolts*
+https://stream.playcdn.de/playlist/e16a3452d86ceee7610550aab1fa0f85/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/05/film-punisher-one-last-kill-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Punisher: One Last Kill
+https://stream.playcdn.de/playlist/771d4fc7f4f4f74ffe170bffea109d53/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-odyssey-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Odyssey
 https://stream.playcdn.de/playlist/6d120519f4a4dd1fdf60b65b1886ac62/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-supergirl-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Supergirl
@@ -2064,15 +2084,32 @@ https://stream.playcdn.de/playlist/b14821bcf0dbeb2a43bf05c0ac085fe4/4/480.m3u8?x
 https://stream.playcdn.de/playlist/1d8460e74976f9fb54bb404018b96f69/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-malaikat-malam-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Malaikat Malam
 https://stream.playcdn.de/playlist/c6d875655602458abbe4e353e2f5b4f9/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-spider-man-brand-new-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Brand New Day
+https://stream.playcdn.de/playlist/ea1f84dda9d31504bca5afa472a164e7/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-last-house-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Last House
+https://stream.playcdn.de/playlist/68f667c7c0983affb36dd442c6731c6f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-evil-dead-burn-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Evil Dead Burn
+https://stream.playcdn.de/playlist/d4b97ce3101a7e607a267009c48ed80d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-colony-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Colony
+https://stream.playcdn.de/playlist/376543dc6374ddd87ece2c873c4e17ab/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: No Way Home
+https://stream.playcdn.de/playlist/dafb4188069455ca5f34bb36cfbb8570/11/480.m3u8
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Endgame
+https://stream.playcdn.de/playlist/153ea0ec867efae5398835a787407b6d/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lucky-strike-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lucky Strike
+https://stream.playcdn.de/playlist/09f0e27f57cd4f6201a7c0d6b77a0e79/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2018/05/film-avengers-infinity-war-2018.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Infinity War
+https://stream.playcdn.de/playlist/3c263196bf30ea494572b60e30045587/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-isolate-thief-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Isolate Thief
+https://stream.playcdn.de/playlist/14541b66b4c057402ceb374e2d09e12f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-toy-story-5-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Toy Story 5
+https://stream.playcdn.de/playlist/c4cc52ec309068faa3b4eaef99d3628c/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-obsession-2025-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Obsession
 https://stream.playcdn.de/playlist/1178b40cfbe0ec806e4e1116cfc8ddf3/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-deep-water-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Deep Water
 https://stream.playcdn.de/playlist/ace88b4f6afc788c96ed56c7f3c080d1/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/11/film-14-peaks-nothing-is-impossible-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", 14 Peaks: Nothing Is Impossible
 https://pixeldrain.com/api/file/fGc4XLNS?download
-
-
-
 
 
 
