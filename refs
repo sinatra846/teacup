@@ -3364,9 +3364,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071135.png?raw=true" group-title="CHANNEL | INDONESIA",GARUDA TV (FEED)
 https://hgmtv.com:2020/hls/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071314.png?raw=true",BN Channel
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+#####EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071314.png?raw=true",BN Channel
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",VTV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
