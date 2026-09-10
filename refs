@@ -3364,6 +3364,10 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071135.png?raw=true" group-title="CHANNEL | INDONESIA",GARUDA TV (FEED)
 https://hgmtv.com:2020/hls/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071314.png?raw=true",BN Channel
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",VTV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -3375,8 +3379,6 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
-
-EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260507_071314.png?raw=true", BN CHANNEL
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3531,11 +3533,15 @@ https://hgmtv.com:19360/asthatv/asthatv.m3u8
 #EXTINF:-1 tvg-id="Daai.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="CHANNEL | DAERAH",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="Jawapos TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",Jawapos TV Madiun
-http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="Jawapos TV" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",••Jawapos TV Jakarta
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260911_072640.png?raw=true" group-title="Shareext@LOKAL_ID",BIOSKOP INDONESIA (TRANS2)
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -3583,14 +3589,11 @@ http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-####EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" group-title="CHANNEL | DAERAH", JTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=dash
-
-####EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" group-title="CHANNEL | DAERAH", JTV (1)
-http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/chunklist_w1853455900.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.jtv.kediri" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true",••JTV Kediri
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="JITV Jogja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3EM-5RBWcPoyEOnpEtsbdwCbDglpzJ_kPiJfmP3T4w&s=10" group-title="CHANNEL | DAERAH",JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
@@ -13139,87 +13142,86 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <====================LIVE EVENT 1===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
 
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB PSV vs Shakhtar Donetsk
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB PSV vs Shakhtar Donetsk
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB Fenerbahçe vs Roma
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB Fenerbahçe vs Roma
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 13:00 WIB Thailand vs Australia
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 13:00 WIB Thailand vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 17:00 WIB South Korea vs China
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 17:00 WIB South Korea vs China
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 20:00 WIB Polandia vs Portugal
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 20:00 WIB Polandia vs Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Prancis vs Swiss
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Prancis vs Swiss
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 
-#EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 23:00 WIB Ukraina vs Israel
+EXTINF:-1 group-title="EVENT 010/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 23:00 WIB Ukraina vs Israel
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel82.m3u8
 
 
 
 <====================LIVE EVENT 2================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Bayern München vs Bodø / Glimt
+EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Bayern München vs Bodø / Glimt
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Como vs RB Leipzig
+EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Como vs RB Leipzig
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Manchester United vs Sabah
+EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Manchester United vs Sabah
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Slavia Praha vs Lens
+EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Slavia Praha vs Lens
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Turki vs Jerman
+EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Turki vs Jerman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Finlandia vs Denmark
+EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Finlandia vs Denmark
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel83.m3u8
 
-#EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 02:05 Italia vs Swedia
+EXTINF:-1 group-title="EVENT 011/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 02:05 Italia vs Swedia
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel85.m3u8
 
 
