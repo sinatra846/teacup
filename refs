@@ -3537,9 +3537,8 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="Jawapos TV" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",••Jawapos TV Jakarta
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260911_072640.png?raw=true" group-title="Shareext@LOKAL_ID",BIOSKOP INDONESIA (TRANS2)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260911_072640.png?raw=true" group-title="CHANNEL | DAERAH",BIOSKOP INDONESIA (TRANS2)
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -3587,14 +3586,14 @@ http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="auto.jtv.kediri" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true",••JTV Kediri
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="JITV Jogja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3EM-5RBWcPoyEOnpEtsbdwCbDglpzJ_kPiJfmP3T4w&s=10" group-title="CHANNEL | DAERAH",JITV Jogja
-http://103.255.15.222:1935/tv/jitv/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="JTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png",JTV (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #EXTVLCOPT:http-referrer=https://jitv.jogjaprov.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
