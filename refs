@@ -3412,8 +3412,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=205&ext=drm&x=1789199251&k=bcca1c45173e40c45fdeb3a8702bac50f9964beb37d40a504d56ac28676872f1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=205&ext=drm&x=1789199251&k=bcca1c45173e40c45fdeb3a8702bac50f9964beb37d40a504d56ac28676872f1
-https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=205&ext=dash&x=1789199251&k=8e2061ff72a46babdfd186f4ec39bae9bbe6e64cde68b09fc17970346f16b5c8&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=205&ext=drm&x=1789206876&k=6a7f2968be48d434911b50d2b1ee09f4c48d55d0fb817dae52f4e4e4589093eb
+https://vididi.bonetv.biz.id/index.mpd?q=205&ext=dash&x=1789206876&k=544425ea5555d0e5b08ac252f38aec5fd6487f6e97acaf8aaa061966553fce9f&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -3421,22 +3421,22 @@ https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=205&ext=dash&x=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=204&ext=drm&x=1789199251&k=5c0af28ccf5dd11ab67060a0597cbb630a6f3ff3b153109b656fcd3a471e2d40
-https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=204&ext=dash&x=1789199251&k=a3fd1ff1b33fa64d53d44e46f74ca927ce4f8b5cdf8ac9c7933d54fe8abd4f5e&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=204&ext=drm&x=1789206876&k=de2d2ebfeaefb35255ae313b575e23b5ac781239369c7ce500c38906c982402c
+https://vididi.bonetv.biz.id/index.mpd?q=204&ext=dash&x=1789206876&k=c63ef4f71ade1c11db37368c1e5d8fcf325a08aec3ea20b79536c2c81c23c3fa&sc=204
 
 #EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=782&ext=dash&x=1789199251&k=ed1102bf59623877e0e86de3d66c2cf66f15f1676f7fb8bc3a8395527faf8ec4&sc=782
+https://vididi.bonetv.biz.id/index.mpd?q=782&ext=dash&x=1789206876&k=fc6c10fe3f32f03a690b8b6e2322cd809f11c5378803738a3b27a609674263f0&sc=782
 
 #EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🆕TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=783&ext=dash&x=1789199251&k=5e1719a1e83b87e30eab285c3d07b80b6e9fd30637727dbf29d93665f1bb2353&sc=783
+https://vididi.bonetv.biz.id/index.mpd?q=783&ext=dash&x=1789206876&k=398e152a04d88f862c8f117814e7c0da20801f4ed584be0e3a74fd9e2fe109fa&sc=783
 
 ++===
 
