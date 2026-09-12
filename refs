@@ -13253,29 +13253,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 13:30 WIB Iran vs Australia
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 17:30 WIB Japan vs South Korea
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 15:45 WIB MotoGP Qualifying: Red Bull Grand Prix of San Marino and The Rimini Riviera - MotoGP 2026 Round 14
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
 #EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:30 WIB MotoGP Tissot SPRINT: Red Bull Grand Prix of San Marino and The Rimini Riviera - MotoGP 2026 Round 14
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -13285,36 +13262,28 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persija vs Persib
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622766.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=933ee20088caa2a77eacfa36f154445c
-
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persija vs Persib
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel4.m3u8
-
 #EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="EVENT 012/SEPTEMBER/2026", INDOSIAR FHD
 https://sw.run/CAMPWIKI-INDISIAR-FHD
 
-#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Madura United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel14.m3u8
-
 #EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Borneo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel37.m3u8?wsSecret=a48b715aa44b6a6b17b9ae2a4ad453f5&wsABSTime=1789239867
+#EXTVLCOPT:http-origin=https://ppdd19.playaindg12.xyz/
+#EXTVLCOPT:http-referrer=https://ppdd19.playaindg12.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://xxyznt1-cf.sbbol1011play.sbs/auth%3D11306eca0a3cf919758c78902cef3e6b62f8b30395c09e66c8e3b8b3ca57648d4e0780a16625a2101cf914d7f184d2e7ffe84a791dcfaf0a5a0fd8232a1b2df1e00be8a42ac18dd703b47dfae4b395b8b41a9718db95f09614c9bf7a8c2400be83cd2d2d2cc1182aa23856ccc8d37ed673bcc06336bd3f25ba704bff1e00f432f857d69442e42eb5e2da9d85a0b162fa91269db904378ca034b49817516a8bea4772a28e05cfdebb64f83fa8b7c19fe6d7402a6617eea072acd0b93893a5c132%26cid%3DWHqQmNCrOw5O6uyVqoL47260912%26_v%3D2%26_r%3DLXxLcU%26_vis%3D6a34932b114650f26992b8da86ae1dd3f2b74782e1259b9e4efbae712c524dfe%26_vvs%3D4de5d0b31bf2ca212bb6f010faa58e09afc5bdb690ad94a4d9512f50425f9170%26_vas%3D78c9d032052058775293f4f69edd8c439a528c2919f539b758d88b2376ead9e9/app/c437548.m3u8
 
 #EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bali United vs Adhyaksa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=1905a7e40d6f58c61dd5136dce09ce88&wsABSTime=1789239934
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622764.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=097ae9b78f5f79708128e3096a3c06ba
 
-<================>
+#EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bali United vs Adhyaksa
+#EXTVLCOPT:http-origin=https://ppdd19.playaindg12.xyz/
+#EXTVLCOPT:http-referrer=https://ppdd19.playaindg12.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://cxyznt3-cf.sbbol1011play.sbs/auth%3D8ea2a6552f1dd98a0c365d6bdb63fc9683f5fd3d09f5329452fd811a28981dad997e51ba93cc42ad9693ab65710e05b32171bce8179133189373a3b4852659b44b3f57e283f5c6dab42b07767bb2170b83f16a6f9745a552dc60334dbe86c7e69ecf24b8b0a3787abb4485c2f0b5d67f6f6c7416292d36cadc75e07fec9382cae3aa9af0d170ed89a55df89d3db82105923917ca93a3ba9d6460bd136d185a74%26cid%3DWHqQmNCrOw5O6uyVqoL47260912%26_v%3D2%26_r%3DamNNsJ%26_vis%3Dc817d6dcb6597cfb14ec2ea7a298fa8f330df4037f806364efac0f357023161e%26_vvs%3Da1327fdbcfe0ee8e4c6c680bc30fc3f4dec1110006d267b10d3f873929b1887d%26_vas%3D58359ea158f874f9ea7abbf0e4d80ac89076028b2631bbd2444fce181461e2fe/app/c437655.m3u8
+
+================================================>
 
 #EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Liverpool vs Fulham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -13436,6 +13405,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
+EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
+EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+EXTINF:-1 group-title="EVENT 012/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
 
 
 
