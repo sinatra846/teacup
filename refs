@@ -3625,26 +3625,26 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="TVKU" tvg-name="TVKU" tvg-logo="https://iili.io/JbtnEQ9.png" group-title="CHANNEL | DAERAH", TVKU
+#EXTINF:-1 tvg-id="TVKU" tvg-name="TVKU" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVKU.png?raw=true" group-title="CHANNEL | DAERAH", TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtnipp.png" group-title="CHANNEL | DAERAH",Dhoho TV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/DHOHO%20TV.png?raw=true" group-title="CHANNEL | DAERAH",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtnakl.png" group-title="CHANNEL | DAERAH",TATV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TATV.png?raw=true" group-title="CHANNEL | DAERAH",TATV
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdeMKgc7EWm2kjkwNGXa5JrMMLegbaRlTAX0xcrl54A&s=10" group-title="CHANNEL | DAERAH",Surabaya TV (Ga 24 Jam)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SURABAYA%20TV.png?raw=true" group-title="CHANNEL | DAERAH",Surabaya TV (Ga 24 Jam)
 https://e.siar.us/live/surabayatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" group-title="CHANNEL | DAERAH",Banjar TV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BANJAR%20TV.png?raw=true" group-title="CHANNEL | DAERAH",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="CHANNEL | DAERAH",Banten TV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BANTEN%20TV.png?raw=true" group-title="CHANNEL | DAERAH",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnSCF.png" group-title="CHANNEL | DAERAH",BMS TV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BMS%20TV.png?raw=true" group-title="CHANNEL | DAERAH",BMS TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="CHANNEL | DAERAH",Dhamma TV
