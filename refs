@@ -3211,7 +3211,7 @@ https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstar
 
 #EXTINF:-1 tvg-uid="251ae945fec84b9035d5abd69e0fa73e" data-source="Trans" tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png",TRANS 7 SH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(v1lOrpJnSy-sgO80OfiZsisV9Ud1auGeHljaq5kvgz-fAORhkZ6VosT7dnic_0iiOAOveuasT-xo2JVEjecV-xZxOU2FDA8D8WSSC2lk92SQ8RE0CsRPinsQIiOGThfI)/dm/3/x8qckyq/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(2rwHTAES3jXY8kXLgR-g3jnRSicSe9K0dEJjWqWuNkeLk_nPBwVR6HmeWOqCjH1l-w0bDBfv2KTrXZCdLe2Mmp9krgKuAuZbIt8tzW2MgXcU70j3EPUE3pH91sBHY2lZ)/dm/3/x8qckyq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -3279,8 +3279,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=drm&x=1789650692&k=fea1643de4cf453bf3930eebdc2415308346e06640933b3dd9d023012f688cac
-https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1789650692&k=73462f4514bccc4a47b68becb63b51896a3e1bb4e51cdca0a6e6daea00d35214&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1789658838&k=405603863e68d57418669d197e8c0abc81be5eca31c7307d26e2bac544650c7a
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1789658838&k=8c0f8baadcf8febe8c546f381b3b49a314b7a6ef29f7cd1a028b0828565fb11d&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -3288,10 +3288,10 @@ https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1789650692&k=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=drm&x=1789650692&k=df9f92182de8cfa884668a81d2541fec77ea33ee273ef7d88af4a7e10064df09
-https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=dash&x=1789650692&k=e9e6741894b395b7058ff6cc01cfb57732e7f661dcf57c1a7128ccbb30ea2ca7&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=drm&x=1789658838&k=30a614bf9e7990160f738f3e8b98a0d7fd0d6b9f2e97a0b7d6307599ced3b0c7
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1789658838&k=dfa0195e129c7c6ee0464d38d0c80d643c8932acc0b95bc7b7f2aebe33c8e5b6&sc=204
 
-#EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
+#####EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
