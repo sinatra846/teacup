@@ -3279,8 +3279,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1789658838&k=405603863e68d57418669d197e8c0abc81be5eca31c7307d26e2bac544650c7a
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1789658838&k=8c0f8baadcf8febe8c546f381b3b49a314b7a6ef29f7cd1a028b0828565fb11d&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=drm&x=1789663797&k=0462b540d4e4498a495f50ff802b8e5de8395b4f101a95e39e541e98c7216be8
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1789663797&k=1dbdc738ff274d0591b4eb4dd7e16ca6d20fe8c455f1573279034eda97e3cbd6&sc=204
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
