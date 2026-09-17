@@ -5319,14 +5319,35 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/
 =======DIGI==========
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL;LIVE | LALIGA",DIG1
+###EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL;LIVE | LALIGA",DIG1
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL;LIVE | LALIGA",DIG2
+###EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL;LIVE | LALIGA",DIG2
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL;LIVE | LALIGA",DIG3
+###EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL;LIVE | LALIGA",DIG3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL;LIVE | LALIGA",DIG4
+####EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="CHANNEL | SPORTS;LIVE | UCL;LIVE | LALIGA",DIG4
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig4.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/DIGI_Sport_1.svg/1280px-DIGI_Sport_1.svg.png", DIGI SPORT 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://sw.run/CAMPKTR-DGS-1
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Digi_Sport_2_2012.png", DIGI SPORT 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/digisport2/mono.m3u8
+https://sw.run/CAMPKTR-DGS-2
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Digi_Sport_3_2012.png", DIGI SPORT 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://ln.run/CAMPKTR-DGS3
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Digi_Sport_4_2012.png", DIGI SPORT 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/&origin=https://canale-tv.com
+https://ln.run/CAMPKTR-DGS-4
 
 
 =======PRIMA==========
