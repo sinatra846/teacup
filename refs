@@ -4386,55 +4386,47 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_Life_TV.jpg/1280px-Logo_Life_TV.jpg" group-title="CHANNEL | RELIGI", LIFE
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
 
+#EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/TV_2000.png" group-title="CHANNEL | RELIGI",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=070756a16fd44081b6c2d64e40346b9e:d5fa9eaa7fd94f93d1b613d1ff0a5f91
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="EWTN" tvg-logo="https://i.tracxn.com/logo/company/cdcdssdg_1584952615093.png" group-title="CHANNEL | RELIGI",EWTN
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd
+
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="CHANNEL | RELIGI",Dhamma TV 
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 
 
 ========== BRI LIGA 1 ===========
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA TARKAM
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", COMING SOON 2026-2027 👇👇
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+##EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="LIGA 1 BRI", INDOSIAR |®|
+https://sw.run/CAMPWIKI-INDISIAR-FHD
+-----------------------------------
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", ♨️ 18/9 - 15;30 WIB |AREMA FC VS PERSIK KEDIRI|
+https://shorter.me/VfuF-
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", ♨️ 18/9 - 19;00 WIB |MADURA UNITED VS PSIM YOGYA|
+https://shorter.me/VfuF-
 
-#EXTINF:-1 group-title="LIVE | LIGA TARKAM"  tvg-logo="https://upload.bestv.my.id/TSGDul2QBj", BRI 2
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205&type=darm
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+##EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19/9 - 15;30 WIB |PERSEBAYA VS GARUDAYAKSA|
+##EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19/9 - 15;30 WIB |PSM MAKASAR VS PERSITA|
+https://shorter.me/VfuF-
+##EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19/9 - 19;00 WIB |BHAYANGKARA VS KALTENG FC|
+https://shorter.me/VfuF-
+##EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19/9 - 19;00 WIB |PERSIJA VS JAVA UNITED|
+https://shorter.me/VfuF-
 
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 3
-http://opplextv.cyou:8080/nasir6160/nasir/350972
+##EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 20/9 - 15;30 WIB |BORNEO VS BALI UNITED|
+##EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 20/9 - 15;30 WIB |DEWA UNITED VS PSS SLEMAN|
+https://shorter.me/VfuF-
+##EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 20/9 - 19;00 WIB |PERSIJAP JEPARA VS PERSIB|
+https://shorter.me/VfuF-
 
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
-#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=live1&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 1A
-http://103.148.44.38:8000/play/a05c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM", BRI 5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://upload.bestv.my.id/TSGDul2QBj" group-title="LIVE | LIGA TARKAM",BRI 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 
 
@@ -4447,6 +4439,8 @@ https://github.com/Cutsiffa/pl/blob/main/Loc/Moj.m3u8
 
 #EXTINF:-1 group-title="LIVE | PROLIGA 2026" tvg-id="moji.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg",MOJI HD 2
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Moj.m3u8
+
+
 
 
 
