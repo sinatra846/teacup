@@ -3211,7 +3211,7 @@ https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstar
 
 #EXTINF:-1 tvg-uid="251ae945fec84b9035d5abd69e0fa73e" data-source="Trans" tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png",TRANS 7 SH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(8G-BwmXeBW5A7AhC0UY9BbOa__SD6O4mwd1kvoNBwBB4q9t7TLW0927hj6G2yXLXXLkJru2axkzN8Lcc9g5irswbaqzpxnonDUsFyfLXhcqYU5y0EqOAihltucV0qtoU)/dm/3/x8qckyq/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(vgb--hjsrn7qxNU3Fl_FC7_m2jTaJNtYkoXra0IJVPo1sSsR7Tw-1oPY-jwin-XAxfBvU21TPo9SPea30OP8xzuX6frFL-
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -3279,8 +3279,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.tsender57.workers.dev/index.mpd?q=205&ext=drm&x=1789705401&k=566f7c1b452890fa174caf0bee5064345cd705627cf52f8351034d15c4accb95
-https://streamvididi.tsender57.workers.dev/index.mpd?q=205&ext=dash&x=1789705401&k=88b424926003c7348f8472d78deb80475b5e92de6c8124c59e1dfa196ea3aea8&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=drm&x=1789720168&k=ca5e8649e1c2632d7b9fa78a07d406dfd69ab9e36fd4bdc3c1a7341f21888cdf
+https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1789720168&k=a9643e370cc64df750a51229bfbd02c72dd2de3706a417490d2e6bb551c0987b&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -3288,22 +3288,22 @@ https://streamvididi.tsender57.workers.dev/index.mpd?q=205&ext=dash&x=1789705401
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.tsender57.workers.dev/index.mpd?q=204&ext=drm&x=1789705401&k=36d139241b3127877e71d2a626a8698f5c2371fbf98cfa32bbe154b781180527
-https://streamvididi.tsender57.workers.dev/index.mpd?q=204&ext=dash&x=1789705401&k=2575e12e53b142ca34c226f70cefd97a44c792edee958fad743e8661c00f301e&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1789720168&k=5c5ed3b36dae23dc7832ef21b87d8595eb858fc9f6b56d137874a0ded522f099
+https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1789720168&k=896f46ad5655b08c58d1e8a0e3afff0e67841db96240fdd9ea281518c4b7c3e3&sc=204
 
 #EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streamvididi.tsender57.workers.dev/index.mpd?q=782&ext=dash&x=1789705401&k=7b5fc7db5b24e58738aea247b1aad379e746d92d7923287d286bcc5825a4453a&sc=782
+https://vididi.bento4590.workers.dev/index.mpd?q=782&ext=dash&x=1789720168&k=5d94fe33688549614b439f3db34e3c3bc2f708f8e5e604e2651e46b0d258903f&sc=782
 
 #EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🆕TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streamvididi.tsender57.workers.dev/index.mpd?q=783&ext=dash&x=1789705401&k=f93ca0ec7e5212952cdd1840ca4d7ab68b65b0fc5d5d35f96002f206f506cd5b&sc=783
+https://vididi.bento4590.workers.dev/index.mpd?q=783&ext=dash&x=1789720168&k=f0f8d1f0c7b4e52a905bac5382c5430b371367aea8aaf7947f814231a7bf6a08&sc=783
 
 ++===
 
