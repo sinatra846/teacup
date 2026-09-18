@@ -3314,6 +3314,24 @@ https://vididi.bento4590.workers.dev/index.mpd?q=782&ext=dash&x=1789742671&k=753
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vididi.bento4590.workers.dev/index.mpd?q=783&ext=dash&x=1789742671&k=0c4a8668ccaf08a87a3b91d696f3d5df1a65c0d4271d0a263c71d7359f2fcf33&sc=783
 
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar - Server 3" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕INDOSIAR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+https://vidsemar.pages.dev/terraluna2/205.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕TVONE 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕SCTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://nu.mayangtv.my.id/numaling/buroot1x.php?play=aHR0cHM6Ly9tYXlhbmd0di5teS5pZC92aWRpby9tYXlhbmd0di5waHA/aWQ9MjA0JnR5cGU9ZGFzaA==
+
 ++===
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
