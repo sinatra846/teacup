@@ -4464,8 +4464,11 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 
 ========== BRI LIGA 1 ===========
-#EXTINF:-1 group-title="JADWAL LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", COMING SOON 2026-2027
-https://pixeldrain.com/api/file/75r44rTj?download
+#EXTINF:-1 tvg-id="auto.coming" group-title="JADWAL LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="COMING SOON VIDEO" tvg-logo="https://i.imgur.com/vzXPJsq.png",COMING SOON 2026-2027
+https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="auto.mukidi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | INDONESIAN MOVIE",MUKIDI
+https://pixeldrain.com/api/file/xDtZjqYB?download
 
 #EXTINF:-1 tvg-id="auto.sp" tvg-logo="https://i.imgur.com/vzXPJsq.png" group-title="JADWAL LIGA 1 BRI",20/9 - 15;30 WIB |BORNEO VS BALI UNITED|
 https://pixeldrain.com/api/file/jvWKU4Ex?download
