@@ -4458,9 +4458,8 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4
 https://sw.run/CAMPWIKI-INDISIAR-FHD
 -----------------------------------
 
-
-#EXTINF:-1 group-title="JADWAL LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 20/9 - 15;30 WIB |BORNEO VS BALI UNITED|
-https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/MiConv.com__sp_20260919_1080p_30f_20260920_074802.m3u8
+#EXTINF:-1 tvg-id="auto.sp" tvg-logo="https://i.imgur.com/vzXPJsq.png" group-title="JADWAL LIGA 1 BRI",20/9 - 15;30 WIB |BORNEO VS BALI UNITED|
+https://pixeldrain.com/api/file/jvWKU4Ex?download
 
 ##EXTINF:-1 group-title="JADWAL LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 20/9 - 15;30 WIB |DEWA UNITED VS PSS SLEMAN|
 https://shorter.me/VfuF-
