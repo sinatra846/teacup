@@ -3291,7 +3291,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
 ####KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="NASIONAL",🆕INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕INDOSIAR
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 ###https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
 ###https://tvratu.my.id/vid/index.mpd?id=205&type=dash
@@ -4976,8 +4976,29 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260922_070723.png?raw=true",|HR| MAX SPORT 2
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1107494.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260922_070257.png?raw=true",|BG| MAX SPORT 1 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/83260.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/logos/154879.png",|BG| MAX SPORT 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/154879.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260922_070723.png?raw=true",|BG| MAX SPORT 2 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/83259.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260922_070723.png?raw=true",|BG| MAX SPORT 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/154880.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260922_070915.png?raw=true",|BG| MAX SPORT 3 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/83258.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260922_070915.png?raw=true",|BG| MAX SPORT 3 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/154881.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260922_071024.png?raw=true,|BG| MAX SPORT 4 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/83257.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260922_071024.png?raw=true",|BG| MAX SPORT 4 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/154882.m3u8
 
 ###EXTINF:-1 tvg-uid="dc01fdb755b04b96ca20b5d7bb4a1ddb" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ================MAINTENANCE===================
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/558965.m3u8
