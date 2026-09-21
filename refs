@@ -5350,17 +5350,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TSN1_new.png" group-title="CHANNEL | SPORTS",TSN 1 (ALT)
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38236
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN2.png" group-title="CHANNEL | SPORTS",TSN 2 (ALT)
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38237
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN3.png" group-title="CHANNEL | SPORTS",TSN 3 (ALT)
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38238
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Tsn_4_ca.png" group-title="CHANNEL | SPORTS",TSN 4 (ALT)
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38239
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN5.png" group-title="CHANNEL | SPORTS",TSN 5 (ALT)
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38240
-
 #EXTINF:-1 tvg-name="CBS Golazo Sports" tvg-logo="https://i.imgur.com/LGNjMKR.png" group-title="CHANNEL | SPORTS;LIVE | SERIE A", CBS SPORTS GOLAZO [COPPA ITALIA]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
@@ -5544,13 +5533,14 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | SPORTS",SPORT TV 1 (TMAXAPP)
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | SPORTS",SPORT TV 1 (TMAXAPP) ❌
 https://tmaxapp.site/pt658svs/sporttv1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | SPORTS",SPORT TV 2 (TMAXAPP)
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | SPORTS",SPORT TV 2 (TMAXAPP) ❌
 https://tmaxapp.site/pt658svs/sporttv2.m3u8
 
-#EXTINF:-1 tvg-name="Sport TV 6" tvg-logo="" group-title="CHANNEL | SPORTS",SPORT TV 6 (TMAXAPP)
+#EXTINF:-1 tvg-name="Sport TV 6" tvg-logo="" group-title="CHANNEL | SPORTS",SPORT TV 6 (TMAXAPP) ❌
+
 https://tmaxapp.site/pt658svs/sporttv6.m3u8
 
 
@@ -5594,34 +5584,34 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="CHANNEL | SPORTS",SKY SPORT TENNIS HD (RUTUBE)
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
 
-#EXTINF:-1 tvg-uid="56b80e67e201e4aeb0585dec177320d4" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", SKY SPORT UNO HD [IT]
+#EXTINF:-1 tvg-uid="56b80e67e201e4aeb0585dec177320d4" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", SKY SPORT UNO HD [IT] ❌
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/894998.m3u8
 
-#EXTINF:-1 tvg-uid="90739fc9573e7f9dd4ffce7c4229c714" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTUNO.png",  [IT] SKY SPORT UNO HEVC
+#EXTINF:-1 tvg-uid="90739fc9573e7f9dd4ffce7c4229c714" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTUNO.png",  [IT] SKY SPORT UNO HEVC ❌
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167167.m3u8
 
-#EXTINF:-1 tvg-uid="900de613e865432afb250b5349b9d3d4" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTUNO.png",  [IT] SKY SPORT UNO FHD 
+#EXTINF:-1 tvg-uid="900de613e865432afb250b5349b9d3d4" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTUNO.png",  [IT] SKY SPORT UNO FHD ❌
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177687.m3u8
 
 
 =================
 
-#EXTINF:-1 tvg-name="Sky Bundesliga" tvg-logo="" group-title="CHANNEL | SPORTS;LIVE | BUNDESLIGA",Sky Bundesliga (TMAXAPP)
+#EXTINF:-1 tvg-name="Sky Bundesliga" tvg-logo="" group-title="CHANNEL | SPORTS;LIVE | BUNDESLIGA",Sky Bundesliga (TMAXAPP) ❌
 https://tmaxapp.site/ligue6sc6/skybundesliga1.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports Football (TMAXAPP)
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports Football (TMAXAPP) ❌
 https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports Golf (TMAXAPP)
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports Golf (TMAXAPP) ❌
 https://tmaxapp.site/8wirwjs76erftg/skysportsgolf.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Tennis" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports Tennis (TMAXAPP)
+#EXTINF:-1 tvg-name="Sky Sports Tennis" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports Tennis (TMAXAPP) ❌
 https://tmaxapp.site/8wirwjs76erftg/skysportstennis.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Racing" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports Racing (TMAXAPP)
+#EXTINF:-1 tvg-name="Sky Sports Racing" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports Racing (TMAXAPP) ❌
 https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports+" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports+ (TMAXAPP)
+#EXTINF:-1 tvg-name="Sky Sports+" tvg-logo="" group-title="CHANNEL | SPORTS",Sky Sports+ (TMAXAPP) ❌
 https://tmaxapp.site/sky95sdfas/sky1.m3u8
 
 =================
@@ -5961,19 +5951,19 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="CHANNEL | SPORTS", Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-uid="f98d91ff3918336c77222d78ad60ec7f" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png", ┃AE┃ DUBAI RACING 1
+#EXTINF:-1 tvg-uid="f98d91ff3918336c77222d78ad60ec7f" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png", ┃AE┃ DUBAI RACING 1 ❌
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/660659.m3u8
-#EXTINF:-1 tvg-uid="8729cfb939e28b7c84fba1f4e44eacbd" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png", ┃AE┃ DUBAI RACING 2
+#EXTINF:-1 tvg-uid="8729cfb939e28b7c84fba1f4e44eacbd" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png", ┃AE┃ DUBAI RACING 2 ❌
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/660658.m3u8
-#EXTINF:-1 tvg-uid="3f0c63d599f01301a8ed2a72ee5fe278" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png", ┃AE┃ DUBAI RACING 3
+#EXTINF:-1 tvg-uid="3f0c63d599f01301a8ed2a72ee5fe278" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png", ┃AE┃ DUBAI RACING 3 ❌
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/660657.m3u8
-#EXTINF:-1 tvg-uid="4515d06173d93dd09c684ac7e681ddf6" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/SKY RACING.png", ┃AU┃ SKY RACING 1
+#EXTINF:-1 tvg-uid="4515d06173d93dd09c684ac7e681ddf6" data-source="Sports7November" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/SKY RACING.png", ┃AU┃ SKY RACING 1 ❌
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/944678.m3u8
-#EXTINF:-1 tvg-uid="584a01943944b4df14deb01fcac35fc4" data-source="Macportal3" group-title="CHANNEL | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/894436.png", HR| DUBAI RACING 1 TV HD
+#EXTINF:-1 tvg-uid="584a01943944b4df14deb01fcac35fc4" data-source="Macportal3" group-title="CHANNEL | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/894436.png", HR| DUBAI RACING 1 TV HD ❌
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/894436.m3u8
-#EXTINF:-1 tvg-uid="288e1a4de040de873606d1acf11334d9" data-source="Macportal3" group-title="CHANNEL | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/894437.png", HR| DUBAI RACING 2 HD
+#EXTINF:-1 tvg-uid="288e1a4de040de873606d1acf11334d9" data-source="Macportal3" group-title="CHANNEL | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/894437.png", HR| DUBAI RACING 2 HD ❌
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/894437.m3u8
-#EXTINF:-1 tvg-uid="65a6820d827769c492c7c7bfedbb4951" data-source="Macportal3" group-title="CHANNEL | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/894438.png", HR| DUBAI RACING 3 HD
+#EXTINF:-1 tvg-uid="65a6820d827769c492c7c7bfedbb4951" data-source="Macportal3" group-title="CHANNEL | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/894438.png", HR| DUBAI RACING 3 HD ❌
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/894438.m3u8
 
 #EXTINF:-1 tvg-uid="ea2bfca2383cb70ffa9c4ce532d15511" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS;LIVE | EREDIVISIE" tvg-logo="https://i.pinimg.com/736x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg", ┃NL┃ ZIGGO SPORT 1 8K
