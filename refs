@@ -13485,7 +13485,10 @@ https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/ma
 <====================LIVE EVENT 1===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB Bayern vs Manchester City
+#EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/m52-i", 23:45 WIB Bayern vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 
 #EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB Inter Milano vs Häcken
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -13494,27 +13497,6 @@ https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/ma
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 ================
-
-#EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB South Korea vs Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB South Korea vs Thailand
-#EXTVLCOPT:http-origin=https://player.787200.com/
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.vivo155.com/live/sd-10-5362016.m3u8?txSecret=649d77cfb027ab523917294fbe41c0fd&txTime=6AB23A62
-
-#EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/32-EQ", 17:20 WIB Japan vs China
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 20:00 WIB Prancis vs Rumania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 
 #EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 23:00 WIB Polandia vs Jerman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -13527,26 +13509,22 @@ https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 <====================LIVE EVENT 2================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 13:00 WIB 20th Asian Games Aichi-Nagoya 2026
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/14d93b2e-a94f-4ae3-a198-703f2fc12bfe/HLS_ENC/index.m3u8
-#EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 13:00 WIB 20th Asian Games Aichi-Nagoya 2026
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/332b71b2-71e4-4ee6-b755-1539513e9fd6/HLS_ENC/index.m3u8
 
-#EXTINF:-1 group-title="EVENT 023/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Arsenal vs Køge
+#EXTINF:-1 group-title="EVENT 023/SEPTEMBER/2026" tvg-logo="https://shorter.me/m52-i", 02:00 WIB Arsenal vs Køge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel11.m3u8
 
-#EXTINF:-1 group-title="EVENT 023/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Juventus vs SL Benfica
+#EXTINF:-1 group-title="EVENT 023/SEPTEMBER/2026" tvg-logo="https://shorter.me/m52-i", 02:00 WIB Juventus vs SL Benfica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel16.m3u8
 
 #EXTINF:-1 group-title="EVENT 023/SEPTEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Real Madrid vs PSG
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-
-
-
-
-
 
 
 
