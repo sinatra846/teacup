@@ -5731,10 +5731,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 
 =======HUB SPORT==========
 
-#EXTINF:-1 tvg-uid="c5d2b7e4ac88f2ac3637ca5b1440f830" data-source="Macportal1" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png", ┃UK┃ HUB PREMIER 1 FHD
 
-
-
+#EXTINF:-1 group-title="CHANNEL | SPORTS;LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png", ┃UK┃ HUB PREMIER 1 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314077.m3u8
 
 #EXTINF:-1 tvg-uid="781cc672410ede5459165bb1704c6583" data-source="Macportal1" group-title="CHANNEL | SPORTS;LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png", ┃UK┃ HUB PREMIER 2 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314078.m3u8
@@ -6510,49 +6509,52 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v
 
 #EXTINF:-1 tvg-uid="b06d5186c9a546c7a36eaf8c143548e7" data-source="VietnamCH" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
-#EXTINF:-1 tvg-uid="a4ce66cf1a2df21cd658dc44327acbf4" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312824.m3u8
-#EXTINF:-1 tvg-uid="475847b28f752da4bb48e4f6f7f2c779" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312835.m3u8
-#EXTINF:-1 tvg-uid="74dce21a1f0c136777a2b21212a1e5a4" data-source="Plusthailand" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="LIVE | LIGA INGGRIS",⚽SKY premier league
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
+
 #EXTINF:-1 tvg-uid="939d6b212ea0af97b7f755f73e64fa84" data-source="Vietnamch2" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
-#EXTINF:-1 tvg-uid="7ec37481f574ed4ae3e67086fb3b76f1" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTPREMIERHD.png", ┃DE┃ SKY SPORT PREMIER LEAGUE RAW
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/760956.m3u8
-#EXTINF:-1 tvg-uid="ae2228f7ddbe2c98a85ae8f729c12726" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png", ┃DE┃ SKY SPORT PREMIER LEAGUE FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1149432.m3u8
-#EXTINF:-1 tvg-uid="38a4c8bbae12a7b68ab3305fef42fe78" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png", ┃DE┃ SKY SPORT PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1149458.m3u8
-#EXTINF:-1 tvg-uid="a742efce3caa96c68dade19240c869c1" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE HEVC FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312036.m3u8
-#EXTINF:-1 tvg-uid="63116d61a8cc790298019d132b8a0429" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312048.m3u8
-#EXTINF:-1 tvg-uid="a1e67817536c2dbf34dc48f05c100c4c" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/394557.m3u8
-#EXTINF:-1 tvg-uid="4abbb1f773ca26f5a3a37cc3106a6b68" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312177.m3u8
-#EXTINF:-1 tvg-uid="046e6d9abda4125ccb089df97bd863b9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312239.m3u8
-#EXTINF:-1 tvg-uid="5d9f1b032d423fc80ddefb951471a97c" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTPREMIERLEAGUE.png", ┃UK┃ SUPERSPORT PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/396881.m3u8
-#EXTINF:-1 tvg-uid="028f77349570bf7d0dcd739a94597de9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT PREMIER LEAGUE HD.png", ┃NZ┃ SKY SPORT PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/809372.m3u8
-#EXTINF:-1 tvg-uid="46e89451c166377cca6f29cfeeb2f00a" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png", ┃SPORTS┃ STAR SPORTS SELECT 1 HD
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png",|UK| SKY SPORT PRIME LIGE
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917630.m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/1235934.png",|DE| SKY SPORT TOP EVENT HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235934.m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/1235927.png",|DE| SKY SPORT PREMIER LEAGUE FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235927.m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/1235920.png",|DE| SKY SPORT PREMIER LEAGUE HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235920.m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png",|UK| SKY SPORT MAIN EVENT
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917636.m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png",|UK| SKY SPORT FOOTBALL
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917622.m3u8
+
+
+
+
+
+###EXTINF:-1 tvg-uid="a4ce66cf1a2df21cd658dc44327acbf4" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV FHD
+###EXTINF:-1 tvg-uid="475847b28f752da4bb48e4f6f7f2c779" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV HD
+###EXTINF:-1 tvg-uid="028f77349570bf7d0dcd739a94597de9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT PREMIER LEAGUE HD.png", ┃NZ┃ SKY SPORT PREMIER LEAGUE HD
+###EXTINF:-1 tvg-uid="5d9f1b032d423fc80ddefb951471a97c" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTPREMIERLEAGUE.png", ┃UK┃ SUPERSPORT PREMIER LEAGUE HD
+
+####EXTINF:-1 tvg-uid="46e89451c166377cca6f29cfeeb2f00a" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png", ┃SPORTS┃ STAR SPORTS SELECT 1 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373202.m3u8
-#EXTINF:-1 tvg-uid="6971b13878a4c980a5228eb5d85952b9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png", ┃SPORTS┃ STAR SPORTS SELECT 2 HD
+####EXTINF:-1 tvg-uid="6971b13878a4c980a5228eb5d85952b9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png", ┃SPORTS┃ STAR SPORTS SELECT 2 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373201.m3u8
-#EXTINF:-1 tvg-uid="89cb23b06259b623a85dbc50c9a86eb1" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg", SPORTS| STAR SPORTS SELECT 1 FHD
+####EXTINF:-1 tvg-uid="89cb23b06259b623a85dbc50c9a86eb1" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg", SPORTS| STAR SPORTS SELECT 1 FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1114583.m3u8
-#EXTINF:-1 tvg-uid="8cacc013cb73cb7bf1a45f4687004c2c" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picons.cmshulk.com/picons/155972.png", SPORTS| STAR SPORTS SELECT 1 HD
+####EXTINF:-1 tvg-uid="8cacc013cb73cb7bf1a45f4687004c2c" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picons.cmshulk.com/picons/155972.png", SPORTS| STAR SPORTS SELECT 1 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/155972.m3u8
-#EXTINF:-1 tvg-uid="b95bc2a9a21e2244366250c7fa07e9db" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picons.cmshulk.com/picons/282675.png", SPORTS| STAR SPORTS SELECT 1
+###EXTINF:-1 tvg-uid="b95bc2a9a21e2244366250c7fa07e9db" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picons.cmshulk.com/picons/282675.png", SPORTS| STAR SPORTS SELECT 1
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/282675.m3u8
-#EXTINF:-1 tvg-uid="416e15704f203217610c6cbb1b85f253" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2 FHD
+####EXTINF:-1 tvg-uid="416e15704f203217610c6cbb1b85f253" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2 FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1114584.m3u8
-#EXTINF:-1 tvg-uid="d7ab8e81b18b30c03db101f49e4cc3aa" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2 HD
+####EXTINF:-1 tvg-uid="d7ab8e81b18b30c03db101f49e4cc3aa" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/155973.m3u8
-#EXTINF:-1 tvg-uid="6924a48543772129d8220ed19c2ae0bb" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2
+###EXTINF:-1 tvg-uid="6924a48543772129d8220ed19c2ae0bb" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/282676.m3u8
 
 
