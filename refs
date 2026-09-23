@@ -6509,27 +6509,35 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v
 
 #EXTINF:-1 tvg-uid="b06d5186c9a546c7a36eaf8c143548e7" data-source="VietnamCH" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true", MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
-
 #EXTINF:-1 tvg-uid="939d6b212ea0af97b7f755f73e64fa84" data-source="Vietnamch2" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true", Sky Sports Premier League FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
-
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true",|UK| SKY SPORT PRIME LIGE
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917630.m3u8
-
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true",|DE| SKY SPORT TOP EVENT HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235934.m3u8
-
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true",|DE| SKY SPORT PREMIER LEAGUE FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235927.m3u8
-
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true",|DE| SKY SPORT PREMIER LEAGUE HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235920.m3u8
-
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true",|UK| SKY SPORT MAIN EVENT
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917636.m3u8
-
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true",|UK| SKY SPORT FOOTBALL
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917622.m3u8
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true",|U.S| USA NETWORK HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/174998.m3u8
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true", CAR -|US| USA NETWORK | ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/276305.m3u8
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true",|US| USA NETWORK HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/45466.m3u8
+
+=======================
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png", |SP| STAR SPORTS SELECT 1 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/276734.m3u8
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png", |SP| STAR SPORTS SELECT 2 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/276735.m3u8
+
+=======================
 
 ###EXTINF:-1 tvg-uid="a4ce66cf1a2df21cd658dc44327acbf4" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV FHD
 ###EXTINF:-1 tvg-uid="475847b28f752da4bb48e4f6f7f2c779" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV HD
