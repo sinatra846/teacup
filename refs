@@ -13486,11 +13486,31 @@ https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/ma
 
 
 <====================LIVE EVENT 1===================================>
-EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+#EXTINF:-1 group-title="EVENT 023/SEPTEMBER/2026" tvg-logo="https://shorter.me/0KD94", 12:30 WIB China PR U-23 vs UAE U-23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT 023/SEPTEMBER/2026" tvg-logo="https://shorter.me/0KD94", 12:30 WIB IR Iran U-23 vs Korea Utara U-23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT 023/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 13:00 WIB 20th Asian Games Aichi-Nagoya 2026
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/7a7f544f-16f7-4196-9ca2-7f6a883f40de/HLS_ENC/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 023/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 13:00 WIB 20th Asian Games Aichi-Nagoya 2026
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/e4df75e5-58f8-4667-9175-5bc06fb00c14/HLS_ENC/index.m3u8
 
 
 
-================
+
+
+
+
+
 
 
 
