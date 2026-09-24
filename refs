@@ -13508,61 +13508,24 @@ https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/ma
 
 
 <====================LIVE EVENT 1===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 024/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
+EXTINF:-1 group-title="EVENT 024/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/13150224-c11b-40f1-a65a-f02e1c9d94b4/HLS_ENC/index.m3u8
 
-#EXTINF:-1 group-title="EVENT 024/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 13:55 WIB 20th Asian Games Aichi-Nagoya 2026
+EXTINF:-1 group-title="EVENT 024/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 13:55 WIB 20th Asian Games Aichi-Nagoya 2026
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/517f02a3-c15e-4bed-9378-0e98966e933d/HLS_ENC/index.m3u8
 
 ==============
 
-#EXTINF:-1 group-title="EVENT 024/SEPTEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Andorra vs Malta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
 
 <====================LIVE EVENT 2================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
-#EXTINF:-1 group-title="EVENT 025/SEPTEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Belanda vs Jerman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 025/SEPTEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Norwegia vs Denmark
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 025/SEPTEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Portugal vs Wales
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 group-title="EVENT 025/SEPTEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Serbia vs Yunani
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
 
 <====================FIFA ASEAN CUP================================>
-#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/f_YMT4rkXVieDEVLrhi3Ual_4rw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355613/original/081536200_1790137907-fifa_asean_1.jpg", FIFA ASAN CUP
+EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/f_YMT4rkXVieDEVLrhi3Ual_4rw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355613/original/081536200_1790137907-fifa_asean_1.jpg", FIFA ASAN CUP
 
 #EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 24 SEPT 16;00 WIB - LAOS VS BRUNEI | ROY
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8
