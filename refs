@@ -6575,14 +6575,23 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2826
 ======================= EREDIVISIE ====================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | EREDIVISIE
 
-#EXTINF:-1 tvg-uid="8246d8590ec2b49f23d6f6976fa9fcc3" data-source="April2027" group-title="LIVE | EREDIVISIE" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png", NL-ZG| ESPN ᴿᴬᵂ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069730.m3u8
-#EXTINF:-1 tvg-uid="7c31ea94432b04110592b7ce31f3c657" data-source="April2027" group-title="LIVE | EREDIVISIE" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN2.png", NL-ZG| ESPN 2 ᴿᴬᵂ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069729.m3u8
-#EXTINF:-1 tvg-uid="230e5c1d81d4871bc9ff646c861dce41" data-source="April2027" group-title="LIVE | EREDIVISIE" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN-3.png", NL-ZG| ESPN 3 ᴿᴬᵂ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069728.m3u8
-#EXTINF:-1 tvg-uid="43e77f6b4906e75f5e7c7d75fe4edf0d" data-source="April2027" group-title="LIVE | EREDIVISIE" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN4.png", NL-ZG| ESPN 4 ᴿᴬᵂ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069727.m3u8
+#EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215436.jpg?raw=true", |NL| ESPN  1 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4848.m3u8
+
+#EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215615.png?raw=true", |NL| ESPN  2 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4845.m3u8
+
+#EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215735.jpg?raw=true", |NL| ESPN  3 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4842.m3u8
+
+#EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215901.jpg?raw=true", |NL| ESPN  4 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4839.m3u8
+
+
+
+
+
+
 
 
 ==============================================UCL============================================================
