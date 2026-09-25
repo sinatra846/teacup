@@ -13531,22 +13531,19 @@ https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/d78e9ec3-8570-46d9
 
 
 
-
-
-
 <====================LIVE EVENT 2================================
 EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
 
 <====================FIFA ASEAN CUP================================>
-EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/f_YMT4rkXVieDEVLrhi3Ual_4rw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355613/original/081536200_1790137907-fifa_asean_1.jpg", FIFA ASAN CUP
+#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/f_YMT4rkXVieDEVLrhi3Ual_4rw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355613/original/081536200_1790137907-fifa_asean_1.jpg", FIFA ASAN CUP
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 24 SEPT 16;00 WIB - LAOS VS BRUNEI | ROY
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 25 SEPT 16;00 WIB - BANGLADESH VS MALAYSIA |GBK JKT|
+https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 24 SEPT 19;00 WIB - MYANMAR VS TIMOR LESTE | NICK
-https://live2.zundrixmediapipeline.com/live/channel5.m3u8
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 🔥25 SEPT 20;00 WIB - INDONESIA VS SINGAPURA |GBK JKT|
+https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 
 
 
