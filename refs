@@ -6080,95 +6080,176 @@ EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.postimg.cc/L69GrBYC
 //========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/wtbadminton2210_NSTfield_image_socialmedia.var_1603344989.jpg?raw=true" group-title="LIVE | BADMINTON 2026", BWF Court 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18249&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18249&type=dash
+#EXTINF:-1 group-title="LIVE | BADMINTON 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/6a20038e-3495-416b-88d0-146757f2541b/HLS_ENC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/wtbadminton2210_NSTfield_image_socialmedia.var_1603344989.jpg?raw=true" group-title="LIVE | BADMINTON 2026", BWF Court 1 (Alt)
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18249
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18249
+#EXTINF:-1 group-title="LIVE | BADMINTON 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/0a9916e6-972e-467f-b175-7437e79cd82a/HLS_ENC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/wtbadminton2210_NSTfield_image_socialmedia.var_1603344989.jpg?raw=true" group-title="LIVE | BADMINTON 2026", BWF Court 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18250&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18250&type=dash
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/wtbadminton2210_NSTfield_image_socialmedia.var_1603344989.jpg?raw=true" group-title="LIVE | BADMINTON 2026", BWF Court 2 (Alt)
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18250
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18250
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/wtbadminton2210_NSTfield_image_socialmedia.var_1603344989.jpg?raw=true" group-title="LIVE | BADMINTON 2026", BWF Court 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18252&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18252&type=dash
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/wtbadminton2210_NSTfield_image_socialmedia.var_1603344989.jpg?raw=true" group-title="LIVE | BADMINTON 2026", BWF Court 3 (Alt)
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18252
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18252
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/wtbadminton2210_NSTfield_image_socialmedia.var_1603344989.jpg?raw=true" group-title="LIVE | BADMINTON 2026", BWF Court 4
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18253&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/wtbadminton2210_NSTfield_image_socialmedia.var_1603344989.jpg?raw=true" group-title="LIVE | BADMINTON 2026" , BWF Court 4 (Alt)
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18253
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18253
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/wtbadminton2210_NSTfield_image_socialmedia.var_1603344989.jpg?raw=true" group-title="LIVE | BADMINTON 2026",Sportstar 1 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 =======BEIN SPORT ARAB ======
 
 
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 1
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs1.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 2
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs2.m3u8
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 3
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs3.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 4
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs4.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 5
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs5.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 6
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs6.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben6.m3u8
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 7
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs7.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben7.m3u8
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 8
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs8.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 9
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs9.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0jWd88.png",MTV & IPTV FREE 
+https://j.top4top.io/m_2647uxf3x0.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nk44Tdd.png",|AR| BEIN SPORTS NEWS HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=369&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WwH58EE.png",|AR| BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=104974&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112542&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112541&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112539&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112538&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112511&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112512&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112509&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112489&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105104&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45706&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105103&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45705&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105102&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45704&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 1 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=583&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105107&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45709&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105106&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45708&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105105&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45707&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 2 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=683&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_3 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2600&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_3 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=788&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 3 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10081&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 3 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22392&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_4 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2601&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_4 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=789&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 4 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10080&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 4 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22391&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_5 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2602&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_5 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=790&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 5 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10079&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 5 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22390&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_6 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2603&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_6 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=791&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 6 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10078&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 4 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22389&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_7 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2604&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_7 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=792&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 7 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10077&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 7 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22388&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_8 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2605&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_8 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=793&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 8 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10076&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 8 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22387&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_9 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2606&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_9 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=794&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 9 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10075&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 9 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22386&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1454&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=4412&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 1 ENGLISH FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=26511&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 2 ENGLISH FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3032&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 3 ENGLISH FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89275&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS AFC 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89260&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS AFC 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89269&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS AFC 2 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89266&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN BOX OFFICE 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2612&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN BOX OFFICE 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2839&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",|AR| BEIN MOVIES 4 FHD (EXCLUS)
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=43852&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SERIES 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3147&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN FATAFEAT HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=37234&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BeIN GOURMET HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=5239&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN FOX HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3602&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN FOX CRIME HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3644&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN NAT GEO HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=4391&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN HGTV HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=5221&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| SHARJAH SPORT SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=42850&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| AL KASS ONE HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=90323&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| AL KASS ONE FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1763&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| AL KASS TWO FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1764&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| AL KASS THREE FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=19726&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| AL KASS FOUR FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1765&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BAHRAIN SPORT 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=7085&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BAHRAIN SPORT 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=7084&extension=ts
 
 
 =======BEIN SPORT ENG ======
