@@ -3481,11 +3481,14 @@ http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260911_072640.png?raw=true" group-title="CHANNEL | DAERAH",BIOSKOP INDONESIA (TRANS2)
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="Bali TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/bli.png?raw=true" ,Bali TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=026
+#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/bli.png?raw=true" group-title="CHANNEL | DAERAH",BALI TV (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -3521,12 +3524,13 @@ EXTINF:-1 tvg-logo="https://iili.io/JbtnQjI.png" group-title="CHANNEL | DAERAH",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/hanacaraka.png?raw=true" group-title="CHANNEL | DAERAH",Hanacaraka TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/hanacaraka.png?raw=true", HANACARAKA TV +
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=89
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+#EXTVLCOPT:http-origin=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mp
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3534,8 +3538,8 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="JTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/JTV.png?raw=true",JTV (V+)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
+###3#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="JTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/JTV.png?raw=true",JTV (V+)
+####https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3557,7 +3561,7 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="TVKU" tvg-name="TVKU" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVKU.png?raw=true" group-title="CHANNEL | DAERAH", TVKU
+#EXTINF:-1 tvg-id="TVKU" tvg-name="TVKU" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVKU.png?raw=true" group-title="CHANNEL | DAERAH", TVKU (GA 24 JAM)
 https://tvku.tv/hlsstream/hls/live.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 
@@ -3647,7 +3651,7 @@ https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w24
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/UGTV.jpg?raw=true" group-title="CHANNEL | DAERAH", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ktv.png?raw=true", KTV
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ktv.png?raw=true", KTV (Ga 24 Jam)
 https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/sngji.png?raw=true", SANGAJI TV
@@ -3663,7 +3667,7 @@ https://mgstv.siar.us/live/mgstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RDI%20SURABAYA.png?raw=true" , RADIO SURABAYA
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/imtv.png?raw=true" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , IMTV (JAKARTA)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/imtv.png?raw=true" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , IMTV (JAKARTA) (Ga 24 Jam)
 https://5bf7b725107e5.streamlock.net/imtv/imtv/chunklist_w422579395.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ficom.png?raw=true" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , FICOM CHANNEL
