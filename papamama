@@ -2189,6 +2189,7 @@ https://stream.playcdn.de/playlist/2ce53d7777a531665e8c754c51878129/1/0.m3u8?x=1
 ################# HORROR MOVIES #######################################
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD STREAM
 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRhNDNhNTItZDdmMC00NDM5LWI2MTktZDI2ZTQ0YTRlMzdjXkEyXkFqcGc@._V1_.jpg" tvg-name="Kill Trip (2026)" group-title="👻 FILM HOROR", Bloody Tennis (2026)
 https://stream.playcdn.de/playlist/39e763721ea4fcab717bccfc038e9ec8/1/0.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2YzcwNmEtZTJjNS00OGVkLTg2N2UtN2M4ZWMzZWZhYmEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-name="Kill Trip (2026)" group-title="👻 FILM HOROR", Kill Trip (2026)
@@ -2203,6 +2204,13 @@ https://stream.playcdn.de/playlist/206e612d0aab4f21491c02003e326be1/2/480.m3u8?x
 https://stream.playcdn.de/playlist/f303f0055333c9944eadc41455897636/1/0.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22dpk7RHMZ9_6AE1ts-DzWySdg1DuormLKZxr6RihAf4RSP_S0_745HM&s=10" tvg-name="I Know What You Did Last Summer (2025)" group-title="👻 FILM HOROR", I Know What You Did Last Summer (2025)
 https://stream.playcdn.de/playlist/183226fcf05354d52f543b936bdeafca/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2026/08/j5016vxLjYd5pmXezXNHYTbsjro-128x190.jpg" tvg-name="The Hanged Woman (2026)" group-title="👻 FILM HOROR", The Hanged Woman (2026)
+https://stream.playcdn.de/playlist/de380c16d0ba679934bf3f2e9a478dbd/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMxMzRhY2YtYzNlNC00OTdjLWFmODgtMTU0ODc0NmQ1OWI3XkEyXkFqcGc@._V1_.jpg" tvg-name="Ice Cream Man (2026)" group-title="👻 FILM HOROR", Ice Cream Man (2026)
+https://stream.playcdn.de/playlist/dba3c5706741fd74fe72333167c643b6/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2026/08/AiRySv62247N91mfCCAryACGNuv-128x190.jpg" tvg-name="The Priest: Thanksgiving Massacre (2025)" group-title="👻 FILM HOROR", The Priest: Thanksgiving Massacre (2025)
+https://stream.playcdn.de/playlist/c4f59efe49ade35cc840eb6cb0215da6/2/480.m3u8?x=1
+
 
 #######################################
 
@@ -2210,17 +2218,10 @@ https://stream.playcdn.de/playlist/183226fcf05354d52f543b936bdeafca/4/480.m3u8?x
 
 
 
-EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2026/08/j5016vxLjYd5pmXezXNHYTbsjro-128x190.jpg" tvg-name="The Hanged Woman (2026)" group-title="👻 FILM HOROR", The Hanged Woman (2026)
-https://semivodbukanpunya.javambatukan.workers.dev/play/aHR0cHM6Ly90ZXJiaXQyMS5vcmcvdGhlLWhhbmdlZC13b21hbi0yMDI2Lw.m3u8
-
-EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2026/08/vXC9scwAZACHAKHtUAt6qJ6G6K6-128x190.jpg" tvg-name="Piercing Screams (2025)" group-title="👻 FILM HOROR", Piercing Screams (2025)
-https://semivodbukanpunya.javambatukan.workers.dev/play/aHR0cHM6Ly90ZXJiaXQyMS5vcmcvcGllcmNpbmctc2NyZWFtcy0yMDI1Lw.m3u8
 
 EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2026/08/gnAsZvBygplNpp8PtjoTEYv3VPB-128x190.jpg" tvg-name="Leviticus (2026)" group-title="👻 FILM HOROR", Leviticus (2026)
 https://semivodbukanpunya.javambatukan.workers.dev/play/aHR0cHM6Ly90ZXJiaXQyMS5vcmcvbGV2aXRpY3VzLTIwMjYv.m3u8
 
-EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2026/08/AiRySv62247N91mfCCAryACGNuv-128x190.jpg" tvg-name="The Priest: Thanksgiving Massacre (2025)" group-title="👻 FILM HOROR", The Priest: Thanksgiving Massacre (2025)
-https://semivodbukanpunya.javambatukan.workers.dev/play/aHR0cHM6Ly90ZXJiaXQyMS5vcmcvdGhlLXByaWVzdC10aGFua3NnaXZpbmctbWFzc2FjcmUtMjAyNS8.m3u8
 
 EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2026/08/kVLcMvkdCUUbDmp1dPQ36ewkGUY-128x190.jpg" tvg-name="Go to Sleep (2026)" group-title="👻 FILM HOROR", Go to Sleep (2026)
 https://semivodbukanpunya.javambatukan.workers.dev/play/aHR0cHM6Ly90ZXJiaXQyMS5vcmcvZ28tdG8tc2xlZXAtMjAyNi8.m3u8
