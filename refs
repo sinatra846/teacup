@@ -11953,20 +11953,17 @@ https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/ma
 
 
 <==================== LIVE EVENT 1 ===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 21:00 WIB - UZBEKISTAN VS SURIAH | FIFA INTERNATIONAL FRIENDLY| Jean
+EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 21:00 WIB - UZBEKISTAN VS SURIAH | FIFA INTERNATIONAL FRIENDLY| Jean
 https://live2.zundrixmediapipeline.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-id="UEFA NL" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥23;00 WIB - AZERBAIJAH VS LIECHTENSTEIN |UEFA NATIONS LEAGUE| Socc
+EXTINF:-1 tvg-id="UEFA NL" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥23;00 WIB - AZERBAIJAH VS LIECHTENSTEIN |UEFA NATIONS LEAGUE| Socc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=115
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-
-
 
 EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" group-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT - SERVER UTAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12099,6 +12096,9 @@ EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=uDHMIZZF5mY
+
+
+
 
 
 
