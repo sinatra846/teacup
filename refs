@@ -11965,8 +11965,13 @@ https://shorter.me/Banglades
 https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
+================================>
 
-
+#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 17:00 WIB Indonesia vs Philippines
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-10-5374579.m3u8?txSecret=9c4ffba6876e16560f4b0eb52b187551&txTime=6ABE4679
 
 
 
