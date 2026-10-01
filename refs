@@ -11951,19 +11951,15 @@ https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/ma
 
 
 
-
-
-
-
 <====================LIVE EVENT 1===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 030/SEPTEMBER/2026" tvg-logo="https://shorter.me/0KD94", 17:30 WIB Uzbekistan U-23 vs Jepang U-23
+EXTINF:-1 group-title="EVENT 030/SEPTEMBER/2026" tvg-logo="https://shorter.me/0KD94", 17:30 WIB Uzbekistan U-23 vs Jepang U-23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT 030/SEPTEMBER/2026" tvg-logo="https://shorter.me/yKOXu", 19:00 WIB Hong Kong vs Brunei Darussalam
+EXTINF:-1 group-title="EVENT 030/SEPTEMBER/2026" tvg-logo="https://shorter.me/yKOXu", 19:00 WIB Hong Kong vs Brunei Darussalam
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
@@ -11971,15 +11967,15 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a
 
 
 <====================LIVE EVENT 2================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 tvg-id="ARABIAN GULF CUP" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/arabian-gulf-cup.218925ff.png", 🔥00;30 WIB - BAHRAIN VS YAMAN |ARABIAN GULF CUP| Fub S
+EXTINF:-1 tvg-id="ARABIAN GULF CUP" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/arabian-gulf-cup.218925ff.png", 🔥00;30 WIB - BAHRAIN VS YAMAN |ARABIAN GULF CUP| Fub S
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-id="ARABIAN GULF CUP" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/arabian-gulf-cup.218925ff.png", 🔥00;30 WIB - UNI EMIRAT ARAB VS QATAR |ARABIAN GULF CUP| Fussball
+EXTINF:-1 tvg-id="ARABIAN GULF CUP" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/arabian-gulf-cup.218925ff.png", 🔥00;30 WIB - UNI EMIRAT ARAB VS QATAR |ARABIAN GULF CUP| Fussball
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11987,13 +11983,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 =============
-#EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 🔥23;00 WIB - LITUANIA VS ANDORRA | FIFA INTERNATIONAL FRIENDLY| Fub s
+EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 🔥23;00 WIB - LITUANIA VS ANDORRA | FIFA INTERNATIONAL FRIENDLY| Fub s
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 🔥07;00 WIB - ARGENTINA VS BOLIVIA| FIFA INTERNATIONAL FRIENDLY| Match 3
+EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 🔥07;00 WIB - ARGENTINA VS BOLIVIA| FIFA INTERNATIONAL FRIENDLY| Match 3
 http://stream.mcquack.net/185/index.m3u8
 
 
@@ -12004,12 +12000,10 @@ http://stream.mcquack.net/185/index.m3u8
 
 
 <====================FIFA ASEAN CUP================================>
-#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/f_YMT4rkXVieDEVLrhi3Ual_4rw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355613/original/081536200_1790137907-fifa_asean_1.jpg", FIFA ASEAN CUP
+EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/f_YMT4rkXVieDEVLrhi3Ual_4rw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355613/original/081536200_1790137907-fifa_asean_1.jpg", FIFA ASEAN CUP
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 30 SEPT 16;00 WIB - TIMOR LESTE VS KAMBOJA |DIVISI 2 GROUP B - HKG | Roy
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 30 SEPT 19;00 WIB - HONGKONG VS BRUNEI |DIVISI 2 GROUP A - HKG | Brady
+EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 30 SEPT 16;00 WIB - TIMOR LESTE VS KAMBOJA |DIVISI 2 GROUP B - HKG | Roy
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 30 SEPT 19;00 WIB - HONGKONG VS BRUNEI |DIVISI 2 GROUP A - HKG | Brady
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 
 
