@@ -11981,6 +11981,36 @@ https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
+===============================>
+
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT 01/OKTOBER/2026" event-duration="4",📌INDONESIA VS BANGLADESH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-origin=https://www.youtube.com
+https://www.youtube.com/watch?v=uDHMIZZF5mY
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT 01/OKTOBER/2026",🆕Channel 5  (🚀25926)
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT 01/OKTOBER/2026",Indosiar
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas2.m3u8
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT 01/OKTOBER/2026",Indosiar2
+http://sansatplus.net:88/02000406070996/1899319467/694349
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT 01/OKTOBER/2026",T Sport
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT 01/OKTOBER/2026",🆕MOJI SPORT (VD)
+https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
+
+#EXTINF:-1tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT 01/OKTOBER/2026",🆕MOJI 6
+https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
 
 ================================>
 
@@ -12037,11 +12067,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 
 
-
-
-
-
-
 <====================FIFA ASEAN CUP================================>
 #EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/f_YMT4rkXVieDEVLrhi3Ual_4rw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355613/original/081536200_1790137907-fifa_asean_1.jpg", FIFA ASEAN CUP
 
@@ -12071,6 +12096,43 @@ https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 #EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT 19;30 WIB - MALAYSIA VS SINGAPURA |DIVISI 1 GROUP A-GBK JKT|
 https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+
+===============================>
+
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="FIFA ASEAN CUP 2026" event-duration="4",📌INDONESIA VS BANGLADESH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-origin=https://www.youtube.com
+https://www.youtube.com/watch?v=uDHMIZZF5mY
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕Channel 5  (🚀25926)
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="FIFA ASEAN CUP 2026",Indosiar
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas2.m3u8
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="FIFA ASEAN CUP 2026",Indosiar2
+http://sansatplus.net:88/02000406070996/1899319467/694349
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="FIFA ASEAN CUP 2026",T Sport
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="FIFA ASEAN CUP 2026",🆕MOJI SPORT (VD)
+https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
+
+#EXTINF:-1tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="FIFA ASEAN CUP 2026",🆕MOJI 6
+https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
+
+
+
+
+
+
 
 
 
