@@ -4150,32 +4150,33 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8
 =========================================== HBO GROUP ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | HBO GRUB
 
-
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="HBO" group-title="HBO" tvg-logo="https://iili.io/Ju79f8g.png",HBO 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="HBO" group-title="CHANNEL | HBO" tvg-logo="https://iili.io/Ju79f8g.png",HBO 
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="HBOHits" group-title="HBO" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
+#EXTINF:-1 tvg-id="HBOHits" group-title="CHANNEL | HBO" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO" tvg-logo="https://iili.io/Ju79otR.png",HBO Family 
+#EXTINF:-1 tvg-id="HBOFamily" group-title="CHANNEL | HBO" tvg-logo="https://iili.io/Ju79otR.png",HBO Family 
 http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-EXTINF:-1 tvg-id="HBOSig" group-title="HBO" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature 
+#EXTINF:-1 tvg-id="HBOSig" group-title="CHANNEL | HBO" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature 
 http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-EXTINF:-1 tvg-id="Cinemax" group-title="HBO" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (inditv)
+#EXTINF:-1 tvg-id="Cinemax" group-title="CHANNEL | HBO" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (inditv)
 http://31.43.191.125:8080/restream/restream/34572
 ##https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
+==========================================
 
 EXTINF:0 tvg-logo="https://iili.io/Ju79f8g.png" group-title="CHANNEL | HBO GRUB", HBO ID (1️⃣✅)
 ###https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
