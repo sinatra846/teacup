@@ -4150,43 +4150,19 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8
 =========================================== HBO GROUP ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | HBO GRUB
 
-EXTINF:0 tvg-logo="https://iili.io/Ju79f8g.png" group-title="CHANNEL | HBO GRUB", HBO ID (1️⃣✅)
-###https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="HBO" group-title="HBO" tvg-logo="https://iili.io/Ju79f8g.png",HBO 
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://iili.io/Ju79otR.png" group-title="CHANNEL | HBO GRUB", HBO Family ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
-
-#EXTINF:0 tvg-logo="https://iili.io/Ju79nwv.png" group-title="CHANNEL | HBO GRUB", HBO Hits ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
-
-#EXTINF:0 tvg-logo="https://iili.io/Ju79IMN.png" group-title="CHANNEL | HBO GRUB", HBO Signature ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
-
-#EXTINF:0 tvg-logo="https://iili.io/Ju79IMN.png" group-title="CHANNEL | HBO GRUB", Cinemax ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
-
-
-==============================
-
-
-
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-EXTINF:-1 tvg-id="HBO" group-title="HBO" tvg-logo="https://iili.io/Ju79f8g.png",HBO 
-http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-EXTINF:-1 tvg-id="HBOHits" group-title="HBO" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
+#EXTINF:-1 tvg-id="HBOHits" group-title="HBO" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-EXTINF:-1 tvg-id="HBOFamily" group-title="HBO" tvg-logo="https://iili.io/Ju79otR.png",HBO Family 
+#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO" tvg-logo="https://iili.io/Ju79otR.png",HBO Family 
 http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
@@ -4201,22 +4177,34 @@ http://31.43.191.125:8080/restream/restream/34572
 ##https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
+EXTINF:0 tvg-logo="https://iili.io/Ju79f8g.png" group-title="CHANNEL | HBO GRUB", HBO ID (1️⃣✅)
+###https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
+
+EXTINF:0 tvg-logo="https://iili.io/Ju79otR.png" group-title="CHANNEL | HBO GRUB", HBO Family ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
+
+EXTINF:0 tvg-logo="https://iili.io/Ju79nwv.png" group-title="CHANNEL | HBO GRUB", HBO Hits ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
+
+EXTINF:0 tvg-logo="https://iili.io/Ju79IMN.png" group-title="CHANNEL | HBO GRUB", HBO Signature ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
+
+EXTINF:0 tvg-logo="https://iili.io/Ju79IMN.png" group-title="CHANNEL | HBO GRUB", Cinemax ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
 
 
+==============================
 
 
-
-
-
-#EXTINF:-1 tvg-id="ID: Cinemax" tvg-name="ID: Cinemax" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_133411.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: Cinemax (0️⃣)
+EXTINF:-1 tvg-id="ID: Cinemax" tvg-name="ID: Cinemax" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_133411.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: Cinemax (0️⃣)
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302227
-#EXTINF:-1 tvg-id="ID: HBO" tvg-name="ID: HBO" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_132021.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: HBO (0️⃣)
+EXTINF:-1 tvg-id="ID: HBO" tvg-name="ID: HBO" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_132021.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: HBO (0️⃣)
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302248
-#EXTINF:-1 tvg-id="ID: HBO Family" tvg-name="ID: HBO Family" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_132539.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: HBO Family (0️⃣)
+EXTINF:-1 tvg-id="ID: HBO Family" tvg-name="ID: HBO Family" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_132539.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: HBO Family (0️⃣)
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302249
-#EXTINF:-1 tvg-id="ID: HBO HITS" tvg-name="ID: HBO HITS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_132244.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: HBO HITS (0️⃣)
+EXTINF:-1 tvg-id="ID: HBO HITS" tvg-name="ID: HBO HITS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_132244.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: HBO HITS (0️⃣)
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302250
-#EXTINF:-1 tvg-id="ID: HBO Signature" tvg-name="ID: HBO Signature" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_132852.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: HBO Signature (0️⃣)
+EXTINF:-1 tvg-id="ID: HBO Signature" tvg-name="ID: HBO Signature" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_132852.png?raw=true" group-title="CHANNEL | HBO GRUB",ID: HBO Signature (0️⃣)
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302251
 
 
@@ -4229,25 +4217,25 @@ EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apis
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_141700.png?raw=true" group-title="CHANNEL | HBO GRUB",HBO Hits
+EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_141700.png?raw=true" group-title="CHANNEL | HBO GRUB",HBO Hits
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/SEJPIEhpdHM/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_141834.png?raw=true" group-title="CHANNEL | HBO GRUB",HBO Family
+EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_141834.png?raw=true" group-title="CHANNEL | HBO GRUB",HBO Family
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_142024.png?raw=true" group-title="CHANNEL | HBO GRUB",HBO Signature
+EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_142024.png?raw=true" group-title="CHANNEL | HBO GRUB",HBO Signature
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
 
-#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_142154.png?raw=true" group-title="CHANNEL | HBO GRUB",Cinemax
+EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_142154.png?raw=true" group-title="CHANNEL | HBO GRUB",Cinemax
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
