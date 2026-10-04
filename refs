@@ -7704,7 +7704,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/newmpd/LoveNatureHD.
 
 
 //========================================================================
-//Collected by Maytoko2 menampilkan playlist >>> KNOWLEDGE
+//Collected by andra|sinatra menampilkan playlist >>> KNOWLEDGE
 //========================================================================
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | KNOWLEDGE
@@ -7730,12 +7730,22 @@ https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 ###EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg@SD" group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_discovery.png",Discovery Channel
 https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png",Global Trekker
+EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
+###https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+
+#EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="CHANNEL | KNOWLEDGE",Global Trekker (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=103
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE", tvg-logo="https://i.postimg.cc/WpB7Q0WP/ezgif-76552b0bd0bf02e8.png",DISCOVERY CHANNEL TAIWAN
+https://p-drm.aliiptv.com/live/Discovery.m3u8?verify=1790056187-L7qo-VC4FaVADdbd2gWY6ZysxHyv-mgIAPgQ02KM37U
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7745,11 +7755,25 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/in
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="CANALE TV",DISCOVERY CHANNEL (RTB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-#EXTINF:-1 tvg-id="DMAX.HD.my" tvg-name="DMAX HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/dmax.jpg" group-title="CHANNEL | KNOWLEDGE",DMAX
-###https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="DMAX.HD.my" tvg-name="DMAX HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/dmax.jpg" group-title="CHANNEL | KNOWLEDGE",DMAX 🇻🇳
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="dmax" group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://mimipipi22.github.io/logo/knowledge/dmax.jpg", DMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/VZS5v61.png?v=1.0.0.1" group-title="CHANNEL | KNOWLEDGE" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" channel-id="GBBA220000751-gb" tvg-id="GBBA220000751" tvg-chno="4498" tvg-name="INWILD", INWILD
@@ -7759,12 +7783,19 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://mediapackage-sky-hgtv-source.fullscreen.nz/index_1.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.uk@Asia" group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://www.visionplus.id/images/repository/671/493671-LOGO-m.png",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CHANNEL | KNOWLEDGE",HGTV (USA)
+http://4.30.180.36:8420/hgtv/index.m3u8?token=test
+
+EXTINF:-1 tvg-id="BBCEarth.uk@Asia" group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://www.visionplus.id/images/repository/671/493671-LOGO-m.png",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+####https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="BBC.Earth.id" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/AnAoUca.jpeg" group-title="CHANNEL | KNOWLEDGE",BBC EARTH (FEED)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xR2QgyB.png?v=1.0.0.1" group-title="CHANNEL | KNOWLEDGE" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects", Smithsonian Channel
@@ -7776,11 +7807,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-sa
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpifIjMWpn3PXEAt0QdU0eu6lWiEUCW4CFUg&s" group-title="CHANNEL | KNOWLEDGE",FOX WEATHER
 https://247wlive.foxweather.com/stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQ5GGdW/discoscience.png" group-title="CHANNEL | KNOWLEDGE", DISCOVERY SCIENCE 🇺🇸 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="discoveryasia" group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.imgur.com/je8MaLy.jpeg",DISCOVERY ASIA HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -7794,8 +7820,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="CHANNEL | KNOWLEDGE", HGTV (ID)
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -7807,12 +7831,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 
-#EXTINF:-1 tvg-name="History" tvg-logo="https://object-streamo.emonaja.com/img/history.png" group-title="CHANNEL | KNOWLEDGE", History
+EXTINF:-1 tvg-name="History" tvg-logo="https://object-streamo.emonaja.com/img/history.png" group-title="CHANNEL | KNOWLEDGE", History
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+####https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/knowledge/history.jpg" group-title="CHANNEL | KNOWLEDGE", HISTORY HIT 1 (US)
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="History2.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKhbtLBaSi-rwnYtFmskJCUIn0W6halIB5Pj37t3F3A&s=10" group-title="CHANNEL | KNOWLEDGE", HISTORY 2 (Tanpa Sub IND)
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -7843,8 +7871,6 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0
 #EXTINF:-1 tvg-logo="https://www.earthtouchnews.com/media/1954995/logo-big.png" group-title="CHANNEL | KNOWLEDGE",Earth Touch tv
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e2/49/d4/e249d4ba38afdfa8deb3132bf18352dd.jpg" group-title="CHANNEL | KNOWLEDGE", History Channel
-#https://raw.githubusercontent.com/Cutsiffa/on/main/History.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
@@ -7949,7 +7975,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 //========================================================================
-//Collected by Maytoko2 menampilkan playlist >>> LIFESTYLE
+//Collected by andra|sinatra menampilkan playlist >>> LIFESTYLE
 //========================================================================
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | LIFESTYLE
