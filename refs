@@ -6319,24 +6319,23 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
-#EXTINF:-1 group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg",|GR| NOVASPORTS 1 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432175.m3u8
 
-#EXTINF:-1 group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg",|GR| NOVASPORTS 2 HD
+#EXTINF:-1 tvg-id="\u2503GR\u2503 NOVA SPORTS 1 FHD" tvg-name="\u2503GR\u2503 NOVA SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | BUNDESLIGA",\u2503GR\u2503 NOVA SPORTS 1 FHD
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=173185&extension=ts&play_token=cyZSUfCdmJ
+
+
+EXTINF:-1 group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg",|GR| NOVASPORTS 2 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432172.m3u8
 
-#EXTINF:-1 group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg",|GR| NOVASPORTS 3 HD
+EXTINF:-1 group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg",|GR| NOVASPORTS 3 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432169.m3u8
 
-#EXTINF:-1 group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg",|GR| NOVASPORTS PRIME
+EXTINF:-1 tvg-id="\u2503GR\u2503 NOVA SPORTS 3 FHD" tvg-name="\u2503GR\u2503 NOVA SPORTS 3 FHD" tvg-logo="https://github.io%5Cu2503gr%5Cu2503%20nova%20sports%203%20fhd.png" group-title="Portal_2",\u2503GR\u2503 NOVA SPORTS 3 FHD
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174271&extension=ts&play_token=CBv1DCfBG9
+
+EXTINF:-1 group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg",|GR| NOVASPORTS PRIME
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432157.m3u8
 
-#EXTINF:-1 tvg-id="tiger-ott-173185" tvg-name="Tiger OTT Live" tvg-logo="https://tiger-ott.net" group-title="LIVE | BUNDESLIGA",|GR| NOVASPORTS 1 FHD
-https://raw.githubusercontent.com/trisetyo8888/myiptvv/refs/heads/main/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="novasports1fhd" tvg-name="NOVASPORTS 1 FHD" tvg-logo="https://tiger-ott.net" group-title="LIVE | BUNDESLIGA",NOVASPORTS 1 FHD
-https://raw.githubusercontent.com/trisetyo8888/myiptvv/refs/heads/main/playlist.m3u8
 
 
 
