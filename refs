@@ -6331,10 +6331,8 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg",|GR| NOVASPORTS PRIME
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432157.m3u8
 
-#EXTINF:-1 tvg-id="NOVA SPORTS 1 FHD" tvg-name="NOVA SPORTS 1 FHD" tvg-logo="https://github.io%5Cu2503gr%5Cu2503%20nova%20sports%201%20fhd.png" group-title="LIVE | BUNDESLIGA"", NOVA SPORTS 1 FH
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=173185&extension=ts&play_token=cyZSUfCdmJ
-
-
+#EXTINF:-1 tvg-id="tiger-ott-173185" tvg-name="Tiger OTT Live" tvg-logo="https://tiger-ott.net" group-title="LIVE | BUNDESLIGA",|GR| NOVASPORTS 1 FHD
+https://raw.githubusercontent.com/trisetyo8888/myiptvv/refs/heads/main/playlist.m3u8
 
 
 =====================================LALIGA========================================================================
