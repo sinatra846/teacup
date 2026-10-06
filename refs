@@ -6411,23 +6411,31 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 
 
-
-
-
-
-
 ==============================================UCL============================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | UCL
 
 EXTINF:-1 tvg-uid="c76a1b5096b911ae2ed3c265a87e70eb" data-source="Plusthailand" tvg-name="TNT Sports 1" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="LIVE | UCL", TNT Sports 1
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 #####http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1154
-EXTINF:-1 tvg-uid="c2ba67cd57dc6c85707e08d0a9b78ec2" data-source="Plusthailand" tvgname="TNT Sports 2" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="LIVE | UCL", TNT Sports 2
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-#####http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1153
-#EXTINF:-1 tvg-uid="ae9f4a58bfc089b134561a1b2385bc66" data-source="Plusthailand" tvg-name="TNT Sports 3" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="LIVE | UCL", TNT Sports 3
-EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-#####http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1152
+
+==============TNT SPORT UK========================
+
+#EXTINF:-1 tvg-id="JM34grYUgabUKBpDL1GiiHhJIOJxS0Id" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL", TNT SPORTS 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=894977&extension=ts&play_token=JcS9QHfe9a
+
+#EXTINF:-1 tvg-id="CNzcYBiKl33FfQEvSES8uo1EqacuOjki" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL", TNT SPORTS 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=894978&extension=ts&play_token=8stB4rTjn2
+
+#EXTINF:-1 tvg-id="vbShj12noqkaYbvds5M0VzOL8PHiJQE6" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL", TNT SPORTS 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=894979&extension=ts&play_token=w60oRSqZts
+
+#EXTINF:-1 tvg-id="EypxKzq1Sb7d7qUyRYESJvsPbWhB3UXA" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL", TNT SPORTS 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=894980&extension=ts&play_token=AAcUEQnEeF
+
+#EXTINF:-1 tvg-id="SI5brSy8DaESFYMcR3x2cfdZymToyTK8" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL", TNT SPORTS 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=894981&extension=ts&play_token=7UfG8nc2FY5
+
+==============END LIST========================
 
 ==============BEIN AUS========================
 
@@ -6487,22 +6495,9 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=897424&exte
 
 ==============END LIST========================
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+EXTINF:-1 tvg-uid="c76a1b5096b911ae2ed3c265a87e70eb" data-source="Plusthailand" tvg-name="TNT Sports 1" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="LIVE | UCL", TNT Sports 1
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+#####http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1154
 
 
 //========================================================================
