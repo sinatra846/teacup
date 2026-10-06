@@ -6539,10 +6539,9 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTM3U
-#EXTINF:-1 tvg-uid="ezNPJ7D7r8XjbL3Kbg0T8ibwpVTpFFr2" data-source="myiptvv" group-title="LIVE | UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", DAZN 1 HD
-https://raw.githubusercontent.com/sinatra846/link-maker/ed508cdf2a73fa07d17da23079190c2768b6e9b3/routes/api/link.ts
 
+#EXTINF:-1 tvg-uid="ezNPJ7D7r8XjbL3Kbg0T8ibwpVTpFFr2" data-source="myiptvv" group-title="LIVE | UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", DAZN 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=587358&extension=ts&play_token=M9Jy9nqsN4
 
 
 //========================================================================
