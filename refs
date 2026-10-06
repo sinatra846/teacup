@@ -8037,6 +8037,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h202/index.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTINF:-1 tvg-id="Dens Food Channel" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="CHANNEL | LIFESTYLE",Dens Food Channel (DensTV)
+#####https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/DensFoodChannel.m3u
+
 #EXTINF:-1 tvg-id="DensFoodChannel.id@SD" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://pic.dens.tv/tv_183x174/Dens_Food_Channel_(Trial)_1.jpg",Dens Food Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h248/index.m3u8
@@ -8083,22 +8090,6 @@ https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manif
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=88
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
-#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetlifestyle.png",Biznet Lifestyle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd
-
-#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ded16232-f41b-418d-a666-c0c2a502e348.jpg",Cooking TV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/Q29va2luZyBUVg/manifest.mpd?signature=YjU5YWU2OGM5NDAxOWFlNGZkMGU0NzZjOGE3M2JmMjE=&time=77777777777&device_id=TC_u8NKDhiMwpzNPlHe64dngB-RQJDt6OVusFUG6KdDCzJSpEA
-
-#EXTINF:-1 tvg-id="EatNGo.id@SD" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_eat&go.png",Eat N Go
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/RWF0IE4gR28/manifest.mpd?signature=MGUyMTVjMDkxNTY5ZGU5ZjA0NzZjZDA3MWVmNmRlZmI=&time=77777777777&device_id=rAptU2xp55VCpP8p62yYRFkJ79Wu7YWKx-CcTtXSaew6RGTA4g
-
 #EXTINF:-1 tvg-id="OKTV.id@SD" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png",Food Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -8106,9 +8097,12 @@ https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=71
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
-#EXTINF:-1 tvg-id="LifetimeAsia.us@SD" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lifetime.png",Lifetime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59de57168ce94a96bed1606f10c65f67:459fdec6262975e03adc82d62b749f44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo.png" group-title="CHANNEL | LIFESTYLE",Lifetime 
+####https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
 #EXTINF:-1 tvg-id="LifetimeAsia.us@SD" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lifetime.png",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -8144,7 +8138,7 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2419/index.m3u8
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
-==================== TLC US ===========================
+==================== TLC ===========================
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -8153,8 +8147,8 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 EXTINF:-1 tvg-id="TLC" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="CHANNEL | LIFESTYLE" tvg-name="" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD 
 ####https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
-#EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tlc.jpg" group-title="CHANNEL | LIFESTYLE",TLC (US)
-http://4.30.180.36:8420/tlc/index.m3u8?token=test
+EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tlc.jpg" group-title="CHANNEL | LIFESTYLE",TLC (US)
+######http://4.30.180.36:8420/tlc/index.m3u8?token=test
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8169,57 +8163,28 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 
 ================== TRAVEL ==================
 
-
-#EXTINF:-1 tvg-logo="https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546" group-title="CHANNEL | LIFESTYLE",4K Travel
+EXTINF:-1 tvg-logo="https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546" group-title="CHANNEL | LIFESTYLE",4K Travel
 #EXTVLCOPT:http-origin=ttps://www.distro.tv/
 #EXTVLCOPT:http-referrer=ttps://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/82473a17-8b1c-4e67-9bcc-ca869209c26e/2.m3u8
+#####https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/82473a17-8b1c-4e67-9bcc-ca869209c26e/2.m3u8
 
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="CHANNEL | LIFESTYLE",CHINA TRAVEL (FEED)
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-
-
-
-
-
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59de57168ce94a96bed1606f10c65f67:459fdec6262975e03adc82d62b749f44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo.png" group-title="CHANNEL | LIFESTYLE",Lifetime 
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="CHANNEL | LIFESTYLE",First Lifestyle 
-https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTINF:-1 tvg-id="Dens Food Channel" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="CHANNEL | LIFESTYLE",Dens Food Channel (DensTV)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/DensFoodChannel.m3u
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTINF:-1 tvg-id="Dens ShowBiz" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="CHANNEL | LIFESTYLE",Dens ShowBiz (DENSTV)
-https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-
+EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="CHANNEL | LIFESTYLE",First Lifestyle 
+####https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
-#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia 
-https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Australia.mpd
+EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia 
+####https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Australia.mpd
 
 
 
