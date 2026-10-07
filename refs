@@ -3218,10 +3218,24 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 
 ========================TRANS GROUP============================
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 (TRANSMEDIA) ❌
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS 7 (TRANSMEDIA) 
 https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-https://live.eu-north-1a.cf.dmcdn.net/sec2(nuHjWX7zXsZnKgn5JvxNGLOsjKCeLuNb-NMPPll4AS9bLO5eRP9owKVmCh0CNlYkMtlQN6ji9lphKj6cLPhZOeRhMEuiglK1knRzVfH_ISXvXfeWnr_hV7cloaXYZygn)/dm/3/x8qckyq/d/live-720.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.eu-north-1a.cf.dmcdn.net/sec2(ol4zKDbd1z3Znn74km3XkGwQk7F5NDPL5clRyCqaFEpVp6WTy6gzVqR6EyCSX-JDeQl8PYObi8mn8oVpIV1gHeW7gYtase0GYun9cebt6cqyVeyB6rGRvfd8xd3aC-rp)/dm/3/x8qckyq/d/live-720.m3u8
+
+EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV |TRANSMEDIA| ❌
+####https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
+###https://video.detik.com/livecnbc/smil:cnbctv/playlist.m3u8
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1469083827_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTEzNzMzMzA5Nzcmd293emF0b2tlbmhhc2g9NjV2ZnZISnNtMHhQelI0dFMxS2owVkp6WVVCdTF0NjcxTEpyN1FTVUcxaz0=.m3u8
+
+
+
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
