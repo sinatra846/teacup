@@ -6397,18 +6397,27 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2826
 ======================= EREDIVISIE ====================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | EREDIVISIE
 
-#EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215436.jpg?raw=true", |NL| ESPN  1 ᴴᴰ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4848.m3u8
+EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215436.jpg?raw=true", |NL| ESPN  1 ᴴᴰ
+#######https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4848.m3u8
 
-#EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215615.png?raw=true", |NL| ESPN  2 ᴴᴰ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4845.m3u8
+=============ESPN==================
 
-#EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215735.jpg?raw=true", |NL| ESPN  3 ᴴᴰ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4842.m3u8
+#EXTINF:-1 tvg-id="a7741ac33815d8afbf4a5aaf1fd44a23" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215901.jpg?raw=true" group-title="LIVE | EREDIVISIE", ESPN 1 HD
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:F8:48:1C&stream=1634105&extension=ts&play_token=yrWeluleKe
 
-#EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215901.jpg?raw=true", |NL| ESPN  4 ᴴᴰ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4839.m3u8
+#EXTINF:-1 tvg-id="c46791a5ebb2480522dab79f5bea55a5" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215901.jpg?raw=true" group-title="LIVE | EREDIVISIE", ESPN 2 HD
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:F8:48:1C&stream=1282768&extension=ts&play_token=Z8lMXw4zey
 
+#EXTINF:-1 tvg-id="0fkYJ7OwyX3J2c5wmS1VIG6hrGMb397G" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215901.jpg?raw=true" group-title="LIVE | EREDIVISIE", ESPN 3 HD
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:F8:48:1C&stream=1282767&extension=ts&play_token=4BQIK4tUU6
+
+#EXTINF:-1 tvg-id="sA1DKD8wmBusY4DbXymzodbF6NdZ3obH" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215901.jpg?raw=true" group-title="LIVE | EREDIVISIE", ESPN 4 HD
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:F8:48:1C&stream=1282766&extension=ts&play_token=abVjelf3O6
+
+EXTINF:-1 group-title="LIVE | EREDIVISIE" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260924_215901.jpg?raw=true", |NL| ESPN  4 ᴴᴰ
+#####https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4839.m3u8
+
+=============END LIST==================
 
 
 ==============================================UCL============================================================
@@ -6422,9 +6431,6 @@ EXTINF:-1 tvg-uid="c76a1b5096b911ae2ed3c265a87e70eb" data-source="Plusthailand" 
 
 #EXTINF:-1 tvg-id="JM34grYUgabUKBpDL1GiiHhJIOJxS0Id" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL", TNT SPORTS 1 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=894977&extension=ts&play_token=JcS9QHfe9a
-
-#EXTINF:-1 tvg-id="CNzcYBiKl33FfQEvSES8uo1EqacuOjki" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL", TNT SPORTS 2 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=894978&extension=ts&play_token=8stB4rTjn2
 
 #EXTINF:-1 tvg-id="vbShj12noqkaYbvds5M0VzOL8PHiJQE6" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL", TNT SPORTS 3 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=894979&extension=ts&play_token=w60oRSqZts
