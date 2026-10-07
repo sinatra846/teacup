@@ -3229,9 +3229,15 @@ EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indo
 ###https://video.detik.com/livecnbc/smil:cnbctv/playlist.m3u8
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1469083827_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTEzNzMzMzA5Nzcmd293emF0b2tlbmhhc2g9NjV2ZnZISnNtMHhQelI0dFMxS2owVkp6WVVCdTF0NjcxTEpyN1FTVUcxaz0=.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV (OFFICIAL CDN)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTVLCOPT:network-caching=1000
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+
+
+
+
 
 
 
