@@ -3230,14 +3230,8 @@ EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indo
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1469083827_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTEzNzMzMzA5Nzcmd293emF0b2tlbmhhc2g9NjV2ZnZISnNtMHhQelI0dFMxS2owVkp6WVVCdTF0NjcxTEpyN1FTVUcxaz0=.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w703279535_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTEzNzYzODkxMTcmd293emF0b2tlbmhhc2g9SHdibHJmMldIWEowUnU0ZkU1VkVaSkNOaUgzVE0tanRrVFhqU0doUXUtND0=.m3u8
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
+https://video.detik.com/livetranstv/smil:transtv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3249,8 +3243,8 @@ https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w703279535_b7441
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="CHANNEL | INDONESIA",TRANS 7 (2)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV |TRANSMEDIA| ❌
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV |TRANSMEDIA| ❌
+####https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
