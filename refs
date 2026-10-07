@@ -12044,89 +12044,46 @@ https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/ma
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 tvg-id="UEFA NL" group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥21;00 WIB - KAZAKSTAN VS KEP.FAROE |UEFA NATIONS LEAGUE| Bei3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 13:00 WIB CLASH OF CLANS Arctic Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340224941766061_AiSD.m3u8?txSecret=11af910994e57a9da691aa9afd064caa&txTime=6AC71540
+#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 13:00 WIB CLASH OF CLANS Arctic Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340225050469061_AiSD.m3u8?txSecret=b3a778b6581ecaee459e8765cc68a76a&txTime=6AC71540
 
-================================
+========================
 
-#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 12:00 WIB CLASH OF CLANS Arctic Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340218729533061_AiSD.m3u8?txSecret=c792d1b2f9437380f238d3b03b97a2b7&txTime=6AC5C3C0
-#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 12:00 WIB CLASH OF CLANS Arctic Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340218849498061_AiSD.m3u8?txSecret=64b4dfab2a8aefcbd1d427563e17bfa1&txTime=6AC5C3C0
-#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 12:00 WIB CLASH OF CLANS Arctic Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340224422260061_AiSD.m3u8?txSecret=5f55c97a2afc2fc5ed76476668feadd3&txTime=6AC5C3C0
+#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/5V7pE", 19:00 WIB Ratchaburi vs Hồ Chí Minh
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/5V7pE", 19:00 WIB Buriram United vs Borneo
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/5V7pE", 20:00 WIB Kuching City vs Tampines Rovers
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+
+
+
+
+
+
 
 
 
 <==================== LIVE EVENT 2 ================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
-#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Inggris vs Republik Ceko
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Swiss vs Makedonia Utara
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Skotlandia vs Slovenia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Moldova vs Slovakia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Luksemburg vs Bulgaria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
-https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
-
-#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Estonia vs Islandia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Kroasia vs Spanyol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 07/OKTOBER/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 06:00 WIB Argentina vs Benin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
 
 
 
