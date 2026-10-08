@@ -3147,13 +3147,6 @@ EXTINF:-1 tvg-uid="2b247a6a49d3d05c092a876ab5159244" data-source="Vididi Combi T
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vididi.bento4590.workers.dev/index.mpd?q=8237&ext=dash&x=1787218302&k=b70dc60d83cd9e852abfc0e07a5e58a1c9cdbaa99b12c2474ce3dbf10a4676be&sc=8237
 
-EXTINF:-1 tvg-uid="2b247a6a49d3d05c092a876ab5159244" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="8237" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true,MENTARI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vididi.bento4590.workers.dev/index.mpd?q=8237&ext=dash&x=1786970735&k=7a5093de833e19e65d8fb70344cbc42ac912d953568ab58447fbffa3b7c7d589&sc=8237
-
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RTV.1.png?raw=true",RTV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
@@ -3221,21 +3214,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 https://live.eu-north-1a.cf.dmcdn.net/sec2(84F7hjhJb23SxKWtasQioEwl_ezeXH0BshGbXHciBg7UmaJCySnqglAo8-dN_yoL94exQxN7MjWopNehci9qcUk-Bo5mjoQ2IMHFjIDXwRFKC2PRjYMoxfB85KY0eYQs)/dm/3/x8qckyq/d/live-720.m3u8#cell=lcf-eu-north-1a
 
 #EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV |TRANSMEDIA| ❌
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w476997493_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTE0NTQ0MzgyNTkmd293emF0b2tlbmhhc2g9NWhVM25CUkctZzBKNnBJd2U3cEJBWjNBTG9VYWJyUTNtYXVCa1NKd1Axaz0=.m3u8
-
-EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV |TRANSMEDIA| ❌
-####https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
-###https://video.detik.com/livecnbc/smil:cnbctv/playlist.m3u8
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1469083827_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTEzNzMzMzA5Nzcmd293emF0b2tlbmhhc2g9NjV2ZnZISnNtMHhQelI0dFMxS2owVkp6WVVCdTF0NjcxTEpyN1FTVUcxaz0=.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
-https://video.detik.com/livetranstv/smil:transtv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3246,9 +3226,6 @@ https://video.detik.com/livetranstv/smil:transtv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=007
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="CHANNEL | INDONESIA",TRANS 7 (2)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
-EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV |TRANSMEDIA| ❌
-####https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
