@@ -12166,6 +12166,23 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 18;30 WIB - LION CITY (SGP) VS LONG AN HA NOI (VIE) |ASEAN CLUB CHAMPIONSHIP-SHOPPE CUP| Spstr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 19;00 WIB - JOHOR DA'RUL (MAS) VS PKR SVAY RIENG (CAM) |ASEAN CLUB CHAMPIONSHIP-SHOPPE CUP| Spstr2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 #EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 19:00 WIB Johor Darul Ta'zim vs Svay Rieng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -12175,6 +12192,16 @@ https://live2.zundrixmediapipeline.com/live/channel24.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.zundrixmediapipeline.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 🔥19;00 WIB - PORT FC (THA) VS PERSIB (IDN) |ASEAN CLUB CHAMPIONSHIP-SHOPPE CUP| Socc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+
 
 
 
