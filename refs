@@ -5983,6 +5983,8 @@ EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.postimg.cc/L69GrBYC
 =======BEIN SPORT ARAB ======
 
 
+
+
 =======================================LIGA LIGA ITALIA==========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | SERIE A 
 
@@ -6028,27 +6030,38 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228724&exte
 
 ==========================DALAM SATU BARIS==========================
 
+EXTINF:-1 tvg-id="e2ZkWUsPPkUAkQfmnKSnkRRtYnOqEMmn" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 4
+###http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179126
+
 #EXTINF:-1 tvg-name="CBS Golazo Sports" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", CBS SPORTS GOLAZO [COPPA ITALIA]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="JNemr4YHut4i37m6cWD5PPOfqE8vZ910" data-source="myiptvv" tvg-logo=https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 1
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179120
+#EXTINF:-1 tvg-id="xyG56MyxvdxnFC6ogih3FONqMHQ851Z9" tvg-logo=https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=959340&extension=ts&play_token=7l7eZFQ3U2
 
-#EXTINF:-1 tvg-id="L2bQ1KdHNcSQt0dw4GoYHiyiY9Xffy21" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 2
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179122
+#EXTINF:-1 tvg-id="MAzC6bCS1k5bILsXdX4DwzmhvWJ3ccY6"tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=959343&extension=ts&play_token=IEHfiRJdVg
 
-#EXTINF:-1 tvg-id="dJOGrNtJTru7FNnVrfD0ufCNQ8cXOwe6" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 3
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179124
+#EXTINF:-1 tvg-id="e2ZkWUsPPkUAkQfmnKSnkRRtYnOqEMmn" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=959348&extension=ts&play_token=lYDWILFZkm
 
-#EXTINF:-1 tvg-id="e2ZkWUsPPkUAkQfmnKSnkRRtYnOqEMmn" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 4
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179126
+#EXTINF:-1 tvg-id="83RfZVANEL11MLswWwtxawyrrqBWzUvI" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=959352&extension=ts&play_token=FjGvKfN0V1
 
-#EXTINF:-1 tvg-id="e4WlhOjs0UhjaXfNeLtap1jAd9ztOX9A" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 5
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179129
+#EXTINF:-1 tvg-id="3rWnEleyS5sthdLQsJkbdfLbAUNNXnoj" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=959356&extension=ts&play_token=qQExi630Lf
+
+EXTINF:-1 tvg-id="e4WlhOjs0UhjaXfNeLtap1jAd9ztOX9A" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 5
+####http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179129
 
 ==========================END LIST==========================
+
+
+
+
+
 
 =====================================BUNDESLIGA========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA JERMAN
@@ -6115,6 +6128,8 @@ http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=173186&ex
 
 #EXTINF:-1 tvg-id="BDJ62FMyxAQqjZkCTYn0QtKh1ejtgxKu" data-source="myiptvv" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | BUNDESLIGA",NOVA SPORTS 3 FHD
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174271&extension=ts&play_token=CBv1DCfBG9
+
+
 
 
 
