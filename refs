@@ -4781,12 +4781,29 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 =======================================MotoGP====================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | MotoGP
 
-#EXTINF:-1 group-title="LIVE | MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", SPOTV 2 ( PH )
+EXTINF:-1 group-title="LIVE | MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", SPOTV 2 ( PH )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+######https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+==============================================================================
+
+DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS
+
+==============================================================================
+
+#EXTINF:-1 tvg-id="yGPIKCMNAydOuSzBk6syntaa7smBUu96" data-source="myiptvv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP", SKY SPORT MOTOGP HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=177689&extension=ts&play_token=3bXbh61rLI
+
+#EXTINF:-1 tvg-id="havYYlIkwzk6LR8qscNE8tuqoLB9pToN" data-source="myiptvv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title=LIVE | MotoGP",SKY SPORT MOTOGP HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1167177&extension=ts&play_token=z1wlUBL3kJ
+
+#EXTINF:-1 tvg-id="OzGFH5b1Z2HxW8i3FJ5WFMqQzHaasFzX" data-source="myiptvv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",SKY SPORT MOTOGP FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=177700&extension=ts&play_token=5jYuANjWxh
+
+==============================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP", MotoGP 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4798,32 +4815,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-uid="998fdde878fbc2b3e528e689e83769f7" data-source="Sports7November" group-title="LIVE | MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", ┃IT┃ SKY SPORT MOTOGP FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177700.m3u8
-
-#EXTINF:-1 tvg-uid="b92f414330c8874f4c34d23c02da0e07" data-source="Macportal1" group-title="LIVE | MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", ┃IT┃ SKY SPORT MOTOGP HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/177689.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP", TNT SPORT 2
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt2.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",DIG4
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig4.m3u8
-
-#EXTINF:-1 tvg-url="" tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP" ,Prima Sport 2 
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-uid="e21c89d5c326e016ac16a43faf8a3960" data-source="Sports7November" group-title="LIVE | MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", ┃DE┃ SKY SPORT TOP EVENT FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1149434.m3u8
-
-EXTINF:-1 tvg-id="Fancode2" tvg-name="Fancode 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",Fancode 2
-#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+#EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",FANCODE 1 (NITRO)
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+EXTINF:-1 tvg-uid="998fdde878fbc2b3e528e689e83769f7" data-source="Sports7November" group-title="LIVE | MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", ┃IT┃ SKY SPORT MOTOGP FHD
+######https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177700.m3u8
+
+
+=============================END LIST=======================================
 
 
 =======================================LIVE UFC====================================================
