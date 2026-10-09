@@ -6113,21 +6113,53 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/242
 
 
 
-=======================================LIGA ITALIA==========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LALIGA
+=======================================LIGA LIGA ITALIA==========================================================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | SERIE A 
 
-#EXTINF:-1 tvg-id="TNgfFe4kMEAcdglnPZuMwaUaKf9YBcrv" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg" group-title="LIVE | SERIE A",MAX SPORT 1 HD
+
+#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="beIN Sports" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", BEIN SPORTS 1 🇦🇺
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="beINSports2.au" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", BEIN SPORTS 2 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", BEIN SPORTS 3 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+==========================END LIST==========================
+
+==========================DALAM SATU BARIS==========================
+
+#EXTINF:-1 tvg-id="TNgfFe4kMEAcdglnPZuMwaUaKf9YBcrv" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A",MAX SPORT 1 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228727&extension=ts&play_token=4L1CwisGrN
 
-#EXTINF:-1 tvg-id="c14atVnJCIgEPqRUVN4Ggfzql0x4vR58" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg" group-title="LIVE | SERIE A",MAX SPORT 2 HD
+#EXTINF:-1 tvg-id="c14atVnJCIgEPqRUVN4Ggfzql0x4vR58" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A",MAX SPORT 2 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228726&extension=ts&play_token=gn5deSQGHv
 
-#EXTINF:-1 tvg-id="FzJ6aEgaI7ludRAS0NNhddySEx2Roo0B" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg" group-title="LIVE | SERIE A",MAX SPORT 3 HD
+#EXTINF:-1 tvg-id="FzJ6aEgaI7ludRAS0NNhddySEx2Roo0B" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A",MAX SPORT 3 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228725&extension=ts&play_token=jcf7ljMYZy
 
-#EXTINF:-1 tvg-id="3vD4j7LlfwQsEIXuARltQ9CZMkqEN5EB" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg" group-title="LIVE | SERIE A",MAX SPORT 4 HD
+#EXTINF:-1 tvg-id="3vD4j7LlfwQsEIXuARltQ9CZMkqEN5EB" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A",MAX SPORT 4 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228724&extension=ts&play_token=8yT2pH1qzP
 
+==========================DALAM SATU BARIS==========================
+
+==========================END LIST==========================
 
 
 =====================================BUNDESLIGA========================================================================
@@ -6196,7 +6228,7 @@ http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=173186&ex
 #EXTINF:-1 tvg-id="\u2503GR\u2503" tvg-name="NOVA SPORTS 3 FHD" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | BUNDESLIGA",NOVA SPORTS 3 FHD
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174271&extension=ts&play_token=CBv1DCfBG9
 
-
+=====================================DALAM SATU BARIS=====================================
 
 =====================================LALIGA========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LALIGA
