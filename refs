@@ -3117,9 +3117,15 @@ https://cdn.qd.je/163189.php?id=8tv
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | INDONESIA
 
-#EXTINF:-1 tvg-id="Moji.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true",MOJI TV
+#EXTINF:-1 tvg-id="Moji.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://cdn.aceimg.com/71400e972.png",MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.aceimg.com/71400e972.png" group-title="CHANNEL | INDONESIA",Moji Vidio
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV (DNS)
@@ -6376,19 +6382,14 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 
 #EXTINF:-1 tvg-id="pKusK19dn4Ir5LtaONLHAwOaDUHYcxCV" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL",NL| ZIGGO SPORT 1 HD
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917561&extension=ts&play_token=wrbgMOPSfe
-
 #EXTINF:-1 tvg-id="fUI5qq0PGDD6yPKf6lSDOTnFAilzVVg5" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL",NL| ZIGGO SPORT 2 HD
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917560&extension=ts&play_token=9NNR4mPHo9
-
 #EXTINF:-1 tvg-id="X05oiBKrr1YshCT8iCW67IInzdXG4nD3" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL",NL| ZIGGO SPORT 3 HD
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917559&extension=ts&play_token=7bDiuLf3iB
-
 #EXTINF:-1 tvg-id="QKlVaH0X9R68v1NX8f012kMc5zxJdGev" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL",NL| ZIGGO SPORT 4 HD
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917558&extension=ts&play_token=dSSpPTJmeN
-
 #EXTINF:-1 tvg-id="JUNvg9rT8UJ5RLYgB5vDZTBKQXfAfwy9" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL",NL| ZIGGO SPORT 5 HD
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917557&extension=ts&play_token=XiIl57vaLH
-
 #EXTINF:-1 tvg-id="jUPYqSNAvOfOWNmdIDjuwKRfr1zr2lQl" data-source="myiptvv" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="LIVE | UCL",NL| ZIGGO SPORT 6 HD
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917556&extension=ts&play_token=yQFq5XjWLY
 
