@@ -4475,14 +4475,17 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTM3U
-###EXTINF:-1 tvg-id="auto.jadwal" group-title="JADWAL LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="JADWAL LIGA" tvg-logo="https://i.imgur.com/vzXPJsq.png",20/9 - 15;30 WIB |BORNEO VS BALI UNITED|
-https://pixeldrain.com/api/file/XNgKhJmV?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-###EXTINF:-1 tvg-id="auto.jadwal" group-title="JADWAL LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="JADWAL LIGA" tvg-logo="https://i.imgur.com/vzXPJsq.png",20/9 - 15;30 WIB |DEWA UNITED VS PSS SLEMAN|
-https://pixeldrain.com/api/file/XNgKhJmV?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-####EXTINF:-1 tvg-id="auto.jadwal" group-title="JADWAL LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="JADWAL LIGA" tvg-logo="https://i.imgur.com/vzXPJsq.png",20/9 - 19;00 WIB |PERSIJAP JEPARA VS PERSIB|
-https://pixeldrain.com/api/file/XNgKhJmV?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |AREMA VS BHAYANGKARA|
+https://live2.zundrixmediapipeline.com/live/channel4.m3u8
 
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PERSITA VS GARUDAYAKSA|
+https://live2.zundrixmediapipeline.com/live/channel11.m3u8
+ 
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSIM YOGYA VS PERSIJA|
+https://live1.quickscoreboardz.com/live/channel22/playlist.m3u8?wsSecret=aa9291500ff56b1fff63f7a34f616cf1&wsABSTime=1791645974
 
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |BALI UNITED VS PERSIJAP|
+https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=43ed3f0a50c155061f8ec6943c99d9d5&wsABSTime=1791646165
 
 
 
