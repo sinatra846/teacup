@@ -6251,7 +6251,7 @@ EXTINF:-1 tvg-uid="b06d5186c9a546c7a36eaf8c143548e7" data-source="VietnamCH" gro
 
 #EXTINF:-1 tvg-id="nZ1GuD8WL0hXbZgGaGn2vhqSAYi78RwN" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true" group-title="LIVE | LIGA INGGRIS",MUTV FHD
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=45324&extension=ts&play_token=VxmmyczBMf
-#EXTINF:-1 tvg-id="1RGsuwQgjbvvZ0kE4jMFUknKy37RYGrI" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true" group-title=LIVE | LIGA INGGRIS",SKY SPORTS FOOTBALL FHD
+#EXTINF:-1 tvg-id="1RGsuwQgjbvvZ0kE4jMFUknKy37RYGrI" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true" group-title="LIVE | LIGA INGGRIS",SKY SPORTS FOOTBALL FHD
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=30498&extension=ts&play_token=FytAe8xjm7
 #EXTINF:-1 tvg-id="AvvHKIFlntXjYfcmIiYxGZy04tCcx8V6" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true" group-title="LIVE | LIGA INGGRIS",SKY SPORTS MAIN EVENT FHD
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=30496&extension=ts&play_token=dSpHL8fGHt
@@ -6259,7 +6259,7 @@ http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=30496&extensi
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=30493&extension=ts&play_token=EzTC9ibgSp
 #EXTINF:-1 tvg-id="qFWcu4k5WlJKCfgoVISi1sH5Norfw8MQ" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true" group-title="LIVE | LIGA INGGRIS",SKY SPORT PREMIER LEAGUE HEVC
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=984663&extension=ts&play_token=XiCwKTay1x
-#EXTINF:-1 tvg-id="ChnkQidD2oBOZVPZsIm4bp6JGkzLfoPq" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true" group-title="US| ENTERTAINMENT",US| USA NETWORK HD
+#EXTINF:-1 tvg-id="ChnkQidD2oBOZVPZsIm4bp6JGkzLfoPq" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true" group-title="LIVE | LIGA INGGRIS",USA NETWORK HD
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=45466&extension=ts&play_token=wNuG8ZpUxQ
 #EXTINF:-1 tvg-id="QaoeBoTwb9LB9wsYEDpfk4NdyfZwENqa" data-source="myiptvv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260923_151129.png?raw=true" group-title="LIVE | LIGA INGGRIS",USA NETWORK EAST HD
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=188997&extension=ts&play_token=2jQ2pssZUc
@@ -7163,11 +7163,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index
 #EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://raw.githubusercontent.com/sinatra846/iptv-assets-/refs/heads/main/KIDS%20CNNLS.png?raw=true" group-title="CHANNEL | KIDS",Discovery Kids
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 
-
 <=========================>
-
-
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -8216,7 +8212,7 @@ EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=075
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kix.jpg" group-title="CHANNEL | ENTERTAINMEN",KIX (V+)
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kix.jpg" group-title="CHANNEL | ENTERTAINMENT",KIX (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 ==================== TVN ===========================
@@ -8469,7 +8465,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h68/wedotv_amor.m3u8?app_type=web&user
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/wedotvbigstories.jpg" group-title="ENTERTAINMENT",WE DO TV BIG STORIES (DNS)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/wedotvbigstories.jpg" group-title="CHANNEL | ENTERTAINMENT",WE DO TV BIG STORIES (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=web&userid=lite&chname=wedotvBig_Stories
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
