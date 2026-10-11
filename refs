@@ -3140,26 +3140,26 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" tvg-logo="https://ibb.co.com/dJDK4CGF" group-title="CHANNEL | INDONESIA",MENTARI TV (VDO)
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20261011_092312.jpg?raw=true" group-title="CHANNEL | INDONESIA",MENTARI TV (VDO)
 https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" tvg-logo="https://ibb.co.com/dJDK4CGF" group-title="CHANNEL | INDONESIA",MENTARI TV (VDO)
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20261011_092312.jpg?raw=true" group-title="CHANNEL | INDONESIA",MENTARI TV (VDO)
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://ibb.co.com/gLNX81dZ",RTV 
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20261011_093626.jpg?raw=true",RTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 ####https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
 
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://ibb.co.com/gLNX81dZ",RTV (1)
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20261011_093626.jpg?raw=true",RTV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV (2)
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20261011_093626.jpg?raw=true",RTV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3170,7 +3170,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
-
 
 EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/METRO.1.png?raw=true",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -3257,7 +3256,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 https://video.detik.com/livecnn/smil:cnntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co.com/HfjHF7sF" group-title="CHANNEL | INDONESIA",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20261011_094905.jpg?raw=true" group-title="CHANNEL | INDONESIA",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 https://video.detik.com/livecnbc/smil:cnbctv/playlist.m3u8
 
@@ -3411,7 +3410,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 ==============
 
-#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://cdn.aceimg.com/ed9cac1ae.png",RCTI (2)
+#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://cdn.aceimg.com/3d85137e6.pngg",RCTI (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
