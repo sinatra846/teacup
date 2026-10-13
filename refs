@@ -5983,6 +5983,50 @@ EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.postimg.cc/L69GrBYC
 
 
 
+
+
+#EXTINF:-1 tvg-id="KOVO CUP 2026" group-logo="https://i.imgur.com/ej03Wmb.png" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙐𝙏𝘼𝙈𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=112&type=drm&token=alf-store
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙆𝙀𝘿𝙐𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=113&type=drm&token=alf-store
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+--------------------------
+#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 13 OKT-13;30 WIB- RED SPARKS VS SOOP SUPERERS (Group A)
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
+
+#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 13 OKT-17;00 WIB- PINK SPIDERS VS IBK ALTOS (Group A)
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
+
+#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 14 OKT-17;00 WIB- HYUNDAI HILLSTATE VS HI-PASS (Group B)
+https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
+
+#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 15 OKT-13;30 WIB- SOOP SUPERERS VS PINK SPIDERS (Group A)
+https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
+
+#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 15 OKT-17;00 WIB- IBK ALTOS VS RED SPARKS  (Group A)
+https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
+
+#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 16 OKT-17;00 WIB- HYUNDAI HILLSTATE VS GS CALTEK (Group B)
+https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
+
+
+
+
+
+
+
+
 //========================================================================
 // LIVE | BADMINTON
 //========================================================================
