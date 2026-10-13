@@ -4235,6 +4235,45 @@ http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v8
 
 
 
+############################
+##### ===== DC1 ===== ######
+############################
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+
+
+=================================================================
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="HBO" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_HBO.png?raw=true" group-title="CHANNEL | HBO GRUB",🍿 HBOᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
+
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_141700.png?raw=true" group-title="CHANNEL | HBO GRUB",🍿 HBO Hitsᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
+
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_142024.png?raw=true" group-title="CHANNEL | HBO GRUB",🍿 HBO Signatureᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
+
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_141834.png?raw=true" group-title="CHANNEL | HBO GRUB",🍿 HBO Familyᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
+
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260918_142154.png?raw=true" group-title="CHANNEL | HBO GRUB",🍿 Cinemaxᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
