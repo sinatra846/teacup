@@ -3329,12 +3329,20 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 EXTINF: -1 tvg-id="indosiar.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="CHANNEL | INDONESIA", INDOSIAR (1)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://nu.mayangtv.my.id/numaling/bisul.php?play=aHR0cHM6Ly9tYXlhbmd0di5teS5pZC9teWlkdHYvMS5waHA/aWQ9MjA1JnR5cGU9ZGFzaA==
+####https://nu.mayangtv.my.id/numaling/bisul.php?play=aHR0cHM6Ly9tYXlhbmd0di5teS5pZC9teWlkdHYvMS5waHA/aWQ9MjA1JnR5cGU9ZGFzaA==
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR
 https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR (VD)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
