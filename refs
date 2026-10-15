@@ -3450,25 +3450,25 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 ======EDT=======
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 RCTI
+#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕MNCTV
+#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 GTV
+#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" group-title="CHANNEL | INDONESIA" tvg-logo=""https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",🆕INEWS
+#EXTINF:-1 tvg-id="MNCTV HD [2]" group-title="CHANNEL | INDONESIA" tvg-logo=""https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",🆕INEWS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
@@ -3476,53 +3476,58 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 ==============
 
-#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI
+#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI ((🎃)v)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
+#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV ((🎃)v)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=2&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-id="GTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
+#EXTINF:-1 tvg-id="GTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV ((🎃)v)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=3&type=drm&token=apistech
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="iNews.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="CHANNEL | INDONESIA",iNews  ((🎃))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=4&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=4&type=drm&token=alf-store
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 ==============
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-14 11:24:37
+# Updated: 2026-10-14 21:25:28
+
+#EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://proxy-b.rctiplus.id/live/web/rcti/rcti-sdi.m3u8?auth_key=1792023927-d017084386ded4ab55fe6c03ba356502-0-02f62108a229063b707ce74a91aa9e4f
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv/mnctv-sdi.m3u8?auth_key=1791987876-39cb67616fbd0eae2556510b3d3e098a-0-0e9c03e62f9d5334515c1d1a3d4942a0
+https://proxy-b.rctiplus.id/live/web/mnctv/mnctv-sdi.m3u8?auth_key=1792023927-682dc94dce0a8f75a6bfd809fdf24772-0-f9d4bfcd2bdbc715fd99e15b2bffd151
 
 #EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1791987876-71be19bab85ca8c4be2ef16cb75af4dc-0-a83411b39a821f573061e174179c12b4
+https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1792023928-497a2109e15be7a65d013ddb4e01e312-0-13b4536668aa631941d502a1473c1734
 
 #EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1791987877-0d0b51870c67e5714ccf922399c044ea-0-6e6ac600424c4326d16645c956970279
+https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1792023928-fbbb13fd145259ff7f5ffe159e1bdcb2-0-2efe6ca9ec52cc8f3e76939c3e2da7e0
 
 # === END RCTI+ SECTION ===
 ==============
@@ -10496,10 +10501,8 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 
-<==================== LIVE EVENT 1 ===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+<==================== LIVE EVENT 1 ===================================>#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
 #EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
@@ -10508,37 +10511,37 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/GoGf3", 17:00 Expressway Co W vs Hyundai E&C Hillstate W
+EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/GoGf3", 17:00 Expressway Co W vs Hyundai E&C Hillstate W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/QEJ73", 20:00 WIB Aras Kargo W vs Galatasaray W
+EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/QEJ73", 20:00 WIB Aras Kargo W vs Galatasaray W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/QEJ73", 23:00 WIB Fenerbahce W vs Goztepe W
+EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/QEJ73", 23:00 WIB Fenerbahce W vs Goztepe W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel33.m3u8
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Persib vs Viettel
+EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Persib vs Viettel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:45 WIB LASK Linz vs Liverpool
+EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:45 WIB LASK Linz vs Liverpool
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:45 WIB Feyenoord vs Como
+EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:45 WIB Feyenoord vs Como
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
@@ -10549,32 +10552,32 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 
 
 <==================== LIVE EVENT 2 ================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Aston Villa vs Fenerbahçe
+EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Aston Villa vs Fenerbahçe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Roma vs Real Madrid
+EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Roma vs Real Madrid
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Manchester City vs PSG
+EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Manchester City vs PSG
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Bodø / Glimt vs Borussia Dortmund
+EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Bodø / Glimt vs Borussia Dortmund
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Shakhtar Donetsk vs AEK Athens
+EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Shakhtar Donetsk vs AEK Athens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
