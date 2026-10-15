@@ -3353,7 +3353,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+####https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 EXTINF: -1 tvg-id="indosiar.id" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="CHANNEL | INDONESIA", INDOSIAR (1)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -3362,8 +3362,8 @@ EXTINF: -1 tvg-id="indosiar.id" tvg-logo="https://github.com/tv-logo/tv-logos/bl
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR
+####https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true",INDOSIAR (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -3380,10 +3380,20 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
 ####KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (1)
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 ###https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
 ###https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",🆕INDOSIAR (1)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕TVONE 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -3397,17 +3407,26 @@ EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/
 
 ++===
 
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕SCTV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕SCTV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
 https://tvratu.my.id/vid/index.mpd?id=204
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", SCTV
+EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA", SCTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+#####https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="INDONESIA",🆕SCTV (2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true" group-title="CHANNEL | INDONESIA",TVONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -11066,35 +11085,14 @@ https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/05/11383/ilpklu7adqto_h/index-v1-a
 ========================================== VOD KIDS ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
-#EXTINF:-1 tvg-id="kpa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCU-uLlYGl4MuujE-QH6pcqh96fj6tB6ijHl8zKelrg&s=10" group-title="VOD | KIDS ANIMATION",KUNG FU PANDA
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Kung%20Fu%20Panda.m3u8
-
 #EXTINF:-1 tvg-id="smgm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSev1uW0S0fx0iu4T9uMmlyPdqftKugOJeFS0fHUpm9Dg&s=10" group-title="VOD | KIDS ANIMATION",SUPER MARIO GALAXY MOVIE
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Super%20Mario%20Galaxy%20Movie.m3u8
-
-#EXTINF:-1 tvg-id="swp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKF-cLRVpdrnqnCRnAcOQxvvF8Jr-whFQNgcPM5A46Q&s=10" group-title="VOD | KIDS ANIMATION",SWAPPED
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/swp.m3u8
-
-#EXTINF:-1 tvg-id="tloatla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLwEJBb_dOEp5JQaPX4GJQRmq2Fem9SsEjUZWAbO6FA&s" group-title="VOD | KIDS ANIMATION",THE LEGEND OF AANG: THE LAST AIRBENDER
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Aang_%20The%20Last%20Airbender%20(1).m3u8
 
 #EXTINF:-1 tvg-id="nbd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVbT5w8bDF4ZUEZxhEvg5v0Eeb6DcLAjj0SwfaZeUAA&s=10" group-title="VOD | KIDS ANIMATION",NOBODY
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Nobody.m3u8
 
-#EXTINF:-1 tvg-id="hprs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_03JUNW2DY_QKIm2N2Nghm6uCNL3TQ4AdKuCcbrDTQ&s" group-title="VOD | KIDS ANIMATION",HOPPERS
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Hoppers.m3u8
-
-#EXTINF:-1 tvg-id="goat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkch6NBHC2BDkHWhTy5N96c5hOayZC9Y5tc13mzj7OzA&s=10" group-title="VOD | KIDS ANIMATION",GOAT
-https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/GOAT2.m3u8
-
 #EXTINF:-1 tvg-id="ctw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEPf2dNIMhU4DN6IuPMMwbTDD9V5LHTWXNrBp1h6yEQ&s" group-title="VOD | KIDS ANIMATION",CHARLIE THE WONDERDOG
 https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/Charlie%20the%20Wonderdog21.m3u8
-
-#EXTINF:-1 tvg-id="afaa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugOr7Mt1QciaTT16M8U1GrdjgF6jThCo0x4PnJeFWMg&s=10" group-title="VOD | KIDS ANIMATION",AVATAR FIRE AND ASH (2025)
-https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/Avatar_%20Aang%2C%20The%20Last%20Airbender%20(2026)1.m3u8
-
-#EXTINF:-1 tvg-id="asp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_30Zc8JA-SSYSwRXm0GETRpxBTVgdoPhiD9qwYxV6g&s=10" group-title="VOD | KIDS ANIMATION ",A SUPER PROGRESSIVE
-https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/A%20Super%20Progressive1.m3u8
 
 #EXTINF:-1 tvg-id="tsmsfs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLnc1cKbyrCLZXeD6gNF4JO6qSOCFqsVndsN83THk7Q&s=10" group-title="VOD | KIDS ANIMATION",THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS (2025)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20SpongeBob%20Movie_%20Search%20for%20SquarePants%20(2025).m3u8
@@ -11104,12 +11102,6 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/R.L.%2
 
 #EXTINF:-1 tvg-id="tloh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFPkI555LM6hmgJfdowq_peTt-nqqRXEYf72mnYbNbHg&s=10" group-title="VOD | KIDS ANIMATION",THE LEGEND OF HEI 2 (2025)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Hei%202%20(2025).m3u8
-
-#EXTINF:-1 tvg-id="anf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYuG9Fj5syy2CjyMeraREF7VbON3782a2fy2nLJmHnqQ&s=10" group-title="VOD | KIDS ANIMATION",ANIMAL FARM (2026)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Animal%20Farm%20(2026).m3u8
-
-#EXTINF:-1 tvg-id="ddne" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgiyYgznp_87hgiVQUpNknUjTHXKdwcJlJ8tx9Ex1sw&s=10" group-title="VOD | KIDS ANIMATION",DEATH DOES NOT EXIST (2025)
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Death%20Does%20Not%20Exist%20(2025).m3u8
 
 
 
