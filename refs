@@ -3273,7 +3273,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true",TransTV
+#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="Nasional" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true",TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3317,7 +3317,7 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 ###https://video.detik.com/livecnn/smil:cnntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title=CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true",CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live.cnbcindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
@@ -3325,7 +3325,7 @@ https://live.cnbcindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/Q05OaS1teQ/manifest.mpd?
+https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/Q05OaS1teQ/manifest.mpd?signature=ZTg3MDA5Yzg0MTZiMjA5ODRkMjU0YTg1YTFlMDIwY2U=&time=77777777777&device_id=VynxJ0R-jJuS-bDlYC8raLX1Ya28IkDvCxXZR2oIeB5e05wFyw
 
 EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNN Indonesia (LC👻)
 ####https://iptv.lancartech.co.id:443/Sudika@1/78345252/5
@@ -6153,13 +6153,13 @@ https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 //========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
-#EXTINF:-1 tvg-id="LIVE | BADMINTON" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" group-logo="https://i.imgur.com/uHW5POz.jpeg" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 1-CAIRO | 5- 17 OKT 2026
+#EXTINF:-1 tvg-id="BWF WORLD JUNIOR" group-title="LIVE | BADMINTON" group-logo="https://i.imgur.com/uHW5POz.jpeg" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 1-CAIRO | 5- 17 OKT 2026
 https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=4198a9a464d9c284623338e7b92d4d8e&wsABSTime=1791314390
 
-#EXTINF:-1 tvg-id="LIVE | BADMINTON" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 2-CAIRO | 5- 17 OKT 2026
+#EXTINF:-1 tvg-id="BWF WORLD JUNIOR" group-title="LIVE | BADMINTON" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 2-CAIRO | 5- 17 OKT 2026
 https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=cba231638b5e2660cd1bf7ee54c15e3a&wsABSTime=1791314473
 
-#EXTINF:-1 tvg-id="LIVE | BADMINTON" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 3-CAIRO | 5- 17 OKT 2026
+#EXTINF:-1 tvg-id="BWF WORLD JUNIOR" group-title="LIVE | BADMINTON" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 3-CAIRO | 5- 17 OKT 2026
 https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=7d80b1b50edc4c22b66af36b3b739c8d&wsABSTime=1791314618
 
 
@@ -8878,6 +8878,12 @@ EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https:/
 #EXTINF:-1 xui-id="32" tvg-id="" tvg-name="THRILL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png" group-title="CHANNEL | MOVIES",Thrill (🎃👻)
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4nHwvfQ57E_3lP9aAMjdYFw
 
+#EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/VGhyaWxs/manifest.mpd?signature=MjBiMGZkMzk5MGVmY2JiZDEyYzA1ZDA4M2ZlMDViZWY=&time=77777777777&device_id=1E44vSq6A0FLs3YH9luxpgZmK1MW5h2vOrLTzVu9HM34VMPLfw
+
 EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png",tvN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -10433,13 +10439,13 @@ https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 ==========================
 
-#EXTINF:-1 tvg-id="EVENT 016/OKTOBER/2026" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" group-logo="https://i.imgur.com/uHW5POz.jpeg" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 1-CAIRO | 5- 17 OKT 2026
+#EXTINF:-1 tvg-id="BWF WORLD JUNIOR" group-title="EVENT 016/OKTOBER/2026" group-logo="https://i.imgur.com/uHW5POz.jpeg" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 1-CAIRO | 5- 17 OKT 2026
 https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=4198a9a464d9c284623338e7b92d4d8e&wsABSTime=1791314390
 
-#EXTINF:-1 tvg-id="EVENT 016/OKTOBER/2026" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 2-CAIRO | 5- 17 OKT 2026
+#EXTINF:-1 tvg-id="BWF WORLD JUNIOR" group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 2-CAIRO | 5- 17 OKT 2026
 https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=cba231638b5e2660cd1bf7ee54c15e3a&wsABSTime=1791314473
 
-#EXTINF:-1 tvg-id="EVENT 016/OKTOBER/2026" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 3-CAIRO | 5- 17 OKT 2026
+#EXTINF:-1 tvg-id="BWF WORLD JUNIOR" group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 3-CAIRO | 5- 17 OKT 2026
 https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=7d80b1b50edc4c22b66af36b3b739c8d&wsABSTime=1791314618
 
 
