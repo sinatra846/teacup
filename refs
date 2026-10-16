@@ -3324,6 +3324,9 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.p
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNN Indonesia (LC👻)
+https://iptv.lancartech.co.id:443/Sudika@1/78345252/5
+
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNBC.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 https://video.detik.com/livecnbc/smil:cnbctv/playlist.m3u8
