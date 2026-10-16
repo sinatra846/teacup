@@ -3317,15 +3317,18 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 ###https://video.detik.com/livecnn/smil:cnntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cnn Indonesia Channelfeed" tvg-name="Cnn Indonesia Channelfeed - Server 1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNBC.1.png?raw=true" group-title="CHANNEL | INDONESIA",🎬Cnn Indonesia ⬅️ (CF)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://video.detik.com/
-https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title=CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNN Indonesia (LC👻)
-https://iptv.lancartech.co.id:443/Sudika@1/78345252/5
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true",CNN Indonesia
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/Q05OaS1teQ/manifest.mpd?
+
+EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNN Indonesia (LC👻)
+####https://iptv.lancartech.co.id:443/Sudika@1/78345252/5
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNBC.1.png?raw=true" group-title="CHANNEL | INDONESIA",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
@@ -4647,22 +4650,17 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTM3U
-EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Malut United vs Borneo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSIM YOGYA VS PSM MAKASAR|
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |JAVA UNITED VS BALI UNITED|
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |MADURA UNITED VS BHAYANGKARA|
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
+
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PERSIJAP VS ISENMULANG FC|
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs PSM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persib vs Dewa United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel35.m3u8?wsSecret=f58c34c644a03543d850a4d9e24e71b9&wsABSTime=1791740782
-
-
 
 
 
@@ -6155,12 +6153,15 @@ https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 //========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+#EXTINF:-1 tvg-id="LIVE | BADMINTON" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" group-logo="https://i.imgur.com/uHW5POz.jpeg" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 1-CAIRO | 5- 17 OKT 2026
+https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=4198a9a464d9c284623338e7b92d4d8e&wsABSTime=1791314390
+
+#EXTINF:-1 tvg-id="LIVE | BADMINTON" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 2-CAIRO | 5- 17 OKT 2026
+https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=cba231638b5e2660cd1bf7ee54c15e3a&wsABSTime=1791314473
+
+#EXTINF:-1 tvg-id="LIVE | BADMINTON" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 3-CAIRO | 5- 17 OKT 2026
+https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=7d80b1b50edc4c22b66af36b3b739c8d&wsABSTime=1791314618
+
 
 
 
@@ -10407,7 +10408,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <==================== LIVE EVENT 1 ===================================>
-EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
@@ -10418,58 +10419,32 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 ==========================
 
-EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB IBK W vs Daejeon JKJ W
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/3hfangh10ro5yx6qr3rncr6zz60b2kdpyno0/cge0qdwsg8din2ueap5rtk960b2kdpykuq_hls_playlist.m3u8?hdnts=st=1792057596~exp=1792118806~acl=*/3hfangh10ro5yx6qr3rncr6zz60b2kdpyno0/*~hmac=7158f6a3b3e061ae46d10fe8b81f6626695efdb1a1b512e22f50f8c18657cfb4&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSIM YOGYA VS PSM MAKASAR|
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |JAVA UNITED VS BALI UNITED|
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |MADURA UNITED VS BHAYANGKARA|
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PERSIJAP VS ISENMULANG FC|
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 ==========================
 
-EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 17:00 WIB Wofoo Tai Po vs Lion City Sailors
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 tvg-id="EVENT 016/OKTOBER/2026" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" group-logo="https://i.imgur.com/uHW5POz.jpeg" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 1-CAIRO | 5- 17 OKT 2026
+https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=4198a9a464d9c284623338e7b92d4d8e&wsABSTime=1791314390
 
-EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Tampines Rovers vs Machida Zelvia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#EXTINF:-1 tvg-id="EVENT 016/OKTOBER/2026" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 2-CAIRO | 5- 17 OKT 2026
+https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=cba231638b5e2660cd1bf7ee54c15e3a&wsABSTime=1791314473
 
-<================================================>
+#EXTINF:-1 tvg-id="EVENT 016/OKTOBER/2026" group-title="BWF WORLD JUNIOR CHAMPIONSHIP 2026" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 3-CAIRO | 5- 17 OKT 2026
+https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=7d80b1b50edc4c22b66af36b3b739c8d&wsABSTime=1791314618
 
-EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Lech Poznań vs Bayer Leverkusen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
-EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Olympique Lyonnais vs Crystal Palace
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Union Saint-Gilloise vs Real Sociedad
-#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
-EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Salzburg vs Milan
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Torreense vs Sunderland
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/NzYuB", 23:45 WIB CSU Craiova vs Getafe
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
 
 
 
