@@ -3561,7 +3561,7 @@ https://proxy-b.rctiplus.id/live/web/mnctv/mnctv-sdi.m3u8?auth_key=1792132431-9b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1792132432-511507a1d0a41c870e4fd5a255e06cb8-0-853447b936dd4d7cfc735c170ffcaa21
 
-#EXTINF:-1 tvg-id="iNews" group-title=CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
+#EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1792132432-c4454c21839498583f340506904da694-0-77270e1c62063266ab6242ae597ba213
