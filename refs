@@ -3317,7 +3317,7 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 ###https://video.detik.com/livecnn/smil:cnntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cnn Indonesia Channelfeed" tvg-name="Cnn Indonesia Channelfeed - Server 1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="NASIONAL;BERITA",🎬Cnn Indonesia ⬅️ (CF)
+#EXTINF:-1 tvg-id="Cnn Indonesia Channelfeed" tvg-name="Cnn Indonesia Channelfeed - Server 1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true" group-title="CHANNEL | INDONESIA",🎬Cnn Indonesia ⬅️ (CF)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
