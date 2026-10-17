@@ -3491,13 +3491,13 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 ======EDT=======
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 RCTI
+#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕MNCTV
+#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
@@ -3509,7 +3509,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" group-title="CHANNEL | INDONESIA" tvg-logo=""https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",🆕INEWS
+#EXTINF:-1 tvg-id="MNCTV HD [2]" group-title="CHANNEL | INDONESIA" tvg-logo=""https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",🆕INEWS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
@@ -8744,12 +8744,19 @@ EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://mimipipi22.github.io/
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 ####https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
-#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN 🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=79&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="CHANNEL | MOVIES",AXN 🇻🇳
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8840,8 +8847,16 @@ EXTINF:-1 tvg-id="HITSMovies.sg@SD" group-title="CHANNEL | MOVIES" tvg-logo="htt
 #KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=68&type=drm&token=alf-store
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
 
-#EXTINF:-1 tvg-id="KPlus.sg@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kplus.png",K Plus 🔴
+EXTINF:-1 tvg-id="KPlus.sg@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kplus.png",K Plus 🔴
 https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="KPlus.sg@SD" group-title="CHANNEL | MOVIE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kplus.png",K Plus
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktidc01.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=Mzc0ZmRlZjA3ZDI2YTJiOWY3ZTdjMGZhOTZmMzUyOTI=&time=15264536041&device_id=mEPt_Ery8MQbhvnireDHaxy4L2tNIr7U6WVijVwhX6E33takh0kQW25R-w
+
+======
 
 #EXTINF:-1 tvg-id="KIX.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kix.png",KIX (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -8863,8 +8878,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 EXTINF:-1 tvg-id="KIX.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kix.png",KIX (HD) 🔴
 ###https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 xui-id="31" tvg-id="" tvg-name="KIX" group-title="CHANNEL | MOVIES" tvg-logo="https://i.imgur.com/ffr53aW.jpeg",KIX (🎃👻)
+EXTINF:-1 xui-id="31" tvg-id="" tvg-name="KIX" group-title="CHANNEL | MOVIES" tvg-logo="https://i.imgur.com/ffr53aW.jpeg",KIX (🎃👻)
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wzcHfZYOcxg3ryOOa-44rBU
+
+=======
 
 EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -8893,16 +8910,9 @@ EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https:/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktidc01.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/VGhyaWxs/manifest.mpd?signature=YjdhYWZlOTI3MzdjMTdmOGQ3ZjNmZTM2N2NmMmM5Mjc=&time=77777777777&device_id=1AfN8oRWcgAPoMuDw2QLIP2xmJGiXf7PRFn2427km2gMNkAup09RkiYfiA
-
-#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="THRILL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png" group-title="CHANNEL | MOVIES",Thrill (🎃👻)
-http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4nHwvfQ57E_3lP9aAMjdYFw
-
-#EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktidc01.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/VGhyaWxs/manifest.mpd?signature=YjdhYWZlOTI3MzdjMTdmOGQ3ZjNmZTM2N2NmMmM5Mjc=&time=15264533016&device_id=1AfN8oRWcgAPoMuDw2QLIP2xmJGiXf7PRFn2427km2gMNkAup09RkiYfiA
+
+========
 
 EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png",tvN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -8930,6 +8940,8 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=46&type=drm&token=alf-store
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
+======
 
 #EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png",ROCK Action (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -8979,6 +8991,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png",ROCK Action (MX)
 ####https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
 
+=======
+
 #EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Zee Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -9009,6 +9023,8 @@ EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="CHANNEL | MOVIES" tvg-logo="htt
 EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="CHANNEL | MOVIES" tvg-logo="###https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Zee Bioskop
 ###https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
 
+=======
+
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -9016,7 +9032,7 @@ EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="CHANNEL | MOVIES" tvg-logo="###
 #KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
 ####https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
-#EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN
+#EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN 🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -9118,19 +9134,18 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-logo="https://i.pinimg.com/236x/bd/63/b0/bd63b056a8ade410fdfb3fecf26d6b51.jpg" group-title="CHANNEL | MOVIES", LIFETIME (VS)
 ####https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
-#EXTINF:-1 tvg-id="LifetimeAsia.us@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lifetime.png",Lifetime
+#EXTINF:-1 tvg-id="LifetimeAsia.us@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lifetime.png",Lifetime 🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=80
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
-#EXTINF:-1 tvg-id="LifetimeAsia.us@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lifetime.png",Lifetime
+#EXTINF:-1 tvg-id="LifetimeAsia.us@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lifetime.png",Lifetime 🔴
 https://cdnbal1.indihometv.com/atm/DASH/lifetime/lifetime-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="99991709" tvg-logo="https://image.xumo.com/v1/channels/channel/99991709/300x300.webp?type=color_onBlack" group-title="CHANNEL | MOVIES",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/10001/99991709/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991709&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=CrownMediaHallmarkMoviesNew&ads.csid=xumo_[PLATFORM]_CrownMediaHallmarkMoviesNew_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Movie,Movies,Romance,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,Romance,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2777&ads.xumo_contentName=CrownMediaHallmarkMoviesNew&ads.xumo_providerId=2777&ads.xumo_providerName=CrownMediaHallmarkMoviesNew&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991709&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
 
 #EXTINF:-1 group-title="CHANNEL | MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
