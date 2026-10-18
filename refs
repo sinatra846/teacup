@@ -5975,36 +5975,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
-=======HUB==========
-
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER1.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 1 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032529&extension=ts&play_token=9lgxcFeRLZ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER2.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 2 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032528&extension=ts&play_token=oIPt1WNwKJ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER2.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 2 UHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032518&extension=ts&play_token=OsfkjcfWzK
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER3.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 3 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032527&extension=ts&play_token=0n7gposZzR
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER4.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 4 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032526&extension=ts&play_token=3lqc4cziNU
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER5.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 5 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032525&extension=ts&play_token=04sP9qGgdX
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER6.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 6 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032524&extension=ts&play_token=cVFVZsVuwO
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER7.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 7 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032523&extension=ts&play_token=BVvsc32Z0v
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER8.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 8 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032522&extension=ts&play_token=5IOTE48Vzg
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER9.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 9 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032521&extension=ts&play_token=6xSYuM6XTA
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER10.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 10 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032520&extension=ts&play_token=T5nyiLpZuy
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER11.png" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 11 FHD
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1032519&extension=ts&play_token=ulYmicf3qj
-
-
 =======ETC==========
-
 
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/K27Dn14/MTRSPT1.png" group-title="CHANNEL | SPORTS",MOTOR SPORT 1
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
@@ -6277,12 +6248,104 @@ https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=7d80b1b
 
 
 
+=======================================LIGA INGGRIS==========================================================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA INGGRIS
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",📌🔥20:00 Leeds United vs Manchester United⭐🔥MUTV FHD (2)
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",📌🔥20:00 Leeds United vs Manchester United⭐🔥 USA_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true",📌🔥20:00 Leeds United vs Manchester United⭐🔥BEIN SPORT 1 English (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
+
+==================================
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔜🔥 Brighton & Hove Albion vs Crystal Palace ⭐⭐⭐ STAR SPORTS SELECT 2 HD✅
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
+
+#EXTINF:-1 tvg-chno="158" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔜🔥Brighton & Hove Albion vs Crystal Palace Sky Sports Premier League DE
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+
+#EXTINF:-1 tvg-chno="158" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League"tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔜🔥Brighton & Hove Albion vs Crystal Palace Sky Sports Premier League SD
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+
+==================================
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔜🔥AFC Bournemouth vs Sunderland⭐Sky Sport8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl10.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔜🔥AFC Bournemouth vs Sunderland⭐ARENA 1 PREMIUM🔄
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔜🔥AFC Bournemouth vs Sunderlande⭐ARENA S 1 🔄
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl7.m3u8
+
+==================================
+
+#EXTINF:-1 tvg-chno="158" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔜🔥Nottingham Forest vs Arsenal  Sky Sports Premier League DE
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+
+#EXTINF:-1 tvg-chno="158" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League"tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔜🔥Nottingham Forest vs Arsenal  Sky Sports Premier League SD
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔜🔥Nottingham Forest vs Arsenal⭐ARENA 1 PREMIUM🔄
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl2.m3u8
+
+==================================
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314077&extension=ts&play_token=nqu4CBOqqh
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 2 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314078&extension=ts&play_token=23Vv1SoTSt
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 3 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314079&extension=ts&play_token=mUZGchSmRB
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 4 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314080&extension=ts&play_token=YLfLDibLnf
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 5 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314081&extension=ts&play_token=ye39mZA7CB
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 6 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314082&extension=ts&play_token=4qjzqO2xvh
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 7 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314083&extension=ts&play_token=4igNRDGhZn
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 8 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314084&extension=ts&play_token=UGZsIarwaf
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 9 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314085&extension=ts&play_token=VM7oA8FKQ5
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 10 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314086&extension=ts&play_token=vHGn2sf0NL
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 11 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314087&extension=ts&play_token=Y3nSSS6DDP
 
 
 
 
 
-=======BEIN SPORT ARAB ======
+
+
+
+
+
+
+
+
+
+
 
 
 
