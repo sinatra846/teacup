@@ -3241,11 +3241,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id@SD" group-title="https://www.image2url.com/r2/default/images/1792393241656-eab9e65b-2510-4085-b4dd-e8b0b3280413.jpg" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV 🔴
+#EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://imgur.com/a/jK1UJZm",BTV 🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8?app_type=web&userid=lite&chname=BTV
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://www.image2url.com/r2/default/images/1792393241656-eab9e65b-2510-4085-b4dd-e8b0b3280413.jpg" group-title="CHANNEL | INDONESIA",🍟BTV 
+#EXTINF:-1 tvg-id="15" tvg-logo="https://imgur.com/a/jK1UJZm" group-title="CHANNEL | INDONESIA",🍟BTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=15
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3258,24 +3258,6 @@ EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https:/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
 #####https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
-
-=====================
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=015
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",BTV (2)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
-
-#EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=15&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
 ======================
 
@@ -3308,7 +3290,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=007
-EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="CHANNEL | INDONESIA",TRANS 7 (2)
+EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="CHANNEL | INDONESIA",TRANS 7 (2) 🔴
 #####https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -3318,7 +3300,7 @@ EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=006
-EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="CHANNEL | INDONESIA",TRANS TV (2)
+EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="CHANNEL | INDONESIA",TRANS TV (2) 🔴
 ######https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 ========================END LIST============================
@@ -3327,7 +3309,7 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 ###https://video.detik.com/livecnn/smil:cnntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true",CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CNN.1.png?raw=true",CNN Indonesia🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live.cnbcindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
@@ -4735,15 +4717,15 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persib vs Persik Kediri
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persib vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=da9cd91efa1b3478ecff7cbca92b09a7&wsABSTime=1792342359
 
-#EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="LIGA 1 BRI", SERVER UTAMA INDOSIAR
+EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="LIGA 1 BRI", SERVER UTAMA INDOSIAR
 http://013tv.com:8080/F33848/cbd9779b/162138
 
-#EXTINF:-1  tvg-logo="https://shorter.me/_bDcr" group-title="LIGA 1 BRI",LIGA BRI test
+EXTINF:-1  tvg-logo="https://shorter.me/_bDcr" group-title="LIGA 1 BRI",LIGA BRI test
 http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1965312.m3u8
 
 
@@ -6172,14 +6154,14 @@ KOVO CUP 2026
 
 ============================================================================
 
-#EXTINF:-1 tvg-id="KOVO CUP 2026" group-logo="https://i.imgur.com/ej03Wmb.png" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙐𝙏𝘼𝙈𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-logo="https://i.imgur.com/ej03Wmb.png" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙐𝙏𝘼𝙈𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=112&type=drm&token=alf-store
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙆𝙀𝘿𝙐𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙆𝙀𝘿𝙐𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -6191,13 +6173,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 ==========================
 
-#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 17 OKT-11;30 WIB- JUARA A VS RUNNER-UP B| SEMIFINAL
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 17 OKT-11;30 WIB- JUARA A VS RUNNER-UP B| SEMIFINAL
 https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 
-#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 18 OKT-11;30 WIB- PEMENANG  SEMIFINAL 1 VS PEMENANG SEMIFINAL 2| FINAL
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 18 OKT-11;30 WIB- PEMENANG  SEMIFINAL 1 VS PEMENANG SEMIFINAL 2| FINAL
 https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 
-#EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 17 OKT-14;30 WIB- JUARA B VS RUNNER-UP A| SEMIFINAL
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 17 OKT-14;30 WIB- JUARA B VS RUNNER-UP A| SEMIFINAL
 https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 
 
@@ -6209,15 +6191,10 @@ https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 //========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 https://tg080gr5domt1gc41hctogezd1cjpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=d1033bdae2e22ebd77073a859fd047d8&wsABSTime=1792360990&wsSession=79da12c6f6d9a9866ff303c5-179231779417096&wsIPSercert=acc4f94b99779a43361a6cb4f2f22c17&wsBindIP=2&wsserid=1168273351498260392
-
-
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tg080gr3uomttgr31hctw8rzdnctpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=f7c4dcf714a4cbce54064c379164b274&wsABSTime=1792361075&wsSession=42205f0d59c94e930f435696-179231787821301&wsIPSercert=acc4f94b99779a43361a6cb4f2f22c17&wsBindIP=2&wsserid=1168235407007223491
-
-
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+https://tg080gr3uomttgr31hctw8rzdnctpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=f7c4dcf714a4cbce54064c379164b274&wsABSTime=1792361075&wsSession=42205f0d59c94e930f435696-179231787821301&wsIPSercert=acc4f94b99779a43361a6cb4f2f22c17&wsBindIP=2&wsserid=1168235407007223491#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 https://tg080gr3uomttgr31hctw8rzdnctpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=4ebf10f3ded912a6116e5a202e4f9df4&wsABSTime=1792361137&wsSession=f419d136e8bf1d2dc4a50513-179231794034100&wsIPSercert=acc4f94b99779a43361a6cb4f2f22c17&wsBindIP=2&wsserid=1168235407009320693
 
 ==============
@@ -10874,6 +10851,26 @@ https://pixeldrain.com/api/file/xDtZjqYB?download
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/11/film-shang-chi-and-the-legend-of-the-ten-rings-2021-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Shang-Chi and the Legend of the Ten Rings
+https://stream.playcdn.de/playlist/994e4d97862a1db03e2cb9d5c85b306e/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-pinocchio-unstrung-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Pinocchio: Unstrung
+https://stream.playcdn.de/playlist/56791e0daeeb2c96a52ed6dd3836d981/1/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/01/film-guardians-of-the-galaxy-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Guardians of the Galaxy
+https://stream.playcdn.de/playlist/096418cf5068a62cd95b31772aed010b/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-seven-snipers-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Seven Snipers
+https://stream.playcdn.de/playlist/bcf786e8a17c4401f14cd817e77bd34a/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/06/film-husbands-action-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Husbands in Action
+https://stream.playcdn.de/playlist/b7c4ca7f7e15041c18d34ec5934e0526/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-prisoners-paradise-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Prisoners of Paradise
+https://stream.playcdn.de/playlist/cface24fc3450cb723502b2e85485033/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-murder-game-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Murder Game
+https://stream.playcdn.de/playlist/9963448f871829f32d2acca886ac3aa9/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-ip-man-kung-fu-legend-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Ip Man: Kung Fu Legend
+https://stream.playcdn.de/playlist/7e41df7cc8476373e11d9451a2f43614/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2023/04/film-evil-dead-rise-2023-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Evil Dead Rise
+https://stream.playcdn.de/playlist/b24b9e4084b0552309f4167f599121cc/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-ribbon-hero-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Ribbon Hero
+https://stream.playcdn.de/playlist/fabf727c3fcf3a0cba6d714ce1c11c78/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-penance-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Penance
 https://stream.playcdn.de/playlist/39206641f0d8c711eb0668ff6b040769/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/04/film-thor-2011.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thor
