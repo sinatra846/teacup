@@ -5864,55 +5864,50 @@ https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd
 
 
 
-
 =========================================== G0LF======================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | G0LF
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=c53012b08edf478187064665dde647cb:5390bb924b102d566b9e59afbdc08fab
-#EXTINF:-1 tvg-id="ChampionsGolf1HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png" group-title="CHANNEL | GOLF",CHAMPIONS GOLF 1 HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
-#EXTINF:-1 tvg-id="ChampionsGolf2HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/419.png" group-title="CHANNEL | GOLF",CHAMPIONS GOLF 2 HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
-
-#EXTINF:0 tvg-id="ChampionsGolf1HD" tvg-name="Champions Golf 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/40/Logo_Champions_TV_Golf_1.png" group-title="CHANNEL | GOLF", Champions Golf 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=c53012b08edf478187064665dde647cb:5390bb924b102d566b9e59afbdc08fab
-https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
-
-#EXTINF:0 tvg-id="ChampionsGolf2HD" tvg-name="Champions Golf 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/Logo_Champions_TV_Golf_2.png" group-title="CHANNEL | GOLF", Champions Golf 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
-https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
-
-#EXTINF:-1 tvg-uid="31a9db0a13e8809f12ac76d331160ce9" data-source="Sports7November" group-title="CHANNEL | GOLF" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT GOLF.png", ┃DE┃ SKY SPORT GOLF FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1149429.m3u8
-#EXTINF:-1 tvg-uid="fef1cf5c473bccdbfb6fa8806312f6d1" data-source="Sports7November" group-title="CHANNEL | GOLF" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS GOLF.png", ┃UK┃ SKY SPORTS GOLF HEVC FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312032.m3u8
-#EXTINF:-1 tvg-uid="29f5144d24a545f2ddf9958419b22ecf" data-source="Sports7November" group-title="CHANNEL | GOLF" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTACTION.png", ┃IT┃ SKY SPORT GOLF HEVC
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167170.m3u8
-#EXTINF:-1 tvg-uid="d772e9cfa1541f716c445b79f4239915" data-source="Sports7November" group-title="CHANNEL | GOLF" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTACTION.png", ┃IT┃ SKY SPORT GOLF FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/240463.m3u8
-
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="NBC GOLF CHANNEL" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/03/golf-channel-lpga-logo.png" group-title="CHANNEL | GOLF",🆕NBC GOLF CHANNEL(257)
-http://bgdc.live:25461/joak18@yahoo.com/5643956/37730
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/03/golf-channel-lpga-logo.png" group-title="CHANNEL | GOLF",🆕GOLF CHANNEL 🇸🇰(257)
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="CHANNEL | GOLF",🆕GOLF CHANNEL 🇸🇰(257)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="CHANNEL | GOLF",🆕 Sky Sports Golf UK HD
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
+
+#EXTINF:-1  tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="CHANNEL | GOLF",🆕 PGA Tour
+https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_channelId=99991281
+
+#EXTINF:-1  tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="CHANNEL | GOLF",🆕GOLF 1 (Sky SPort Golf German)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Golf1.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="CHANNEL | GOLF",SKY SPORTS GOLF HD (20926)
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
+
+#EXTINF:-1 tvg-id="SWyMJi5i4CWxYvJcCijPEsF5RyTlqmW5" tvg-name="SKY SPORT GOLF" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="CHANNEL | GOLF",SKY SPORT GOLF HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1167170&extension=ts&play_token=vufivpvVvG
+
+#EXTINF:-1 tvg-id="bB9ivPvgHctoUBmEhg7jT40cS89Us0wl" tvg-name="SKY SPORT GOLF" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="CHANNEL | GOLF",SKY SPORT GOLF FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=240463&extension=ts&play_token=UHG7UD618z
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="DUNIA | CHINA",🆕 CCTB Golf & Tennis (🚀 24926)
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
