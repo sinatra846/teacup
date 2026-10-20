@@ -3241,11 +3241,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://imgur.com/a/u8aVOyi",BTV 
+#EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://i.imgur.com/fx1Utzh.png",BTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8?app_type=web&userid=lite&chname=BTV
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://imgur.com/a/u8aVOyi" group-title="CHANNEL | INDONESIA",🍟BTV 
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/fx1Utzh.png" group-title="CHANNEL | INDONESIA",🍟BTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=15
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -5857,24 +5857,8 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1167170&ext
 #EXTINF:-1 tvg-id="bB9ivPvgHctoUBmEhg7jT40cS89Us0wl" tvg-name="SKY SPORT GOLF" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="CHANNEL | GOLF",SKY SPORT GOLF FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=240463&extension=ts&play_token=UHG7UD618z
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="DUNIA | CHINA",🆕 CCTB Golf & Tennis (🚀 24926)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_00000000d5888211b13c3aff8765587c.png?raw=true" group-title="CHANNEL | GOLF",🆕 CCTB Golf & Tennis (🚀 24926)
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
