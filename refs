@@ -3501,33 +3501,39 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
+
+
+
+
+
 ==============
 
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-20 21:24:04
+# Updated: 2026-10-21 03:42:32
 
 #EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792542243-ceb10228d25ec935194697364fc6f88f-0-a75d3b5c722953071a50cf65d57a0121
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792564951-8119e19676f84bea7978bae0620d995f-0-86a36bee3464d2eebdccec56abe27ffc
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv-bkp/index.m3u8?auth_key=1792542243-886a211200c966aedaae14e6a3d042a7-0-4b8f7a6f17df6dd1bab6f7180ea8b191
+https://proxy-b.rctiplus.id/live/web/mnctv-bkp/index.m3u8?auth_key=1792564952-b18de6a816190dc86467b998cf47b310-0-969b23b197a9cb9eabbccc662a116c5e
 
 #EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv-bkp/index.m3u8?auth_key=1792542244-4f43045ae6cbdae116936b5e4b81bf20-0-32ad4cbc67401471b61fad8b2dd9f9eb
+https://proxy-b.rctiplus.id/live/web/gtv-bkp/index.m3u8?auth_key=1792564952-451f5f345ac0c1d8ce057dd8360452e8-0-1a3776da7fd45135f339c1941ba9c424
 
 #EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews-bkp/index.m3u8?auth_key=1792542244-987d867871638d019cc2fe5ba23f9609-0-97707488c2ef72b310123b46f4320cfd
+https://proxy-b.rctiplus.id/live/web/inews-bkp/index.m3u8?auth_key=1792564952-c518c9ab2c6609dac3a20a05cd5e6f32-0-2cf1cfa7b0c3ec8cebbf884bd8e519ea
 
 # === END RCTI+ SECTION ===
+
 
 
 
@@ -4766,21 +4772,21 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 
 ========== BRI LIGA 1 ===========
-#EXTINF:-1 tvg-id="auto.coming" group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="COMING SOON VIDEO" tvg-logo="https://i.imgur.com/vzXPJsq.png",COMING SOON 2026-2027
+EXTINF:-1 tvg-id="auto.coming" group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="COMING SOON VIDEO" tvg-logo="https://i.imgur.com/vzXPJsq.png",COMING SOON 2026-2027
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-#EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Adhyaksa vs Malut United
+EXTM3U
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Adhyaksa vs Malut United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs PSIM Yogyakarta
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs PSIM Yogyakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persijap
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persijap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
@@ -6228,22 +6234,26 @@ https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 //========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
-EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tg080gr5domt1gc41hctogezd1cjpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=d1033bdae2e22ebd77073a859fd047d8&wsABSTime=1792360990&wsSession=79da12c6f6d9a9866ff303c5-179231779417096&wsIPSercert=acc4f94b99779a43361a6cb4f2f22c17&wsBindIP=2&wsserid=1168273351498260392
-EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tg080gr3uomttgr31hctw8rzdnctpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=f7c4dcf714a4cbce54064c379164b274&wsABSTime=1792361075&wsSession=42205f0d59c94e930f435696-179231787821301&wsIPSercert=acc4f94b99779a43361a6cb4f2f22c17&wsBindIP=2&wsserid=1168235407007223491#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tg080gr3uomttgr31hctw8rzdnctpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=4ebf10f3ded912a6116e5a202e4f9df4&wsABSTime=1792361137&wsSession=f419d136e8bf1d2dc4a50513-179231794034100&wsIPSercert=acc4f94b99779a43361a6cb4f2f22c17&wsBindIP=2&wsserid=1168235407009320693
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel64.m3u8
 
-==============
 
-EXTINF:-1 tvg-id="BWF WORLD JUNIOR" group-title="LIVE | BADMINTON" group-logo="https://i.imgur.com/uHW5POz.jpeg" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 1-CAIRO | 5- 17 OKT 2026
-https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=4198a9a464d9c284623338e7b92d4d8e&wsABSTime=1791314390
 
-EXTINF:-1 tvg-id="BWF WORLD JUNIOR" group-title="LIVE | BADMINTON" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 2-CAIRO | 5- 17 OKT 2026
-https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=cba231638b5e2660cd1bf7ee54c15e3a&wsABSTime=1791314473
 
-EXTINF:-1 tvg-id="BWF WORLD JUNIOR" group-title="LIVE | BADMINTON" tvg-logo="https://i.imgur.com/uHW5POz.jpeg", COURT 3-CAIRO | 5- 17 OKT 2026
-https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=7d80b1b50edc4c22b66af36b3b739c8d&wsABSTime=1791314618
+
+
+
+
+
+
+
+
 
 
 
@@ -7773,6 +7783,19 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Travel xp
 https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //========================================================================
@@ -10443,36 +10466,24 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <==================== LIVE EVENT 1 ===================================>
-EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-EXTINF:-1 group-title="EVENT 020/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Adhyaksa vs Malut United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
+#EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+#EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+#EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
+#EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel64.m3u8
 
-EXTINF:-1 group-title="EVENT 020/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs PSIM Yogyakarta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
-EXTINF:-1 group-title="EVENT 020/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persijap
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
-<================================================>
 
-EXTINF:-1 group-title="EVENT 020/OKTOBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB Sabah vs Borussia Dortmund
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-EXTINF:-1 group-title="EVENT 020/OKTOBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB Fenerbahçe vs Slavia Praha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+
+
 
 
 
