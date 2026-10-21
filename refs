@@ -3476,60 +3476,60 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 ======EDT=======
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 RCTI
+#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕MNCTV
+#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 GTV
+#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕 GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-EXTINF:-1 tvg-id="MNCTV HD [2]" group-title="CHANNEL | INDONESIA" tvg-logo=""https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",🆕INEWS
+#EXTINF:-1 tvg-id="MNCTV HD [2]" group-title="CHANNEL | INDONESIA" tvg-logo=""https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true",🆕INEWS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-==============
 
 
 ==============
 
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-20 11:05:11
+# Updated: 2026-10-20 21:24:04
 
 #EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/rcti-bkp/index.m3u8?auth_key=1792505110-77bae447cb027c0caf3ef141b6019f8e-0-47c54adb10ef439130b809758c66be35
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792542243-ceb10228d25ec935194697364fc6f88f-0-a75d3b5c722953071a50cf65d57a0121
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv-bkp/index.m3u8?auth_key=1792505110-8aea0c2b8666e24b590a56c91af8fa6d-0-afcda3aef26ca559bb5bd8b4f1e54b0e
+https://proxy-b.rctiplus.id/live/web/mnctv-bkp/index.m3u8?auth_key=1792542243-886a211200c966aedaae14e6a3d042a7-0-4b8f7a6f17df6dd1bab6f7180ea8b191
 
 #EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv-bkp/index.m3u8?auth_key=1792505110-4dc177620c8e8f63d3bc0f8f0a717073-0-7db9f216f413a7aee101405ce49d8393
+https://proxy-b.rctiplus.id/live/web/gtv-bkp/index.m3u8?auth_key=1792542244-4f43045ae6cbdae116936b5e4b81bf20-0-32ad4cbc67401471b61fad8b2dd9f9eb
 
 #EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews-bkp/index.m3u8?auth_key=1792505111-76602322abf2fd736c9d306ea3d9675a-0-dadc9819b053fb1cb6c8c3cfa707ee9c
+https://proxy-b.rctiplus.id/live/web/inews-bkp/index.m3u8?auth_key=1792542244-987d867871638d019cc2fe5ba23f9609-0-97707488c2ef72b310123b46f4320cfd
 
 # === END RCTI+ SECTION ===
+
+
 
 
 
@@ -3583,7 +3583,7 @@ https://rplus.semar26.xyz/inews.m3u8
 
 
 ============================================================================================
-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 15/10/2026 | NASIONAL
+FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 15/10/2026
 =============================================================================================
 
 =========================================== NASIONAL ===========================================
