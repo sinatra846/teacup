@@ -3504,37 +3504,28 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 
-
-
-
 ==============
 
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-23 11:12:06
+# Updated: 2026-10-23 21:08:37
 
 #EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792764725-f83de4648b32b60cd3d352827e4a8e9e-0-f5583a875dded3003ff6560a8ea6284b
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792800516-b9315a09545e3a0ca7a60c3c5a0da77f-0-ffea59382a03fb673f963127907d8724
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792764725-5196448eef1182d3475caec372770ac3-0-42986a06a09e1b1f61163ede0b6d85fb
-
-#EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792764725-9cd2f7671bf3db6783e7c40347e6e6c5-0-3cccc77f307f81c1706ce39565217061
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792800516-8ec10be5556c34de25e0e4b62d2249c6-0-6d228a198d660432a65823fd64376ae5
 
 #EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792764726-8ea91f2056b4b2da916cfe3e82da21f6-0-4f600df4c689549ce5f3dcd3e78a18fa
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792800516-201e193e25aeef7807197682f11f034b-0-075081486feb3d0082bbad3c3b8ce685
 
 # === END RCTI+ SECTION ===
-
 
 
 EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",RCTI 
@@ -4861,21 +4852,78 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-id="auto.coming" group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="COMING SOON VIDEO" tvg-logo="https://i.imgur.com/vzXPJsq.png",COMING SOON 2026-2027
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSM vs Persebaya Surabaya
+#EXTM3U
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSM vs Persebaya Surabaya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persik Kediri vs PSS Sleman
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persik Kediri vs PSS Sleman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Persib
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+
+
+
+//========================================================================
+// LIVE | BADMINTON
+//========================================================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
+
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 17:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 17:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 17:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 17:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel64.m3u8
+
+
+
+
+
+
+
+============================================================================
+
+KOVO CUP 2026
+
+============================================================================
+
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-logo="https://i.imgur.com/ej03Wmb.png" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙐𝙏𝘼𝙈𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=112&type=drm&token=alf-store
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙆𝙀𝘿𝙐𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=113&type=drm&token=alf-store
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+==========================
+
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 17 OKT-11;30 WIB- JUARA A VS RUNNER-UP B| SEMIFINAL
+https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
+
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 18 OKT-11;30 WIB- PEMENANG  SEMIFINAL 1 VS PEMENANG SEMIFINAL 2| FINAL
+https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
+
+EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 17 OKT-14;30 WIB- JUARA B VS RUNNER-UP A| SEMIFINAL
+https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 
 
 
@@ -6327,71 +6375,6 @@ http://foxbleu.pro:80/play/live.php?mac=00:1A:79:86:82:B5&stream=402372&extensio
 
 
 
-
-============================================================================
-
-KOVO CUP 2026
-
-============================================================================
-
-EXTINF:-1 tvg-id="KOVO CUP 2026" group-logo="https://i.imgur.com/ej03Wmb.png" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙐𝙏𝘼𝙈𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=112&type=drm&token=alf-store
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙆𝙀𝘿𝙐𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=113&type=drm&token=alf-store
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-==========================
-
-EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 17 OKT-11;30 WIB- JUARA A VS RUNNER-UP B| SEMIFINAL
-https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
-
-EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 18 OKT-11;30 WIB- PEMENANG  SEMIFINAL 1 VS PEMENANG SEMIFINAL 2| FINAL
-https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
-
-EXTINF:-1 tvg-id="KOVO CUP 2026" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 17 OKT-14;30 WIB- JUARA B VS RUNNER-UP A| SEMIFINAL
-https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
-
-
-
-
-
-//========================================================================
-// LIVE | BADMINTON
-//========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
-
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 17:00 WIB French Open Badminton Championships 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 17:00 WIB French Open Badminton Championships 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 17:00 WIB French Open Badminton Championships 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 17:00 WIB French Open Badminton Championships 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel64.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 =======================================LIGA INGGRIS==========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA INGGRIS
 
@@ -6548,17 +6531,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 
 ==========================DALAM SATU BARIS==========================
 
-EXTINF:-1 tvg-id="TNgfFe4kMEAcdglnPZuMwaUaKf9YBcrv" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A",MAX SPORT 1 HD
-####http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228727&extension=ts&play_token=4L1CwisGrN
-
-EXTINF:-1 tvg-id="c14atVnJCIgEPqRUVN4Ggfzql0x4vR58" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A",MAX SPORT 2 HD
-####http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228726&extension=ts&play_token=gn5deSQGHv
-
-EXTINF:-1 tvg-id="FzJ6aEgaI7ludRAS0NNhddySEx2Roo0B" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A",MAX SPORT 3 HD
-#####http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228725&extension=ts&play_token=jcf7ljMYZy
-
-EXTINF:-1 tvg-id="3vD4j7LlfwQsEIXuARltQ9CZMkqEN5EB" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A",MAX SPORT 4 HD
-#####http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228724&extension=ts&play_token=8yT2pH1qzP
 
 #EXTINF:-1 tvg-id="0zxnB7A3R9kX5faohlwoCfcMxnhunyae" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A",BG| MAX SPORT 1 HD
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917240&extension=ts&play_token=NMnXxA30dp
@@ -6572,31 +6544,14 @@ http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917238&exte
 #EXTINF:-1 tvg-id="wBBmuqOr4iyoPEqd4FW9EQLrkrJdAALS" data-source="myiptvv" tvg-logo="https://github.iobg%7C%20max%20sport%204%20hd.png" group-title="LIVE | SERIE A",BG| MAX SPORT 4 HD
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917237&extension=ts&play_token=W3pKD1tWkC
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========================DALAM SATU BARIS==========================
-
-EXTINF:-1 tvg-id="e2ZkWUsPPkUAkQfmnKSnkRRtYnOqEMmn" data-source="myiptvv" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", SPORT-TV 4
-###http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179126
 
 #EXTINF:-1 tvg-name="CBS Golazo Sports" tvg-logo="https://github.com/trisetyo8888/myiptvv/blob/main/20261009_073742.jpg?raw=true" group-title="LIVE | SERIE A", CBS SPORTS GOLAZO [COPPA ITALIA]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+==========================DALAM SATU BARIS==========================
 
 #EXTINF:-1 tvg-id="812987" tvg-name="PT -  SPORT TV 1 HD" tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="LIVE | SERIE A",PT -  SPORT TV 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
@@ -6626,8 +6581,6 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=632985&extension
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1070148&extension=ts&play_token=HmVrB6XguK
-
-==========================END LIST==========================
 
 
 
@@ -6702,9 +6655,6 @@ http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174271&ex
 
 
 
-
-
-=====================================DALAM SATU BARIS=====================================
 
 =====================================LALIGA========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LALIGA
