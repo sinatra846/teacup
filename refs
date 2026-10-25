@@ -3233,7 +3233,7 @@ EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="htt
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=14
 ####https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/METRO.1.png?raw=true" group-title="CHANNEL | INDONESIA",Metro TV Vidio
+EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/METRO.1.png?raw=true" group-title="CHANNEL | INDONESIA",Metro TV Vidio
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=drm
@@ -3497,30 +3497,29 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-25 10:56:43
+# Updated: 2026-10-25 20:32:01
 
 #EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792936601-59929f44cb2bc1963bcf95db0f94a77e-0-007c0709dff8e1d81b6fa0b984fa97da
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792971119-a12cbe2872ee5e55b75d603c910da1a5-0-dd7857dce70f5ef84a660fa9495d6a66
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792936602-ad17f4aa3310bec9f3d3d31cea3bb63f-0-0bcf87b7ccd514d55fd2e65a6bb9772b
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792971120-d81b8f739ad1d008849771f4bf386e7f-0-b42d7fd619e754103a28270ee1e36665
 
 #EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792936602-044ed8da1d0b650fe507697980b8b707-0-52047324de74339990c297e2ccba6c12
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792971120-22dbe1b56c4542ff9fb153a53c9e209a-0-e51b9ece4d210ae1992e0c3084f41150
 
 #EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792936602-8ac9eba1f3ffbb041ecafcedde0da864-0-f2fb30e85105e5dc1644d2693c3d47af
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792971120-a4bc9d3511f42ebdd72190261f7a6ed2-0-7542e9f7396ebb75eaf17b2ab61cafcc
 
 # === END RCTI+ SECTION ===
-
 
 
 
@@ -4337,135 +4336,135 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 //========================================================================
 //Collected by andra|sinatra menampilkan playlist >>> CHANNEL | JAPAN 
 //========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | JAPAN 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",SEDANG PERBAIKAN
 
 #EXTM3U url-tvg="https://akariko−bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joaxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",NTV
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joaxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",NTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joexdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",TV Asahi
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joexdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",TV Asahi
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jorxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jorxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jotxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",TV Tokyo
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jotxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",TV Tokyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jocxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",Fuji TV
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jocxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",Fuji TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tokyomx1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",Tokyo MX1
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tokyomx1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",Tokyo MX1
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tokyomx2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png",Tokyo MX2
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tokyomx2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png",Tokyo MX2
 https://akariko−bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bstbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bstbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bstvtokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bstvtokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BS4K
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BS4K
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowprime.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif",WOWOW Prime 
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowprime.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif",WOWOW Prime 
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowcinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif",WOWOW Cinema
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowcinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif",WOWOW Cinema
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowlive.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif",WOWOW Live
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="wowowlive.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif",WOWOW Live
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bs10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif",BS 10 Premium
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bs10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif",BS 10 Premium
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs242.gif",JSport 1
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs242.gif",JSport 1
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs243.gif",JSport 2
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs243.gif",JSport 2
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports3.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs244.gif",JSport 3
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports3.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs244.gif",JSport 3
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports4.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs245.gif",JSport 4
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jsports4.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs245.gif",JSport 4
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="greenchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",Green Channel
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="greenchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",Green Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="animax.in" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs236.gif",Animax
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="animax.in" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs236.gif",Animax
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nihoneigasenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif",Nihon Eiga Senmon
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nihoneigasenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif",Nihon Eiga Senmon
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="fishingvision.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",Fishing Vision
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="fishingvision.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",Fishing Vision
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="disneychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif",Disney Channel
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="disneychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif",Disney Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png",Jcom BS
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png",Jcom BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="skya.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs250.gif",Sky A
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="skya.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs250.gif",Sky A
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="gaorasports.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif",GAORA
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="gaorasports.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif",GAORA
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs17#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="spaceshowertv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif",Space Shower TV
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="spaceshowertv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif",Space Shower TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="mtv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif",MTV
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="mtv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif",MTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs18#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="kayopops.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs329.gif",Kayo Pops
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="kayopops.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs329.gif",Kayo Pops
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="kidsstation.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs330.gif",Kids Station
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="kidsstation.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs330.gif",Kids Station
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="familygekijyo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs293.gif",Family Gekijo
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="familygekijyo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs293.gif",Family Gekijo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="mondotv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs295.gif",Mondo TV
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="mondotv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs295.gif",Mondo TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="fujitvnext.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs309.gif",Fuji TV Next
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="fujitvnext.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs309.gif",Fuji TV Next
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="toeichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs218.gif",Toei Channel
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="toeichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs218.gif",Toei Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="homedramachannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif",Home Drama Channel
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="homedramachannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif",Home Drama Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="channelginga.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif",Channel Ginga
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="channelginga.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif",Channel Ginga
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tabichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/544.gif",Tabi Channel
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tabichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/544.gif",Tabi Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs12#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="shopchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif",Shop Channel
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="shopchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="qvc.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif",QVC
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="qvc.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif",QVC
 https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="gstv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif",GSTV
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="gstv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif",GSTV
 https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jidaigekisenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs292.gif",Jidaigeki Senmon
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="jidaigekisenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs292.gif",Jidaigeki Senmon
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="eiseigekijo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif",Eisei Gekijo
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="eiseigekijo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif",Eisei Gekijo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs22#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="movieplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs240.gif",Movie Plus
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="movieplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs240.gif",Movie Plus
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="golfnetwork.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs262.gif",Golf Network
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="golfnetwork.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs262.gif",Golf Network
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="musicjapantv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/639.gif",Music Japan
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="musicjapantv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/639.gif",Music Japan
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs06#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="lalatv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs314.gif",LaLa TV
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="lalatv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs314.gif",LaLa TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs19#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="takarazukaskystage.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs290.gif",Sky Stage
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="takarazukaskystage.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs290.gif",Sky Stage
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nationalgeographic.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs343.gif",National Geographic
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nationalgeographic.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs343.gif",National Geographic
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs10#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="disneyjunior.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs339.gif",Disney Junior
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="disneyjunior.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs339.gif",Disney Junior
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs23#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="discoverychannelsoutheastasia.sg@japan" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs340.gif",Discovery  
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="discoverychannelsoutheastasia.sg@japan" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs340.gif",Discovery  
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs08#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="animalplanet.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs341.gif",Animal Planet
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="animalplanet.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs341.gif",Animal Planet
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="history.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs342.gif",History Channel
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="history.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs342.gif",History Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs09#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="kntv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif",KNTV
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="kntv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif",KNTV
 https://akariko−bck1.sankuria.sbs/stream/jp/kntv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="ntvnews24.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",NTV News24
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="ntvnews24.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",NTV News24
 https://akariko−bck1.sankuria.sbs/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="cnnj.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs354.gif",CNNj 
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="cnnj.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs354.gif",CNNj 
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs16#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bbcnews.uk@asiapacific" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif",BBC News  
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="bbcnews.uk@asiapacific" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif",BBC News  
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tbsnewscs.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
+EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tbsnewscs.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8
 
 
@@ -4879,18 +4878,18 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-id="auto.coming" group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="COMING SOON VIDEO" tvg-logo="https://i.imgur.com/vzXPJsq.png",COMING SOON 2026-2027
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-#EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Dewa United
+EXTM3U
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Dewa United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persita vs Bali United
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persita vs Bali United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Garudayaksa vs Persib
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Garudayaksa vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel20.m3u8
@@ -4905,13 +4904,13 @@ https://live2.jorvakstreamcache.com/live/channel20.m3u8
 //========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
 https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=7071ab8213a4fdfe5ae8c2b4cd83d1a8&wsABSTime=1792965692&wsSession=8815df127539cf34066559d2-179292249771942&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
 https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=cc0c71bb54baf588618968dc788499cf&wsABSTime=1792965746&wsSession=8815df127539cf34066559d2-179292254750573&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
 https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=c5beec5e9e590b6d6d9c74243a0a1d45&wsABSTime=1792965798&wsSession=8815df127539cf34066559d2-179292259894963&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
 
 
@@ -10446,165 +10445,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 
-<==================== LIVE EVENT 1 ===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
-https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=7071ab8213a4fdfe5ae8c2b4cd83d1a8&wsABSTime=1792965692&wsSession=8815df127539cf34066559d2-179292249771942&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
-https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=cc0c71bb54baf588618968dc788499cf&wsABSTime=1792965746&wsSession=8815df127539cf34066559d2-179292254750573&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
-https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=c5beec5e9e590b6d6d9c74243a0a1d45&wsABSTime=1792965798&wsSession=8815df127539cf34066559d2-179292259894963&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
-
-===================================
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Dewa United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persita vs Bali United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Garudayaksa vs Persib
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Hull City vs Brentford
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Crystal Palace vs Newcastle United
-https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792933060-0-0-7a7ebb3d04003491265d24cbe4ab6582
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Liverpool vs Brighton & Hove Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Manchester United vs AFC Bournemouth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB Sunderland vs Leeds United
-https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792933161-0-0-51b2e4050003fbb43520f55009172d31
-
-
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 20:00 WIB Athletic Club vs Getafe
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 22:15 WIB Celta de Vigo vs Real Betis
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 18:30 WIB Internazionale vs Fiorentina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 21:00 WIB Atalanta vs Frosinone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 23:30 WIB Borussia Dortmund vs Eintracht Frankfurt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
-https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/87PxH", 20:30 WIB PSV vs Feyenoord
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/87PxH", 22:45 WIB Sparta Rotterdam vs Ajax
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-
- 
-
-<==================== LIVE EVENT 2 ================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Real Sociedad vs Levante
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Barcelona vs Real Madrid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-==========================
-
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 00:00 WIB Lecce vs Juventus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 02:45 WIB Udinese vs Milan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-
-
-
-
-
-
-
-
-
-
-
 <=================== FIFA+ =============================>
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL FIFA+
 
@@ -11075,6 +10915,161 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/R.L.%2
 
 #EXTINF:-1 tvg-id="tloh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFPkI555LM6hmgJfdowq_peTt-nqqRXEYf72mnYbNbHg&s=10" group-title="VOD | KIDS ANIMATION",THE LEGEND OF HEI 2 (2025)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Hei%202%20(2025).m3u8
+
+
+
+
+
+<==================== LIVE EVENT 1 ===================================>
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=7071ab8213a4fdfe5ae8c2b4cd83d1a8&wsABSTime=1792965692&wsSession=8815df127539cf34066559d2-179292249771942&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=cc0c71bb54baf588618968dc788499cf&wsABSTime=1792965746&wsSession=8815df127539cf34066559d2-179292254750573&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=c5beec5e9e590b6d6d9c74243a0a1d45&wsABSTime=1792965798&wsSession=8815df127539cf34066559d2-179292259894963&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
+
+===================================
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Dewa United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persita vs Bali United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Garudayaksa vs Persib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+
+<================================================>
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Hull City vs Brentford
+https://live2.jorvakstreamcache.com/live/channel11.m3u8
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Crystal Palace vs Newcastle United
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792933060-0-0-7a7ebb3d04003491265d24cbe4ab6582
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Liverpool vs Brighton & Hove Albion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+XTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Manchester United vs AFC Bournemouth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB Sunderland vs Leeds United
+https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792933161-0-0-51b2e4050003fbb43520f55009172d31
+
+
+
+<================>
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 20:00 WIB Athletic Club vs Getafe
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 22:15 WIB Celta de Vigo vs Real Betis
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+<================>
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 18:30 WIB Internazionale vs Fiorentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 21:00 WIB Atalanta vs Frosinone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+<================>
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 23:30 WIB Borussia Dortmund vs Eintracht Frankfurt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
+
+<================>
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/87PxH", 20:30 WIB PSV vs Feyenoord
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 025/OKTOBER/2026" tvg-logo="https://shorter.me/87PxH", 22:45 WIB Sparta Rotterdam vs Ajax
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+
+ 
+
+<==================== LIVE EVENT 2 ================================>
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Real Sociedad vs Levante
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Barcelona vs Real Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+==========================
+
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 00:00 WIB Lecce vs Juventus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 02:45 WIB Udinese vs Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+
 
 
 
