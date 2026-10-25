@@ -1,64 +1,67 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3yOKNLHfA13oBxZ4vRGtqEcgZOHVb0by" tvg-name="makkahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8iok-hzPbOQjYubB9cV3pZqFvv6bkeXIK88HNc37JSH_auT1PEuW3bE&s=10" group-title="CHANNEL | RELIGI",MAKKAH TV ( 1 )
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-#EXTINF:-1 tvg-id="fwiWKm5mM7Yft48jDSrrTWeoDtwdCnLI" tvg-name="madinahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61uFX12wXnAydMQxKGFN2tiS9pV3f7H5ojpD4dh1ZpZGUy1s-qhIoIp8&s=10" group-title="CHANNEL | RELIGI",MADINAH TV ( 1 )
-http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
-#EXTINF:-1 tvg-id="UJi6aPSTpF4QzoBzmpb89UpWHet034an" tvg-name="artvisichannel" tvg-logo="https://www.artvisi.id/logoartvisi400.png" group-title="CHANNEL | RELIGI",ARTVISI CHANNEL
-https://stream.deli.web.id/hls/artvisi/live.m3u8
-#EXTINF:-1 tvg-id="X12pXuU4Zx5rMBlYKwRVCjmu7n9yfbOC" tvg-name="rodja" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="CHANNEL | RELIGI",RODJA TV
-https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1 tvg-id="kCjjHQNOX9nOpez5Kr66aSJu7oW0biqj" tvg-name="ahsan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcOhhgTaqoIu1he45exjsmSlhNEvcyEx_qv2Mai5V-x_3DuCGPp4mdOs&s=10" group-title="CHANNEL | RELIGI",AHSAN TV ( 1 )
-https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
-#EXTINF:-1 tvg-id="0NVjIxvYuQPZOcMFJj1e3QBbVb62LAOt" tvg-name="ahsan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hruJ8PIQc45BnQm7YgspJ_7DOjrZX6toLxveT6K7Ww&s=10" group-title="CHANNEL | RELIGI",SALAM TV ( 1 )
-https://live.salamtelevisi.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="M2ZV1Dow3imc2VTora0qwmlVuWxxy0I4" tvg-name="deikids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTPNi6-gO0RrlV4qu1qXGqa6qk6dyGnbVd2jbj1ZCGQ&s" group-title="CHANNEL | RELIGI",DEIKIDS TV
-https://apirtmp.nanobyte.web.id/hls/deikidstv.m3u8
-#EXTINF:-1 tvg-id="ppA15Q8DXAIM4iM3aefIexSP1W5Qerwh" tvg-name="ashiltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAZlTBgxGbDqPoKI03ahZFDQuzWewN_773aLqmnmILA&s" group-title="CHANNEL | RELIGI",ASHIL TV ( 1 )
-https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="9Wf3X4FUW2Lla809V1hj6ns8fO4SCd0M" tvg-name="rinjani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnF_QxRUvaAymmtVJJHgcl9DtipLwZa98shmhC16w-Bg&s=10" group-title="CHANNEL | RELIGI L",RINJANI TV ( 1 )
-https://rinjanitv.cloud/hls/tvkabel.m3u8
-#EXTINF:-1 tvg-id="HLDAfNEEKZRQsuHzGSaqOlQ9NT1tgYXs" tvg-name="surau" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQIlortrAPqvWMU0yXMgJXPOHR9-VTY2M2Y5MmrDzRTg&s=10" group-title="CHANNEL | RELIGI",SURAU TV
-https://apirtmp.nanobyte.web.id/hls/surautv.m3u8
-#EXTINF:-1 tvg-id="S1UPFAjcHRPFVogpONlIH9VpVlhVQlz7" tvg-name="izzahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREvfP5oKxyZOKVqs1MOd9TV_Et3frmFlFjTKTXEtvuA&s=10" group-title="CHANNEL | RELIGI",IZZAH TV ( 1 )
-https://izzah.tv/hls/live/test.m3u8
-#EXTINF:-1 tvg-id="tYwvTVYbifJy5FPYBNh3Kqfqpa0pRU7W" tvg-name="ahsantvid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcOhhgTaqoIu1he45exjsmSlhNEvcyEx_qv2Mai5V-x_3DuCGPp4mdOs&s=10" group-title="CHANNEL | RELIGI",AHSAN TV ( 2 )
-https://flv.intechmedia.net/live/ch4.m3u8
-#EXTINF:-1 tvg-id="Aa7S68flAMWB1LH6N9mJtzhSIBdAogwV" tvg-name="alfurqon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uki_yLnZA2MyPuHsvJcWUlfn0HLIruSmS1_DSFILCQ&s=10" group-title="CHANNEL | RELIGI",AL-FURQON TV
-https://flv.intechmedia.net/live/ch24.m3u8
-#EXTINF:-1 tvg-id="vHE1PfB4zsotFPGztbtA2puJxdcHKtcS" tvg-name="aliman" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53ulIe2o8ACSuE3fyy3fz_tODISohn5gfRafwr8XRcQ&s=10" group-title="CHANNEL | RELIGI",AL - IMAN TV
-https://flv.intechmedia.net/live/ch9.m3u8
-#EXTINF:-1 tvg-id="U7aC3bRtLBNS3Ss8RxWZprwWq2bMaw1e" tvg-name="ashiltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAZlTBgxGbDqPoKI03ahZFDQuzWewN_773aLqmnmILA&s" group-title="CHANNEL | RELIGI",ASHIL TV ( 2 )
-https://flv.intechmedia.net/live/ch2.m3u8
-#EXTINF:-1 tvg-id="D5sCS6MzRW65zOoKcKvARPDa7aIRdpCY" tvg-name="binbaz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpmz9JnmHySMyRzR0e1F6UVj9bEGukZb0QtBCE4Nq9Q&s=10" group-title="CHANNEL | RELIGI",BIN BAZ TV
-https://flv.intechmedia.net/live/ch22.m3u8
-#EXTINF:-1 tvg-id="Gec6mK7ZHjXxBmeEOBz5yR7LR9nCbQw0" tvg-name="hijrahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtSchSkLulQvSiiPnOSykHUHw1nGUAkMmv9yHG3Lpqg&s=10" group-title="CHANNEL | RELIGI",HIJRAH TV
-https://flv.intechmedia.net/live/ch8.m3u8
-#EXTINF:-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREvfP5oKxyZOKVqs1MOd9TV_Et3frmFlFjTKTXEtvuA&s=10" tvg-name="izzahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREvfP5oKxyZOKVqs1MOd9TV_Et3frmFlFjTKTXEtvuA&s=10" group-title="CHANNEL | RELIGI",IZZAH TV ( 2 )
-https://flv.intechmedia.net/live/ch28.m3u8
-#EXTINF:-1 tvg-id="thTj3kbcI6c75V28xhV47TFN2iuerubx" tvg-name="alinsan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF5o7aJc29KWqe4C04lMaZXOVH_WJ6vIovAcuDT5odfGKLTXPIqbHKR_g&s=10" group-title="CHANNEL | RELIGI",AL - INSAN TV
-https://flv.intechmedia.net/live/ch1.m3u8
 #EXTINF:-1 tvg-id="58Q4bYCzlgEo49GltOAVAmd9Lpc6D0fl" tvg-name="makkahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8iok-hzPbOQjYubB9cV3pZqFvv6bkeXIK88HNc37JSH_auT1PEuW3bE&s=10" group-title="CHANNEL | RELIGI",MAKKAH TV ( 2 )
 https://flv.intechmedia.net/live/ch14.m3u8
+#EXTINF:-1 tvg-id="fwiWKm5mM7Yft48jDSrrTWeoDtwdCnLI" tvg-name="madinahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61uFX12wXnAydMQxKGFN2tiS9pV3f7H5ojpD4dh1ZpZGUy1s-qhIoIp8&s=10" group-title="CHANNEL | RELIGI",MADINAH TV ( 1 )
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 #EXTINF:-1 tvg-id="olNoLzW8lZbVp9O53LDwLY3052fuSZ0K" tvg-name="madinahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61uFX12wXnAydMQxKGFN2tiS9pV3f7H5ojpD4dh1ZpZGUy1s-qhIoIp8&s=10" group-title="CHANNEL | RELIGI",MADINAH TV ( 2 )
 https://flv.intechmedia.net/live/ch13.m3u8
-#EXTINF:-1 tvg-id="lyMOVaEpVQouzoVq1xapSHxAfoA2g5aG" tvg-name="naajiya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wbVDBJy906GszYRITGw_0yDvp0Wg4Q_BtK-ld90GMQ&s=10" group-title="CHANNEL | RELIGI",NAAJIYA TV
-https://flv.intechmedia.net/live/ch7.m3u8
-#EXTINF:-1 tvg-id="WC99qWFszzdH6MkIFNbNyIXuC28ZgeXm" tvg-name="yufid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTv0Bb2ckS3gYNc67VC4sk01ot-SaVzzZqH7gsDOGnwA&s=10" group-title="CHANNEL | RELIGI",YUFID TV
-https://flv.intechmedia.net/live/ch3.m3u8
+#EXTINF:-1 tvg-id="UJi6aPSTpF4QzoBzmpb89UpWHet034an" tvg-name="artvisichannel" tvg-logo="https://www.artvisi.id/logoartvisi400.png" group-title="CHANNEL | RELIGI",ARTVISI CHANNEL
+https://stream.deli.web.id/hls/artvisi/live.m3u8
+#EXTINF:-1 tvg-id="X12pXuU4Zx5rMBlYKwRVCjmu7n9yfbOC" tvg-name="rodja" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="CHANNEL | RELIGI",RODJA TV (1)
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="RodjaTV.id@SD" group-title="CHANNEL | RELIGI" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rodjatv.png",RODJA TV (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
+#EXTINF:-1 tvg-id="kCjjHQNOX9nOpez5Kr66aSJu7oW0biqj" tvg-name="ahsan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcOhhgTaqoIu1he45exjsmSlhNEvcyEx_qv2Mai5V-x_3DuCGPp4mdOs&s=10" group-title="CHANNEL | RELIGI",AHSAN TV ( 1 )
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="tYwvTVYbifJy5FPYBNh3Kqfqpa0pRU7W" tvg-name="ahsantvid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcOhhgTaqoIu1he45exjsmSlhNEvcyEx_qv2Mai5V-x_3DuCGPp4mdOs&s=10" group-title="CHANNEL | RELIGI",AHSAN TV ( 2 )
+https://flv.intechmedia.net/live/ch4.m3u8
+#EXTINF:-1 tvg-id="0NVjIxvYuQPZOcMFJj1e3QBbVb62LAOt" tvg-name="ahsan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hruJ8PIQc45BnQm7YgspJ_7DOjrZX6toLxveT6K7Ww&s=10" group-title="CHANNEL | RELIGI",SALAM TV ( 1 )
+https://live.salamtelevisi.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="1dcDRlAnjnKFqBShAlMMtY4Zxx6Nr6n3" tvg-name="salamtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hruJ8PIQc45BnQm7YgspJ_7DOjrZX6toLxveT6K7Ww&s=10" group-title="CHANNEL | RELIGI",SALAM TV ( 2 )
 https://flv.intechmedia.net/live/ch12.m3u8
-#EXTINF:-1 tvg-id="Arj9XEhp2ZUuAEl50Ln66SKxMYn8pXn5" tvg-name="mqhtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJpUhCFN4Ry_z5PAHy-j0k9KRI_6ZIT1KF4rKcZhPDA&s" group-title="CHANNEL | RELIGI",MQH TV
-https://flv.intechmedia.net/live/ch34.m3u8
+#EXTINF:-1 tvg-id="ppA15Q8DXAIM4iM3aefIexSP1W5Qerwh" tvg-name="ashiltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAZlTBgxGbDqPoKI03ahZFDQuzWewN_773aLqmnmILA&s" group-title="CHANNEL | RELIGI",ASHIL TV ( 1 )
+https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="U7aC3bRtLBNS3Ss8RxWZprwWq2bMaw1e" tvg-name="ashiltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAZlTBgxGbDqPoKI03ahZFDQuzWewN_773aLqmnmILA&s" group-title="CHANNEL | RELIGI",ASHIL TV ( 2 )
+https://flv.intechmedia.net/live/ch2.m3u8
+#EXTINF:-1 tvg-id="9Wf3X4FUW2Lla809V1hj6ns8fO4SCd0M" tvg-name="rinjani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnF_QxRUvaAymmtVJJHgcl9DtipLwZa98shmhC16w-Bg&s=10" group-title="CHANNEL | RELIGI L",RINJANI TV ( 1 )
+https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="jvngpJcYjN81YePF952XVKVUdMriYsI0" tvg-name="rinjanitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnF_QxRUvaAymmtVJJHgcl9DtipLwZa98shmhC16w-Bg&s=10" group-title="CHANNEL | RELIGI",RINJANI TV ( 2 )
 https://flv.intechmedia.net/live/ch32.m3u8
-#EXTINF:-1 tvg-id="LIGEGF7DlV8WfL66fS4KiQxo7IfNz8Mv" tvg-name="makkahtvarb" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="CHANNEL | RELIGI",MAKKAH TV ( KING OF SAUDI ARABIA )
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-name="wesaltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-OwuAcQRbSzJps_KTuCl8uvhixlDg8P9NCXP5WMYGg&s=10" group-title="CHANNEL | RELIGI",WESAL TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-id="S1UPFAjcHRPFVogpONlIH9VpVlhVQlz7" tvg-name="izzahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREvfP5oKxyZOKVqs1MOd9TV_Et3frmFlFjTKTXEtvuA&s=10" group-title="CHANNEL | RELIGI",IZZAH TV ( 1 )
+https://izzah.tv/hls/live/test.m3u8
+#EXTINF:-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREvfP5oKxyZOKVqs1MOd9TV_Et3frmFlFjTKTXEtvuA&s=10" tvg-name="izzahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREvfP5oKxyZOKVqs1MOd9TV_Et3frmFlFjTKTXEtvuA&s=10" group-title="CHANNEL | RELIGI",IZZAH TV ( 2 )
+https://flv.intechmedia.net/live/ch28.m3u8
 #EXTINF:-1 tvg-name="radiokita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIuAFy5mwGIJhdw7fmI3NjXYPbhaHcAqJg24B4Z1qTA&s=10" group-title="CHANNEL | RELIGI",RADIOKITA TV ( 1 )
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 #EXTINF:-1 tvg-name="radiokitatv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIuAFy5mwGIJhdw7fmI3NjXYPbhaHcAqJg24B4Z1qTA&s=10" group-title="CHANNEL | RELIGI",RADIOKITA TV ( 2 )
 https://flv.intechmedia.net/live/ch16.m3u8
+#EXTINF:-1 tvg-id="M2ZV1Dow3imc2VTora0qwmlVuWxxy0I4" tvg-name="deikids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTPNi6-gO0RrlV4qu1qXGqa6qk6dyGnbVd2jbj1ZCGQ&s" group-title="CHANNEL | RELIGI",DEIKIDS TV
+https://apirtmp.nanobyte.web.id/hls/deikidstv.m3u8
+#EXTINF:-1 tvg-id="HLDAfNEEKZRQsuHzGSaqOlQ9NT1tgYXs" tvg-name="surau" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQIlortrAPqvWMU0yXMgJXPOHR9-VTY2M2Y5MmrDzRTg&s=10" group-title="CHANNEL | RELIGI",SURAU TV
+https://apirtmp.nanobyte.web.id/hls/surautv.m3u8
+#EXTINF:-1 tvg-id="Aa7S68flAMWB1LH6N9mJtzhSIBdAogwV" tvg-name="alfurqon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uki_yLnZA2MyPuHsvJcWUlfn0HLIruSmS1_DSFILCQ&s=10" group-title="CHANNEL | RELIGI",AL-FURQON TV
+https://flv.intechmedia.net/live/ch24.m3u8
+#EXTINF:-1 tvg-id="vHE1PfB4zsotFPGztbtA2puJxdcHKtcS" tvg-name="aliman" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53ulIe2o8ACSuE3fyy3fz_tODISohn5gfRafwr8XRcQ&s=10" group-title="CHANNEL | RELIGI",AL - IMAN TV
+https://flv.intechmedia.net/live/ch9.m3u8
+#EXTINF:-1 tvg-id="D5sCS6MzRW65zOoKcKvARPDa7aIRdpCY" tvg-name="binbaz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpmz9JnmHySMyRzR0e1F6UVj9bEGukZb0QtBCE4Nq9Q&s=10" group-title="CHANNEL | RELIGI",BIN BAZ TV
+https://flv.intechmedia.net/live/ch22.m3u8
+#EXTINF:-1 tvg-id="Gec6mK7ZHjXxBmeEOBz5yR7LR9nCbQw0" tvg-name="hijrahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtSchSkLulQvSiiPnOSykHUHw1nGUAkMmv9yHG3Lpqg&s=10" group-title="CHANNEL | RELIGI",HIJRAH TV
+https://flv.intechmedia.net/live/ch8.m3u8
+#EXTINF:-1 tvg-id="thTj3kbcI6c75V28xhV47TFN2iuerubx" tvg-name="alinsan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF5o7aJc29KWqe4C04lMaZXOVH_WJ6vIovAcuDT5odfGKLTXPIqbHKR_g&s=10" group-title="CHANNEL | RELIGI",AL - INSAN TV
+https://flv.intechmedia.net/live/ch1.m3u8
+#EXTINF:-1 tvg-id="lyMOVaEpVQouzoVq1xapSHxAfoA2g5aG" tvg-name="naajiya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wbVDBJy906GszYRITGw_0yDvp0Wg4Q_BtK-ld90GMQ&s=10" group-title="CHANNEL | RELIGI",NAAJIYA TV
+https://flv.intechmedia.net/live/ch7.m3u8
+#EXTINF:-1 tvg-id="WC99qWFszzdH6MkIFNbNyIXuC28ZgeXm" tvg-name="yufid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTv0Bb2ckS3gYNc67VC4sk01ot-SaVzzZqH7gsDOGnwA&s=10" group-title="CHANNEL | RELIGI",YUFID TV
+https://flv.intechmedia.net/live/ch3.m3u8
+#EXTINF:-1 tvg-id="Arj9XEhp2ZUuAEl50Ln66SKxMYn8pXn5" tvg-name="mqhtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJpUhCFN4Ry_z5PAHy-j0k9KRI_6ZIT1KF4rKcZhPDA&s" group-title="CHANNEL | RELIGI",MQH TV
+https://flv.intechmedia.net/live/ch34.m3u8
+#EXTINF:-1 tvg-id="LIGEGF7DlV8WfL66fS4KiQxo7IfNz8Mv" tvg-name="makkahtvarb" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="CHANNEL | RELIGI",MAKKAH TV ( KING OF SAUDI ARABIA )
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-name="wesaltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-OwuAcQRbSzJps_KTuCl8uvhixlDg8P9NCXP5WMYGg&s=10" group-title="CHANNEL | RELIGI",WESAL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-name="sjptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQljfjUB9Kh1Va1280Y2j6ryUUSu87evP-nZrwVgDdJpQ&s=10" group-title="CHANNEL | RELIGI",SJP TV
 https://flv.intechmedia.net/live/ch17.m3u8
 #EXTINF:-1 tvg-name="muadztv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5EPeYSSMclH5FLhw2qeYpcATXTso6L7Ii9ZrGYdN5g&s=10" group-title="CHANNEL | RELIGI",MUADZ TV
