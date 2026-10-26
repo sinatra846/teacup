@@ -3544,9 +3544,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-
-
-
 ==============
 
 EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",RCTI 
@@ -10892,23 +10889,51 @@ https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/05/11383/ilpklu7adqto_h/index-v1-a
 ========================================== VOD KIDS ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
+#EXTINF:-1 tvg-id="gintama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAtXn4jLnF8tgJXQntZq39S-CAz9Z67CijjH7bikTENg&s=10" group-title="VOD | KIDS ANIMATION",GINTAMA: YOSHIWARA IN FLAMES (2026)
+https://stream.playcdn.de/playlist/1fcb3815cf942838315bca94e9158fc4/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="gtheft" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVCNa1qBPSskMpEVId31p5O5H3pvcwyASFpJROOLG9tg&s=10" group-title="VOD | KIDS ANIMATION",GRAND THEFT AUTO VI: AN EXTENDED LOOK (2026)
+https://stream.playcdn.de/playlist/5a06204e5c2601cf2372d9f9780ccc31/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="doraemon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXau20eRSh1aGBKXp4jJJDhyVGoBPooxbd-Kun5KLA-g&s=10" group-title="VOD | KIDS ANIMATION",DORAEMON: NOBITA AND THE NEW CASTLE OF THE UNDERSEA DEVIL (2026)
+https://stream.playcdn.de/playlist/2c18ad784acbd1b27764c5427bfcfe6a/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="avatar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxV8zt-qglHK0wZ0sIXM8hHe12tRvUNOpzxencb8J-yA&s=10" group-title="VOD | KIDS ANIMATION",AVATAR AANG: THE LAST AIRBENDER (2026)
+https://stream.playcdn.de/playlist/0b438d80baa57f1c409f794a98167997/2/480.m3u8?x=1
+#EXTINF:-1 tvg-id="meikyu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN-aaKLQRxyIcMAeSDGuVaqY1TqlA4vFtFkQde50hFtg&s=10" group-title="VOD | KIDS ANIMATION",MEIKYUU NO SHIORI (2026)
+https://stream.playcdn.de/playlist/bdf7b45c72b9726ce599ab9732d39f1c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-id="iyanu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe5mViI15eSem6SZg2YvYKk8sgnLjiydS7h9jiXT0bJFkqLUcGwR6LE9A&s=10" group-title="VOD | KIDS ANIMATION",IYANU: THE WAR OF TWIN PRINCES (2026)
+https://stream.playcdn.de/playlist/0bd9dad1d91633239a16a95d2ff8a1d4/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="demon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnB1Hf3DZEgf102iBSxAwlkPqmqobFWwT6tYxNyreLYw&s=10" group-title="VOD | KIDS ANIMATION",DEMON AGENT (2026)
+https://stream.playcdn.de/playlist/2c22beeb03f651798b50af508c969953/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="acid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6IiEpPU7OjQWyp4KUPZSJr-HIs10PIMfPZTExDBwug&s=10" group-title="VOD | KIDS ANIMATION",ACID CITY (2026)
+https://stream.playcdn.de/playlist/badb32e2a4788ae0877f08d32641d26b/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="shaun" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHq9FhapqSUhSfedoxy3kOxOBzdfISvGXE1j85AerdQ&s=10" group-title="VOD | KIDS ANIMATION",SHAUN THE SHEEP: THE BEAST OF MOSSY BOTTOM (2026)
+https://stream.playcdn.de/playlist/cb496dad261858101d9af644736e0e83/1/0.m3u8?x=1
 #EXTINF:-1 tvg-id="smgm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSev1uW0S0fx0iu4T9uMmlyPdqftKugOJeFS0fHUpm9Dg&s=10" group-title="VOD | KIDS ANIMATION",SUPER MARIO GALAXY MOVIE
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Super%20Mario%20Galaxy%20Movie.m3u8
-
 #EXTINF:-1 tvg-id="nbd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVbT5w8bDF4ZUEZxhEvg5v0Eeb6DcLAjj0SwfaZeUAA&s=10" group-title="VOD | KIDS ANIMATION",NOBODY
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Nobody.m3u8
-
 #EXTINF:-1 tvg-id="ctw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEPf2dNIMhU4DN6IuPMMwbTDD9V5LHTWXNrBp1h6yEQ&s" group-title="VOD | KIDS ANIMATION",CHARLIE THE WONDERDOG
 https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/Charlie%20the%20Wonderdog21.m3u8
-
 #EXTINF:-1 tvg-id="tsmsfs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLnc1cKbyrCLZXeD6gNF4JO6qSOCFqsVndsN83THk7Q&s=10" group-title="VOD | KIDS ANIMATION",THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS (2025)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20SpongeBob%20Movie_%20Search%20for%20SquarePants%20(2025).m3u8
-
 #EXTINF:-1 tvg-id="rphd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSctjqHBm1mAOfIqqtgH4q-D4lpHmMvT0APjVoTm4Tksg&s=10" group-title="VOD | KIDS ANIMATION",R.L. STINE’S PUMPKINHEAD (2025 )
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/R.L.%20Stine%E2%80%99s%20Pumpkinhead%20(2025).m3u8
-
 #EXTINF:-1 tvg-id="tloh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFPkI555LM6hmgJfdowq_peTt-nqqRXEYf72mnYbNbHg&s=10" group-title="VOD | KIDS ANIMATION",THE LEGEND OF HEI 2 (2025)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Hei%202%20(2025).m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
