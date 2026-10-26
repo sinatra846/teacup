@@ -55,20 +55,39 @@ https://flv.intechmedia.net/live/ch22.m3u8
 #EXTINF:-8 group-title="CHANNEL | RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtSchSkLulQvSiiPnOSykHUHw1nGUAkMmv9yHG3Lpqg&s=10",HIJRAH TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch8.m3u8
-
-#EXTINF:-1 tvg-id="thTj3kbcI6c75V28xhV47TFN2iuerubx" tvg-name="alinsan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF5o7aJc29KWqe4C04lMaZXOVH_WJ6vIovAcuDT5odfGKLTXPIqbHKR_g&s=10" group-title="CHANNEL | RELIGI",AL - INSAN TV
+#EXTINF:-10 group-title="CHANNEL | RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF5o7aJc29KWqe4C04lMaZXOVH_WJ6vIovAcuDT5odfGKLTXPIqbHKR_g&s=10",INSAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch1.m3u8
-#EXTINF:-1 tvg-id="lyMOVaEpVQouzoVq1xapSHxAfoA2g5aG" tvg-name="naajiya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wbVDBJy906GszYRITGw_0yDvp0Wg4Q_BtK-ld90GMQ&s=10" group-title="CHANNEL | RELIGI",NAAJIYA TV
+#EXTINF:-16 group-title="CHANNEL | RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wbVDBJy906GszYRITGw_0yDvp0Wg4Q_BtK-ld90GMQ&s=10",Naajiya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch7.m3u8
 #EXTINF:-1 tvg-id="WC99qWFszzdH6MkIFNbNyIXuC28ZgeXm" tvg-name="yufid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTv0Bb2ckS3gYNc67VC4sk01ot-SaVzzZqH7gsDOGnwA&s=10" group-title="CHANNEL | RELIGI",YUFID TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch3.m3u8
-#EXTINF:-1 tvg-id="Arj9XEhp2ZUuAEl50Ln66SKxMYn8pXn5" tvg-name="mqhtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJpUhCFN4Ry_z5PAHy-j0k9KRI_6ZIT1KF4rKcZhPDA&s" group-title="CHANNEL | RELIGI",MQH TV
+#EXTINF:-27 group-title="CHANNEL | RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJpUhCFN4Ry_z5PAHy-j0k9KRI_6ZIT1KF4rKcZhPDA&s",MQH TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch34.m3u8
 #EXTINF:-1 tvg-id="LIGEGF7DlV8WfL66fS4KiQxo7IfNz8Mv" tvg-name="makkahtvarb" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="CHANNEL | RELIGI",MAKKAH TV ( KING OF SAUDI ARABIA )
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-name="wesaltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-OwuAcQRbSzJps_KTuCl8uvhixlDg8P9NCXP5WMYGg&s=10" group-title="CHANNEL | RELIGI",WESAL TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-name="sjptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQljfjUB9Kh1Va1280Y2j6ryUUSu87evP-nZrwVgDdJpQ&s=10" group-title="CHANNEL | RELIGI",SJP TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch17.m3u8
 #EXTINF:-1 tvg-name="muadztv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5EPeYSSMclH5FLhw2qeYpcATXTso6L7Ii9ZrGYdN5g&s=10" group-title="CHANNEL | RELIGI",MUADZ TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch5.m3u8
+#EXTINF:-1 tvg-name="wesaltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-OwuAcQRbSzJps_KTuCl8uvhixlDg8P9NCXP5WMYGg&s=10" group-title="CHANNEL | RELIGI",WESAL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
