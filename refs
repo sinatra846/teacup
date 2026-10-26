@@ -3496,27 +3496,64 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 # === RCTI+ SECTION ===
 # Updated: 2026-10-26 03:41:24
 
-#EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
+EXTINF:-1 tvg-id="RCTI" group-title="CHANNEL | INDONESIA" tvg-logo="https://i.imgur.com/sypZ6oH.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792996882-b0f79ad104870d970c288fa8677b534a-0-fafe0f93424f7ba75e8ea72712da93a2
+###https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792996882-b0f79ad104870d970c288fa8677b534a-0-fafe0f93424f7ba75e8ea72712da93a2
 
-#EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
+EXTINF:-1 tvg-id="MNCTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://i.imgur.com/c1q9pjS.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792996883-897a190d300014bd4716f7df3b0ad346-0-697b1d93730feec5c63b394e312d3a10
+###https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792996883-897a190d300014bd4716f7df3b0ad346-0-697b1d93730feec5c63b394e312d3a10
 
-#EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+EXTINF:-1 tvg-id="GTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://i.imgur.com/gvolxwd.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792996883-9fe488065581bb2a64f9f949bb5b1b61-0-2d09f9bc9a10813c7e5c7c1d87d1f37c
+####https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792996883-9fe488065581bb2a64f9f949bb5b1b61-0-2d09f9bc9a10813c7e5c7c1d87d1f37c
 
-#EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
+EXTINF:-1 tvg-id="iNews" group-title="CHANNEL | INDONESIA" tvg-logo="https://i.imgur.com/qIWPxUX.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792996883-1d0fdd6f81e9df3cefe75664cd255e28-0-7f4ee351a54a13cf07e5ad631db3f281
+####https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792996883-1d0fdd6f81e9df3cefe75664cd255e28-0-7f4ee351a54a13cf07e5ad631db3f281
 
 # === END RCTI+ SECTION ===
+
+
+
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://i.imgur.com/sypZ6oH.png" group-title="CHANNEL | INDONESIA",🆕RCTI (🌓MG16)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/rcti.m3u8
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://i.imgur.com/c1q9pjS.png" group-title="CHANNEL | INDONESIA",🆕MNC(🌓MG16)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://i.imgur.com/gvolxwd.png" group-title="CHANNEL | INDONESIA",🆕GTV (🌓MG16)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/gtv.m3u8
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://i.imgur.com/qIWPxUX.png" group-title="CHANNEL | INDONESIA",🆕INEWS (🌓MG16)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/inews.m3u8
+
+
+
+=======================================
+
+
+
+
+
+
 
 
 
@@ -4328,10 +4365,10 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 //========================================================================
 //Collected by andra|sinatra menampilkan playlist >>> CHANNEL | JAPAN 
 //========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",SEDANG PERBAIKAN
+#EXTINF:-1 group-title="SEDANG PERBAIKAN" group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",SEDANG PERBAIKAN
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 
-#EXTM3U url-tvg="https://akariko−bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
-
+EXTM3U url-tvg="https://akariko−bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
 EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
@@ -4893,7 +4930,7 @@ https://live2.jorvakstreamcache.com/live/channel19.m3u8
 //========================================================================
 // LIVE | BADMINTON
 //========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
+EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
 EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
 https://tg0f1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=7071ab8213a4fdfe5ae8c2b4cd83d1a8&wsABSTime=1792965692&wsSession=8815df127539cf34066559d2-179292249771942&wsIPSercert=fef8c8a55c1ccbe01c88959d0c374389&wsBindIP=2&wsserid=1168311488304263335
@@ -6375,34 +6412,6 @@ http://foxbleu.pro:80/play/live.php?mac=00:1A:79:86:82:B5&stream=402374&extensio
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA INGGRIS
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔥Liverpool vs Brighton & Hove Albion | BeIN Sports TR 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔥Liverpool vs Brighton & Hove Albion | BEIN SPORTS 2 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔥Liverpool vs Brighton & Hove Albion | Sky Sport8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl10.m3u8
-
-#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔥Liverpool vs Brighton & Hove Albion⭐Setanta Sports 1 Eurasia (1080p)
-http://stream.mcquack.net/234/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",🔥Liverpool vs Brighton & Hove Albion⭐Setanta Sports 2 Eurasia (1080p)
-http://stream.mcquack.net/235/index.m3u8
-
-====================================
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",📌Manchester United vs AFC Bournemouth | MUTV FHD (2)
-https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS,📌Manchester United vs AFC Bournemouth ⭐Sky Sport8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl10.m3u8
-
-#EXTINF:-1 tvg-chno="158" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS", Manchester United vs AFC Bournemouth | Sky Sports Premier League DE
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
-
-====================================
-
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 1 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314077&extension=ts&play_token=nqu4CBOqqh
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",UK| HUB PREMIER 2 FHD
@@ -6443,22 +6452,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1312031&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=855449&extension=ts&play_token=pVcDJLRc4b
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/file_0000000069f082079d31ceab852c972c.png?raw=true" group-title="LIVE | LIGA INGGRIS",USA NETWORK HD [WEST]
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=855448&extension=ts&play_token=CnrTDz3mnV
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -10484,6 +10477,26 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
 #EXTM3U
+#EXTINF:-1 tvg-name="highfive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7D6WE7xLQoVvgYjv_6kxld_R-0hLXo3XvDZhAaJU5w&s=10" group-title="VOD | KOREAN MOVIE",HIGH FIVE AKA HI FIVE (2025)
+https://stream.playcdn.de/playlist/82bb3991f1783cd55ea34932de8f3024/4/480.m3u8?x=1
+#EXTINF:-1 tvg-name="virus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8iogH7gy6lCc3heliF2-tG7BUQKUQINl3CG7JFbPO5g&s=10" group-title="VOD | KOREAN MOVIE",VIRUS AKA BAIREOSEU (2025)
+https://stream.playcdn.de/playlist/bbb351c8cfd7511d1c867265df7adf09/4/480.m3u8?x=1
+#EXTINF:-1 tvg-name="evnif" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqSdfdOks7xJ-ZGXcTJ96jiFg0ehtjv1Is1n3eDJlKaIRNJM4JK6jthPE&s=10" group-title="VOD | KOREAN MOVIE",EVEN IF THIS LOVE DISAPPEARS FROM THE WORLD TONIGHT (2025)
+https://stream.playcdn.de/playlist/6a4fdb65163a7c10d704f8b8628d73f0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-name="choir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmr0xTfMOQXsNfMBuat8WF2M7hMPk9F7SgtHRMEmDgQ&s=10" group-title="VOD | KOREAN MOVIE",CHOIR OF GOD (2025)
+https://stream.playcdn.de/playlist/812d5b8499ee07d2b2d9cf514bab2acb/1/0.m3u8?x=1
+#EXTINF:-1 tvg-name="pavane" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAOItzGrsrkxu5T9bAFn5CYEx6xStfsFyebGdsh7XWOA&s=10" group-title="VOD | KOREAN MOVIE",PAVANE (2026)
+https://stream.playcdn.de/playlist/850b84b219e5477a43d1a47a3a7c708a/2/480.m3u8?x=1
+#EXTINF:-1 tvg-name="lobby" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKq9g23XMB2tMjdb9GKQBrQGedMTyff-B5amPGOd4AGbWn_wlTH697w9LW&s=10" group-title="VOD | KOREAN MOVIE",LOBBY (2025)
+https://stream.playcdn.de/playlist/8c6f670eccc7939ca7315d5872823d13/2/480.m3u8?x=1
+#EXTINF:-1 tvg-name="missm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX8jhar70WGB1RtceAzAUp4cekHOJw2-fxBJ3q5R43Q&s" group-title="VOD | KOREAN MOVIE",MISS MATCH (2026)
+https://stream.playcdn.de/playlist/054d0e706cb7ff5b075b1455a5ee1f95/2/480.m3u8?x=1
+#EXTINF:-1 tvg-name="wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVhPc3CMlgNdREhMvWd9VjzvopSQ8H2d3nvoipwig4w&s=10" group-title="VOD | KOREAN MOVIE",WILD SING (2026)
+https://stream.playcdn.de/playlist/c1fc7199577763459bf29e93971b1d91/2/480.m3u8?x=1
+#EXTINF:-1 tvg-name="tud" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKIpQ68av70HnpyZC9VvChMQYkuer-kgaRiMvCOgVkQA&s=10" group-title="VOD | KOREAN MOVIE",THE ULTIMATE DUO (2026)
+https://stream.playcdn.de/playlist/49313fc6065d840dc26c67de424f844f/1/0.m3u8?x=1
+#EXTINF:-1 tvg-name="hope" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMLlecVlfnkHIijEyr6V_ySob-VNz5kTkTdXCuDx8qA&s=10" group-title="VOD | KOREAN MOVIE",HOPE (2026)
+https://stream.playcdn.de/playlist/1eb80792413054fec1e3158fbe19a27a/1/0.m3u8?x=1
 #EXTINF:-1 tvg-name="HUMINT(2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvl4GdENi304yMvVnoZ89YL2dRx9_Hdta9wUZSTwlEduSplgYrQfAKWVMa&s=10" group-title="VOD | KOREAN MOVIE",HUMINT(2026)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/HUM.m3u8
 #EXTINF:-1 tvg-id="mnts12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BQyfmS-U22fZe8laoPW8AmrwOa8nk7hrzNd_acrCnw&s=10" group-title="VOD | KOREAN MOVIE",MANTIS
