@@ -10739,40 +10739,40 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-##EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 17:00 WIB |TAI PO FC VS LION CITY| m5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSS SLEMAN VS BORNEO|
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793085571-0-0-9f67a2c365ab5c0dbfd1f841f20e4e1e
 
-=========================
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |DAEJON VS VISSEL KOBE|
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |DAEJON VS VISSEL KOBE|
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |JOHOR DT VS PORT FC|
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |JOHOR DT VS PORT FC|
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;00 WIB |BEIJING VS JEONBUK MOTORS| sk1
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;00 WIB |BEIJING VS JEONBUK MOTORS| sk1
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportKlubSL1.m3u8
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;00 WIB |RATCHABURI VS KASHIMA| sk3
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;00 WIB |RATCHABURI VS KASHIMA| sk3
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportKlubSL3.m3u8
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥23;00 WIB |AL-AHLI VS ESTEGHLAL| nick
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥23;00 WIB |AL-AHLI VS ESTEGHLAL| nick
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥01;15 WIB |AL-SHAMAL VS AL-HILAL| Johan
+
+
+
+<==================== LIVE EVENT 2 ===================================>
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 028/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥01;15 WIB |AL-SHAMAL VS AL-HILAL| Johan
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
-==============
-##EXTINF:-1 tvg-id="SUPER LIG TURKI" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/dikktz1785779891.png", 🔥01;30 WIB |GALATASARAY VS FENERBAHCE| bei3
+#EXTINF:-1 tvg-id="SUPER LIG TURKI" group-title="EVENT 028/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/dikktz1785779891.png", 🔥01;30 WIB |GALATASARAY VS FENERBAHCE| bei3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
 
 
 
