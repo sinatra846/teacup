@@ -4908,17 +4908,17 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs PSM
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs PSM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs Madura United
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs Madura United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persija vs Persik Kediri
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persija vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
@@ -10143,11 +10143,6 @@ https://live.metshop.top/douyu/74374
 
 
 
-
-
-
-
-
 ##===========================
 ##          X U M O
 ##===========================
@@ -10955,30 +10950,30 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 
 
 <==================== LIVE EVENT 1 ===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs PSM
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs PSM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs Madura United
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs Madura United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persija vs Persik Kediri
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persija vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 20:45 WIB Neftchi vs Al Ittihad
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 20:45 WIB Neftchi vs Al Ittihad
 
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 23:00 WIB Al Ain vs Tractor Sazi
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 23:00 WIB Al Ain vs Tractor Sazi
 
-#EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 23:00 WIB Al-Ahli vs Al Gharafa
+EXTINF:-1 group-title="EVENT 026/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 23:00 WIB Al-Ahli vs Al Gharafa
 
 
 
@@ -10987,10 +10982,10 @@ https://live2.jorvakstreamcache.com/live/channel19.m3u8
  
 
 <==================== LIVE EVENT 2 ================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
-#EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Sevilla vs Osasuna
+EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Sevilla vs Osasuna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -11000,7 +10995,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:30 WIB PSG vs Olympique Lyonnais
+EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:30 WIB PSG vs Olympique Lyonnais
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
