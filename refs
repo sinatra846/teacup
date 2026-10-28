@@ -5301,17 +5301,29 @@ https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=Mr
 DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS
 ==============================================================================
 
-#EXTINF:-1 tvg-uid="BA0G0OvSr7VpryRDGElvnzpv4f89TGt8" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",F1 TV PRO LIVE HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=36303&extension=ts&play_token=VGKMHkqTSM
-
-#EXTINF:-1 tvg-uid="7C4Ib0gTAlCAisOJpYORCfYbQiIUAPJm" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",F1 TV PRO INT HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1160327&extension=ts&play_token=FQjI1Kig5Y
-
-#EXTINF:-1 tvg-uid="aBmbMWCJWt5mMjQNmfJfGqyrFoneSGJI" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1,DAZN F1 FHD HEVC
+#EXTINF:-1 tvg-uid="aBmbMWCJWt5mMjQNmfJfGqyrFoneSGJI" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",DAZN F1 FHD HEVC
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=587368&extension=ts&play_token=cWBIivMeBI
 
-#EXTINF:-1 tvg-uid="QEbjc45ZmALu1h9dHax67lHZPfTrvGeW" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1,DAZN F1 FHD
+#EXTINF:-1 tvg-uid="QEbjc45ZmALu1h9dHax67lHZPfTrvGeW" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",DAZN F1 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=587367&extension=ts&play_token=tTgFjBb5dz
+
+#EXTINF:-1 tvg-uid="ZMpU3niVqNjri3lmSV00zPpdxBup9c5N" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",F1 TV PRO [NL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1160322&extension=ts&play_token=hfT50eE1XL
+
+#EXTINF:-1 tvg-uid="ZEunGDkRklStxvNQe0qNx1w2w7sUQLAv" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",F1 TV PRO [DE]
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1160326&extension=ts&play_token=JA7PuxPjq0
+
+#EXTINF:-1 tvg-uid="XD4f5ORrryenFvsDecH31uj12mO1dDxN" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",F1 TV PRO [FR]
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1160324&extension=ts&play_token=YpdqMkwDU2
+
+#EXTINF:-1 tvg-uid="CATEia0CxMtS9EyL3VQeRgKIy2HsIwcy" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",F1 TV PRO [ES]
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1160325&extension=ts&play_token=3Y0yF7QYBx
+
+
+
+
+
+
 
 ==============================================================================
 END LIST END LIST END LIST END LIST END LIST END LIST END LIST END LIST
