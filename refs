@@ -4365,7 +4365,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 //========================================================================
 //Collected by andra|sinatra menampilkan playlist >>> CHANNEL | JAPAN 
 //========================================================================
-#EXTINF:-1 group-title="SEDANG PERBAIKAN" group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",SEDANG PERBAIKAN
+#EXTINF:-1 group-title="CHANNEL JAPAN" group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",SEDANG PERBAIKAN
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 
 EXTM3U url-tvg="https://akariko−bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
@@ -4540,6 +4540,9 @@ http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v8
 
 
 
+
+
+
 ############################
 ##### ===== DC1 ===== ######
 ############################
@@ -4674,6 +4677,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J0qUa2G.jpeg" group-title="PENGETAHUAN" tvg-id="mjh-sky-hgtv" tvg-name="HGTV", HGTV US HD
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 
+
+==============================================================================================================================================================================
+
+DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS
+
+==============================================================================================================================================================================
+
 #EXTINF:-1 tvg-id="95" tvg-logo="https://i.imgur.com/KY2QMF8.jpeg" group-title="PENGETAHUAN",Crime+ Investigation (🏵 NS)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=95
@@ -4716,6 +4726,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
+==============================================================================================================================================================================
+
+DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS
+
+==============================================================================================================================================================================
+
 #EXTINF:-1 xui-id="68" tvg-id="NGCENTE" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/AOZ26HF.jpeg" group-title="PENGETAHUAN",National Geographic (🎃👻)
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4u4x_zFdV0_80DKD8yScR60
 
@@ -4742,8 +4758,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
 
 
-
-
 ===================================== CHANNEL | RELIGI ==========================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | RELIGI
 
@@ -4756,6 +4770,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h38/02.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/02.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV.id@SD" group-title="CHANNEL | RELIGI" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rodjatv.png",Rodja TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="madinahtv.id" tvg-logo="https://urfan.id/logo/madinahtv.png",Madinah TV
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
@@ -4775,23 +4793,11 @@ https://stream.urfan.id/mqtv
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://stream.urfan.id/tv9
 
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="Muhammadiyah TV.id" tvg-logo="https://urfan.id/logo/tvmu.png",tvMu
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-https://stream.urfan.id/tvmu
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-logo="https://lh3.googleusercontent.com/Oy34Zw8c0-OZJkTq7f21MRvEkUBPGG11tWK83pR4BxhV55SbTXj8Tbvnz43ZeJZVeg", DMI (TAWAFTV)
-https://tvstreamcast.com/tawaftv.m3u8
-
-#EXTINF:-1 tvg-id="RodjaTV.id@SD" group-title="CHANNEL | RELIGI" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rodjatv.png",Rodja TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
-
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="alwafatarim.id" tvg-logo="https://urfan.id/logo/alwafa.png",Al Wafa Tarim TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://stream.urfan.id/alwafa
 
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="madanitv.id" tvg-logo="https://urfan.id/logo/madanitv.png",Madani TV
+EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="madanitv.id" tvg-logo="https://urfan.id/logo/madanitv.png",Madani TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://stream.urfan.id/madanitv
 
@@ -4804,15 +4810,31 @@ https://stream.urfan.id/tv10
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://stream.urfan.id/insantv
 
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="ashiiltv.id" tvg-logo="https://urfan.id/logo/ashiiltv.png",Ashiil TV
-#EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
-#EXTVLCOPT:http-referrer=https://youtv.id/
-https://flv.intechmedia.net/live/ch2.m3u8
-
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="ahsantv.id" tvg-logo="https://urfan.id/logo/ahsantv.png",Ahsan TV
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://stream.urfan.id/ahsantv
+
+#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="naajiyatv.id" tvg-logo="https://urfan.id/logo/naajiyatv.png",Naajiya TV
+#EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://youtv.id/
+https://stream.urfan.id/naajiyatv
+
+#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="rinjanitv.id" tvg-logo="https://urfan.id/logo/dotid.png",Rinjani TV
+#EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://youtv.id/
+https://stream.urfan.id/rinjanitv
+
+EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="Muhammadiyah TV.id" tvg-logo="https://urfan.id/logo/tvmu.png",tvMu
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://stream.urfan.id/tvmu
+
+==============================================================================================================================================================================
+
+#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="ashiiltv.id" tvg-logo="https://urfan.id/logo/ashiiltv.png",Ashiil TV
+#EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://youtv.id/
+https://flv.intechmedia.net/live/ch2.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://thumb.viva.id/intipseleb/1265x711/2023/10/06/651f4364392df-vtv.jpg" group-title="CHANNEL | RELIGI", AL-IMAN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -4828,10 +4850,26 @@ https://flv.intechmedia.net/live/ch22.m3u8
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://flv.intechmedia.net/live/ch12.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="naajiyatv.id" tvg-logo="https://urfan.id/logo/naajiyatv.png",Naajiya TV
+#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="mqhtv.id" tvg-logo="https://urfan.id/logo/dotid.png",MQH TV
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://youtv.id/
-https://stream.urfan.id/naajiyatv
+https://flv.intechmedia.net/live/ch34.m3u8
+
+#EXTINF:-21 group-title="CHANNEL | RELIGI" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR27rYmsfARHn7FxFlz2kLk586ZgxOZFBIt3NzBTQ=s88-c-k-c0x00ffffff-no-rj", Sunnah Jalan Pasti
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch17.m3u8
+
+#EXTINF:-14 group-title="CHANNEL | RELIGI" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch5.m3u8
+
+#EXTINF:-22 group-title="CHANNEL | RELIGI" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch3.m3u8
+
+#EXTINF:-8 group-title="CHANNEL | RELIGI" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR-BoM_AHAnfeQj0a-x1puJR7AA7_1odp8ZLJ2G=s88-c-k-c0x00ffffff-no-rj",HIJRAH TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch8.m3u8
 
 EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="medstv.id" tvg-logo="https://urfan.id/logo/medstv.png",Meds TV
 #EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
@@ -4843,59 +4881,65 @@ https://flv.intechmedia.net/live/ch23.m3u8
 #EXTVLCOPT:http-referrer=https://youtv.id/
 https://flv.intechmedia.net/live/ch24.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="rinjanitv.id" tvg-logo="https://urfan.id/logo/dotid.png",Rinjani TV
-#EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
-#EXTVLCOPT:http-referrer=https://youtv.id/
-https://stream.urfan.id/rinjanitv
+==============================================================================================================================================================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-logo="https://lh3.googleusercontent.com/Oy34Zw8c0-OZJkTq7f21MRvEkUBPGG11tWK83pR4BxhV55SbTXj8Tbvnz43ZeJZVeg", DMI (TAWAFTV)
+https://tvstreamcast.com/tawaftv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="CHANNEL | RELIGI",Izzah TV (480p)
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="mqhtv.id" tvg-logo="https://urfan.id/logo/dotid.png",MQH TV
-#EXTVLCOPT:http-user-agent=YouTV (Linux; Android 15) Media3/1.6.0
-#EXTVLCOPT:http-referrer=https://youtv.id/
-https://flv.intechmedia.net/live/ch34.m3u8
-
-EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Rodja_TV.png/500px-Rodja_TV.png" group-title="CHANNEL | RELIGI",Rodja TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
-
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-logo="http/images.indihometv.com/logo_antvnew_small.png", JOM NGAJI
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
-
-#EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="CHANNEL | RELIGI" , MTA TV
-https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd
-#https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd
-#https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/mtatv-avc1_1200000=4-3309216910000000.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-m.png" group-title="CHANNEL | RELIGI", Reformed 21
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
-https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/243/547/png-clipart-catholictv-television-religious-broadcasting-logo-brand-woodlawn-cemetery-tampa-catholictv-television.png" group-title="CHANNEL | RELIGI",Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_Life_TV.jpg/1280px-Logo_Life_TV.jpg" group-title="CHANNEL | RELIGI", LIFE
-https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="CHANNEL | RELIGI",Dhamma TV 
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/TV_2000.png" group-title="CHANNEL | RELIGI",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+
+==============================================================================================================================================================================
+
+SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN
+
+==============================================================================================================================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=070756a16fd44081b6c2d64e40346b9e:d5fa9eaa7fd94f93d1b613d1ff0a5f91
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="EWTN" tvg-logo="https://i.tracxn.com/logo/company/cdcdssdg_1584952615093.png" group-title="CHANNEL | RELIGI",EWTN
+EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="EWTN" tvg-logo="https://i.tracxn.com/logo/company/cdcdssdg_1584952615093.png" group-title="CHANNEL | RELIGI",EWTN
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="CHANNEL | RELIGI",Dhamma TV 
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="CHANNEL | RELIGI" , MTA TV
+https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/mtatv-avc1_1200000=4-3309216910000000.mpd
+
+EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-m.png" group-title="CHANNEL | RELIGI", Reformed 21
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
+https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_Life_TV.jpg/1280px-Logo_Life_TV.jpg" group-title="CHANNEL | RELIGI", LIFE
+https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
+
+
+==============================================================================================================================================================================
+
+SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN
+
+==============================================================================================================================================================================
 
 
 
@@ -4904,14 +4948,14 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 
 ========== BRI LIGA 1 ===========
-#EXTINF:-1 tvg-id="auto.coming" group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="COMING SOON VIDEO" tvg-logo="https://i.imgur.com/vzXPJsq.png",COMING SOON 2026-2027
+EXTINF:-1 tvg-id="auto.coming" group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="COMING SOON VIDEO" tvg-logo="https://i.imgur.com/vzXPJsq.png",COMING SOON 2026-2027
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-#EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Borneo
+EXTM3U
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Borneo
 https://pull.streamfeedk8z.click/livesp/sd-6MxiKav3kfZDCfzVKQ_autosp.m3u8?txSecret=35d2ae39292c57817db76734d78ed6d3&txTime=6AE1B288
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Borneo
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Borneo
 #EXTVLCOPT:http-origin=https://player.787200.com/
 #EXTVLCOPT:http-referrer=https://player.787200.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -4926,14 +4970,13 @@ https://live.vivo155.com/live/sd-1-4614398.m3u8?txSecret=7767c64b2e3c400f3e4a9ea
 //========================================================================
 // LIVE | BADMINTON
 //========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
+EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
+tps://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
 
 
 
@@ -5246,52 +5289,70 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",F1 TV
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1", Sky Sports F1 (United Kingdom)
-https://xemzi.short.gy/2000005
+#EXTINF:-1 group-title="LIVE FORMULA 1" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png", TSN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-uid="5df30c6cede08ea62305f94032e0d59e" data-source="Macportal3" group-title="LIVE FORMULA 1" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png", F1| F1 TV FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/317187.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",SKY SPORT F1 HD (RUTUBE)
+https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
 
-#EXTINF:-1 tvg-uid="441dd96529b9d0dca8a515ced6a5b0a1" data-source="Macportal3" group-title="LIVE FORMULA 1" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png", ES-C| DAZN F1 ᴿᴬᵂ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/2068325.m3u8
+==============================================================================
+DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS
+==============================================================================
 
-#EXTINF:-1 tvg-uid="14b81223f99a08fd52ff5a98f3db6058" data-source="Macportal1" group-title="LIVE FORMULA 1" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png", ┃ES┃ DAZN F1 FHD HEVC
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/587368.m3u8
+#EXTINF:-1 tvg-uid="BA0G0OvSr7VpryRDGElvnzpv4f89TGt8" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",F1 TV PRO LIVE HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=36303&extension=ts&play_token=VGKMHkqTSM
 
-#EXTINF:-1 tvg-uid="cc8eed871ac15a97665d42790ec4efe9" data-source="Macportal1" group-title="LIVE FORMULA 1" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png", ┃DE┃ SKY SPORT F1 FHD DOLBY 5.1
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1149421.m3u8
+#EXTINF:-1 tvg-uid="7C4Ib0gTAlCAisOJpYORCfYbQiIUAPJm" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1",F1 TV PRO INT HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1160327&extension=ts&play_token=FQjI1Kig5Y
+
+#EXTINF:-1 tvg-uid="aBmbMWCJWt5mMjQNmfJfGqyrFoneSGJI" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1,DAZN F1 FHD HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=587368&extension=ts&play_token=cWBIivMeBI
+
+#EXTINF:-1 tvg-uid="QEbjc45ZmALu1h9dHax67lHZPfTrvGeW" data-source="macportalupdater" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="LIVE FORMULA 1,DAZN F1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=587367&extension=ts&play_token=tTgFjBb5dz
+
+==============================================================================
+END LIST END LIST END LIST END LIST END LIST END LIST END LIST END LIST
+==============================================================================
+
+
+
 
 
 
 =======================================MotoGP====================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | MotoGP
 
-EXTINF:-1 group-title="LIVE | MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", SPOTV 2 ( PH )
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-######https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-==============================================================================
-
-DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS
-LIVE | MotoGPLIVE | MotoGP
-==============================================================================
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP", MotoGP 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-id="SoElK9greyQXMSeFUxjM0jLGWEgWAmT5" data-source="myiptvv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",IT| SKY SPORT MOTOGP
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917706&extension=ts&play_token=GFqxcqRVXJ
-
 #EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",🆕MotoGP Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+#EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",FANCODE 1 (NITRO)
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",TNT SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+==============================================================================
+DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS
+==============================================================================
+
+#EXTINF:-1 tvg-id="SoElK9greyQXMSeFUxjM0jLGWEgWAmT5" data-source="myiptvv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",IT| SKY SPORT MOTOGP
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:CD:DD:F8&stream=1917706&extension=ts&play_token=GFqxcqRVXJ
 
 #EXTINF:-1 tvg-id="yGPIKCMNAydOuSzBk6syntaa7smBUu96" data-source="myiptvv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP", SKY SPORT MOTOGP HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=177689&extension=ts&play_token=3bXbh61rLI
@@ -5303,22 +5364,10 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1167177&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=177700&extension=ts&play_token=5jYuANjWxh
 
 ==============================================================================
+END LIST END LIST END LIST END LIST END LIST END LIST END LIST END LIST
+==============================================================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP", TNT SPORT 2
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt2.m3u8
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-#EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP",FANCODE 1 (NITRO)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-EXTINF:-1 tvg-uid="998fdde878fbc2b3e528e689e83769f7" data-source="Sports7November" group-title="LIVE | MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", ┃IT┃ SKY SPORT MOTOGP FHD
-######https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177700.m3u8
-
-
-=============================END LIST=======================================
 
 
 =======================================LIVE UFC====================================================
@@ -5327,8 +5376,8 @@ EXTINF:-1 tvg-uid="998fdde878fbc2b3e528e689e83769f7" data-source="Sports7Novembe
 #EXTINF:-1 group-title="LIVE | UFC" tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg",UFC MMA 1
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE | UFC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfhi_1_yqlx6Fi9rEhSIR3i72U8hasLnNjzj-XDkc1jjDWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png",UFC MMA 2
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 group-title="LIVE | UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxvpmiCnoGHXYiTzY0lp1E0UXdRSPg69f3Q&s" , DAZN COMBAT 1
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="272" tvg-chno="320" tvg-name="mma-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png" group-title="LIVE | UFC", MMA TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5339,13 +5388,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-MMA_YUPPTV/v1/master/611d79b11b77e2
 #EXTINF:-1 tvg-logo="https://img2.hulu.com/user/v3/artwork/36cbc733-044f-4e94-a511-f4abbbc8c803?base_image_bucket_name=image_manager&base_image=13261923-7033-417c-bf73-c64e492cd830&size=600x338&format=webp" group-title="LIVE | UFC",MMA TV/PFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2-e6JN1iocQj8_f6bi_xX5bXN3OKNTjGoiaJzudwDVwhHgkaq-7-uKC2HSCvjVkEW1hXi6eVgtPfDr5P5lVY3STpYpulKFNac8PaU00peSY69hhOvN7gF3zYIsL6VYEMECzi9aysAm7JOqJ8lfZIKKuCs_9me7VCU9H1VGI19BNCQoRz3T0zJK9tvFwPP/s700/ONE%20SPORTS%20HD.png" group-title="LIVE | UFC", ONE SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
 #EXTINF:0 channel-id="bellator-mma" channel-number="2870" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Bellator MMA" tvc-guide-description="Bellator MMA is home to the most exciting MMA action featuring the top fighters from around the world. Relive all the best events, championship fights, knockouts and submissions from inside the Bellator MMA cage." group-title="LIVE | UFC", Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
@@ -5365,6 +5407,34 @@ https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="LIVE | UFC", GLORY KICBOXING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XUMO_99991341" tvg-logo="https://image.xumo.com/v1/channels/channel/99991341/300x300.webp?type=color_onBlack" group-title="LIVE | UFC",TNA Wrestling Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=AnthemSportsIMPACTWrestling&ads.csid=xumo_[PLATFORM]_AnthemSportsIMPACTWrestling_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2073&ads.xumo_contentName=AnthemSportsIMPACTWrestling&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991341&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Superstar Central" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYwYThmNDAtNWVhNC00NjFmLTg0MTUtZjhjZWNmZGEyMWIxXkEyXkFqcGc@._V1_QL75_UX500_CR0,259,500,281_.jpg" group-title="LIVE | UFC",WWE Superstar Central
+#EXTVLCOPT:http-user-agent=android-R+
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XUMO_99951469" tvg-logo="https://image.xumo.com/v1/channels/channel/99951469/300x300.webp?type=color_onBlack" group-title="LIVE | UFC",HBO Boxing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Boxing" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/HBO%20Boxing.png" group-title="LIVE | UFC",HBO Boxing 2
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10742,12 +10812,12 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 
 
 <==================== LIVE EVENT 1 ===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Borneo
+EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Borneo
 https://pull.streamfeedk8z.click/livesp/sd-6MxiKav3kfZDCfzVKQ_autosp.m3u8?txSecret=35d2ae39292c57817db76734d78ed6d3&txTime=6AE1B288
 
-#EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Borneo
+EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Borneo
 #EXTVLCOPT:http-origin=https://player.787200.com/
 #EXTVLCOPT:http-referrer=https://player.787200.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -10755,40 +10825,40 @@ https://live.vivo155.com/live/sd-1-4614398.m3u8?txSecret=7767c64b2e3c400f3e4a9ea
 
 ================================
 
-#EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
+EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
+EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
+EXTINF:-1 group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 14:30 WIB HYLO Open 2026 HYLO Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
 
 ================================
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |DAEJON VS VISSEL KOBE|
+EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |DAEJON VS VISSEL KOBE|
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |JOHOR DT VS PORT FC|
+EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |JOHOR DT VS PORT FC|
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;00 WIB |BEIJING VS JEONBUK MOTORS| sk1
+EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;00 WIB |BEIJING VS JEONBUK MOTORS| sk1
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportKlubSL1.m3u8
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;00 WIB |RATCHABURI VS KASHIMA| sk3
+EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;00 WIB |RATCHABURI VS KASHIMA| sk3
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportKlubSL3.m3u8
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥23;00 WIB |AL-AHLI VS ESTEGHLAL| nick
+EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 027/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥23;00 WIB |AL-AHLI VS ESTEGHLAL| nick
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
 
 
 
 <==================== LIVE EVENT 2 ===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 028/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥01;15 WIB |AL-SHAMAL VS AL-HILAL| Johan
+EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 028/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥01;15 WIB |AL-SHAMAL VS AL-HILAL| Johan
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-id="SUPER LIG TURKI" group-title="EVENT 028/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/dikktz1785779891.png", 🔥01;30 WIB |GALATASARAY VS FENERBAHCE| bei3
+EXTINF:-1 tvg-id="SUPER LIG TURKI" group-title="EVENT 028/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/dikktz1785779891.png", 🔥01;30 WIB |GALATASARAY VS FENERBAHCE| bei3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
