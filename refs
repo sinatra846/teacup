@@ -10795,14 +10795,45 @@ EXTINF:-1 group-title="EVENT 029/OKTOBER/2026" tvg-logo="https://shorter.me/uSWb
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 029/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥17;00 WIB |GANGWON VS KUCHING CITY| sk1
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportKlubSL1.m3u8
+<================================================>
 
-EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 029/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥19;15 WIB |SHANGHAI SHENHWA VS MACHIDA ZELVIA| sk1
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportKlubSL1.m3u8
+EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 00:30 WIB Frosinone vs Lecce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 029/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥19;15 WIB |PHNOM PENH VS KITCHEE| sk2
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportKlubSL2.m3u8
+EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 02:45 WIB Fiorentina vs Atalanta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://shorter.me/N9teZ", 02:45 WIB Everton vs Newcastle United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://shorter.me/3gy7g", 01:00 WIB Al Nassr vs Al Kholood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+
+
+
+
+
 
 <================================================>
 
