@@ -4957,15 +4957,17 @@ SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBA
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Malut United vs Bhayangkara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |AREMA VS BALI UNITED|
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs Persijap
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PERSIK VS PERSITA|
+https://live2.jorvakstreamcache.com/live/channel10.m3u8
+
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSM VS MADURA UNITED|
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |DEWA UNITED VS PERSIJA|
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
 
 
 
@@ -5360,6 +5362,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="70905" tvg-name="ES: DAZN MOTOGP FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="LIVE | MotoGP", ES: DAZN MOTOGP FHD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/70905
 
 ==============================================================================
 DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS
@@ -10786,30 +10791,120 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Malut United vs Bhayangkara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |AREMA VS BALI UNITED|
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
 
-#EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs Persijap
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
+#EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PERSIK VS PERSITA|
+https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
-#EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://shorter.me/K67vG", 16:00 WIB Brisbane Roar vs Auckland
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSM VS MADURA UNITED|
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
+#EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |DEWA UNITED VS PERSIJA|
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 18:00 WIB HYLO Open 2026 HYLO Open 2026
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 🔥19;30 WIB |STOKE CITY VS PRESTON NORTH| bei3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 🔥22;00 WIB |MILLWALL VS DERBY COUNTRY| bei3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 🔥22;00 WIB |WEST HAM VS WEST BROMWICH| cbs
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+<================================================>
+
+#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥19;30 WIB |CHELSEA VS MANCHESTER UNITED| Tn1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="PREMIERE LEAGUE" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥22;00 WIB - |BOURNEMOUTH VS LEEDS UNITED| mon
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-id="PREMIERE LEAGUE" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥22;00 WIB - |BRENTFORD VS NOTTINGHAM| 
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE LEAGUE" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥22;00 WIB - |MANCHESTER CITY VS BRIGHTON| seta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5f3213807cfb5887b12faf17892530ba":"a0289eb8fb1508a81f1cf84acff2e44e","229c33cfd61455a8bb8a4aedf77d72b4":"5ddfb6e78ea93db5ffb855599667f2ad","57329e961d4a50ac88f4f2fb15ef5323":"bea93ea08795787dfe1b842848775c97"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/64_HTTP/__op/dash-widevine/__f/manifest.mpd
+
+<================================================>
+
+#EXTINF:-1 tvg-id="LALIGA" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥20;00 WIB |LEVANTE VS ATL.MADRID| bei1 in
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-id="LALIGA" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥22;15 WIB |RAYO VALLECANO VS CELTA DE VIGO| bei1 in
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+<================================================>
+
+#EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥21;00 WIB |BOLOGNA VS MONZA| 1 cz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+<================================================>
+
+#EXTINF:-1 tvg-id="EREDIVISIE" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥22;30 WIB |FEYENOORD VS FORTUNA SITTARD| fuss
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+<================================================>
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |BAYER  LEVERKUSEN VS STUTTGART| prim s5
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/pr5/mono.m3u8
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |M'GLADBACH VS PADERBORN| 
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+
+<================================================>
+
+EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 18:00 WIB HYLO Open 2026 HYLO Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
-#EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 18:00 WIB HYLO Open 2026 HYLO Open 2026
+
+EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 18:00 WIB HYLO Open 2026 HYLO Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="EVENT 030/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 18:00 WIB HYLO Open 2026 HYLO Open 2026
+
+EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://shorter.me/oFx-D", 18:00 WIB HYLO Open 2026 HYLO Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
 
 
@@ -10820,67 +10915,76 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 <==================== LIVE EVENT 2 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 03:00 WIB Villarreal vs Espanyol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="SAUDI PRO LEAGUE-VDOG A-RAP" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png", 🔥01;00 WIB |AL-HILAL VS AL-FATEH FC| 
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
+ 
+#EXTINF:-1 tvg-id="LIGUE 1" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥02;45 WIB |TROYES VS LE MANS|
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+<================================================>
+
+#EXTINF:-1 tvg-id="PREMIERE LEAGUE" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥00;30 WIB |TOTTENHAM VS CRYSTAL PALACE| seta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"5f3213807cfb5887b12faf17892530ba":"a0289eb8fb1508a81f1cf84acff2e44e","229c33cfd61455a8bb8a4aedf77d72b4":"5ddfb6e78ea93db5ffb855599667f2ad","57329e961d4a50ac88f4f2fb15ef5323":"bea93ea08795787dfe1b842848775c97"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/64_HTTP/__op/dash-widevine/__f/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 02:30 WIB Elversberg vs Mainz 05
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-id="PREMIERE LEAGUE" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥03;30 WIB |ASTON VILLA VS FULHAM| 
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 01:00 WIB Le Havre vs PSG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+<================================================>
+
+#EXTINF:-1 tvg-id="LALIGA" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥03;00 WIB -|BARCELONA VS DEPORTIVO ALAVES| bei2 in
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+<================================================>
+
+#EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥00;00 WIB |UDINESE VS AS ROMA| bei2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://shorter.me/3gy7g", 01:00 WIB Al Shabab vs Al-Ahli
+#EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥02;45 WIB - |MILAN VS INTER| bei2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
-https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
-
-#EXTINF:-1 group-title="EVENT 031/OKTOBER/2026" tvg-logo="https://shorter.me/UXCX0", 03:00 WIB Sheffield United vs Wrexham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+<================================================>
+
+#EXTINF:-1 tvg-id="EREDIVISIE" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥00;45 WIB |PSV VS WILLEM|
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="EREDIVISIE" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥03;00 WIB |AJAX VS AZ ALKMAAR| fuss
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
+#EXTINF:-1 tvg-id="EREDIVISIE" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥03;00 WIB |CAMBUUR VS GA EAGLES|
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
+<================================================>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥00;30 WIB |BAYERN  MUNCHEN VS DORTMUND| socc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 
