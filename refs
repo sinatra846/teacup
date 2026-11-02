@@ -4915,17 +4915,17 @@ SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBA
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persib vs Adhyaksa
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persib vs Adhyaksa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Borneo
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Borneo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Garudayaksa vs PSS Sleman
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Garudayaksa vs PSS Sleman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
@@ -4940,17 +4940,17 @@ https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 20:00 WIB HYLO Open 2026 HYLO Open 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 20:00 WIB HYLO Open 2026 HYLO Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel65/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel65/playlist.m3u8?wsSecret=1b7ea0102ebd5cbe6a84c297d83c9537&wsABSTime=1793565628
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 20:00 WIB HYLO Open 2026 HYLO Open 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 20:00 WIB HYLO Open 2026 HYLO Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel65/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel65/playlist.m3u8?wsSecret=0eb58ce794da2a38c1052bc04b6b6289&wsABSTime=1793582439
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 20:00 WIB HYLO Open 2026 HYLO Open 2026
+EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 20:00 WIB HYLO Open 2026 HYLO Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel65/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel65/playlist.m3u8?wsSecret=8db6fa0a6c808569bed20f8d68248f33&wsABSTime=1793582480
