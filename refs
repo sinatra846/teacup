@@ -11127,7 +11127,7 @@ https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=c180e98
 
 ==================================
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥14;45 WIB |NEWCASTLE JETS VS SHANGHAI PORT| socc
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥14;45 WIB |MELBOURNE VS PERSIB| socc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -11135,30 +11135,25 @@ https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=c180e98
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |JEONBUK MOTORS VS JOHOR DT| socc
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥17;00 WIB |SEOUL VS VIETTEL| 2 cz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;15 WIB |CONG AN HANOI VS KYOTO SANGA| sp in
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥20;45 WIB |ARKADAG VS GOL GOHAR| 2 cz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;15 WIB |PORT FC VS BEIJING GUOAN| socc
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥20;45 WIB |EAST BENGAL VS AL-SEEB| sp 2 in
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥23;00 WIB |AL-WAHDA VS KHALIDIYA| sp 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -11168,7 +11163,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥23;00 WIB |AL-HUSSEIN VS AL-SHORTA| socc
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥23;00 WIB |AL-KUWAIT VS NASAF| soc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -11176,46 +11171,26 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥23;00 WIB |ESTEGHLAL VS AL-SHAMAL| sp in
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+=========================
+
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥17;00 WIB |POHANG VS GAMBA OSAKA| sk1
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportKlubSL1.m3u8
+
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥19;15 WIB |BURIRAM VS KASHIMA ANTLERS| soc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 
 
-<==================== LIVE EVENT 2 ===================================>
+<=================================== LIVE EVENT 2 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥00;45  WIB |GALATASARAY VS VIB STUTTGART| be1 in
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
- 
-#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥00;45 WIB |SHAKHTAR VS SPORTING CP| be3 in
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-==================================
-
-#EXTINF:-1 tvg-id="COPA DEL REY SPANYOL" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png", 🔥01;00 WIB |ANAITASUNA VS DEPORTIVO ALAVES| mat2
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
-http://stream.mcquack.net/142/index.m3u8
-
-==================================
-
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE ELITE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png", 🔥01;15 WIB |AL-HILAL VS AL-AHLI| socc
+#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥01;15 WIB |MUHARRAQ VS AL-JAZIRA| soc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -11225,29 +11200,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 ==================================
 
-#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |ATL.MADRID VS B.MUNCHEN| be3 in
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |BODO GLIMT VS LILLE| 
-https://sw.run/CAMPWIKI-UCL-KICK-OFF
-
-#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |BARCELONA VS ASTON VILLA| tn 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |FEYENOORD VS INTER| cbs
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00  WIB |MAN.UNITED VS ROMA| be1 in
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥00;45  WIB |FENERBAHCE VS LIVERPOOL| be 1in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11256,7 +11209,46 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |VILLARREAL VS PSG| be2 in
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥00;45 WIB |AEK ATHENS VS REAL MADRID| be 3in
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |PSV VS CLUB BRUGGE| prim s5
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/pr5/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |VIKING VS SABAH|
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |SLAVIA PRAHA VS ARSENAL| be 1in
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |LENS VS COMO| es 2
+https://sw.run/CAMPWIKI-ESPN2
+
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00  WIB |PORTO VS NAPOLI| prim s4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |DORTMUND VS REAL BETIS| be 2in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11265,23 +11257,25 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |LASK VS S.BRATISLAVA| 
-https://sw.run/CAMPWIKI-UCL-KICK-OFF
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png", 🔥03;00 WIB |RB LEIPZIG VS MANCHESTER CITY| be 3in
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+=================================
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png",🔥22;30 WIB |RENNES VS OLYMPIAKOS| be 3in
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
 
