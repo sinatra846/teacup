@@ -5038,7 +5038,7 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-logo="http/images.indihometv.com/logo_antvnew_small.png", JOM NGAJI
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
-
+ 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/243/547/png-clipart-catholictv-television-religious-broadcasting-logo-brand-woodlawn-cemetery-tampa-catholictv-television.png" group-title="CHANNEL | RELIGI",Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 
@@ -5101,15 +5101,15 @@ https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Window
 #EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSIM YOGYA VS DEWA UNITED|
 https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Dewa United
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Dewa United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |MADURA UNITED VS AREMA FC|
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |MADURA UNITED VS AREMA FC|
 https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Arema
+EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Arema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
@@ -5182,29 +5182,6 @@ https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=1a831dc
 
 
 
-EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 20:00 WIB HYLO Open 2026 HYLO Open 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel65/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel65/playlist.m3u8?wsSecret=1b7ea0102ebd5cbe6a84c297d83c9537&wsABSTime=1793565628
-
-EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 20:00 WIB HYLO Open 2026 HYLO Open 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel65/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel65/playlist.m3u8?wsSecret=0eb58ce794da2a38c1052bc04b6b6289&wsABSTime=1793582439
-
-EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/oFx-D", 20:00 WIB HYLO Open 2026 HYLO Open 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel65/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel65/playlist.m3u8?wsSecret=8db6fa0a6c808569bed20f8d68248f33&wsABSTime=1793582480
-
-
-
-
-
-
-
-
-
 
 
 ============================================================================
@@ -5212,7 +5189,7 @@ https://live1.quickscoreboardz.com/live/channel65/playlist.m3u8?wsSecret=8db6fa0
 KOVO CUP 2026
 
 ============================================================================
-
+ 
 EXTINF:-1 tvg-id="KOVO CUP 2026" group-logo="https://i.imgur.com/ej03Wmb.png" group-title="VOLLEYBALL KOVO CUP KOREA" tvg-logo="https://i.imgur.com/V309qcH.png", 𝙎𝙀𝙍𝙑𝙀𝙍 𝙐𝙏𝘼𝙈𝘼 - 𝟭𝟭-𝟭𝟴 𝙊𝙆𝙏 𝟮𝟬𝟮𝟲
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -5241,10 +5218,55 @@ https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
 
 
 
-
-
 ========== LIVE | PROLIGA ===========
 
+
+========== TENNIS | CHANNEL ===========
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",TENNIS | CHANNEL
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png",SP - TENNIS PLUS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=487688
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png",SP - TENNIS PLUS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=487687
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png",SP - TENNIS PLUS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=487686  
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/891267.png",NL - ZIGGO SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=891267
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/maxsport1.png",CR - MAX SPORT 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=753444
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV6.png",PT - SPORT TV 6 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=632985
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/ITALYNEW/SKYSPORTTENNIS.png",IT - SKY SPORT TENNIS SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=601847
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/ITALYNEW/SKYSPORTTENNIS.png",IT - SKY SPORT TENNIS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=601846
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/ITALYNEW/SKYSPORTTENNIS.png",IT - SKY SPORT TENNIS UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=601848
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/ITALYNEW/SKYSPORT.png",IT - SKY SUPER TENNIS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=601801
+
+#EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/ITALYNEW/SKYSPORT.png",IT - SKY SUPER TENNIS UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://fifabdmob.site/TG@RANAPKBD/MAC3/SBHGOLD/play.m3u8?id=601802
 
 
 
