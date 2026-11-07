@@ -5096,6 +5096,29 @@ SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBA
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTM3U
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Garudayaksa
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614412.m3u8?txSecret=15ba06ef8b58d89ce23cf25e0e3384fa&txTime=6AEF24F1
+
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Garudayaksa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=858ee680eeb442d3d7a5c946c96a741e&wsABSTime=1794071037
+
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persija vs Persebaya Surabaya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
+
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persita vs Adhyaksa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=ec80708dd4a2240163ce51c78841db3a&wsABSTime=1794070922
+
+====================
+
 #EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |BORNEO VS PSM| 
 https://live2.jorvakstreamcache.com/live/channel28.m3u8
 #https://sw.run/CAMPWIKI-STARTING-SOON-HD
@@ -11157,26 +11180,36 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" group-logo="https://i.imgur.com/XtWmnGP.png" tvg-logo="https://i.imgur.com/XtWmnGP.png", 𝘾𝙊𝙐𝙍𝙏 𝟭 |𝟯𝙉𝙊𝙑  - 𝟴 𝙉𝙊𝙑 𝟮𝟬𝟮𝟲 - 𝙆𝙊𝙍𝙀𝘼|
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=b14fe9d0ca21ce5e1e88807f751f2c1c&wsABSTime=1793743180
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 18:35 WIB MotoGP Qualifying: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" group-logo="https://i.imgur.com/XtWmnGP.png" tvg-logo="https://i.imgur.com/XtWmnGP.png", 𝘾𝙊𝙐𝙍𝙏 𝟮 |𝟯𝙉𝙊𝙑  - 𝟴 𝙉𝙊𝙑 𝟮𝟬𝟮𝟲 - 𝙆𝙊𝙍𝙀𝘼|
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=ab2b1aac773b9ec38bdb7ba40661fee9&wsABSTime=1793889936
+===============================
 
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" group-logo="https://i.imgur.com/XtWmnGP.png" tvg-logo="https://i.imgur.com/XtWmnGP.png", 𝘾𝙊𝙐𝙍𝙏 𝟯 |𝟯𝙉𝙊𝙑  - 𝟴 𝙉𝙊𝙑 𝟮𝟬𝟮𝟲 - 𝙆𝙊𝙍𝙀𝘼|
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=1a831dc0040a5743ac085eab05155339&wsABSTime=1793890213
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Garudayaksa
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614412.m3u8?txSecret=15ba06ef8b58d89ce23cf25e0e3384fa&txTime=6AEF24F1
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Garudayaksa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=858ee680eeb442d3d7a5c946c96a741e&wsABSTime=1794071037
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persija vs Persebaya Surabaya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persita vs Adhyaksa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=ec80708dd4a2240163ce51c78841db3a&wsABSTime=1794070922
 
 =================================
-
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |BORNEO VS PSM| 
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
-#https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
 #EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PERSIJAP VS GARUDAYAKSA| 
 https://live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=a05826d3ea3bd3bd17a476caf2d77d9b&wsABSTime=1794056239
@@ -11281,6 +11314,26 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 #EXTINF:-1 tvg-id="EREDIVISIE" group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥22;30 WIB |FORTUNA SITTARD VS TELSTAR|
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+
+
+
+EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" group-logo="https://i.imgur.com/XtWmnGP.png" tvg-logo="https://i.imgur.com/XtWmnGP.png", 𝘾𝙊𝙐𝙍𝙏 𝟭 |𝟯𝙉𝙊𝙑  - 𝟴 𝙉𝙊𝙑 𝟮𝟬𝟮𝟲 - 𝙆𝙊𝙍𝙀𝘼|
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false
+https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=b14fe9d0ca21ce5e1e88807f751f2c1c&wsABSTime=1793743180
+
+EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" group-logo="https://i.imgur.com/XtWmnGP.png" tvg-logo="https://i.imgur.com/XtWmnGP.png", 𝘾𝙊𝙐𝙍𝙏 𝟮 |𝟯𝙉𝙊𝙑  - 𝟴 𝙉𝙊𝙑 𝟮𝟬𝟮𝟲 - 𝙆𝙊𝙍𝙀𝘼|
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false
+https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=ab2b1aac773b9ec38bdb7ba40661fee9&wsABSTime=1793889936
+
+EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" group-logo="https://i.imgur.com/XtWmnGP.png" tvg-logo="https://i.imgur.com/XtWmnGP.png", 𝘾𝙊𝙐𝙍𝙏 𝟯 |𝟯𝙉𝙊𝙑  - 𝟴 𝙉𝙊𝙑 𝟮𝟬𝟮𝟲 - 𝙆𝙊𝙍𝙀𝘼|
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false
+https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=1a831dc0040a5743ac085eab05155339&wsABSTime=1793890213
+
+
 
 
 
