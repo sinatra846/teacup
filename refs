@@ -5154,21 +5154,14 @@ https://live1.quickscoreboardz.com/live/channel24/playlist.m3u8?wsSecret=603e14d
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
 #EXTM3U
-EXTINF:-1 group-title="LIVE | BADMINTON" group-logo="https://i.imgur.com/XtWmnGP.png" tvg-logo="https://i.imgur.com/XtWmnGP.png", 𝘾𝙊𝙐𝙍𝙏 𝟭 |𝟯𝙉𝙊𝙑  - 𝟴 𝙉𝙊𝙑 𝟮𝟬𝟮𝟲 - 𝙆𝙊𝙍𝙀𝘼|
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=b14fe9d0ca21ce5e1e88807f751f2c1c&wsABSTime=1793743180
-
-EXTINF:-1 group-title="LIVE | BADMINTON" group-logo="https://i.imgur.com/XtWmnGP.png" tvg-logo="https://i.imgur.com/XtWmnGP.png", 𝘾𝙊𝙐𝙍𝙏 𝟮 |𝟯𝙉𝙊𝙑  - 𝟴 𝙉𝙊𝙑 𝟮𝟬𝟮𝟲 - 𝙆𝙊𝙍𝙀𝘼|
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=ab2b1aac773b9ec38bdb7ba40661fee9&wsABSTime=1793889936
-
-EXTINF:-1 group-title="LIVE | BADMINTON" group-logo="https://i.imgur.com/XtWmnGP.png" tvg-logo="https://i.imgur.com/XtWmnGP.png", 𝘾𝙊𝙐𝙍𝙏 𝟯 |𝟯𝙉𝙊𝙑  - 𝟴 𝙉𝙊𝙑 𝟮𝟬𝟮𝟲 - 𝙆𝙊𝙍𝙀𝘼|
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=1a831dc0040a5743ac085eab05155339&wsABSTime=1793890213
-
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795344080061_AiSD.m3u8?txSecret=435367fb51f2e6a2926ef3fab12cd11f&txTime=6AF3E840
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795457547061_AiSD.m3u8?txSecret=e63985f725cebed27cc8bce0974fabd5&txTime=6AF3E840
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795560482061_AiSD.m3u8?txSecret=51f840ff958d2dcd313d8ccbb5f1ea62&txTime=6AF3E840
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795688618061_AiSD.m3u8?txSecret=0d1c58b2307ac9ac15bea55ba54c3171&txTime=6AF3E840
 
 
 
@@ -11125,16 +11118,21 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 09/NOVEMBER/2026" tvg-logo="https://iili.io/fNSc23v.md.png", 23:00 WIB Slaviya Sofia vs Maritza 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795344080061_AiSD.m3u8?txSecret=435367fb51f2e6a2926ef3fab12cd11f&txTime=6AF3E840
+#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795457547061_AiSD.m3u8?txSecret=e63985f725cebed27cc8bce0974fabd5&txTime=6AF3E840
+#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795560482061_AiSD.m3u8?txSecret=51f840ff958d2dcd313d8ccbb5f1ea62&txTime=6AF3E840
+#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795688618061_AiSD.m3u8?txSecret=0d1c58b2307ac9ac15bea55ba54c3171&txTime=6AF3E840
 
-#EXTINF:-1 group-title="EVENT 09/NOVEMBER/2026" tvg-logo="https://iili.io/fNScxGs.md.png", 23:30 WIB Olsztyn vs Politechnika Lublin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
+
+
+
+
+
+
 
 
 
