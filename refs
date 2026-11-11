@@ -9030,7 +9030,7 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3a
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/d2/08/c6/d208c69d100454d9136209d0a6e60099.jpg" group-title="FILM", CJ E
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="FILM"ch-number="136" tvg-logo="https://i.pinimg.com/236x/80/73/6d/80736de6934450da3f972c7b99815054.jpg",OH MY CERIA!
+#EXTINF:-1 tvg-id="" group-title="FILM" ch-number="136" tvg-logo="https://i.pinimg.com/236x/80/73/6d/80736de6934450da3f972c7b99815054.jpg",OH MY CERIA!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -10309,9 +10309,6 @@ https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=b6d39a5
 
 =================================
 
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 𝙂𝙍𝙊𝙐𝙋 𝘼
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
-
 #EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 11 NOV-15;30 WIB |KAMBOJA VS AFGANISTAN|
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
 #https://sw.run/CAMPWIKI-STARTING-SOON-HD
@@ -10320,6 +10317,8 @@ https://live2.jorvakstreamcache.com/live/channel18.m3u8
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
 #https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
+#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_VIP.3
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34327
 
 
 <=================================== LIVE EVENT 2 ===================================>
