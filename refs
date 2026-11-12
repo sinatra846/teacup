@@ -3177,7 +3177,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true",🆕MENTARI TV (V1)
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 
-#EXTINF:-1 tvg-logo="" group-title=CHANNEL | INDONESIA",🆕MENTARI TV (V2)
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | INDONESIA",🆕MENTARI TV (V2)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -3892,188 +3892,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="CHANNEL | TVRI GROUP",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-
-
-
-=========TRANSVISI PLSYLIST==============
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | HK/TAIWAN
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",TRANS 7 HD 
-http://202.150.165.66:8088/play/801-Trans7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",TRANS TV HD
-http://202.150.165.66:8088/play/800-TransTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",ANTV
-http://202.150.165.66:8088/play/807-ANTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",AXN
-http://202.150.165.66:8088/play/301-AXN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Al Bahza
-http://202.150.165.66:8088/play/709-AlBahza/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Al Jazeera
-http://202.150.165.66:8088/play/603-AlJazeera/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Al Quran Al Kareem
-http://202.150.165.66:8088/play/700-AlQuran/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Al Wafa Tareem
-http://202.150.165.66:8088/play/708-AlwafaTareem/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",AngelTV
-http://202.150.165.66:8088/play/710-AngelTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Arirang
-http://202.150.165.66:8088/play/610-Arirang/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",BTV
-http://202.150.165.66:8088/play/813-BTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",BaliTV
-http://202.150.165.66:8088/play/821-BaliTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Berita Satu
-http://202.150.165.66:8088/play/823-BeritaSatu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Bioskop Indonesia
-http://202.150.165.66:8088/play/107-BioskopIndonesia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",CCTV 4
-http://202.150.165.66:8088/play/330-CCTV4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",CGTN
-http://202.150.165.66:8088/play/601-CGTN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",CGTN Documentary
-http://202.150.165.66:8088/play/232-CGTNDoc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",CNBC Asia
-http://202.150.165.66:8088/play/609-CNBCAsia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",CNBC INDONESIA HD
-http://202.150.165.66:8088/play/803-CNBCIndonesia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",CNN INDONESIA HD 
-http://202.150.165.66:8088/play/802-CNNIndonesia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",CNN International
-http://202.150.165.66:8088/play/600-CNNInter/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Cartoon Network
-http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Cartoon TV
-http://202.150.165.66:8088/play/207-CartoonTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Cartoon TV Premium
-http://202.150.165.66:8088/play/209-CartoonTVPremium/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Cartoonito
-http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Celestial Movies
-http://202.150.165.66:8088/play/108-Celestial/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Channel News Asia
-http://202.150.165.66:8088/play/602-ChannelNewsAsia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Cinema World
-http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Cinemax
-http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",DAAI
-http://202.150.165.66:8088/play/705-DAAI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",DW
-http://202.150.165.66:8088/play/604-DW/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Dunia Anak
-http://202.150.165.66:8088/play/202-DuniaAnak/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Dunia Lain
-http://202.150.165.66:8088/play/326-DuniaLain/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Eat N Go
-http://202.150.165.66:8088/play/325-EatnGo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Euronews
-http://202.150.165.66:8088/play/605-Euronews/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Fashion TV
-http://202.150.165.66:8088/play/306-FashionTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Fight TV
-http://202.150.165.66:8088/play/622-FightTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",France24
-http://202.150.165.66:8088/play/606-France24/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",GTV
-http://202.150.165.66:8088/play/813-GTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Gaming  TV
-http://202.150.165.66:8088/play/305-GamingTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Garuda TV
-http://202.150.165.66:8088/play/824-GarudaTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Golf+
-http://202.150.165.66:8088/play/621-GolfPlus/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",HBO
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",HBO Family
-http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",HBO Hits
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",HBO Signature
-http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Indosiar
-http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Insert
-http://202.150.165.66:8088/play/324-Insert/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Jak TV
-http://202.150.165.66:8088/play/819-JakTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Jowo TV
-http://202.150.165.66:8088/play/327-Jowo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",KBS World
-http://202.150.165.66:8088/play/323-KBSWorld/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Khazanah
-http://202.150.165.66:8088/play/701-Khazanah/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Knowledge+
-http://202.150.165.66:8088/play/233-Knowledge/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",KompasTV
-http://202.150.165.66:8088/play/810-KompasTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",MDTV
-http://202.150.165.66:8088/play/817-MDTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",MNC
-http://202.150.165.66:8088/play/812-MNCTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",MOJI
-http://202.150.165.66:8088/play/815-MOJI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",MetroTV
-http://202.150.165.66:8088/play/805-MetroTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Musik Indonesia
-http://202.150.165.66:8088/play/328-MusikIndonesia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",NHK
-http://202.150.165.66:8088/play/331-NHK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Nabawi TV
-http://202.150.165.66:8088/play/707-Nabawi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",ONE Tv
-http://202.150.165.66:8088/play/395-ONETv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",PSJTV
-http://202.150.165.66:8088/play/625-PSJTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Pijar TV
-http://202.150.165.66:8088/play/706-PijarTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",RCTI
-http://202.150.165.66:8088/play/811-RCTI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",RTV
-http://202.150.165.66:8088/play/818-RTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Russia Today
-http://202.150.165.66:8088/play/607-RussiaToday/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",SCTV
-http://202.150.165.66:8088/play/808-SCTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",SalingSapa TV
-http://202.150.165.66:8088/play/704-SalingSapa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Sports TV
-http://202.150.165.66:8088/play/623-SportsTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",TV5 Monde
-http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",TV9
-http://202.150.165.66:8088/play/703-TV9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",TVMu
-http://202.150.165.66:8088/play/702-TVMu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",TVRI
-http://202.150.165.66:8088/play/814-TVRI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",TVRI Sport
-http://202.150.165.66:8088/play/624-TVRISport/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Thrill
-http://202.150.165.66:8088/play/109-Thrill/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",TvOne
-http://202.150.165.66:8088/play/806-TvOne/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",WION
-http://202.150.165.66:8088/play/wion-113/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Warner  TV
-http://202.150.165.66:8088/play/302-WarnerTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",Zee Bioskop
-http://202.150.165.66:8088/play/110-ZeeBioskop/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",jtv
-http://202.150.165.66:8088/play/820-jtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",tVN
-http://202.150.165.66:8088/play/321-tvN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="TRANSVISI PLAYLIST",tvN Movies
-http://202.150.165.66:8088/play/106-tvNMovies/index.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5179,23 +4997,25 @@ https://live2.jorvakstreamcache.com/live/channel14.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | BADMINTON 2026
 
 #EXTM3U
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://iili.io/fNScJ6J.md.png", 08:00 WIB Kumamoto Masters Japan 202
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://i.imgur.com/xbwqKSz.png", 14:00 WIB Kumamoto Masters Japan 202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=f8914f90453696b5a3e5b5626472ebdc&wsABSTime=1794403905
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://iili.io/fNScJ6J.md.png", 08:00 WIB Kumamoto Masters Japan 202
+https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=23a6cb6710b680123e3381d83ea2542b&wsABSTime=1794408577
+
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://i.imgur.com/xbwqKSz.png", 14:00 WIB Kumamoto Masters Japan 202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=fa16c5b8df65247ad98ce234fb1663c6&wsABSTime=1794403825
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://iili.io/fNScJ6J.md.png", 08:00 WIB Kumamoto Masters Japan 202
+
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://i.imgur.com/xbwqKSz.png", 14:00 WIB Kumamoto Masters Japan 202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=37754c833b34082100b2366606bd3d7f&wsABSTime=1794403955
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://iili.io/fNScJ6J.md.png", 08:00 WIB Kumamoto Masters Japan 202
+
+#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://i.imgur.com/xbwqKSz.png", 14:00 WIB Kumamoto Masters Japan 202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=b6d39a52cb81f367e7b23a6dd9f9f3ba&wsABSTime=1794403991
-
 
 
 
@@ -10287,44 +10107,64 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://iili.io/fNScJ6J.md.png", 08:00 WIB Kumamoto Masters Japan 202
+#EXTINF:-1 group-title="EVENT 012/NOVEMBER/2026" tvg-logo="https://i.imgur.com/xbwqKSz.png", 14:00 WIB Kumamoto Masters Japan 202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=f8914f90453696b5a3e5b5626472ebdc&wsABSTime=1794403905
+https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=23a6cb6710b680123e3381d83ea2542b&wsABSTime=1794408577
 
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://iili.io/fNScJ6J.md.png", 08:00 WIB Kumamoto Masters Japan 202
+#EXTINF:-1 group-title="EVENT 012/NOVEMBER/2026" tvg-logo="https://i.imgur.com/xbwqKSz.png", 14:00 WIB Kumamoto Masters Japan 202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=fa16c5b8df65247ad98ce234fb1663c6&wsABSTime=1794403825
 
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://iili.io/fNScJ6J.md.png", 08:00 WIB Kumamoto Masters Japan 202
+#EXTINF:-1 group-title="EVENT 012/NOVEMBER/2026" tvg-logo="https://i.imgur.com/xbwqKSz.png", 14:00 WIB Kumamoto Masters Japan 202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=37754c833b34082100b2366606bd3d7f&wsABSTime=1794403955
 
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://iili.io/fNScJ6J.md.png", 08:00 WIB Kumamoto Masters Japan 202
+#EXTINF:-1 group-title="EVENT 012/NOVEMBER/2026" tvg-logo="https://i.imgur.com/xbwqKSz.png", 14:00 WIB Kumamoto Masters Japan 202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=b6d39a52cb81f367e7b23a6dd9f9f3ba&wsABSTime=1794403991
 
-=================================
-
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 11 NOV-15;30 WIB |KAMBOJA VS AFGANISTAN|
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
-#https://sw.run/CAMPWIKI-STARTING-SOON-HD
-
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥11 NOV-15;30 WIB |PHILIPINA VS INDONESIA|
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-#https://sw.run/CAMPWIKI-STARTING-SOON-HD
-
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_VIP.3
-http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34327
 
 
 <=================================== LIVE EVENT 2 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥00;00 WIB |TURKI VS BELGIA| be 3us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |ITALIA VS PRANCIS| be 3us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |INGGRIS VS KROASIA| be 2us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |CEKO VS SPANYOL| prim s2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+https://sw.run/CAMPKTR-PRIMA-SPORT2
+
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |ALBANIA VS FINLANDIA| prim s5
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://dokagents.site/live/pr5/mono.m3u8
 
 
 
