@@ -4986,6 +4986,9 @@ https://sw.run/CAMPWIKI-STARTING-SOON-HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 https://vidsemar.pages.dev/terraluna3/19046.mpd
 
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="AFC U17 ASIAN CUP 2027",0️⃣ INDOSIAR 🔥14 NOV-15;00 WIB |INDONESIA VS KAMBOJA| SERVER 2
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
+
 #EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥14 NOV-15;00 WIB |INDONESIA VS KAMBOJA| SEEVER 2
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
@@ -10140,7 +10143,10 @@ https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f2b9f6da4c59b98d
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 https://vidsemar.pages.dev/terraluna3/19046.mpd
 
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥14 NOV-15;00 WIB |INDONESIA VS KAMBOJA| SEEVER 2
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="EVENT 014/NOVEMBER/2026",0️⃣ INDOSIAR 🔥14 NOV-15;00 WIB |INDONESIA VS KAMBOJA| SERVER 2
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
+
+#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥14 NOV-15;00 WIB |INDONESIA VS KAMBOJA| SERVER 3
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 14 NOV-15;00 WIB |MYANMAR VS PHILIPINA|
