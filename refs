@@ -5008,22 +5008,15 @@ https://live2.jorvakstreamcache.com/live/channel21.m3u8
 #EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=9e42854ab5fa11f549cbe2eb694d09f1&wsABSTime=1794414263
+https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=650fe687cb24ce1cbfb40145322f6c2b&wsABSTime=1794764186
 
 #EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=dff878600f53ccaceb01b742dea13387&wsABSTime=1794415759
+https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=731fc9a7f5f77a68ddfcc227352f1e4d&wsABSTime=1794764041
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=c1817b1932a16e57078d312ce27f5f64&wsABSTime=1794414498
 
-#EXTINF:-1 group-title="LIVE | BADMINTON" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f2b9f6da4c59b98d8c310f0625386b33&wsABSTime=1794414455
+
 
 
 
@@ -10116,30 +10109,38 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=9e42854ab5fa11f549cbe2eb694d09f1&wsABSTime=1794414263
+https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=650fe687cb24ce1cbfb40145322f6c2b&wsABSTime=1794764186
 
-EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=dff878600f53ccaceb01b742dea13387&wsABSTime=1794415759
+https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=731fc9a7f5f77a68ddfcc227352f1e4d&wsABSTime=1794764041
 
-EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=c1817b1932a16e57078d312ce27f5f64&wsABSTime=1794414498
+==================================
 
-EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f2b9f6da4c59b98d8c310f0625386b33&wsABSTime=1794414455
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 12:00 WIB Seoul Woori Card vs Cheonan Skywalkers
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0010/atgch9ornmyicau03nmtttukqdzlef385tqe/thlfy7x4lelwursz1dho9mmdzlef385p5v_hls_playlist.m3u8?hdnts=st=1794717991~exp=1794779201~acl=*/atgch9ornmyicau03nmtttukqdzlef385tqe/*~hmac=4e4108707939e3fbb6d817980880a2ccf16098935f6b47ac436ef92622f2a10c
 
+==================================
 
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 21:00 WIB Latvia vs Armenia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-
-
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 21:00 WIB Siprus vs Montenegro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 
@@ -10147,6 +10148,49 @@ https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f2b9f6da4c59b98d
 
 <=================================== LIVE EVENT 2 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+#EXTINF:-1 group-title="EVENT 016/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 00:00 WIB Finlandia vs San Marino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 016/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 00:00 WIB Belarusia vs Albania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 016/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Spanyol vs Inggris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 016/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Belgia vs Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 016/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Kroasia vs Republik Ceko
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Perancis vs Turki
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+
 
 
 
