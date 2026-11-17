@@ -4972,8 +4972,6 @@ https://live1.quickscoreboardz.com/live/channel24/playlist.m3u8?wsSecret=603e14d
 
 
 
-
-
 ========================
 AFC U17 ASIAN CUP 2027
 ========================
@@ -4981,20 +4979,11 @@ AFC U17 ASIAN CUP 2027
 #EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 𝙂𝙍𝙊𝙐𝙋 𝘼
 https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥14 NOV-15;00 WIB |INDONESIA VS KAMBOJA| SERVER 1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-https://vidsemar.pages.dev/terraluna3/19046.mpd
+#EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 17 NOV-15;30 WIB |MYANMAR VS KAMBOJA|
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-EXTINF:-1 xui-id="3" tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="AFC U17 ASIAN CUP 2027",0️⃣ INDOSIAR 🔥14 NOV-15;00 WIB |INDONESIA VS KAMBOJA| SERVER 2
-http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
-
-EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥14 NOV-15;00 WIB |INDONESIA VS KAMBOJA| SEEVER 2
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 14 NOV-15;00 WIB |MYANMAR VS PHILIPINA|
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
+#EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥17 NOV-15;30 WIB |AFGANISTAN VS INDONESIA|
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 
 
@@ -10135,6 +10124,61 @@ https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=f0af326
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel64/playlist.m3u8?wsSecret=e6039f6c72077cfb8bc072578d157a5b&wsABSTime=1794924539
 
+================================
+
+#EXTINF:-1 group-title="EVENT 017/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 17 NOV-15;30 WIB |MYANMAR VS KAMBOJA|
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 group-title="EVENT 017/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥17 NOV-15;30 WIB |AFGANISTAN VS INDONESIA|
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+================================
+
+#EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 13;00 WIB |YAMAN VS MALAYSIA - LAGA PERSAHABATAN|
+https://shorter.me/SUKAN
+
+#EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 17;00 WIB |SINGAPURA VS BRASIL - LAGA PERSAHABATAN|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 19;00 WIB |TIONGKOK VS BAHRAIN - LAGA PERSAHABATAN|
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5md
+
+================================
+
+#EXTINF:-1 tvg-id="AFRICA CUP" group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/e95om51730134202.png", 🔥20;00 WIB |TANZANIA VS NIGERIA - KUALIFIKASI PIALA AFRICA| be 2us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="AFRICA CUP" group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/e95om51730134202.png", 🔥20;00 WIB |MALAWI VS MESIR - KUALIFIKASI PIALA AFRICA| be 3us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="AFRICA CUP" group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/e95om51730134202.png", 🔥23;00 WIB |TOGO VS ALJAZAIR - KUALIFIKASI PIALA AFRICA| be 2us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="AFRICA CUP" group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/e95om51730134202.png", 🔥23;00 WIB |GAMBIA VS PANTAI GADING - KUALIFIKASI PIALA AFRICA| be 3us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
 
 
 
@@ -10142,7 +10186,38 @@ https://live1.quickscoreboardz.com/live/channel64/playlist.m3u8?wsSecret=e6039f6
 <=================================== LIVE EVENT 2 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |WALES VS PORTUGAL - UEFA NATIONS LEAGUE| be 3us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |DENMARK VS NORWEGIA - UEFA NATIONS LEAGUE| be 2us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |POLANDIA VS SWEDIA - UEFA NATIONS LEAGUE| prim s4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |UKRAINA VS GEORGIA - UEFA NATIONS LEAGUE| tv4
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179126
+
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |HUNGARIA VS IRLANDIA UTARA - UEFA NATIONS LEAGUE| prim s3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+https://sw.run/CAMPKTR-PRIMA-SPORT3
+
+#EXTINF:-1 tvg-id="UEFA NATIONS LEAGUE" group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥02;45 WIB |REPUBLIK IRLANDIA VS KOSOVO - UEFA NATIONS LEAGUE| Mon
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 
 
