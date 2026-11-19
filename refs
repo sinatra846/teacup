@@ -9834,29 +9834,40 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 ========================
 PIALA DUNIA U17 QATAR 
 ========================
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:00 WIB |PRANCIS VS HAITI - PIALA DUNIA U-17 2026 QATAR|
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:00 WIB |PRANCIS VS HAITI - PIALA DUNIA U-17 2026 QATAR| SERVER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:00 WIB |PRANCIS VS HAITI - PIALA DUNIA U-17 2026 QATAR| SERVER 2
+https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:00 WIB |KALEDONIA BARU VS EKUADOR - PIALA DUNIA U-17 2026 QATAR|
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:30 WIB |KOREA SELATAN VS UGANDA - PIALA DUNIA U-17 2026 QATAR|
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 21:00 WIB |ARAB SAUDI VS URUGUAY - PIALA DUNIA U-17 2026 QATAR|
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
+https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:00 WIB |MOZAMBIK VS DENMARK - PIALA DUNIA U-17 2026 QATAR|
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
 
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:30 WIB |QATAR VS PANAMA - PIALA DUNIA U-17 2026 QATAR|
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 23:00 WIB |ARGENTINA VS AUSTRALIA - PIALA DUNIA U-17 2026 QATAR|
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 23:00 WIB |MESIR VS YUNANI - PIALA DUNIA U-17 2026 QATAR|
-https://sw.run/CAMPWIKI-STARTING-SOON-HD
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
+
+
+
+
 
 
 
