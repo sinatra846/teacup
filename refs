@@ -9338,10 +9338,6 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 
-
-
-
-
 ========================================== VOD KOREA ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
@@ -9890,7 +9886,21 @@ https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=20b92f0
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=f0af326bf4ea6027a227cf582669bf73&wsABSTime=1794924868
 
+===================================
 
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 🔥19;00 WIB |PERSIB VS SHAN UNITED - KEJUARAAN KLUB ASEAN SHOPEE CUP| SERVER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 🔥19;00 WIB |PERSIB VS SHAN UNITED - KEJUARAAN KLUB ASEAN SHOPEE CUP| SERVER 2
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
+
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 19:00 WIB |SVAY RIENG VS PORTUGAL FC - KEJUARAAN KLUB ASEAN SHOPEE CUP| 
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 19:30 WIB |CONG AN HANOI VS JOHOR DT - KEJUARAAN KLUB ASEAN SHOPEE CUP| prime
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie
 
 
 
