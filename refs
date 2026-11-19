@@ -9902,11 +9902,15 @@ https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=f0af326
 #EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 🔥19;00 WIB |PERSIB VS SHAN UNITED - KEJUARAAN KLUB ASEAN SHOPEE CUP| SERVER 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://nontonlagi.rctiplus.id/abvia/jualanshopee/manifest720.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #https://sw.run/CAMPWIKI-RCTInews
 
 #EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 🔥19;00 WIB |PERSIB VS SHAN UNITED - KEJUARAAN KLUB ASEAN SHOPEE CUP| SERVER 2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
+
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 19:00 WIB |SVAY RIENG VS PORTUGAL FC - KEJUARAAN KLUB ASEAN SHOPEE CUP| 
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001795094893-0-0-9da545a3099e8f9b4b763bec74428b8a
 
 #EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 19:00 WIB |SVAY RIENG VS PORTUGAL FC - KEJUARAAN KLUB ASEAN SHOPEE CUP| 
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
