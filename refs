@@ -4924,20 +4924,16 @@ SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBA
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTM3U
-EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSS SLEMAN VS BHAYANGKARA|
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-#https://sw.run/CAMPWIKI-STARTING-SOON-HD
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |GARUDAYAKSA VS MADURA UNITED - BRI SUPER LEAGUE|
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
-EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |BALI UNITED VS PERSIK KEDIRI|
-https://live2.jorvakstreamcache.com/live/channel22.m3u8
-#https://sw.run/CAMPWIKI-STARTING-SOON-HD
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSS SLEMAN VS AREMA - BRI SUPER LEAGUE|
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
 
-EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |MALUT UNITED VS PERSIB|
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false
-https://live1.quickscoreboardz.com/live/channel17/playlist.m3u8?wsSecret=962de3bb2ba88d72dff55f3e97cb48e8&wsABSTime=1794145313
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |DEWA UNITED VS PERSITA - BRI SUPER LEAGUE|
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
-
+====================
 
 
 ====================
@@ -4980,12 +4976,14 @@ AFC U17 ASIAN CUP 2027
 #EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 𝙂𝙍𝙊𝙐𝙋 𝘼
 https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 17 NOV-15;30 WIB |MYANMAR VS KAMBOJA|
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https:/i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 20 NOV-15;30 WIB |PHILIPINA VS AFGHANISTAN|
+https://live2.jorvakstreamcache.com/live/channel23.m3u8
 
-#EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥17 NOV-15;30 WIB |AFGANISTAN VS INDONESIA|
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 20 NOV-15;00 WIB |SINGAPURA VS PALESTINA|
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
+#EXTINF:-1 group-title="AFC U17 ASIAN CUP 2027" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥20 NOV-15;30 WIB |INDONESIA VS MYANMAR|
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
 
 //========================================================================
@@ -9877,38 +9875,54 @@ https://live2.jorvakstreamcache.com/live/channel14.m3u8
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 1 |17-22 NOV 2026| HONGKONG
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 1 |17-22 NOV 2026| HONGKONG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=8339cb64b80a08e7c4c11fdf2c897db8&wsABSTime=1795016690
 
-#EXTINF:-1 group-title="EVENT 019/NOVEMBER/2026" group-logo="https://i.imgur.com/rwoj60K.png" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 2 |17-22 NOV 2026| HONGKONG
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" group-logo="https://i.imgur.com/rwoj60K.png" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 2 |17-22 NOV 2026| HONGKONG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=e85124ac61a65c20107911d4e4f24c8d&wsABSTime=1794924610
 
-#EXTINF:-1 group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 3 |17-22 NOV 2026| HONGKONG
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 3 |17-22 NOV 2026| HONGKONG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=20b92f0a70452db7487681cb1b738722&wsABSTime=1794924790
 
-#EXTINF:-1 group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 4 |17-22 NOV 2026| HONGKONG
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 4 |17-22 NOV 2026| HONGKONG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=f0af326bf4ea6027a227cf582669bf73&wsABSTime=1794924868
 
 ===================================
 
-EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 🔥19;00 WIB |PERSIB VS SHAN UNITED - KEJUARAAN KLUB ASEAN SHOPEE CUP| SERVER 2
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
-EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 19:00 WIB |SVAY RIENG VS PORTUGAL FC - KEJUARAAN KLUB ASEAN SHOPEE CUP| 
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001795094893-0-0-9da545a3099e8f9b4b763bec74428b8a
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 20 NOV-15;30 WIB |PHILIPINA VS AFGHANISTAN|
+https://live2.jorvakstreamcache.com/live/channel23.m3u8
 
-EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 19:00 WIB |SVAY RIENG VS PORTUGAL FC - KEJUARAAN KLUB ASEAN SHOPEE CUP| 
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" group-logo="https://i.imgur.com/GjJeFFy.png" tvg-logo="https://i.imgur.com/GjJeFFy.png", 20 NOV-15;00 WIB |SINGAPURA VS PALESTINA|
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
-EXTINF:-1 tvg-id="SHOPEE CUP" group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://i.imgur.com/I8OGFYn.png", 19:30 WIB |CONG AN HANOI VS JOHOR DT - KEJUARAAN KLUB ASEAN SHOPEE CUP| prime
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://i.imgur.com/GjJeFFy.png", 🔥20 NOV-15;30 WIB |INDONESIA VS MYANMAR|
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="EVENT 020/NOVEMBER/2026",0️⃣ INDOSIAR (🤖SPM) 20 NOV-15;30 WIB |INDONESIA VS MYANMAR|
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
+
+===================================
+
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |GARUDAYAKSA VS MADURA UNITED - BRI SUPER LEAGUE|
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
+
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSS SLEMAN VS AREMA - BRI SUPER LEAGUE|
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
+
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |DEWA UNITED VS PERSITA - BRI SUPER LEAGUE|
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+
+
+
 
 
 
