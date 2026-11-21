@@ -9860,36 +9860,24 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 ========================
 PIALA DUNIA U17 QATAR 
 ========================
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:00 WIB |PRANCIS VS HAITI - PIALA DUNIA U-17 2026 QATAR| SERVER 1
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 19:30 WIB |JEPANG VS KOLOMBIA - PIALA DUNIA U-17 2026 QATAR| fs 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:00 WIB |PRANCIS VS HAITI - PIALA DUNIA U-17 2026 QATAR| SERVER 2
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 19:30 WIB |SERBIA VS HONDORUS - PIALA DUNIA U-17 2026 QATAR| cctv5
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5md
 
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:00 WIB |KALEDONIA BARU VS EKUADOR - PIALA DUNIA U-17 2026 QATAR|
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:00 WIB |BRASIL VS IRLANDIA - PIALA DUNIA U-17 2026 QATAR| SERVER 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:30 WIB |KOREA SELATAN VS UGANDA - PIALA DUNIA U-17 2026 QATAR|
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 21:00 WIB |ARAB SAUDI VS URUGUAY - PIALA DUNIA U-17 2026 QATAR|
-https://live2.jorvakstreamcache.com/live/channel9.m3u8
-
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:00 WIB |MOZAMBIK VS DENMARK - PIALA DUNIA U-17 2026 QATAR|
-https://live2.jorvakstreamcache.com/live/channel17.m3u8
-
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:30 WIB |QATAR VS PANAMA - PIALA DUNIA U-17 2026 QATAR|
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
-
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 23:00 WIB |ARGENTINA VS AUSTRALIA - PIALA DUNIA U-17 2026 QATAR|
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 23:00 WIB |MESIR VS YUNANI - PIALA DUNIA U-17 2026 QATAR|
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:30 WIB |MEKSIKO VS RUMANIA - PIALA DUNIA U-17 2026 QATAR|
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
+https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=2fb0b1ff172f840cf2a6f74c55854369&wsABSTime=1795296208
 
 
 
@@ -9988,6 +9976,30 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥21;00 WIB |COMO VS CAGLIARI - SERIE A ITALIA| prime2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
 
+===================================
+
+#EXTINF:-1 tvg-id="EREDIVISIE" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥22;30 WIB |NEC VS PSV - EREDIVISIE| fuss
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+===================================
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |UNION BERLIN VS RB LEIPZIG - BUNDESLIGA| mbc
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |M'GLADBACH VS DORTMUND - BUNDESLIGA| set 2
+http://stream.mcquack.net/235/index.m3u8
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |BAYER LEVERKUSEN VS PADERBORN - BUNDESLIGA| 
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+ 
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |EINTRACHT FRANKFURT VS HOFFENHEIM - BUNDESLIGA|
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
 
 
@@ -10037,6 +10049,35 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+=================================
+
+#EXTINF:-1 tvg-id="EREDIVISIE" group-title="EVENT 022/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥00;45 WIB |UTRECHT VS CAMBUUR - EREDIVISIE| espn3
+https://sw.run/CAMPWIKI-ESPN3
+
+#EXTINF:-1 tvg-id="EREDIVISIE" group-title="EVENT 022/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥00;45 WIB |FEYENOORD VS EXCELSIOR - EREDIVISIE| fuss
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+=================================
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 022/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥00;30 WIB |SCHALKE VS STUTTGART - BUNDESLIGA| rcti
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+=================================
+
+#EXTINF:-1 tvg-id="MLS" group-title="EVENT 022/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png", 🔥06;00 WIB |INTER MIAMI VS COLOMBUS CREW - MAJOR LEAGUE SOCCER|
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+
+
+
+
 
 
 
