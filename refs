@@ -4949,17 +4949,15 @@ SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBA
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PERSEBAYA VS MALUT UNITED - BRI SUPER LEAGUE|
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |ISEN MULANG VS BORNEO FC - BRI SUPER LEAGUE|
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel62/off-tvc?is_off_add=false
+https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=86a33e7cca6ad6ffb5e661b3d0e72897&wsABSTime=1795377917
 
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PERSIK KEDIRI VS PSIM YOGYAKARTA - BRI SUPER LEAGUE|
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PSM MAKASSAR VS PERSIJA - BRI SUPER LEAGUE|
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |BHAYANGKARA VS PERSIJAP - BRI SUPER LEAGUE|
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PERSIB VS BALI UNITED - BRI SUPER LEAGUE|
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel62/off-tvc?is_off_add=false
+https://live2.tanrixstreamorigin.com/live/channel7.m3u8
 
 
 
@@ -9889,7 +9887,7 @@ https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=2fb0b1f
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 1 |17-22 NOV 2026| HONGKONG
+#EXTINF:-1 group-title="EVENT 02/NOVEMBER/2026" tvg-logo="https://i.imgur.com/rwoj60K.png", COURT 1 |17-22 NOV 2026| HONGKONG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=8339cb64b80a08e7c4c11fdf2c897db8&wsABSTime=1795016690
@@ -9911,95 +9909,26 @@ https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=f0af326
 
 ===================================
 
-#EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PERSEBAYA VS MALUT UNITED - BRI SUPER LEAGUE|
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
-
-#EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PERSIK KEDIRI VS PSIM YOGYAKARTA - BRI SUPER LEAGUE|
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PSM MAKASSAR VS PERSIJA - BRI SUPER LEAGUE|
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-#EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |BHAYANGKARA VS PERSIJAP - BRI SUPER LEAGUE|
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
-
-===================================
-
-#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥19;00 WIB |MANCHESTER CITY VS FULHAM - PREMIER LEAGUE| Tn1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥22;00 WIB |TOTTENHAM VS IPSWICH - PREMIER LEAGUE| daz 2
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |ISEN MULANG VS BORNEO FC - BRI SUPER LEAGUE|
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel62/off-tvc?is_off_add=false
+https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=86a33e7cca6ad6ffb5e661b3d0e72897&wsABSTime=1795377917
 
-#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥22;00 WIB |COVENTRY CITY VS CRYSTAL PALACE - PREMIER LEAGUE| ast
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥22;00 WIB |CHELSEA VS LEEDS UNITED - PREMIER LEAGUE| daz 1
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PERSIB VS BALI UNITED - BRI SUPER LEAGUE|
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
-
-#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png", 🔥22;00 WIB |BOURNEMOUTH VS NOTTINGHAM - PREMIER LEAGUE| fab
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE LEAGUE" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",🔥22;00 WIB - |ASTON VILLA VS SUNDERLAND - PREMIER LEAGUE| max
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel62/off-tvc?is_off_add=false
+https://live2.tanrixstreamorigin.com/live/channel7.m3u8
 
 
-===================================
 
-#EXTINF:-1 tvg-id="LALIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥20;00 WIB |DEPORTIVO ALAVES VS DEPORTIVO LA CORUNA - LALIGA| prem S1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
 
-#EXTINF:-1 tvg-id="LALIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥22;15 WIB |RAYO VALLECANO VS VALENCIA - LALIGA| prim s2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-https://sw.run/CAMPKTR-PRIMA-SPORT2
 
-===================================
 
-#EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥21;00 WIB |LAZIO VS LECCE - SERIE A ITALIA| be 2us
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥21;00 WIB |COMO VS CAGLIARI - SERIE A ITALIA| prime2
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
 
-===================================
 
-#EXTINF:-1 tvg-id="EREDIVISIE" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥22;30 WIB |NEC VS PSV - EREDIVISIE| fuss
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-===================================
 
-#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |UNION BERLIN VS RB LEIPZIG - BUNDESLIGA| mbc
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
-
-#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |M'GLADBACH VS DORTMUND - BUNDESLIGA| set 2
-http://stream.mcquack.net/235/index.m3u8
-
-#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |BAYER LEVERKUSEN VS PADERBORN - BUNDESLIGA| 
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
- 
-#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |EINTRACHT FRANKFURT VS HOFFENHEIM - BUNDESLIGA|
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
 
 
