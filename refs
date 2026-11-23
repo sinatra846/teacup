@@ -9366,7 +9366,7 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Mexico)
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
-#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Portuguese)
+#EXTINF:-1 tvg-name="FIFA+" tvg-eelogo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Portuguese)
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Spain)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
@@ -9385,6 +9385,13 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
 #EXTM3U
+
+#EXTINF:-1 tvg-name="theintern" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGYcoiUQXAarAg30EuZHfU2iprKQDMXsSDOQ65D0GgQ&s" group-title="VOD | KOREAN MOVIE",THE INTERN (2026)
+https://stream.playcdn.de/playlist/83521076bbb4ee65b3a7d0b54548d3f8/1/0.m3u8?x=1
+#EXTINF:-1 tvg-name="possiblelove" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Uiac_nSMbHT3Sp1sMEO2vxIFe3CsP549m8GxK_HbAQ&s=10" group-title="VOD | KOREAN MOVIE",POSSIBLE LOVE (2026)
+https://stream.playcdn.de/playlist/5a29d0d804f4b155cd5301ecfd41f8d4/1/0.m3u8?x=1
+#EXTINF:-1 tvg-name="mr.shotas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzeOJ2kDgGD1Ryr9p4TiThfPlGLulaRHQ7A8HGUEF0A&s=10" group-title="VOD | KOREAN MOVIE",MR. SHOTA'S LAST BUSINESS TRIP (2026)
+https://stream.playcdn.de/playlist/2d70e76bc6d09471a43f0a116b41c38d/1/0.m3u8?x=1
 #EXTINF:-1 tvg-name="highfive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7D6WE7xLQoVvgYjv_6kxld_R-0hLXo3XvDZhAaJU5w&s=10" group-title="VOD | KOREAN MOVIE",HIGH FIVE AKA HI FIVE (2025)
 https://stream.playcdn.de/playlist/82bb3991f1783cd55ea34932de8f3024/4/480.m3u8?x=1
 #EXTINF:-1 tvg-name="virus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8iogH7gy6lCc3heliF2-tG7BUQKUQINl3CG7JFbPO5g&s=10" group-title="VOD | KOREAN MOVIE",VIRUS AKA BAIREOSEU (2025)
@@ -9412,25 +9419,25 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/MAN1.m
 #EXTINF:-1 tvg-id="tkw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9wUuL5fwnnxi9du0oeoJRWlFe5GFbmP40D2HmYIW5u5PNslffh3ECqM&s=10" group-title="VOD | KOREAN MOVIE ",THE KING’S WARDEN
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20King%E2%80%99s%20Warden2.m3u8
 #EXTINF:-1 tvg-id="py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ABnm-gg8y_ZIGV-SY8W61fxlXkkHvtEyJjukY8Kv9w&s=10" group-title="VOD | KOREAN MOVIE ",PROJECT Y
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PROJECT%20Y%203.m3u8
+https://stream.playcdn.de/playlist/82c603964cba846ec01ea59fc9b9ae52/2/480.m3u8?x=1
 #EXTINF:-1 tvg-id="tu" tvg-logo="https://down-id.img.susercontent.com/file/id-11134207-8224t-mh25pufv14i37c" group-title="VOD | KOREAN MOVIE ",THE UGLY
-https://pixeldrain.com/api/file/dhVuQptM?download
+https://stream.playcdn.de/playlist/f3c2a269023c1ce3db8658e252bd12b3/2/480.m3u8?x=1
 #EXTINF:-1 tvg-id="thefirstride" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/First_Ride_film_poster.jpg/250px-First_Ride_film_poster.jpg" group-title="VOD | KOREAN MOVIE", THE FIRST RIDE
-https://pixeldrain.com/api/file/eCQmmExF?download
+https://stream.playcdn.de/playlist/c17fc1116a190930e6887e0ef7891fd8/2/480.m3u8?x=1
 #EXTINF:-1 tvg-id="boss9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8L4-FeLBhrikOID4G5Gd2FMUEpXYut0-kigErkkVxqqJfhbMH8gJZMb&s=10" group-title="VOD | KOREAN MOVIE",BOSS
-https://pixeldrain.com/api/file/wLbZkiv3?download
+https://stream.playcdn.de/playlist/055842f5d1028916a1b4143bbbab0bc1/2/480.m3u8?x=1
 #EXTINF:-1 tvg-id="jeongbongwon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAF-PPxR8uZH5Wb5HpQ8E8Ry7Sx9RmNQY8VG2XGiXjJLfAZ2o-FH-PkuU&s=10" group-title="VOD | KOREAN MOVIE",JEONGBOWON 
-https://pixeldrain.com/api/file/DXnyTY5J?download
+https://stream.playcdn.de/playlist/928af06aba9c0e5bfb0e9f8a289e8ba2/2/480.m3u8?x=1
 #EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
-https://pixeldrain.com/api/file/KVx1XLSV?download
+https://stream.playcdn.de/playlist/c0ca148913d24b9f8539546c30b80ba6/2/480.m3u8?x=1
 #EXTINF:-1 tvg-id="sgr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GfMORRTU7IUaBVZB_cWqrb41MKPVn3kCwrP8un9-2w&s=10" group-title="VOD | KOREAN MOVIE ",SUGAR
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SUGAR3.m3u8
+https://stream.playcdn.de/playlist/f6f0585f2746cc340121ecbd7184ddbc/2/480.m3u8?x=1
 #EXTINF:-1 tvg-id="twol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXFceXJrZcxOOvpVIDPWouHv0S7thyNAn62CSTYyjOg&s=10" group-title="VOD | KOREAN MOVIE ",THE WORLD OF LOVE
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20World%20of%20Love3.m3u8
+https://stream.playcdn.de/playlist/06099c831c98c837e53c6e2afb902e7f/2/480.m3u8?x=1
 #EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SALMOKJI2.m3u8
 #EXTINF:-1 tvg-id="clny" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFd3GErzAVpEskY9BZwSX5yNgJ4aSAPs9jOGNhv_y9w&s" group-title="VOD | KOREAN MOVIE",COLONY
-https://pixeldrain.com/api/file/2pSX7nYG?download
+https://stream.playcdn.de/playlist/376543dc6374ddd87ece2c873c4e17ab/2/480.m3u8?x=1
 #EXTINF:-1 tvg-id="sstr" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/2/7/8/2/7/5/1278275-sister-2026-0-230-0-345-crop.jpg?v=6e0527c44e" group-title="VOD | KOREAN MOVIE",SISTER
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SISTER.m3u8
 #EXTINF:-1 tvg-id="mdiaz" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2YjMxNjQtY2ZlOC00Nzg5LWI5YjUtMWVhMzY4YWZmNmE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",MY DAUGHTER IS A ZOMBIE
@@ -9440,15 +9447,19 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20
 
 
 
-========================================== ERR ===========================================
+========================================== VOD JAPANESE ===========================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
-##EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
-##EXTINF:-1 tvg-id="onlygod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Only_God_Knows_Everything_poster.jpg/250px-Only_God_Knows_Everything_poster.jpg" group-title="VOD | KOREAN MOVIE",ONLY GOD KNOWS EVERYTHING
-##EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
-##EXTINF:-1 tvg-id="eildftwt" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31896285_v_v8_ab.jpg" group-title="VOD | KOREAN MOVIE",Even if This Love Disappears from the World Tonight (2025)
-##EXTINF:-1 tvg-id="stream10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWTAYUPoKIO4-5kTDJYJuy8v-l4Lt-Skm0cuY3ku1A&s=10" group-title="VOD | KOREAN MOVIE",Streaming ( 2025 )
-##EXTINF:-1 tvg-id="oncewewere" tvg-logo="https://cdns.klimg.com/resized/670x/p/paging/film-once-we-were-us-2026-sinopsis-1-8392b.jpg" group-title="VOD | KOREAN MOVIE",Once We Were Us (2026)
-##EXTINF:-1 tvg-id="noparking" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3ODg3ZjMtNDYzYi00MmYxLTg3MDgtMTFlYzI4ZGQwNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",NO PARKING ( 2025 )
+
+#EXTINF:-1 tvg-id="kyojo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7uJDVij96F7vVL-zmKobOpRytfau3ffiJAk1jZN1vw&s=10" group-title="VOD | JAPANESE MOVIE",KYOJO: REUNION (2026)
+https://stream.playcdn.de/playlist/6db3bb6acb73265fbd6c50d5dcf90b71/2/480.m3u8?x=1
+#EXTINF:-1 tvg-id="angelf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJkItLIARzlDTfvNa1IydZA2ql__k7ywqhgkpkmhXABg&s=10" group-title="VOD | JAPANESE MOVIE",ANGEL FLIGHT THE MOVIE (2026)
+https://stream.playcdn.de/playlist/74f7d1e0d0fc9c7f10207a2b2ccb3cf9/2/480.m3u8?x=1
+#EXTINF:-1 tvg-id="goldenkamuy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoZxFQuq3YSziK6hJbW9Vp9New0h8aZ4PoljpI44b5ew&s=10" group-title="VOD | JAPANESE MOVIE",GOLDEN KAMUY: ASSAULT ON ABASHIRI PRISON (2026)
+https://stream.playcdn.de/playlist/ed84a4547e682ff21be9729cffa54f00/2/480.m3u8?x=1
+#EXTINF:-1 tvg-id="theconvenience" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAVUNxA0bxgVrQolpxlf80BBKp7wa4_B9zLSpjmdSWpw&s=10" group-title="VOD | JAPANESE MOVIE",THE CONVENIENCE STORE (2026)
+https://stream.playcdn.de/playlist/dab21e77fff672c7970e5481013314be/2/480.m3u8?x=1
+
 
 
 
@@ -9797,44 +9808,6 @@ https://pixeldrain.com/api/file/fGc4XLNS?download
 
 
 
-
-
-
-
-
-=================err=================
-
-##EXTINF:-1 tvg-id="tcjr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS070r7qx-L3ehGhWgvWNsPI0gjr_K1Tsvyk4UIcVBhdMwkIvzDchqvlg-r&s=10" group-title="VOD | ACTION MOVIE",TOM CLANCY’S JACK RYAN: GHOST WAR
-https://edge1-frankfurt-sprintcdn.owphbf24.com/hls2/01/11326/lidqaj37k1cy_h/index-v1-a1.m3u8?t=LkUX6E_xKq-FqiJALpGC2JAowIedctnfRzAPvy868d8&s=1782348194&e=10800&f=56630453&srv=1065&asn=&sp=4000&p=0
-
-##EXTINF:-1 tvg-id="mk2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSilWwbL7jFe-BL3SHupC-FH5ani9FT7kPcdOyzKP20Lw&s=10" group-title="VOD | ACTION MOVIE",MORTAL KOMBAT II (2026)
-https://edge1-frankfurt-sprintcdn.owphbf24.com/hls2/08/11336/92l94uilenks_h/index-v1-a1.m3u8?t=vnWSX8KbQm2DhZGtWt0fBKQuvoOvkfWmvhT9TjSCT6c&s=1782348119&e=10800&f=56684356&srv=1065&asn=&sp=4000&p=0
-
-##EXTINF:-1 tvg-id="pskl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJfTFB5ZdQRYeV2ebqlZqCKHlRtj6P9NuZN9P5Mwq_0neoHA8Bn0X-CY&s=10" group-title="VOD | ACTION MOVIE",PASAKALYE
-https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/04/11244/fod7e5bzyetq_h/index-v1-a1.m3u8?t=DwtnIagxEKBTV9YjCTVgMpsCB7XhvWm14ANgNWWvyCY&s=1782348370&e=10800&f=56223658&srv=1070&asn=&sp=4000&p=0
-
-##EXTINF:-1 tvg-id="tfb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBdlpHtj8BVyhWRw_bMeBMh-are2WL2iYeFy9dct7kBHK6srQW7UhIf9I&s=10" group-title="VOD | ACTION MOVIE",THE FINAL BATTLE
-https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/02/11351/k1s2zcaoq3ng_h/index-v1-a1.m3u8?t=SNcQUokoIRBdbqGRW_QnVnYJ4Qg0WqZpgApzC90lUkY&s=1782347941&e=10800&f=56756637&srv=1070&asn=&sp=4000&p=0
-
-##EXTINF:-1 tvg-id="fze" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjL26ZJE_Dik9JaDqdpw2eMCGP2BEEd_M9Dil7v6lteBPJI5vXMVtsLTWMhSelVid2YCu0J7cx7mk9_vHRRRpEwUMniWRjC2hxfJyDSQ&s=10" group-title="VOD | ACTION MOVIE",FUZE
-https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/05/11383/ilpklu7adqto_h/index-v1-a1.m3u8?t=qv-vN1_eo5es8TP5cMbjPAerpfWAGoJAo1IWo8CZaGA&s=1782347692&e=10800&f=56918607&srv=1065&asn=&sp=4000&p=0
-
-
-========================================= ERR ===========================================
-
-
-##EXTINF:-1 tvg-id="twky" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/00/They_Will_Kill_You_film_poster.jpg" group-title="VOD | ACTION MOVIE",THEY WILL KILL YOU
-##EXTINF:-1 tvg-id="smc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaeSiI7Y2Tp7tcX9YRwIwiVbxlaWEHw1ASKsV-RXW5A&s=10" group-title="VOD | ACTION MOVIE ",SNAKE 5: MONSTER CITY
-##EXTINF:-1 tvg-id="mxcl" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcyNmIwY2UtZTUzNC00Zjk0LWIzNTAtMmNiYWQ1NWIzNzk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",MEXICALI
-##EXTINF:-1 tvg-id="wm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgxgmX1qHmfTLd6q3nMwixlbw8StcPUF9mvClm6xPzBDszK8UE1h3VxP_&s=10" group-title="VOD | ACTION MOVIE",WAR MACHINE
-
-
-##EXTINF:-1 tvg-id="prst" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUlnr-FctrJdqew9rxfD796purmMeECC3bks4v8E9DA&s" group-title="VOD | ACTION MOVIE",PARASAKTHI
-##EXTINF:-1 tvg-id="dtr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_w7DLMuzAn8otLc025_i1f0R0rkx8nN9YOcU5ViH_ww&s=10" group-title="VOD | ACTION MOVIE",DHURANDHAR: THE REVENGE (2026)
-##EXTINF:-1 tvg-id="nwbfsn" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY1NDJjZWYtMGI5MC00OTU0LThkZTEtNjEzODkyMDI5YTFhXkEyXkFqcGc@._V1_.jpg" group-title="VOD | ACTION MOVIE",NINJA WARS - BLACK FOX VS SHOGUN'S NINJA
-
-
-
 ========================================== VOD KIDS ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
@@ -9878,20 +9851,34 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 PIALA DUNIA U17 QATAR 
 ========================
 
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 19:30 WIB |DENMARK VS AUSTRALIA - PIALA DUNIA U-17 2026 QATAR| fs 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:30 WIB |PRANCIS VS ARAB SAUDI - PIALA DUNIA U-17 2026 QATAR| mono
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-
-EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:30 WIB |ARGENTINA VS MOZAMBIK - PIALA DUNIA U-17 2026 QATAR| tud
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 19:30 WIB |SPANYOL VS FIJI - PIALA DUNIA U-17 2026 QATAR| tud
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:30 WIB |SENEGAL VS KUBA - PIALA DUNIA U-17 2026 QATAR| fox on
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
+https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
+
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 21:30 WIB |ITALIA VS PANTAI GADING - PIALA DUNIA U-17 2026 QATAR| fox on
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
+https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
+
+#EXTINF:-1 tvg-id="PIALA DUNIA U17"  group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:00 WIB |MAROKO VS CHINA - PIALA DUNIA U-17 2026 QATAR| tud
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:30 WIB |MALI VS BELGIA - PIALA DUNIA U-17 2026 QATAR| fox on
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
+https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
+
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:30 WIB |VIETNAM VS SELANDIA BARU - PIALA DUNIA U-17 2026 QATAR|
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
 
 
 
