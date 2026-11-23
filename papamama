@@ -1,8 +1,28 @@
 
-################# HBO MAX #######################################3
+################# 🎬 FILM UNGGULAN HARI INI #######################################3
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD STREAM
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-back-game-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Back In the Game
+https://stream.playcdn.de/playlist/3b525bc3c860a029867eb5dcee0c319c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-scary-movie-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Scary Movie
+https://stream.playcdn.de/playlist/17afd61723aaa111c3b88732aeded864/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2017/05/film-guardians-of-the-galaxy-vol-2-2017.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Guardians of the Galaxy Vol. 2
+https://stream.playcdn.de/playlist/096418cf5068a62cd95b31772aed010b/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2017/01/film-hacksaw-ridge-2016.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Hacksaw Ridge
+https://stream.playcdn.de/playlist/56d371a4f8b4ad7094b269927cfac49e/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-convenience-store-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Convenience Store
+https://stream.playcdn.de/playlist/dab21e77fff672c7970e5481013314be/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/02/film-captain-america-brave-new-world-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: Brave New World
+https://stream.playcdn.de/playlist/1a8dbadf04e48afb78fb10fbcdff2c82/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/01/film-john-wick-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", John Wick
+https://stream.playcdn.de/playlist/3d5c498793a84280980ead6c6346b526/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/02/film-housemaid-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Housemaid
+https://stream.playcdn.de/playlist/49e9f57bfa8e001c52febaf25d2073c5/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-paralysis-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Paralysis
+https://stream.playcdn.de/playlist/1322b338048ba3d9e381543ba688688b/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2023/01/film-black-panther-wakanda-forever-2022-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Black Panther: Wakanda Forever
+https://stream.playcdn.de/playlist/bdd525438c5765d9f56d1bd133581510/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/07/film-shame-2011.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Shame
 https://stream.playcdn.de/playlist/a23028dc2b415bd19759956a8d324b7f/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/05/film-the-mechanic-2011.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Mechanic
