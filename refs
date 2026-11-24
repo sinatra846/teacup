@@ -3181,10 +3181,16 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true",🆕MENTARI TV (V1)
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true",🆕MENTARI TV (V1)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | INDONESIA",🆕MENTARI TV (V2)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -3344,8 +3350,15 @@ https://vidsemar.pages.dev/terraluna3/205.mpd
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V2)
+###EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR
 https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
+##https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 #EXTINF: -1 tvg-logo="" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V3)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -4958,8 +4971,6 @@ SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBA
 
 
 
-
-
 ========== BRI LIGA 1 ===========
 #EXTINF:-1 tvg-id="auto.coming" group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-name="COMING SOON VIDEO" tvg-logo="https://i.imgur.com/vzXPJsq.png",COMING SOON 2026-2027
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -5032,12 +5043,6 @@ https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
 
 
-
-
-
-
-
-
 //========================================================================
 // LIVE | BADMINTON
 //========================================================================
@@ -5070,13 +5075,6 @@ https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=8339cb6
 
 
 
-
-
-
-
-
-
-
 ============================================================================
 
 KOVO CUP 2026
@@ -5090,6 +5088,20 @@ KOVO CUP 2026
 
 ========== TENNIS | CHANNEL ===========
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",TENNIS | CHANNEL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="TENNIS | CHANNEL",Tennis Channel
+https://adptv1.mediaflow.workers.dev/stream.m3u8?id=18111
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="TENNIS | CHANNEL",TENNIS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/1280px-DD_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="TENNIS | CHANNEL",DD Sports TENNIS
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTINF:-1 tvg-id="0" group-title="TENNIS | CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png",SP - TENNIS PLUS 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -9489,6 +9501,39 @@ https://stream.playcdn.de/playlist/7667b2c6d17591616e49907a16cfe101/1/0.m3u8?x=1
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-cocote-tonggo-2025_890_490.webp" group-title="VOD | INDONESIAN MOVIE",COCOTE TONGGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer="https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvemdkLUk5bi1xU3ItS25nL21hc3Rlci5tM3U4"}
+https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
+#EXTINF:-1 group-title="MOVIE INDO" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Demi Si Buah Hati
+https://pixeldrain.com/api/file/c57W6uEZ?download
+
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_ywg83EyRx0w6FIq4JOJ8hKRrdDd2mTBCeYm_aap2A&s=10",Hamka & Siti Raham Vol. 2
+https://pixeldrain.com/api/file/ZQVckcfF?download
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Imam Tanpa Makmum
+https://pixeldrain.com/api/file/JKM91MwQ?download
+#EXTINF:-1 tvg-logo="https://yogya.co/wp-content/uploads/poster-kabut-berduri.webp" group-title="VOD | INDONESIAN MOVIE",KABUT BERDURI
+https://www.googleapis.com/drive/v3/files/19SnBFl1Xo3urKqQKc_1rMv7dxCiM9sd9?alt=media&key=AIzaSyDDCC8bru6M3f-tKoGp-0DHNgXG4nSTeqM
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Kutukan Sembilan Setan
+https://pixeldrain.com/api/file/smj56rTF?download
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Monster
+https://pixeldrain.com/api/file/kzy3h67F?download
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Pasutri Gaje
+https://pixeldrain.com/api/file/6sQfgr9z?download
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Pemandi Jenazah
+https://pixeldrain.com/api/file/Zb5Seo99?download
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Perjalanan Pembuktian Cinta
+https://pixeldrain.com/api/file/xvpzbndd?download
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Petualangan Sherina 2
+https://pixeldrain.com/api/file/iLy76oSv?download
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2OoMEFO53_A/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SAUR SEPUH V - ISTANA ATAP LANGIT
+https://filmovie.github.io/film/urt/hu76i.m3u8
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Sewu Dino
+https://pixeldrain.com/api/file/RAo1H7gc?download
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Sujud Terakhir Bapak
+https://pixeldrain.com/api/file/dwi7mgXX?download
+#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Surga Di Bawah Langit
+https://pixeldrain.com/api/file/wbFWgdQ1?download
 #EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-sadali-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",SADALI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsadali.m3u8
