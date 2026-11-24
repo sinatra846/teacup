@@ -4997,14 +4997,13 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4
 _______________________
 
 #EXTINF:-1 group-title="I LEAGUE CUP 2026/2027" tvg-logo="https://i.imgur.com/otWPNVy.png", 19:00 WIB |BHAYANGKARA VS SEMEN PADANG - I LEAGUE CUP|
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
+https://live200.kravonstreamdelivery.com/live/channel8.m3u8
 
 #EXTINF:-1 group-title="I LEAGUE CUP 2026/2027" tvg-logo="https://i.imgur.com/otWPNVy.png", 19:00 WIB |MADURA UNITED VS PERSELA - I LEAGUE CUP|
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
- 
-#EXTINF:-1 group-title="I LEAGUE CUP 2026/2027" tvg-logo="https://i.imgur.com/otWPNVy.png", 20:30 WIB |PERSIRAJA BANDA ACEH VS DEWA UNITED - I LEAGUE CUP|
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
+https://live200.kravonstreamdelivery.com/live/channel24.m3u8
 
+#EXTINF:-1 group-title="I LEAGUE CUP 2026/2027" tvg-logo="https://i.imgur.com/otWPNVy.png", 20:30 WIB |PERSIRAJA BANDA ACEH VS DEWA UNITED - I LEAGUE CUP|
+https://live200.kravonstreamdelivery.com/live/channel12.m3u8
 
 
 ========================
@@ -9871,33 +9870,14 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 PIALA DUNIA U17 QATAR 
 ========================
 
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 19:30 WIB |SPANYOL VS FIJI - PIALA DUNIA U-17 2026 QATAR| tud
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 19:30 WIB |KOSTA RIKA VS IRLANDIA - PIALA DUNIA U-17 2026 QATAR| 
+https://live200.kravonstreamdelivery.com/live/channel23.m3u8
 
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:30 WIB |SENEGAL VS KUBA - PIALA DUNIA U-17 2026 QATAR| fox on
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
-https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
+#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 19:30 WIB |VENEZUELA VS RUMANIA - PIALA DUNIA U-17 2026 QATAR| 
+https://live200.kravonstreamdelivery.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 21:30 WIB |ITALIA VS PANTAI GADING - PIALA DUNIA U-17 2026 QATAR| fox on
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
-https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
 
-#EXTINF:-1 tvg-id="PIALA DUNIA U17"  group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:00 WIB |MAROKO VS CHINA - PIALA DUNIA U-17 2026 QATAR| tud
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:30 WIB |MALI VS BELGIA - PIALA DUNIA U-17 2026 QATAR| fox on
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
-https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
-
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:30 WIB |VIETNAM VS SELANDIA BARU - PIALA DUNIA U-17 2026 QATAR|
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 
 
@@ -9912,7 +9892,7 @@ https://live200.kravonstreamdelivery.com/live/channel8.m3u8
 https://live200.kravonstreamdelivery.com/live/channel24.m3u8
 
 #EXTINF:-1 group-title="EVENT 024/NOVEMBER/2026" tvg-logo="https://i.imgur.com/otWPNVy.png", 20:30 WIB |PERSIRAJA BANDA ACEH VS DEWA UNITED - I LEAGUE CUP|
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
+https://live200.kravonstreamdelivery.com/live/channel12.m3u8
 
 ===================================
 
