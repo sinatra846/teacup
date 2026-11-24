@@ -3646,23 +3646,18 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="Jawapos TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/jwps.png?raw=true",Jawapos TV Jakarta
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260911_072640.png?raw=true" group-title="CHANNEL | DAERAH",BIOSKOP INDONESIA (TRANS2)
+EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260911_072640.png?raw=true" group-title="CHANNEL | DAERAH",BIOSKOP INDONESIA (TRANS2)
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=026
-#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/bli.png?raw=true" group-title="CHANNEL | DAERAH",BALI TV (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/bndg.png?raw=true" group-title="CHANNEL | DAERAH", Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/829dbdfe0b57013.m3u8
+
+#EXTINF:-1 tvg-id="BaliTV.id@SD" group-title="CHANNEL | DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_balitv.png",Bali TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/balitv/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/brtv.png?raw=true" group-title="CHANNEL | DAERAH", BRTV
@@ -3673,34 +3668,33 @@ http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/chjwo.png?raw=true" group-title="CHANNEL | DAERAH", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/dta.png?raw=true", DUTA TV
+##EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/dta.png?raw=true", DUTA TV
 http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/crbn.png?raw=true" http-referrer="https://stream.carubantv.id" group-title="CHANNEL | DAERAH", CARUBAN TV
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/dta.png?raw=true", DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+##EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/crbn.png?raw=true" http-referrer="https://stream.carubantv.id" group-title="CHANNEL | DAERAH", CARUBAN TV
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
 http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://stream.carubantv.id/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/DTVI.png?raw=true" group-title="CHANNEL | DAERAH", dTVi
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/crbn.png?raw=true", STARA CARUBAN TV CIREBON
+#EXTVLCOPT:http-referrer=https://stream.carubantv.id/
+https://sw.run/CAMPWIKI-STARA-TVCARUBAN
+
+##EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/DTVI.png?raw=true" group-title="CHANNEL | DAERAH", dTVi
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://e.siar.us/live/dtvi.m3u8
 
 #EXTINF:-1 tvg-id="abtv blitar" group-title="CHANNEL | DAERAH" group-logo="https://i.imgur.com/pu8dxmJ.png" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ABTV.png?raw=true", ABTV BLITAR
 https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
 
-EXTINF:-1 tvg-logo="https://iili.io/JbtnQjI.png" group-title="CHANNEL | DAERAH",Elshinta TV
+##EXTINF:-1 tvg-logo="https://iili.io/JbtnQjI.png" group-title="CHANNEL | DAERAH",Elshinta TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/hanacaraka.png?raw=true", HANACARAKA TV +
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=89
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mp
-
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Hanacaraka_TV_2024.jpg", HANACARAKA TV +
+##EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Hanacaraka_TV_2024.jpg", HANACARAKA TV +
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=89
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3708,27 +3702,33 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Hanacaraka_TV_2024.jpg", HANACARAKA TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-###3#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="JTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/JTV.png?raw=true",JTV (V+)
-####https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
+https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/JTV.png?raw=true",JTV
-https://cdnbal1.indihometv.com/atm/DASH/jtv/master.mpd
+#EXTINF:-1 tvg-id="JTV.id@SD" group-title="CHANNEL | DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/jtv/index.m3u8
+
+#EXTINF:-1 tvg-id="ElshintaTV.id@SD" group-title="CHANNEL | DAERAH" tvg-logo="https://pic.dens.tv/tv_183x174/1578297960_square.jpg",Elshinta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/stream.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel.id@SD" group-title="CHANNEL | DAERAH" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",Magna Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://pic.dens.tv/tv_183x174/BN_Channel_(Trial)_1.jpg",BN Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://op-flashcon-digdayahd-1.dens.tv/h/h108/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://jitv.jogjaprov.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/JITV.png?raw=true",JITV Jogja
+##EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/JITV.png?raw=true",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1213012954.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -3853,8 +3853,15 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Pktv.png?raw=true" group-title="CHANNEL | DAERAH", PKTV
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/matrixjogja.png?raw=true" group-title="CHANNEL | DAERAH",MATRIX TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/STV_Samarinda.png" group-title="CHANNEL | DAERAH", STV SAMARINDA
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/matrixjogja.png?raw=true" group-title="CHANNEL | DAERAH",MATRIX TV  🔴
 https://stream.matrixtv.id/hls/1/stream.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://i.imgur.com/BiZPQPO.png", STARA BANYUMAS /SATELIT TV
+#EXTVLCOPT:http-referrer=https://banyumas.staratv.id/
+https://sw.run/CAMPWIKI-STARA-BANYUMAS
 
 #EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | DAERAH", STARA TV Bojonegoro
 #EXTVLCOPT:http-referrer=https://tv.garden/
