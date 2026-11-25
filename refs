@@ -7481,38 +7481,40 @@ http://ali-xwl.cztv.com/live/channel12720Plxw.m3u8
 
 #EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/868/576868-SQUARE-l.jpg",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/hapykids/index.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk@SD" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moonbug%20kids.png",Moonbug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/moonbug/index.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/moonbug/index.m3u8
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/cbeebies/index.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/cbeebies/index.m3u8
 #EXTINF:-1 tvg-id="NickJrAsia.sg@SD" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nickjr.png",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/871/576871-SQUARE-l.jpg",Zoo Moo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/zoomoo/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/animax/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dreamworks.png",DreamWorks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/dreamworks/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/dreamworks/index.m3u8
+#EXTINF:-1 tvg-id="MentariTV.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png",Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=8237&type=dash
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nick.png",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/nickelodeon/index.m3u8
+
 
 ===================== END LIST =====================
 
@@ -7603,53 +7605,53 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
 
 #EXTINF:-1 tvg-id="HITSNOW.sg@SD" group-title="LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsnow.png",HITS Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/hitsnow/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/hitsnow/index.m3u8
 
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/tvn/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeAsia.us@SD" group-title="LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lifetime.png",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/lifetime/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/lifetime/index.m3u8
 
 #EXTINF:-1 tvg-id="VisionPrime.id@SD" group-title="LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/819/576819-SQUARE-l.jpg",Vision Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/visionprime/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/visionprime/index.m3u8
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" group-title="LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockent.png",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/rockent/index.m3u8
 
 #EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png",ROCK Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/rockaction/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/axn/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="Entertainment.id@SD" group-title="LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/793/576793-SQUARE-l.jpg",Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mncent/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/mncent/index.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/844/576844-SQUARE-l.jpg",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/hanacaraka/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://www.visionplus.id/images/repository/844/576844-SQUARE-l.jpg",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/hanacaraka/index.m3u8
 
 #EXTINF:-1 tvg-id="ChannelJowo.id@SD" group-title="LIFESTYLE" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg",Channel Jowo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -7680,19 +7682,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="LIFESTYLE",CHINA TRAVEL (FEED)
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
-EXTINF:-1 tvg-id="CelebritiesTV.id@SD" group-title="LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-m.png",Celebrities TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=88
-####https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
-EXTINF:-1 tvg-id="OKTV.id@SD" group-title="LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png",Food Travel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=71
-####https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 
 
@@ -7705,17 +7695,17 @@ EXTINF:-1 tvg-id="OKTV.id@SD" group-title="LIFESTYLE" tvg-logo="https://www.visi
 #EXTINF:-1 tvg-id="ABCAustralia.au@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_abcaustrlia.png",ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/abcaus/index.m3u8
 
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_arirang.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/arirang/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/arirang/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/axn/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cctv4.png",CCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -7730,17 +7720,17 @@ https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/23
 #EXTINF:-1 tvg-id="Entertainment.id@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/793/576793-SQUARE-l.jpg",Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/mncent/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/mncent/index.m3u8
 
 #EXTINF:-1 tvg-id="HITS.sg@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hits.png",HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/hits/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/hits/index.m3u8
 
 #EXTINF:-1 tvg-id="HITSNOW.sg@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsnow.png",HITS Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/hitsnow/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/hitsnow/index.m3u8
 
 #EXTINF:-1 tvg-id="nsert.id@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://images.indihometv.com/images/channels/image_ch_insert.png",!nsert
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -7751,27 +7741,27 @@ https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/33
 #EXTINF:-1 tvg-id="KIX.hk@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kix.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/kix/index.m3u8
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockent.png",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/rockent/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv5monde.png",TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/tv5/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/tv5/index.m3u8
 
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/tvn/index.m3u8
 
 #EXTINF:-1 tvg-id="VisionPrime.id@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/819/576819-SQUARE-l.jpg",Vision Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/visionprime/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/visionprime/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-amor183x174@3x@3x.jpg",WeDoTv Amor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -7780,33 +7770,31 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h68/wedotv_amor.m3u8
 #EXTINF:-1 tvg-id="AnhuiTV.cn@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png",Anhui TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/anhui/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/anhui/index.m3u8
 
 #EXTINF:-1 tvg-id="HunanTV.cn@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/hunan/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/hunan/index.m3u8
 
 #EXTINF:-1 tvg-id="JiangsuTV.cn@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png",Jiangsu TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/jiangsu/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/jiangsu/index.m3u8
 
 #EXTINF:-1 tvg-id="DragonTV.cn@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png",Shanghai Dragon TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/shanghai/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/shanghai/index.m3u8
 
 #EXTINF:-1 tvg-id="FTV.tw@SD" group-title="CHANNEL | ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png",Formosa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/formosa/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/formosa/index.m3u8
 
 ===============================================================================================================
 DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS
 ===============================================================================================================
-
-
 
 #EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://mimipipi22.github.io/logo/entertainment/warner.jpg" group-title="CHANNEL | ENTERTAINMENT",WARNER TV (SKYGO)
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
@@ -7887,17 +7875,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="CHANNEL | ENTERTAINMENT",Asian Crush
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
-
-
-##EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="US : A&E WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45619.png" group-title="CHANNEL | ENTERTAINMENT",US : A&E
-##EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="US : BBC AMERICA WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45612.png" group-title="CHANNEL | ENTERTAINMENT",US : BBC AMERICA
-##EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="US : E! ENTERTAINMENT TELEVISION WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45584.png" group-title="CHANNEL | ENTERTAINMENT",US : E! ENTERTAINMENT TV
-##EXTINF:-1 tvg-id="FXPacific.us" tvg-name="US : FX WEST" tvg-logo="http://51.158.145.100/picons/logos/USA/45451.png" group-title="CHANNEL | ENTERTAINMENT",US : FX
-##EXTINF:-1 tvg-id="Canal.Paramount.Channel.(México).mx" tvg-logo="https://i.imgur.com/fxwLZXp.png" group-title="CHANNEL | ENTERTAINMENT",Paramount Network
-##EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="http://51.158.145.100/picons/logos/USA/45476.png" group-title="CHANNEL | ENTERTAINMENT",Syfy Eastern Feed HD
-##EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="CHANNEL | ENTERTAINMENT",Starz Eastern HD
-##EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="CHANNEL | ENTERTAINMENT",TNT (PXL)
-##EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/canalclaro.png" group-title="CHANNEL | ENTERTAINMENT",Canal Claro
 
 <===================================================================>
 
