@@ -9789,7 +9789,9 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a
 http://tv.cloudcdn.me:80/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 
 #EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 17:00 WIB |GANGWON VS KITCHEE - AFC CHAMPIONS LEAGUE TWO| arbol2
-http://tv.cloudcdn.me:80/live.ts?channelId=133063&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 19:15 WIB |BANGKOK GLASS PATHUM VS LION CITY SAILORS - AFC CHAMPIONS LEAGUE TWO| mew6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
