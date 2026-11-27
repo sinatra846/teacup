@@ -4348,10 +4348,6 @@ http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v8
 
 
 
-
-
-
-
 ===================================== PLUTO TV ==========================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | PLUTO TV
 
@@ -4440,33 +4436,43 @@ DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU B
 
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="PENGETAHUAN" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_crime+investigation.png",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/crimeinvest/index.m3u8
 
 #EXTINF:-1 tvg-id="OutdoorChannel.us@SD" group-title="PENGETAHUAN" tvg-logo="https://www.visionplus.id/images/repository/862/576862-SQUARE-l.jpg",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/outdoor/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/outdoor/index.m3u8
 
 #EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" group-title="PENGETAHUAN" tvg-logo="https://www.visionplus.id/images/repository/907/576907-SQUARE-l.jpg",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/globetrekker/index.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" group-title="PENGETAHUAN" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/lovenature/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/lovenature/index.m3u8
 
 #EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="PENGETAHUAN" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/history/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/history/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.uk@Asia" group-title="PENGETAHUAN" tvg-logo="https://www.visionplus.id/images/repository/863/576863-SQUARE-l.jpg",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/bbcearth/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" group-title="PENGETAHUAN" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/cgtndoc/index.m3u8
+
+#EXTINF:-1 tvg-id="OKTV.id@SD" group-title="PENGETAHUAN" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png",Food Travel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/foodtravel/index.m3u8
 
 ==============================================================================================================================================================================
 
@@ -4477,6 +4483,12 @@ DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU BARIS DALAM SATU B
 #EXTINF:-1 tvg-id="DensKnowledge.id@SD" group-title="PENGETAHUAN" tvg-logo="https://pic.dens.tv/tv_183x174/1701335366_square.jpg",Dens Knowledge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HGTV VIP" tvg-logo="https://i.imgur.com/J0qUa2G.jpeg" group-title="PENGETAHUAN",HGTV INDO FOXF
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34357
+
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://i.imgur.com/J0qUa2G.jpeg" group-title="PENGETAHUAN",HGTV INDO 2 FOXF
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179191
 
 #EXTINF:-1 tvg-id="discoveryasia" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/aNh6AHk.jpeg",DISCOVERY ASIA HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -6609,8 +6621,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=855448&exte
 
 
 
-
-
 =======================================LIGA LIGA ITALIA==========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | SERIE A 
 
@@ -7441,8 +7451,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 
 
-
-
 //========================================================================
 //Collected by andra|sinatra menampilkan playlist >>> LIFESTYLE
 //========================================================================
@@ -7511,6 +7519,22 @@ https://dsgtq5sngxkde.cloudfront.net/axn/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/mncent/index.m3u8
 
+#EXTINF:-1 tvg-id="CelebritiesTV.id@SD" group-title="LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-m.png",Celebrities TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/celebrities/index.m3u8
+
+#EXTINF:-1 tvg-id="OKTV.id@SD" group-title="LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png",Food Travel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/foodtravel/index.m3u8
+
+#EXTINF:-1 tvg-id="EatNGo.id@SD" group-title="LIFESTYLE" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c888072-873a-4b67-b104-27f7ee5caa63.png",Eat N Go
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/208-ZWF0bmdvLXNjdGUzNQ/eat-go/live.mpd
+
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/844/576844-SQUARE-l.jpg",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -7521,6 +7545,10 @@ https://dsgtq5sngxkde.cloudfront.net/hanacaraka/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/hanacaraka/index.m3u8
 
+#EXTINF:-1 tvg-id="WedoBigStories.ch@SD" group-title="LIFESTYLE" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-big-stories183x174@3x.jpg",WeDoTv Big Stories
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8
+
 #EXTINF:-1 tvg-id="ChannelJowo.id@SD" group-title="LIFESTYLE" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg",Channel Jowo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8
@@ -7528,6 +7556,12 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8
 #EXTINF:-1 tvg-id="ChannelJowo.id@SD" group-title="CHANNEL | DAERAH" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg",Channel Jowo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HGTV VIP" tvg-logo="https://i.imgur.com/J0qUa2G.jpeg" group-title="LIFESTYLE",HGTV INDO FOXF
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34357
+
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://i.imgur.com/J0qUa2G.jpeg" group-title="LIFESTYLE",HGTV INDO 2 FOXF
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179191
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7549,10 +7583,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="LIFESTYLE",CHINA TRAVEL (FEED)
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-
-
-
-
 
 
 //========================================================================
