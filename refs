@@ -3165,13 +3165,7 @@ https://cdn.qd.je/163189.php?id=8tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
-EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true" group-title="CHANNEL | INDONESIA",Moji Vidio 🔴
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true" group-title="CHANNEL | INDONESIA",Moji Vidio
+EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true" group-title="CHANNEL | INDONESIA",Moji Vidio
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
@@ -3181,22 +3175,23 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true",🆕MENTARI TV (V1)
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true",🆕MENTARI TV (V1)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true",🆕MENTARI TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
 http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | INDONESIA",🆕MENTARI TV (V2)
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | INDONESIA",🆕MENTARI TV (V1)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/8237/index.mpd
+
+#EXTINF:-1 tvg-id="MENTARI TV |V|" tvg-name="MENTARI TV |V|" tvg-logo="https://i.imgur.com/xtbagd5.jpeg" group-title="NASIONAL;ANAK",0️⃣MENTARI TV (V2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vidsemar.pages.dev/terraluna3/8237.mpd
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕RTV (V1)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -3249,9 +3244,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/6165/index.mpd
 
-#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="TRANS TV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",0️⃣ TRANS TV (🤖SPM)
-http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRhT2UD172vZ7eX9wePkew8M
-
 EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV - Server 3" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true",🆕TransTV DTK v2(🌓MG16)
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
@@ -3261,9 +3253,6 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANSTV.1.png?raw=true",🆕TransTV DTK (🌓MG16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="TRANS 7" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true" group-title="CHANNEL | INDONESIA",0️⃣ TRANS 7 (🤖SPM)
-http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRuaFQU6DWniuXJ6NyMjhcAo
 
 EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7 - Server 3" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TRANS7.1.png?raw=true",🆕Trans7  DTK v2(🌓MG16)
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
@@ -3339,32 +3328,29 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/7432/index.mpd
 
-#EXTINF: -1 tvg-id="indosiar.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕INDOSIAR |V1|
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA",1️⃣ INDOSIAR |V1|
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
 https://vidsemar.pages.dev/terraluna3/205.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
-###EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",INDOSIAR
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
-
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V2)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
-##https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-#EXTINF: -1 tvg-logo="" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V3)
+#EXTINF: -1 tvg-logo="" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V2)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/205/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V3)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+#EXTINF:-1 xui-id="5679" tvg-id="Indosiar.id" tvg-name="Indosiar HD" group-title="NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="CHANNEL | INDONESIA",2️⃣ INDOSIAR (DIG)
+https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
 
 ++===
 
@@ -3383,6 +3369,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #EXTVLCOPT:http-origin=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/204/index.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",🆕SCTV (V3)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-name="tvOne" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true" group-title="CHANNEL | INDONESIA" server="tvOne" event-duration="4",TVONE (1)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -9286,6 +9277,7 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20
 
 
 
+
 ========================================== VOD JAPANESE ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
@@ -9317,6 +9309,31 @@ https://stream.playcdn.de/playlist/7667b2c6d17591616e49907a16cfe101/1/0.m3u8?x=1
 
 
 
+========================================== MANDARIN MOVIE ===========================================
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD STREAM
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlhIte5NL-DUfQ8JCGzKeK7xY-xvTj_G8Ns7fF2nptBg&s=10" tvg-name="Oracle of the Dragon (2026)" group-title="MANDARIN MOVIE", Oracle of the Dragon (2026)
+https://stream.playcdn.de/playlist/e8af02ad2131d08f3576c1df6eab5acd/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqBdIN8goiRepAPxs00af_PI9r6XAfGu9MSPGp15_exQ&s=10" tvg-name="Back In the Game (2026)" group-title="MANDARIN MOVIE", Back In the Game (2026)
+https://stream.playcdn.de/playlist/3b525bc3c860a029867eb5dcee0c319c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYF4YANc-fDHmF4ekfc1jlneHD3wgdHS1ofyCfbWeRw&s=10" tvg-name="The Mad Comedians (2026)" group-title="MANDARIN MOVIE", The Mad Comedians (2026)
+https://stream.playcdn.de/playlist/9851ac8fc85851e79e31140196e11916/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdLZFJw9pg8vuzXfvRxsh6Ckbzvzpp1PHrEuRs42pzw&s=10" tvg-name="Di Renjie: Six Dragon Phases (2026)" group-title="MANDARIN MOVIE", Di Renjie: Six Dragon Phases (2026)
+https://stream.playcdn.de/playlist/f7e0433ac24918a1536a9c004c1f5aa8/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQTHtMr72ZZFxlmSGZUpbBoR0_GxqTVx_2d3BTEdj9-w&s=10" tvg-name="Vanishing Point (2026)" group-title="MANDARIN MOVIE", Vanishing Point (2026)
+https://stream.playcdn.de/playlist/73aaae5fcbc8579bbb86ac450ce209f5/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPKceDIplCPTfdDT2cCDWLQUWjIwrPxzf5SWgEJLOyA&s=10" tvg-name="Qi‑Men Dun‑Jia: Turning Misfortune (2026)" group-title="MANDARIN MOVIE", Qi‑Men Dun‑Jia: Turning Misfortune (2026)
+https://stream.playcdn.de/playlist/7e1f69dee75b8c9739551c4f05b41d50/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPcWIrbIdVABUWnlxI4BIzrgGukXHXZh2pDjZqvacBog&s=10" tvg-name="Out of the Past (2026)" group-title="MANDARIN MOVIE", Out of the Past (2026)
+https://stream.playcdn.de/playlist/f1e30961b473274eb77fd52f2f4a3a7c/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSgHH32Z7VJwXvDjB0tKlVAirydaV2qmiw8Rq3hSkJQ&s=10" tvg-name="Dear You (2026)" group-title="MANDARIN MOVIE", Dear You (2026)
+https://stream.playcdn.de/playlist/f128378387c7f0654b9a667663e7a680/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7SRmXXt-RpDCWTvcuwpVhipPbNk1_w01LqAEjerwMgQ&s=10" tvg-name="Kung Fu Soccer (2026)" group-title="MANDARIN MOVIE", Kung Fu Soccer (2026)
+https://stream.playcdn.de/playlist/bb4a16d550159a28aa08edafb13aaf28/1/0.m3u8?x=1
+
+
+
+
 ========================================== VOD INDONESIA ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
@@ -9325,8 +9342,6 @@ https://stream.playcdn.de/playlist/7667b2c6d17591616e49907a16cfe101/1/0.m3u8?x=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer="https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvemdkLUk5bi1xU3ItS25nL21hc3Rlci5tM3U4"}
 https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
-#EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Demi Si Buah Hati
-https://pixeldrain.com/api/file/c57W6uEZ?download
 #EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_ywg83EyRx0w6FIq4JOJ8hKRrdDd2mTBCeYm_aap2A&s=10",Hamka & Siti Raham Vol. 2
 https://pixeldrain.com/api/file/ZQVckcfF?download
 #EXTINF:-1 group-title="VOD | INDONESIAN MOVIE" tvg-logo="https://i.ibb.co.com/JRtH3pZ2/bioskop.jpg",Imam Tanpa Makmum
@@ -9778,156 +9793,110 @@ https://live05.wecile.app/live/88508431.m3u8
 <=================================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
+#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=adb4408bd0c003c9ad777dc808e87228&wsABSTime=1795107106
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
+#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=0b8d9a0f00a47652799fa4bcc63ff93c&wsABSTime=1794935247
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
+#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=d61cb551b32cf149638a1be59eac6c2b&wsABSTime=1794935195
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
+#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f8961a9de190d4ba844a475960d230c8&wsABSTime=1794935064
 
-===================================
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Borneo vs Persita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
-
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |BORNEO FC VS PERSITA - BRI SUPER LEAGUE|
-https://live05.wecile.app/live/14830711.m3u8
-
-<================================================>
-
-#EXTINF:-1 tvg-id="FIBA ASIA CUP 2029" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://i.imgur.com/TobjnvG.png", 🔥18;00 WIB |MONGOLIA VS INDONESIA - FIBA ASIA CUP 2029|
-https://live05.wecile.app/live/90865415.m3u8
-
-<================================================>
-
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 🔥17;00 WIB |TAMPINES ROVERS VS SHANGHAI SHENHUA - AFC CHAMPIONS LEAGUE TWO| mew5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 17:00 WIB |KUCHING CITY VS PHNOM PENH- AFC CHAMPIONS LEAGUE TWO| arbol
-http://tv.cloudcdn.me:80/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 17:00 WIB |GANGWON VS KITCHEE - AFC CHAMPIONS LEAGUE TWO| arbol2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live3979.zundrixmediapipeline.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 19:15 WIB |BANGKOK GLASS PATHUM VS LION CITY SAILORS - AFC CHAMPIONS LEAGUE TWO| mew6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 19:15 WIB |SVAY RIENG VS MACHIDA ZELVIA - AFC CHAMPIONS LEAGUE TWO| 
-https://live05.wecile.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-id="AFC CHAMPIONS LEAGUE TWO" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", 19:15 WIB |WOFOO TAIPO VS ADELAIDE UNITED - AFC CHAMPIONS LEAGUE TWO| 
-https://live05.wecile.app/live/75748097.m3u8
-
-<================================================>
-
-#EXTINF:-1 tvg-id="UEFA CONFERENCE LEAGUE" group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png", 🔥22;30 WIB |KAIRAT VS MJALLBY - #UEFA CONFERENCE LEAGUE| be 1in
-EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://ln.run/CAMPWIKI-V-BEIN1
 
 
 
 <=================================== LIVE EVENT 2 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 tvg-id="UEFA CONFERENCE LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png", 🔥00;45 WIB |HEARTS VS MONACO - UEFA CONFERENCE LEAGUE| tn3
+EXTINF:-1 tvg-id="UEFA CONFERENCE LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png", 🔥00;45 WIB |HEARTS VS MONACO - UEFA CONFERENCE LEAGUE| tn3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="UEFA CONFERENCE LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png", 🔥00;45 WIB |AJAX VS THUN - UEFA CONFERENCE LEAGUE| 
+EXTINF:-1 tvg-id="UEFA CONFERENCE LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png", 🔥00;45 WIB |AJAX VS THUN - UEFA CONFERENCE LEAGUE| 
 https://live05.wecile.app/live/99121525.m3u8|
 
-#EXTINF:-1 tvg-id="UEFA CONFERENCE LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png", 🔥00;45 WIB |BRIGHTON VS HOVE ALBION - UEFA CONFERENCE LEAGUE| tn2
+EXTINF:-1 tvg-id="UEFA CONFERENCE LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png", 🔥00;45 WIB |BRIGHTON VS HOVE ALBION - UEFA CONFERENCE LEAGUE| tn2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 tvg-id="UEFA CONFERENCE LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png", 🔥03;00 WIB |FREIBURG VS TWENTE - UEFA CONFERENCE LEAGUE| 
+EXTINF:-1 tvg-id="UEFA CONFERENCE LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png", 🔥03;00 WIB |FREIBURG VS TWENTE - UEFA CONFERENCE LEAGUE| 
 https://live05.wecile.app/live/88508431.m3u8
 
 <================================================>
 
-#EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥00;45 WIB |CELTA VIGO VS BOURNEMOUTH - UEFA EUROPA LEAGUE| tn1
+EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥00;45 WIB |CELTA VIGO VS BOURNEMOUTH - UEFA EUROPA LEAGUE| tn1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥00;45 WIB |OLYMPIACOS VS MILAN - UEFA EUROPA LEAGUE| tn4
+EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥00;45 WIB |OLYMPIACOS VS MILAN - UEFA EUROPA LEAGUE| tn4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
-#EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥00;45 WIB |DINAMO ZAGREB VS BAYER LEVERKUSEN - UEFA EUROPA LEAGUE| caz
+EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥00;45 WIB |DINAMO ZAGREB VS BAYER LEVERKUSEN - UEFA EUROPA LEAGUE| caz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Juventus vs Omonia Nicosia
+EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Juventus vs Omonia Nicosia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
-#EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥03;00 WIB |JUVENTUS VS O.NICOSIA - UEFA EUROPA LEAGUE| be 2in
+EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥03;00 WIB |JUVENTUS VS O.NICOSIA - UEFA EUROPA LEAGUE| be 2in
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://ln.run/CAMPWIKI-V-BEIN2
 
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Crystal Palace vs Real Sociedad
+EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Crystal Palace vs Real Sociedad
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
-#EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥03;00 WIB |CRYSTAL PALACE VS REAL SOCIEDAD - UEFA EUROPA LEAGUE| tn1
+EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥03;00 WIB |CRYSTAL PALACE VS REAL SOCIEDAD - UEFA EUROPA LEAGUE| tn1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Sunderland vs Jagiellonia Białystok
+EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Sunderland vs Jagiellonia Białystok
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥03;00 WIB |SUNDERLAND VS JAGIELLONIA - UEFA EUROPA LEAGUE| tn2
+EXTINF:-1 tvg-id="UEFA EUROPA LEAGUE" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png", 🔥03;00 WIB |SUNDERLAND VS JAGIELLONIA - UEFA EUROPA LEAGUE| tn2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 00:45 WIB Union Saint-Gilloise vs Lech Poznań
+EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 00:45 WIB Union Saint-Gilloise vs Lech Poznań
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Torreense vs Celtic
+EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Torreense vs Celtic
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Ferencváros vs Celje
+EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 03:00 WIB Ferencváros vs Celje
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
