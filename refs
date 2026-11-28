@@ -3169,6 +3169,9 @@ EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 
+#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="CHANNEL | INDONESIA",MOJI TV (filex)
+http://filex.me:8080/live/1234567/7654321/302279.ts
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MDTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MDTV (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
