@@ -3153,8 +3153,6 @@ https://cdn.qd.je/163189.php?id=8tv
 
 
 
-
-
 //========================================================================
 //Collected by andra|sinatra menampilkan playlist >>> NASIONAL 
 //========================================================================
@@ -3187,7 +3185,7 @@ http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/8237/index.mpd
 
-#EXTINF:-1 tvg-id="MENTARI TV |V|" tvg-name="MENTARI TV |V|" tvg-logo="https://i.imgur.com/xtbagd5.jpeg" group-title="NASIONAL;ANAK",0️⃣MENTARI TV (V2)
+#EXTINF:-1 tvg-id="MENTARI TV |V|" tvg-name="MENTARI TV |V|" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MENTARI.1.png?raw=true" group-title="CHANNEL | INDONESIA",0️⃣MENTARI TV (V2)
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3328,7 +3326,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/7432/index.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA",1️⃣ INDOSIAR |V1|
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA",🆕INDOSIAR |V1|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3342,14 +3340,14 @@ https://vidsemar.pages.dev/terraluna3/205.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V3)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" tvg-id="itzplay.id" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V3)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
-#EXTINF:-1 xui-id="5679" tvg-id="Indosiar.id" tvg-name="Indosiar HD" group-title="NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="CHANNEL | INDONESIA",2️⃣ INDOSIAR (DIG)
+#EXTINF:-1 xui-id="5679" tvg-id="Indosiar.id" tvg-name="Indosiar HD" group-title="CHANNEL | INDONESIA" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="CHANNEL | INDONESIA",2️⃣ INDOSIAR (DIG)
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
 
 ++===
@@ -3890,9 +3888,6 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | DAERAH",STARATV JAKARTA ( TIDAK STABIL )
 https://jakarta.staratv.id/hls/0/stream.m3u8
-
-
-
 
 
 
