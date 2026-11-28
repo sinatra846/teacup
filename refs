@@ -4839,14 +4839,26 @@ SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBAIKAN SEDANG PERBA
 https://pixeldrain.com/api/file/nYm6ev6w?download|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTM3U
-#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Borneo vs Persita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSM MAKASSAR FC VS DEWA UNITED - BRI SUPER LEAGUE|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |BORNEO FC VS PERSITA - BRI SUPER LEAGUE|
-https://live05.wecile.app/live/14830711.m3u8
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSIM YOGYA VS PERSIJAP - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |BALI UNITED VS BHAYANGKARA - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |ADHYAKSA VS PSS SLEMAN - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PERSIJA VS GARUDAYAKSA - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |MADURA UNITED VS MALUT UNITED - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+
+====================
 
 
 ====================
@@ -4927,8 +4939,6 @@ https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=b4d4346
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel63/off-tvc?is_off_add=false
 https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=7241cca859e4d5598866a09f7a5884ec&wsABSTime=1795618232
-
-
 
 
 
@@ -5023,6 +5033,11 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" group-title="CHANNEL | MUSIC", MUSIC TV +
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://ln.run/CAMPWIKI-V-MUSICTV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/mictv.png" group-title="CHANNEL | MUSIC",MIC TV
 https://mic.siar.us/mic/live/playlist.m3u8
@@ -9747,35 +9762,11 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20
 
 
 
-
-
 ========================
 PIALA DUNIA U17 QATAR 
 ========================
 
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png",
-
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:00 WIB |KOLOMBIA VS SERBIA - PIALA DUNIA U-17 2026 QATAR| 
-https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 20:00 WIB |HONDURAS VS JEPANG - PIALA DUNIA U-17 2026 QATAR| fox on
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
-https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
-
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 21:00 WIB |KOSTA RIKA VS BRASIL - PIALA DUNIA U-17 2026 QATAR| caz
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 21:00 WIB |IRLANDIA VS TANZANIA - PIALA DUNIA U-17 2026 QATAR| 
-https://live3979.zundrixmediapipeline.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 22:00 WIB |ALJAZAIR VS DOMINIKA - PIALA DUNIA U-17 2026 QATAR| fox s2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-title="𝗣𝗜𝗔𝗟𝗔 𝗗𝗨𝗡𝗜𝗔 𝗨-𝟭𝟳 𝟮𝟬𝟮𝟲 𝗤𝗔𝗧𝗔𝗥" tvg-logo="https://i.imgur.com/1pJHLzm.png", 23:00 WIB |RUMANIA VS KAMERUN - PIALA DUNIA U-17 2026 QATAR|
 https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
@@ -9784,6 +9775,7 @@ https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
 
 
 
@@ -9813,42 +9805,116 @@ https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=7241cca
 
 ===================================
 
-#EXTINF:-1 tvg-id="A LEAGUE AUSTRALIA" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://i.imgur.com/smR2Hrc.png", 🔥15;40 WIB |MACARTHUR VS MELBOURNE CITY - AUSTRALIA A LEAGUE| tn4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSM MAKASSAR FC VS DEWA UNITED - BRI SUPER LEAGUE|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |PSIM YOGYA VS PERSIJAP - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |BALI UNITED VS BHAYANGKARA - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 15:30 WIB |ADHYAKSA VS PSS SLEMAN - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PERSIJA VS GARUDAYAKSA - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 group-title="LIGA 1 BRI" group-logo="https://i.imgur.com/vzXPJsq.png" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |MADURA UNITED VS MALUT UNITED - BRI SUPER LEAGUE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+====================
+
+#EXTINF:-1 tvg-id="LIGA CHAMPIONS CAF AFRIKA" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/EMAf7I1.png", 20;00 WIB |YOUNG AFRICANS VS MC ALGER - LIGA CHAMPIONS CAF AFRIKA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="LIGA CHAMPIONS CAF AFRIKA" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/EMAf7I1.png", 23;00 WIB |ES TONIS VS WILIETE - LIGA CHAMPIONS CAF AFRIKA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="LIGA CHAMPIONS CAF AFRIKA" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/EMAf7I1.png", 23;00 WIB |PYRAMIDS FC VS MAGHREB FES - LIGA CHAMPIONS CAF AFRIKA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="LIGA CHAMPIONS CAF AFRIKA" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/EMAf7I1.png", 23;00 WIB |ZAMALEK VS CLUB AFRICAN - LIGA CHAMPIONS CAF AFRIKA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
 ===================================
 
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 16:40 WIB MotoGP Free Practice 1: Motul Grand Prix of Valencia - MotoGP 2026 Round 22
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="LIVE HARI INI" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 19:30 WIB |BLACKBURN ROVERS VS CHARLTON - EFL CHAMPIONSSHIP|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 16:40 WIB MotoGP Practice: Motul Grand Prix of Valencia - MotoGP 2026 Round 22
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="LIVE HARI INI" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 19:30 WIB |LINCOLN CITY VS WOLVERHAMPTON - EFL CHAMPIONSSHIP|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="LIVE HARI INI" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 19:30 WIB |PRESTON NORTH VS NORWICH CITY - EFL CHAMPIONSSHIP|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="LIVE HARI INI" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 22:00 WIB |BIRMINGHAM CITY VS BOLTON - EFL CHAMPIONSSHIP|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="LIVE HARI INI" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 22:00 WIB |DERBY COUNTRY VS WATFORD - EFL CHAMPIONSSHIP|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="LIVE HARI INI" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 22:00 WIB |MILWALL VS BURNLEY - EFL CHAMPIONSSHIP|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="LIVE HARI INI" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 22:00 WIB |WEST BROMWICH VS ALBION BRISTOL CITY - EFL CHAMPIONSSHIP|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="LIVE HARI INI" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 22:00 WIB |WEST HAM UNITED VS STOKE CITY - EFL CHAMPIONSSHIP|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="EFL CHAMPIONSHIP INGGRIS" group-title="LIVE HARI INI" tvg-logo="https://assets.football-logos.cc/logos/england/1500x1500/efl-championship.c50fa46f.png", 22:00 WIB |WREXHAM VS PORTSMOUTH- EFL CHAMPIONSSHIP|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
 ===================================
 
-#EXTINF:-1 tvg-id="KONFEDERASI CAF" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://i.imgur.com/EMAf7I1.png", 🔥20;00 WIB |AZAM VS AL-AHLI TRIPOLI - PIALA KONFEDERASI CAF AFRIKA| be 3us
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="LIGUE 1" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥23;15 WIB |ANGERS SCO VS LENS - LIGUE 1| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
 
 ===================================
 
-#EXTINF:-1 tvg-id="SAUDI PRO LEAGUE-VDOG A-RAP" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png", 🔥21;20 WIB |AL-QUDISIYA VS AL-FAYHA - LIGA PRO ARAB SAUDI| fox dep
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png", 🔥22;00 WIB |LEEDS UNITED VS COVENTRY CITY - PREMIER LEAGUE|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png", 🔥22;00 WIB |MANCHESTER UNITED VS BRENTFORD - PREMIER LEAGUE|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+
+=====================
+
+#EXTINF:-1 tvg-id="LALIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥20;00 WIB |REAL BETIS VS RAYO VALLECANO - LALIGA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="LALIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥22;15 WIB |MALAGA VS ATHLETIC CLUB - LALIGA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+==========================
+
+#EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥21;00 WIB |FROSINONE VS PARMA - SERIE A ITALIA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+==========================
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |PADERBORN VS SCHALKE - BUNDESLIGA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |MAINZ 05 VS UNION BERLIN - BUNDESLIGA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |KOLN VS ELVESBERG - BUNDESLIGA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥21;30 WIB |HAMBURGER VS BAYERN MUNCHEN - BUNDESLIGA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+==========================
+
+#EXTINF:-1 tvg-id="SAUDI PRO LEAGUE-VDOG A-RAP" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png", 🔥19;15 WIB |AL-HAZM VS AL-NASSR - LIGA PRO ARAB SAUDI| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="SAUDI PRO LEAGUE-VDOG A-RAP" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png", 🔥21;20 WIB |AL-ITTIFAQ VS AL-HILAL - LIGA PRO ARAB SAUDI| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
 
 
@@ -9856,99 +9922,74 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 <=================================== LIVE EVENT 2 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 tvg-id="SAUDI PRO LEAGUE-VDOG A-RAP" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png", 🔥00;30 WIB |AL-ITTIHAD VS NEOM - LIGA PRO ARAB SAUDI| SERVER 1 tv1
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179120
+#EXTINF:-1 tvg-id="SAUDI PRO LEAGUE-VDOG A-RAP" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png", 🔥00;30 WIB |AL-AHLI VS AL-TAAWOUN - LIGA PRO ARAB SAUDI| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 tvg-id="SAUDI PRO LEAGUE-VDOG A-RAP" group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png", 🔥00;30 WIB |AL-ITTIHAD VS NEOM - LIGA PRO ARAB SAUDI| SERVER 2 fox dep
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#EXTINF:-1 tvg-id="KONFEDERASI CAF AFRIKA" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/Lmgkh2s.png", 02:00 WIB |RAJA CASABLANCA VS KARA - PIALA KONFEDERASI CAF AFRIKA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-=======================================
-
-#EXTINF:-1 tvg-id="LIGUE 1" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥02;45 WIB |BREST VS PARIS - LIGUE 1| SERVER 1espan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd
-
-#EXTINF:-1 tvg-id="LIGUE 1" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥02;45 WIB |BREST VS PARIS - LIGUE 1| SERVER 2 tv3
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179124
-
-=====================
-
-#EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥02;45 WIB |VENEZIA VS BOLOGNA - SERIE A ITALIA| be 3us
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-=====================
-
-#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥02;30 WIB |WEEDER BREMEN VS M'GLADBACH - BUNDESLIGA| SEEVER 1 gt
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://ln.run/CAMPWIKI-R-GTV
-
-#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥02;30 WIB |WEEDER BREMEN VS M'GLADBACH - BUNDESLIGA| SERVER 2 unit s2
-http://tv.cloudcdn.me:80/live.ts?channelId=134125&uid=19260&deviceMac=00:1A:79:00:02:27
-
-#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥02;30 WIB |WEEDER BREMEN VS M'GLADBACH - BUNDESLIGA| SERVER 3 prim S3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-https://sw.run/CAMPKTR-PRIMA-SPORT3
+#EXTINF:-1 tvg-id="KONFEDERASI CAF AFRIKA" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/Lmgkh2s.png", 02:00 WIB |FAR RABAT VS DURBAN CITY - PIALA KONFEDERASI CAF AFRIKA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
 ===================================
 
-#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png", 🔥03;00 WIB |NOTTINGHAM FOREST VS CHELSEA - PREMIER LEAGUE| SERVER 1 daz1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
+#EXTINF:-1 tvg-id="LIGUE 1" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥02;45 WIB |LE HAVRE VS STRASBOURG - LIGUE 1| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png", 🔥03;00 WIB |NOTTINGHAM FOREST VS CHELSEA - PREMIER LEAGUE| SERVER 2 mono
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-id="LIGUE 1" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥02;45 WIB |LE MANZ VS LILLE - LIGUE 1| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-=====================
+#EXTINF:-1 tvg-id="LIGUE 1" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥02;45 WIB |PSG VS LORIENT - LIGUE 1| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 tvg-id="LALIGA" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥03;00 WIB |LEVANTE VS RACING SANTANDER- LALIGA| SEEVER 1 prem S1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+#EXTINF:-1 tvg-id="LIGUE 1" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥02;45 WIB |NICE VS TROYES - LIGUE 1| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 tvg-id="LALIGA" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥03;00 WIB |LEVANTE VS RACING SANTANDER- LALIGA| SEEVER 2 prim S4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
-#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
-https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+===================================
 
-=====================
+#EXTINF:-1 tvg-id="PREMIER LEAGUE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png", 🔥00;30 WIB |IPSWICH TOWN VS ASTON VILLA - PREMIER LEAGUE|
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 tvg-id="SERIE A BRASIL" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/lywv7t1766787179.png", 28 Nov 06;00 WIB |FLUMINENSE VS CRUZEIRO - SERIE A BRASILEIRAO| fuss
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+===================================
 
-=====================
+#EXTINF:-1 tvg-id="LALIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥00;30 WIB |ELCHE VS ATLETICO MADRID - LALIGA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 tvg-id="MLS" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png", 🔥28 NOV 08;00 WIB |COLOMBUS VS INTER MIAMI - MAJOR LEAGUE SOCCER| SERVER 1 foxdep
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#EXTINF:-1 tvg-id="LALIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥03;00 WIB |REAL MADRID VS DEPORTIVO ALAVES - LALIGA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
 
-#EXTINF:-1 tvg-id="MLS" group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png", 🔥28 NOV 08;00 WIB |COLOMBUS VS INTER MIAMI - MAJOR LEAGUE SOCCER| SERVER 2 fox S1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
+===================================
+
+#EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥00;00 WIB |TORINO VS LAZIO - SERIE A ITALIA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥02;45 WIB |INTER VS GENOA - SERIE A ITALIA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+==========================
+
+#EXTINF:-1 tvg-id="EREDIVISIE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥00;45 WIB |PSV VS GA EAGLES - EREDIVISIE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="EREDIVISIE" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png", 🔥03;00 WIB |CAMBUUR VS SPARTA ROTTERDAM - EREDIVISIE| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+===================================
+
+#EXTINF:-1 tvg-id="BUNDESLIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png", 🔥00;30 WIB |STUTTGART VS EINTRACHT FRANKFURT - BUNDESLIGA| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+==========================
+
+#EXTINF:-1 tvg-id="MLS" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png", 00:30 WIB |CHARLOTTE VS CHICAGO FIRE - MAJOR LEAGUE SOCCER| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+#EXTINF:-1 tvg-id="MLS" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png", 02:30 WIB |HOUSTON DYNAMO VS SJ EARTHQUAKES - MAJOR LEAGUE SOCCER| 
+https://sw.run/CAMPWIKI-STARTING-SOON-HD
+
+
+
+
 
 
 
